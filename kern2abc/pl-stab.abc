@@ -1,0 +1,272 @@
+X: 1
+T: Sanctissima mater
+C: Anonim
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/04 07:56:47
+%%abc-edited-by Marcin Konik
+%%abc-edited-by Marcin Konik
+%%abc-edited-by Marta Lawrence
+%%abcx-initial-encoding-date 2015-03-01
+%%humdrum-veritas 3502516861
+%%humdrum-veritas-data 3860130523
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+N: Derived from pl-stab--st-a--001_anonim--sanctissima-mater.krn
+K: C
+x4A4 | 
+A4A4 | 
+c6BA | 
+G4c4 | 
+B4A4 | 
+!fermata!G4G4 | 
+A4B4 | 
+c6BA | 
+G4A2B3 | 
+AA4G2 | 
+A8 |]  
+
+
+X: 2
+T: Nasz Zbawiciel
+C: Anonim
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/04 07:56:47
+%%abc-edited-by Marcin Konik
+%%abc-edited-by Marcin Konik
+%%abcx-initial-encoding-date 2015-04
+%%humdrum-veritas 3451598565
+%%humdrum-veritas-data 1334982887
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/1
+N: Derived from pl-stab--st-a--002_anonim--nasz-zbawiciel.krn
+K: F clef=G3
+d4c3B [|] 
+A2G2F4 [|] 
+A2>B2c2d3 [|] 
+ef2d4 [|] 
+c8 [|] 
+d2>e2f2d2 [|] 
+e4A4 [|] 
+G4G2A3 [|] 
+GF2E4 [|] 
+A8 [|] 
+E2D2C4 [|] 
+D8 [|] 
+F2>G2ABc2 [|] 
+B4A4 [|] 
+c2>B2c2A4 [|] 
+d2c4 [|] 
+!fermata!d8 |]  
+
+
+X: 3
+T: Christus iam surexit
+C: Anonim
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/04 07:56:47
+%%abc-edited-by Marcin Konik
+%%abc-edited-by Marcin Konik
+%%abc-edited-by Leszek Kubiak
+%%abcx-initial-encoding-date 2015-03-14
+%%humdrum-veritas 380347518
+%%humdrum-veritas-data 8417517
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/1
+N: Derived from pl-stab--st-a--003_anonim--christus-iam-surexit.krn
+K: C clef=C1
+d4A4 [|] 
+c4B4 [|] 
+A2d4c2 [|] 
+d8 [|] 
+c4B2G2 [|] 
+A2c2d4 [|] 
+c4B4 [|] 
+A8 [|] 
+B2>c2d3c [|] 
+A2>B2c4 [|] 
+B2c2A2d2 [|] 
+^c8 [|] 
+d4A4 [|] 
+c4G4 [|] 
+A2d2c4 [|] 
+d8 [|] 
+e2>d2c2B2 [|] 
+A4d4 [|] 
+c2B2c4 [|] 
+d8 [|] 
+G4c3B [|] 
+A4c2A2 [|] 
+B2c2A2d2 | 
+c8 [|] 
+d8 | 
+
+
+X: 4
+T: Z wielmozney rady
+C: Anonim
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/04 07:56:47
+%%abc-edited-by Anna Matuszewska
+%%abcx-initial-encoding-date 2020-02-02
+%%humdrum-veritas 2872646443
+%%humdrum-veritas-data 381832772
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/1
+N: Derived from pl-stab--st-a--004_anonim--z-wielmozney-rady.krn
+K: C clef=C2
+C4C4 [|] 
+E4F4 [|] 
+G4A8 [|] 
+G8 [|] 
+F4 [|] 
+G8 [|] 
+E4G6 [|] 
+F2E2D2 [|] 
+C6B,2 [|] 
+A,4G,4 [|] 
+C4D2B,2 [|] 
+!fermata!C8 |]  
+
+
+X: 5
+T: Chlebie anielski
+C: Anonim
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/04 07:56:47
+%%abc-edited-by Anna Matuszewska
+%%abcx-initial-encoding-date 2020-02-02
+%%humdrum-veritas 2906277588
+%%humdrum-veritas-data 2121006053
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+N: Derived from pl-stab--st-a--005_anonim--chlebie-anielski.krn
+K: F clef=alto
+C2F4E2 [|] 
+D8 [|] 
+E2E2F4 [|] 
+F4E4 [|] 
+D8 [|] 
+E4z2C2 [|] 
+D2E2F4 [|] 
+E2F2D4 [|] 
+C2D2C4 [|] 
+!fermata!C8 |]  
+
+
+X: 6
+T: Urząd zbawienia
+C: Anonim
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/04 07:56:47
+%%abc-edited-by Marcin Konik
+%%abc-edited-by Leszek Kubiak
+%%abcx-initial-encoding-date 2015-03-14
+%%humdrum-veritas 3982382324
+%%humdrum-veritas-data 3546854592
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+N: Derived from pl-stab--st-a--006_anonim--urzad-zbawienia.krn
+K: F clef=C1
+C2E2F2G2 [|] 
+A2G4F2 [|] 
+G4E2E2 [|] 
+F4E4 [|] 
+D2C4B,2 [|] 
+C4E2E2 [|] 
+F4D4 [|] 
+E2G4F2 [|] 
+G4A2G2 [|] 
+F4E4 [|] 
+F2>E2D2C4 [|] 
+B,2C8 |]  
+
+
+X: 7
+T: Po upadku
+C: Anonim
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/04 07:56:47
+%%abc-edited-by Marcin Konik
+%%abc-edited-by Marcin Konik
+%%abc-edited-by Leszek Kubiak
+%%abcx-initial-encoding-date 2015-03-14
+%%humdrum-veritas 3453240459
+%%humdrum-veritas-data 982951501
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: C|
+N: Derived from pl-stab--st-a--007_anonim--po-upadku.krn
+K: F clef=C1
+A2A2A2B2 [|] 
+A2A2G2F4 [|] 
+E2F4 [|] 
+A2F2G2A2 [|] 
+B2A2d2c4 [|] 
+B2c4 [|] 
+A2A2A2B2 [|] 
+A2A2G2F4 [|] 
+E2F8 |]  
+
+
+X: 8
+T: Archanioł Gabriel
+C: Anonim
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/04 07:56:47
+%%abc-edited-by Marcin Konik
+%%abc-edited-by Anna Matuszewska
+%%abcx-initial-encoding-date 2020-02-04
+%%humdrum-veritas 2174937720
+%%humdrum-veritas-data 2194312364
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+N: Derived from pl-stab--st-a--008_anonim--archaniol-gabriel.krn
+K: F clef=treble
+G2G2B2B2 [|] 
+G4A4 [|] 
+G4A2B3 [|] 
+cd4c2 [|] 
+d4d2d2 [|] 
+c2B4A2 [|] 
+B4G4 [|] 
+B2A4G4 [|] 
+F2G4 [|] 
+d2d2d2d2 [|] 
+d4d4 [|] 
+G4A2B3 [|] 
+cd4c2 [|] 
+d4d2d2 [|] 
+c2B4A2 [|] 
+B4G4 [|] 
+B2A4G4 [|] 
+F2!fermata!G6 |]  
+
+
+

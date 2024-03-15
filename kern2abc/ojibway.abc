@@ -1,0 +1,1424 @@
+% Music of the Chippewa Band
+% Red Wing, Minnesota, U.S.A. transcribed and compiled by
+% Frances Densmore 1910.
+% Reference: Chippewa Music, Bulletin 45,
+% Bureau of American Ethnology, Smithsonian Institution
+% Washington, D.C.
+% https://library.si.edu/digital-library/book/bulletin-smithsonian-institution-bureau-american-ethnology
+% The music was transcribed to electronic format by
+% Paul von Hippel and Daniel T. Shanahan, 1998.
+
+% converted from kern notation using Craig Sapp's hum2abc
+% conversion-date 2019/01/16 10:36
+% kern scores can be found on http://kern.humdrum.org/help/tour/
+% http://kern.ccarh.org/ and http://kern.ccarh.org/help/data/
+% kern software developed by Craig Sapp can be found on
+% http://extras.humdrum.org/man/
+
+
+%%linebreak <none>
+X: 1
+T: My pipe
+N: Derived from ojibwa01.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/16
+M: 2/4
+Q: 1/4=108
+K: G clef=bass
+%%linebreak <none>
+D3 D [I:setbarnb 1]| 
+D2> D2 D3 D | 
+D4B, A,2 A, | 
+A,2> A,2 A, G,2 E, [I:setbarnb 4]| 
+E,4E,4 | 
+E,6D D | 
+D2> B,2 B,3 B, | 
+A,4A, G,2 G, | 
+G,2> G,2 G, E,2 E, | 
+D,4D,3 D, | 
+D,2> D,2 D,3 D, | 
+D,4E,3 E, | 
+E,2> E,2 E,3 E, | 
+D,4D,3 D, | 
+B,,2> B,,2 B,,3 B,, | 
+G,,8 |]  
+z4D D D D [I:setbarnb 17]| 
+D4D B,2 A, | 
+
+
+
+X: 2
+T: First song of the feast
+N: Derived from ojibwa02.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/4
+M: 2/2
+Q: 1/4=108
+K: Bb clef=bass
+%%linebreak <none>
+C/ C/C [I:setbarnb 1]| 
+C2C2 | 
+B,A,(3B, B, B, | 
+[M:3/2]B,2B,2G,F, | 
+[M:2/2]F,2F,2 | 
+F,2B,B,3// B,// | 
+B,2B,2 | 
+G,G,(3B, B, B, | 
+[M:3/2]B,2B,2G,F, | 
+[M:2/2]F,2F,2 | 
+F,2(3F, F, F, | 
+F,2F,2 | 
+D,D,E,/ E,/D, | 
+[M:3/2]C,2C,2C,B,, | 
+[M:2/2]B,,2B,,2 | 
+B,,2(3C, C, C, | 
+C,2C,2 | 
+C,B,,(3C, C, C, | 
+[M:3/2]B,,2B,,2G,,F,, | 
+[M:2/2]F,,2F,,2 | 
+F,,2(3C C C | 
+C2C2 | 
+B,A,(3B, B, B, | 
+[M:3/2]B,2B,>G, (3F, F, F, | 
+[M:2/2]F,2F,2 | 
+F,4 |]  
+
+
+
+X: 3
+T: First song
+N: Derived from ojibwa03.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: F clef=bass
+%%linebreak <none>
+C C [I:setbarnb 1]| 
+C2C3/ A,/ | 
+C3C | 
+[M:3/4]C2>C2C2 | 
+C2>C2C2 | 
+A,2>A,2 A, F, | 
+F,2>F,2F,2- | 
+[M:2/4]F,2C C | 
+[M:3/4]A,2A,> F, A,3/ A,/ | 
+A,2>A,2A,2 | 
+[M:2/4]A,4 | 
+[M:3/4]A,2A,2A, F, [I:setbarnb 12]| 
+F,2>F,2F,2- | 
+[M:2/4]F,2A, A, | 
+F,2F,3/ D,/ | 
+F,3F, | 
+F,4 | 
+F,3F, | 
+D,2D,2 | 
+[M:3/4]C,2>C,2C,2- | 
+[M:2/4]C,2C, C, | 
+C,2C, A,, | 
+C,2C,2 | 
+C,3C, | 
+A,,2A,,2 | 
+F,,3F,, | 
+F,,2C C | 
+C2C3/ A,/ | 
+C3C | 
+[M:3/4]C2>C2C2 | 
+C2>C2C2 | 
+A,2A,2A, F, | 
+F,2>F,2F,2- | 
+[M:2/4]F,2C C | 
+[M:3/4]A,2A,> F, A,3/ A,/ | 
+A,2>A,2A,2 | 
+[M:2/4]A,4 | 
+
+
+
+X: 4
+T: Third song
+N: Derived from ojibwa04.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: F clef=bass
+%%linebreak <none>
+D D3/ D/ [I:setbarnb 1]| 
+D> D D> D C3/ C/ | 
+A,2>C2 C3/ C/ | 
+[M:4/4]C2>C2 C> C C3/ C/ | 
+[M:3/4]A,2>A,2 A,3/ A,/ | 
+G,4F,3/ D,/ | 
+D,2>F,2F,2 | 
+G,2>A,2 A,3/ A,/ | 
+G,4F,3/ D,/ | 
+D,2>F,2F,2 | 
+D,4D,3/ D,/ | 
+D,4A,3/ A,/ | 
+A, A,/ A,< A, A,/A,2 | 
+A,> A, A,> B, A, A,/ A,/ | 
+G,4F,3/ D,/ | 
+D,3 |]  
+
+
+
+X: 5
+T: Initiation song
+N: Derived from ojibwa05.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 4/4
+Q: 1/4=108
+K: Eb clef=bass
+%%linebreak <none>
+C2C C [I:setbarnb 1]| 
+C4G, G,G,2 | 
+C4C2C B, | 
+G,4E, E,E,2 | 
+G,4G,2F, F, | 
+E,4C, C,C,2 | 
+F,4E,2E, E, | 
+E,4C, C,C,2 | 
+C,4C,2C, C, | 
+C,4C, C,C,2 | 
+[M:2/4]C,7/C,/ | 
+[M:3/4]C,> C,C,2G,2 | 
+G,2E, E,E,2 | 
+[M:4/4]G,4F,2E, E, | 
+E,4C, C,C,2 | 
+F,4F,2E, E, | 
+E,4C, C,C,2 | 
+C,4C,2C, C, | 
+C,4C, C,C,2 | 
+C,4 |]  
+
+
+
+X: 6
+T: Initiation song
+N: Derived from ojibwa06.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/4
+M: 3/4
+Q: 1/4=108
+K: G clef=bass
+%%linebreak <none>
+D/ D/ [I:setbarnb 1]| 
+DCB, | 
+B,2B, | 
+B,B,G, | 
+B,2B, | 
+B,G,G, | 
+[M:4/4]G,2G,G, | 
+[M:3/4]G,2G, | 
+G,2B,/ B,/ | 
+B,A,G, | 
+G,2G, | 
+G,G,E, | 
+G,2G, | 
+G,E,E, | 
+[M:4/4]E,2E,E, | 
+[M:3/4]E,2E, | 
+E,2E,/ E,/ | 
+E,>G,G, | 
+[M:4/4]G,2G,G, | 
+[M:3/4]G,G,G, | 
+A,2A, | 
+A,G,G, | 
+[M:4/4]G,2G,G, | 
+[M:3/4]G,2G, | 
+G,2D/ D/ | 
+DCB, | 
+B,2B, | 
+B,B,G, | 
+B,2B, | 
+B,G,G, | 
+[M:4/4]G,2G,G, | 
+[M:3/4]G,2G, | 
+G,2B,/ B,/ | 
+B,A,G, | 
+G,2G, | 
+G,G,E, | 
+G,2G, | 
+G,E,E, | 
+[M:4/4]E,2E,E, | 
+[M:3/4]E,2E, | 
+E,2E,/ E,/ | 
+E,>G,G, | 
+G,2G, | 
+G,G,G, | 
+A,2A, | 
+A,G,G, | 
+[M:4/4]G,2G,G, | 
+G,2G,G, | 
+G,z3 |]  
+
+
+
+X: 7
+T: Hunting song (c)
+N: Derived from ojibwa07.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: G clef=bass
+%%linebreak <none>
+D D [I:setbarnb 1]| 
+B,2B,3/ B,/ | 
+A,4 | 
+A,2A,2 | 
+[M:3/4]G,4G,3/ E,/ | 
+[M:4/4]D,4E,3G, | 
+G,2A, G,E,2F, E, | 
+[M:2/4]D, D,D,2 | 
+[M:3/4]D,6 | 
+D,2D,2 |]  
+
+
+
+X: 8
+T: Healing song
+N: Derived from ojibwa08.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: Ab clef=bass
+%%linebreak <none>
+C [I:setbarnb 1]| 
+C/> C/ DC4 | 
+[M:2/4]B, B, B,3/ B,/ | 
+[M:3/4]B,/> B,/ CB,4 | 
+[M:2/4]B, _G, G,3/ G,/ | 
+[M:3/4]F,/> _G,/ G,G,4 | 
+[M:2/4]_G, F, F,3/ F,/ | 
+[M:3/4]E,/> F,/ F,F,4 | 
+[M:2/4]F,/ B,,/ B,, B,,3/ B,,/ | 
+[M:3/4]B,,/> B,,/ B,,B,,4 | 
+[M:2/4]B,, F,,F,,2 | 
+F,,4- | 
+F,,2C C | 
+C3B, | 
+B,2B, B, | 
+_G,2F, F, | 
+F,2F, F, | 
+F,4 | 
+[M:3/4]B,/> B,/ CB,4 | 
+[M:2/4]B, _G, G,3/ G,/ | 
+[M:3/4]F,/> _G,/ G,G,4 | 
+[M:2/4]_G, F, F,3/ F,/ | 
+[M:3/4]E,/> F,/ F,F,4 | 
+[M:2/4]F,/ B,,/ B,, B,,3/ B,,/ | 
+[M:3/4]B,,/> B,,/ B,,B,,4 | 
+[M:2/4]B,, F,,F,,2 | 
+F,,4 |]  
+
+
+
+X: 9
+T: Song of the thunders
+N: Derived from ojibwa09.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: Bb clef=bass
+%%linebreak <none>
+F FF2- | 
+F2D2 | 
+F D F/ D/ C/ B,/- | 
+[M:3/4]B,> B,B,3B, | 
+B,6 | 
+[M:2/4]F FF2- | 
+F2D2 | 
+F D (3F D C | 
+[M:3/4]B,> B,B,3B, | 
+B,6 | 
+F2F D F D | 
+[M:2/4]B,2B, B, | 
+(3G, B, B, (3B, B, G, | 
+F,2F, F, | 
+[M:3/4]F,6 | 
+[M:2/4]B, B, B, G,3// B,// | 
+F,2F,3/ B,/ | 
+F,2D,2 | 
+F,4 | 
+D,2F,/ D,3/ | 
+B,,> B,,B,,2 | 
+B,,4 |]  
+
+
+
+X: 10
+T: As the hawk soars
+N: Derived from ojibwa10.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: A clef=bass
+%%linebreak <none>
+E EE2 | 
+E C (3E, C A | 
+[M:3/4]A,6{/A,} | 
+[M:2/4]F, A, A, A, | 
+A,3A, | 
+A,6 | 
+E EE2- | 
+E C (3E C A | 
+A,6{/A,} | 
+[M:2/4]F, A,A,2 | 
+A,2-A,3/ A,/ | 
+[M:3/4]A,6 | 
+E EE4 | 
+E CA,2- | 
+[M:2/4]A,3A, | 
+F, A,A,2- | 
+A, A, (3A, A, F, | 
+E,4- | 
+E,3E, | 
+F,< A,A,2- | 
+A,2F,2{/A,} | 
+F,< E,C,2 | 
+F,< C,-C,2 | 
+[M:3/4]A,,> A,,A,,3A,, | 
+A,,6 |]  
+
+
+
+X: 11
+T: (no words)
+N: Derived from ojibwa11.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: Gb clef=treble
+%%linebreak <none>
+A G3/ A/ [I:setbarnb 1]| 
+G2-(3G E G E3/ G/ | 
+E2>D2D2 | 
+B,2-(3B, G, B, A, B,/ A,/[K:clef=bass] | 
+G,3E,/ G,/ G, A,/ G,/ | 
+(3E, E, E,-E,4- | 
+E,3 |]  
+
+
+
+X: 12
+T: (no words)
+N: Derived from ojibwa12.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: Db clef=bass
+%%linebreak <none>
+F3G/ F/ D B, | 
+F3G/ F/ D B, | 
+[M:2/4]D3G/ E/ | 
+D B, D B, | 
+A,> A,A,2- | 
+A,4 | 
+F,2A,2 | 
+B,2A,2 | 
+A,< F, F,3/ F,/ | 
+F,4- | 
+F,4 | 
+B,2D2- | 
+D2F D | 
+B,2(3D B,- B, | 
+A,> A,A,2- | 
+A,4 | 
+F,2A,2 | 
+B,2A,2 | 
+A,< F, F,3/ F,/ | 
+F,4- | 
+F,4 |]  
+
+
+
+X: 13
+T: My love has departed
+N: Derived from ojibwa13.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/4
+M: 2/4
+Q: 1/4=108
+K: C clef=treble
+%%linebreak <none>
+[M:2/4]A/> A/B | 
+[M:3/4]A3 | 
+[M:2/4]AG3// E// | 
+[M:3/4]AA2 | 
+[M:2/4]E/> E/^F | 
+E2 | 
+ED3// D// | 
+[M:3/4]ED2 | 
+[M:2/4]EA | 
+[M:3/4]AG2 | 
+[M:2/4]GE3// D// | 
+[M:3/4]ED2 | 
+A,/ D/DC | 
+[M:2/4]C3/A,/ | 
+[M:3/4]CA,2 | 
+[M:3/4]A2B | 
+A3 | 
+[M:2/4]AB3// E// | 
+[M:3/4]AA2 | 
+[M:2/4]E/> E/^F | 
+E2 | 
+E=D3// D// | 
+[M:3/4]ED2 | 
+[M:2/4]zE | 
+[M:3/4]A>AG | 
+E>^FE | 
+[M:3/4]D>ED | 
+[M:2/4]C2 | 
+[M:3/4]A,3 | 
+[M:2/4]A/> A/B | 
+[M:3/4]A3 | 
+[M:2/4]AG3// E// | 
+[M:3/4]AA2 | 
+[M:2/4]E/> E/^F | 
+E2 | 
+[M:2/4]E=D3// D// | 
+[M:3/4]ED2 | 
+[M:2/4]EA | 
+[M:3/4]AG3/G/ | 
+[M:2/4]E/> ^F/E | 
+[M:2/4]D2 | 
+[M:3/4]A,/ D/DC | 
+[M:2/4]CA,/ A,/ | 
+[M:3/4]CA,2 |]  
+
+
+
+X: 14
+T: I have come after your stake
+N: Derived from ojibwa14.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/16
+M: 3/4
+Q: 1/4=108
+K: F clef=bass
+%%linebreak <none>
+F4 [I:setbarnb 1]| 
+F D D4<D4D B, | 
+(3D2 A,2 A,2A,8 | 
+D D D DA,6A,2 | 
+F, F, D, A,, {/F,} D, D, D, D,D,4 | 
+D A, F, A, F, D, D, D,-D,4 | 
+{/F,} D, B,, A,, A,, A,, A,, A,, A,,A,,4 |]  
+
+
+
+X: 15
+T: Lullaby
+N: Derived from ojibwa15.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/4
+M: 2/4
+Q: 1/4=108
+K: G clef=treble
+%%linebreak <none>
+G/ G/ [I:setbarnb 1]| 
+AB | 
+[M:3/4]A2B/ A/ | 
+[M:2/4]GE | 
+GA | 
+[M:3/4]G2B/ G/ | 
+EDE | 
+[M:2/4]GA | 
+G2 |]  
+
+
+
+X: 16
+T: Farewell to the warriors
+N: Derived from ojibwa16.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: Ab clef=treble
+%%linebreak <none>
+F3/ F/ [I:setbarnb 1]| 
+c2>f2 c3/ B/ | 
+c4f f | 
+[M:2/4]e3f | 
+[M:3/4]c2B4 | 
+A F2<A2c | 
+A> FA4 | 
+c3(3B/ c/ B/ A F | 
+[M:2/4]!fermata!B> A F3/ E/ | 
+!fermata!F4 |]  
+
+
+
+X: 17
+T: Come, let us drink
+N: Derived from ojibwa17.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: Bb clef=bass
+%%linebreak <none>
+D2D C | 
+G,3G, | 
+[M:3/4]G, G,/ G,/ G, G, D,3/ C/ | 
+C2C/ G,/ G,/ F,/ D, D, | 
+[M:2/4]C,3C, | 
+G,2(3B, G, F, | 
+D,2C,3/ =B,,/ | 
+C,2(3D, C, B,, | 
+C,3D | 
+[M:3/4]D2D C (3B, C B, | 
+[M:2/4]G,3G, | 
+[M:3/4]G,2G, F, D, F,/ F,/ | 
+[M:2/4]D,3D, | 
+[M:3/4]C,> B,,G,,2(3A,, A,, B,, | 
+G,,4z2 |]  
+
+
+
+X: 18
+T: (no words)
+N: Derived from ojibwa18.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: A clef=treble
+%%linebreak <none>
+F,2F2 | 
+F2F2 | 
+F2F3/ E/ | 
+C2C B, | 
+G, C C3/ B,/[K:clef=bass] | 
+A,4- | 
+A,2F,2 | 
+[M:3/4]A, A, (3A, A, C C3/ B,/ | 
+A,> F, A, F, F,3/ F,/ | 
+F,6 |]  
+
+
+
+X: 19
+T: I am standing till daylight
+N: Derived from ojibwa19.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: D clef=treble
+%%linebreak <none>
+F3F | 
+F2E D | 
+F F E E {/F} | 
+D B,D2 | 
+B,> B,B,2- | 
+B,2F, z | 
+E> DC2{/E} | 
+D B,D2[K:clef=bass] | 
+B,2>C2 B, A, | 
+F,2>A,2 F, E, | 
+D,6 | 
+D,4z D | 
+B,2>C2 B, A, | 
+F,3E,/ D,/ E, D, | 
+B,,> B,,B,,4- | 
+B,,6[K:clef=treble] | 
+A A A AF2 | 
+F2D2 | 
+F D-D2 | 
+D2B,2 | 
+D B,B,2 | 
+B,3B, | 
+B,4 |]  
+
+
+
+X: 20
+T: (no words)
+N: Derived from ojibwa20.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: C clef=bass
+%%linebreak <none>
+E E E C C A, | 
+D< C C C C A, | 
+A, A,/ E,/ A, A, A, E, | 
+A, A,/ E,/ G, G,G,2 | 
+E, E,E,4 | 
+E,2z4 |]  
+
+
+
+X: 21
+T: Song referring to an historical incident
+N: Derived from ojibwa21.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: Gb clef=treble
+%%linebreak <none>
+B/ [I:setbarnb 1]| 
+B< A G> B B/ G3/ | 
+G4G3/ E/ | 
+[M:4/4]G2G2G2G3/ B/ | 
+[M:3/4](3:2:9B A A A G G G E E | 
+D4D3/ B/ | 
+[M:4/4]D2D2D2D3/ G/ | 
+[M:3/4]G2D> E D3/ D/ | 
+B,4B,3/ A,/ | 
+G,4[K:clef=bass]G,3/ E,/ | 
+G,4-G,3/ B,/ | 
+[M:4/4]B,> A, G,> B, G,> E, G,3/ E,/ | 
+[M:3/4]D,> D,D,4 | 
+D,4D,2 |]  
+
+
+
+X: 22
+T: Friendly song (a)
+N: Derived from ojibwa22.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: C clef=bass
+%%linebreak <none>
+C> A,C2C2 | 
+[M:2/4]A,> F,A,2 | 
+[M:3/4]E,> E,E,7/E,/ | 
+[M:2/4]E,4 | 
+(3A, E, A, A, A,/ A,/ | 
+ [K:A] E,> C,E,2- | 
+E,4 | 
+(3A, E, E, A,/ E,3/ | 
+C,> B,,C,2 | 
+B,,> A,,B,,2- | 
+B,,4 | 
+C,> B,,C,2 | 
+B,,> A,, C,3/ B,,/ | 
+A,,2A,,3/ A,,/ | 
+[M:3/4]A,,6 |]  
+
+
+
+X: 23
+T: Niski'gwun's dream song
+N: Derived from ojibwa23.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: G clef=bass
+%%linebreak <none>
+D3/ D/ [I:setbarnb 1]| 
+_E6 | 
+[M:2/4]D4 | 
+[M:3/4]D2B,2D3/ D/ | 
+D4-D/> E/ D | 
+[M:2/4]B,> C B, A, | 
+[M:3/4]G,2G,3G, | 
+[M:2/4]G,4- | 
+G,2D2 | 
+B,2-B,/> C/ B,/ A,/ | 
+G,< G, G, G, | 
+E,2G,3/ G,/ | 
+[M:3/4]G,4-G,/> A,/ G, | 
+E,2E,2E, E, | 
+[M:2/4]D,4 | 
+[M:3/4]D,2B,,2D,3/ D,/ | 
+[M:2/4]D,4 | 
+D, D,B,,2 | 
+G,,4 |]  
+
+
+
+X: 24
+T: Origin of the Bi'jikiwuck' [cattle herb medicine]
+N: Derived from ojibwa24.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: Gb clef=bass
+%%linebreak <none>
+D D [I:setbarnb 1]| 
+E2E D D D | 
+D2A,2D D | 
+D2D C A, A, | 
+A,2G,2G, G, | 
+G,2D,2C C | 
+C2C __A, G, G, | 
+G,2D,2G, G, | 
+G,2G, _F, D, D, | 
+D,2B,,2 |]  
+
+
+
+X: 25
+T: First song of the Minisino'wuck [island herb medicine]
+N: Derived from ojibwa25.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: D clef=bass
+%%linebreak <none>
+F/ [I:setbarnb 1]| 
+F> F F3/ E/ | 
+D2D3/ E// E// | 
+[M:3/4]D> B,B,2B,2 | 
+B,2B,2B,3/ B,/ | 
+[M:2/4]A,> A, F,3/ F,/ | 
+F, E, D,3/ E,// E,// | 
+[M:3/4]D,> B,,B,,2B,,2 | 
+B,,4B,,2 |]  
+
+
+
+X: 26
+T: I am called
+N: Derived from ojibwa26.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: G clef=treble
+%%linebreak <none>
+E E E E F3/ G/ | 
+E4-E B, | 
+E E E D E/ D3/ | 
+[M:2/4]B,> B,B,2- | 
+B,4[K:clef=bass] | 
+B, B, B, B, | 
+B, B, ^C D | 
+[M:3/4]B,4-B, G, | 
+[M:2/4]A, A, A, G, | 
+A, G,E,2 | 
+E,4- | 
+E,2B,,2 | 
+[M:3/4]E, E, E,> E,E,2 | 
+[M:2/4]E,3B,, | 
+E, E, E, D, | 
+(3E, E, D,B,,2 | 
+B,,4 |]  
+
+
+
+X: 27
+T: Song of the chief
+N: Derived from ojibwa27.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 5/4
+Q: 1/4=108
+K: C clef=bass
+%%linebreak <none>
+D4C2A,> A,A,2 | 
+D4C2A,> A,A,2 | 
+C DC2A,< A, A,/ E,/ E,D,2 | 
+C,> A,,C,2D,> D, D, D, C,/ C,3/ | 
+A,, A,,A,,2-A,,6 | 
+C4A,< A, A,/ E,/ E,D,2 | 
+C,> A,,C,2D,> D, D, D, C,/ C,3/ | 
+A,, A,,A,,2A,,6 |]  
+
+
+
+X: 28
+T: War song
+N: Derived from ojibwa28.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: B clef=bass
+%%linebreak <none>
+D/ [I:setbarnb 1]| 
+(3D C C B,/ A,3/ | 
+[M:3/4](3B, A, A,G,3E, | 
+[M:2/4]G,2G, G, | 
+G,2G,2 | 
+G,3G, | 
+[M:3/4]G,4-G,3/ A,/ | 
+[M:2/4](3A, G, G, G,/ G,3/ | 
+[M:3/4](3A, G, G,G,3E, | 
+[M:2/4]G,2G, G, | 
+E,> D, D,3/ G,/ | 
+G, G, E, D, | 
+[M:3/4](3E, D, D,D,3B, | 
+[M:2/4]D,2D, B,, | 
+(3B A AG2 | 
+B B B B | 
+(3B A AG2 | 
+G3G | 
+G7/ |]  
+
+
+
+X: 29
+T: War song
+N: Derived from ojibwa29.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: Bb clef=bass
+%%linebreak <none>
+D2D D | 
+D4 | 
+C CC2 | 
+D2B, B, | 
+B,4 | 
+G, B,B,2 | 
+D2B, B, | 
+B,4 | 
+B, G, G, F, | 
+G,2G, G, | 
+G,4 | 
+F, F,F,2 | 
+G,2D, D, | 
+D,4 | 
+C, C,C,2 | 
+D,2B,, B,, | 
+B,,4 | 
+G,, G,,G,,2 | 
+B,,2G,, G,, | 
+B,,4 | 
+G,, G,,G,,2 | 
+G,,3G,, | 
+G,,4- | 
+G,,4 |]  
+
+
+
+X: 30
+T: War song
+N: Derived from ojibwa30.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: A clef=bass
+%%linebreak <none>
+E> EE2(3C B, A, | 
+[M:2/4]B,> D (3^C =B, =A, | 
+[M:3/4]A,> A,A,7/A,/ | 
+A,6 | 
+E> EE2(3C B, A, | 
+[M:2/4]B,> D (3C B, A, | 
+[M:3/4]A,> A,A,7/A,/ | 
+A,6 | 
+B,> B, B,< B, A,3/ =G,/ [I:setbarnb 10]| 
+[M:2/4]A,> A, A,/ A,3/ | 
+F,> E,E,2 | 
+A,> B, A,/ A,3/ | 
+F,> E, E,3/ D,/ | 
+E,> E,E,2 | 
+[M:3/4](3C, B,, A,, (3C, B,, A,, (3C, B,, A,, | 
+A,,2A,,3A,, | 
+A,,4A,,2 |]  
+
+
+
+X: 31
+T: Song of the deer (a)
+N: Derived from ojibwa31.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: B clef=bass
+%%linebreak <none>
+D D B, B, | 
+D DC2 | 
+[M:3/4]G,/> G,/ G,G,2G,2 | 
+[M:2/4]C C C B, | 
+C B,G,2 | 
+[M:3/4]D,/> D,/ D,D,2D,2 | 
+[M:2/4]G, G, G, F, | 
+G, G,G,2 | 
+D,/> D,/ D,D,2 | 
+D,2D, D, | 
+[M:3/4]D,4-D,3/ D,/ | 
+[M:2/4]D,2D, D, | 
+[M:3/4]D,4-D,3/ D,/ | 
+D,6 |]  
+
+
+
+X: 32
+T: Song of the deer (b)
+N: Derived from ojibwa32.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: Ab clef=bass
+%%linebreak <none>
+D D C C | 
+B, B, A,3/ C/ | 
+C C B, B, | 
+[M:3/4]A, A, F, F, E,3/ A,/ | 
+A, F, E, F, E, E, | 
+[M:2/4]E,> E, E, E, | 
+E,2E, E, | 
+[M:3/4]E,4-E,3/ E,/ | 
+[M:2/4]E,2E, E, | 
+E,4 |]  
+
+
+
+X: 33
+T: Moccasin game song (b)
+N: Derived from ojibwa33.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: E clef=bass
+%%linebreak <none>
+C2G,3/ C/ | 
+C4 | 
+C G, G, F, | 
+G,4 | 
+C F, E, E, | 
+F,4 | 
+F, E, C, C, | 
+E,4 | 
+F, E, C, C, | 
+[M:3/4]C,< C, C,> C, C, C, | 
+[M:2/4]C,> C,C,2 | 
+[M:3/4]C,6 | 
+[M:2/4]G,2F,3/ G,/ | 
+G,4 | 
+C F, E, E, | 
+F,4 | 
+F, E, C, C, | 
+E,4 | 
+F, E, C, C, | 
+[M:3/4]C,< C, C,> C, C, C, | 
+[M:2/4]C,> C,C,2 | 
+[M:3/4]C,6 |]  
+
+
+
+X: 34
+T: Weeping for my love
+N: Derived from ojibwa34.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/4
+M: 2/4
+Q: 1/4=108
+K: Gb clef=treble
+%%linebreak <none>
+B [I:setbarnb 1]| 
+e-e//> f// e/ | 
+B/> B/e | 
+B2- | 
+Be | 
+B-B//> c// B/ | 
+A/> G/B | 
+A2- | 
+Ae | 
+A-A//> B// A/ | 
+G/> E/G | 
+[M:3/4]E3 | 
+[M:2/4]ed | 
+e3/B/ | 
+eB | 
+A2- | 
+A3/B// B// | 
+[M:3/4]e>>fe | 
+dce | 
+A>E {/G}G | 
+E2- | 
+EE | 
+AA/ B// A// | 
+G/> E/G | 
+E2- | 
+E |]  
+
+
+
+X: 35
+T: Song of an ambitious mother
+N: Derived from ojibwa35.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/4
+M: 3/4
+Q: 1/4=108
+K: Eb clef=treble
+%%linebreak <none>
+B,B,B, | 
+EE2 | 
+E>B,B, | 
+EEE | 
+FF2 | 
+F2E | 
+E2B | 
+E2C | 
+C3 | 
+B,3- | 
+B,B,B, | 
+E2E | 
+EEB, | 
+[M:2/4]EE | 
+[M:3/4]F2F | 
+F2E | 
+[M:2/4]EE | 
+[M:3/4]B2E | 
+C3 | 
+B,3 |]  
+
+
+
+X: 36
+T: Maple sugar
+N: Derived from ojibwa36.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: G clef=bass
+%%linebreak <none>
+D< DD2 | 
+E DD2 | 
+D> C D/ A,3/ | 
+D< DD2 | 
+E DD2 | 
+D> C D/ A,3/ | 
+[M:3/4]D< G, G,> E,D,2 | 
+G,< G,G,2A, G, | 
+[M:2/4]A,< G, G,3/ E,/ | 
+D,2E, E, | 
+D,> D,D,2- | 
+[M:3/4]D,6 | 
+[M:2/4]A,> A, A,3/ A,/ | 
+A,> A, A,3/ A,/ | 
+D> A,G,2 | 
+[M:3/4]A,< G, G,> E,D,2 | 
+G,< G,G,2A, G, | 
+[M:2/4]A,< G, G,3/ E,/ | 
+D,2E, E, | 
+D,> D,D,2- | 
+D,4 |]  
+
+
+
+X: 37
+T: Invite our sweetheart
+N: Derived from ojibwa37.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: Bb clef=bass
+%%linebreak <none>
+D D [I:setbarnb 1]| 
+D B,B,2 | 
+B,2B, B, | 
+B, G,G,2 | 
+[M:3/4]G,2G,2G, G, | 
+[M:2/4]G,2G,3/ B,/ | 
+B,2C C | 
+B,4 | 
+G,2D,2 | 
+D,2-D,3/ G,/ | 
+G,3G, | 
+G,2D,2 | 
+G,3G, | 
+G,2-G,3/ B,/ | 
+B,2C C | 
+B,4 | 
+G,2D,2 | 
+D,2-D,3/ G,/ | 
+G,3G, | 
+G,2D,2 | 
+G,3G, | 
+G,4 |]  
+
+
+
+X: 38
+T: Moccasin game song
+N: Derived from ojibwa38.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/4
+Q: 1/4=108
+K: A clef=bass
+%%linebreak <none>
+C,> C (3C C G, G,/ G,3/ | 
+C> G, (3G, F, C, C,/ C,3/ | 
+F,> G, (3G, G, G, F,/ F,3/ | 
+G,> A, (3G, F, C, (3C, C, A,, | 
+C,> C, (3C, C, A,, A,,/ A,,3/ | 
+D,> F, (3F, F, C, (3C, C, A,, | 
+C,> C, (3C, C, C, C,/ C,3/ | 
+C,6 |]  
+
+
+
+X: 39
+T: Sitting with the turtle
+N: Derived from ojibwa39.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: Gb clef=bass
+%%linebreak <none>
+E/ E/ E/> E/ D/ B, B,/ | 
+B,2B,3/ D/ | 
+[M:3/4]D4-D D | 
+[M:2/4]D> D D B, | 
+B,2B,3/ B,/ | 
+[M:3/4]B,6 | 
+[M:2/4]D/ B,/ D/> D/ B, G, | 
+G,< E, E,3/ E,/ | 
+[M:3/4]E,4-E, E, | 
+[M:2/4]D,> D, D,/ B,,3/ | 
+B,,2B,,3/ D,/ | 
+[M:3/4]D,4-D,3/ D,/ | 
+[M:2/4]D,> D, D,/ B,,3/ | 
+B,,2B,,3/ B,,/ | 
+B,,4 |]  
+
+
+
+X: 40
+T: The sound of his footsteps
+N: Derived from ojibwa40.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 3/8
+Q: 1/4=108
+K: Eb clef=bass
+%%linebreak <none>
+E2B, | 
+E2F | 
+EE2 | 
+[M:2/8]F E | 
+[M:3/8]EB,2 | 
+B,2F, | 
+B,2E | 
+B,B,2 | 
+[M:2/8]E2 | 
+[M:3/8]B,F,2 | 
+F,2E, | 
+F,2B, | 
+F,F,2 | 
+[M:2/8]G, G, | 
+[M:3/8]F,E,2 | 
+E,2B,, | 
+E,2F, | 
+E,E,2 | 
+E,E,2 | 
+B,,3 | 
+B,,3 | 
+[M:2/8]B, B, | 
+B,3/ F,/ | 
+[M:3/8]B, B, E3// E// | 
+[M:2/8]G, G, | 
+E2 | 
+[M:3/8]B,2F, | 
+F,2E, | 
+F,2B, | 
+F,F,2 | 
+[M:2/8]G, G, | 
+[M:3/8]F,E,2 | 
+E,2B,, | 
+E,2F, | 
+E,E,2 | 
+B,,3 | 
+B,,3 |]  
+
+
+
+X: 41
+T: We have salt
+N: Derived from ojibwa41.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/8
+M: 2/4
+Q: 1/4=108
+K: Ab clef=bass
+%%linebreak <none>
+A,2A,2 | 
+[M:3/4]A,2A,2C C | 
+C A,A,2A, A, | 
+A,2F,2A, A, | 
+C2A,2F, F, | 
+E,2E,2A, A, | 
+C2A,2F, F, | 
+E,2C,2E,2 | 
+F,2F, F, E, C, | 
+[M:2/4]A,,2C,2 | 
+A,,2A,, A,, | 
+A,,4 |]  
+
+
+
+X: 42
+T: Why?
+N: Derived from ojibwa42.krn
+C: Chippewa Songs ~ 1910
+O: Red Wing, Minnesota, U.S.A
+N: Chippewa Music by Frances Densmore, 1910
+Z: transcribed to **kern format by Paul von Hippel and Daniel T. Shanahan
+L: 1/4
+M: 2/4
+Q: 1/4=108
+K: Db clef=bass
+%%linebreak <none>
+FF | 
+[M:3/4]FDF | 
+D3- | 
+D3 | 
+[M:2/4]C3/D/ | 
+DD | 
+D2 | 
+A,2- | 
+A,2 | 
+D3/D/ | 
+DC | 
+D2 | 
+F,2- | 
+F,2 | 
+D3/D/ | 
+DC | 
+D2 |]  

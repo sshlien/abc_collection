@@ -1,0 +1,3173 @@
+%%linebreak <none>
+X: 1
+T: War Song
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 1578928481
+%%humdrum-veritas-data 2288916673
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=63
+K: Db clef=bass
+D2 B,2 B, B,2 D | 
+D4D2 B,2[M:3/4] | 
+D2 B,2 A, A,2 A, =A,2 B, _A, | 
+B, A,2 A, A,2 A, z A,2 A, z[M:5/8] | 
+A,2 A,2- A,2 A, z z2[M:2/4] | 
+E2 D2 B, B,2 D | 
+D4D2 B,2[M:3/4] | 
+D2 B,2 A, A,2 A, A,2 B, A, | 
+B, A,2 A A,2 A, z A,2 A, z[M:5/8] | 
+A,2 A,2- A,2 A, z z2[M:2/4] | 
+D2 B,2 D B,2 E | 
+D4D2 B,2[M:3/4] | 
+D2 B,2 A, A,2 A, A,2 B, A, | 
+B, A,2 A, A,2 A, z A,2 A, z[M:2/4] | 
+A,2 A,2- A,2 A, z | 
+z2> B,2B,4 | 
+D4D2 B,3/ B,/ | 
+A,4A,3 B,[M:3/4] | 
+B,> B, B,2 A,> A, A,2-A,4[M:2/4] | 
+A,2 z2 A,2 A, z/ A,/ | 
+A,2 z B,B,4 | 
+D4D2 B,3/ B,/ | 
+A,4A,3 B,[M:3/4] | 
+B,> B, B,2 A,> A, A,2-A,4[M:2/4] | 
+A,2 z2 A,2 A, z/ A,/ | 
+A,8 |]  
+
+
+X: 2
+T: "Begging for Gunpower" Song
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 2927320289
+%%humdrum-veritas-data 4035385187
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=69
+K: Bb clef=bass
+G,2> D,2 D,2> G,2 F,2 F, D,/ z/[M:2/4] | 
+F, F,2 F,2< F,2 B,[M:5/8] | 
+B,2 _A,2 A, A,D,4[M:3/8] | 
+F, F,2 F, F,2[M:3/4] | 
+G,2> D,2 D,2> G,2 F, F, F, z[M:3/8] | 
+F, F,2 F, F,2[M:3/4] | 
+G,2> D,2 D,2> G,2 F, F, F, z[M:2/4] | 
+F, F,2 F,2< F,2 B,[M:5/8] | 
+B,2 _A,2 A, A,D,4[M:3/8] | 
+F, F,2 F, F,2[M:3/4] | 
+G,2> D,2 D,2> G,2 F, F, F, z[M:3/8] | 
+F, F,2 F, F,2 |]  
+
+
+X: 3
+T: I am Going
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 3865049968
+%%humdrum-veritas-data 2328994122
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=60
+K: F clef=bass
+z4z3 B, | 
+A,2> G,2 F,3 G, | 
+A,6z C | 
+A, G,2 G,2< F,2 D, | 
+F,4z3 A, | 
+G,2> F,2 D,3 F, | 
+F,6z F, | 
+F,2> D,2F,4 | 
+F,4z3 C | 
+C2> A,2 A, F,3 | 
+C2> A,2F,4 | 
+A, G,2 G,2< F,2 D, | 
+F,4z3 A, | 
+G,2> F,2 D,3 F, | 
+F,6z F, | 
+F,2> D,2F,4 | 
+F,4z3 C | 
+C2> A,2 A, F,3 | 
+C2> A,2 G, F,3 | 
+A, G,2 G,2< F,2 D, | 
+F,4z3 A, | 
+G,2> F,2 D,3 F, | 
+F,6z F, | 
+F,2> D,2F,4 | 
+F,4z3 C | 
+C2> A,2 A, F,3 | 
+C2> A,2 F, F,3 | 
+A,4z3 C | 
+A, G,2 G,2< F,2 D, | 
+F,4z3 A, | 
+G,2> F,2 D,3 F, | 
+F,4z3 F, | 
+F,2> D,2F,4 | 
+F,4z3 C | 
+A, G,2 G,2< F,2 D, | 
+F,4z3 A, | 
+G,2> F,2 D,3 F, | 
+F,4z3 F, | 
+F,2> D,2F,4 | 
+F,8 |]  
+
+
+X: 4
+T: Slacker Song
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 4289238765
+%%humdrum-veritas-data 2360007559
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=84
+K: A clef=bass
+z2z A, | 
+F,2A,2 | 
+A,2F, F,[M:3/8] | 
+F,2E,[M:5/8] | 
+E,3E,2[M:7/8] | 
+F, E, E, E, E, z B,[M:2/4] | 
+B,2z2 | 
+A,2F, F,[M:3/8] | 
+F, z E,[M:5/8] | 
+E,3E,2[M:7/8] | 
+F,> E, E, F, E, z A,[M:2/4] | 
+F,2B,2 | 
+A,2F, F,[M:3/8] | 
+F, z E,[M:5/8] | 
+E,2zE,2[M:2/4] | 
+F,> E, E, F, | 
+E, z E, E, | 
+B,> B,B,2 | 
+A,2F, E, | 
+E,2F, E,[M:5/8] | 
+B,> B,B,2A,[M:3/8] | 
+F, z B,[M:2/4] | 
+B,> A,F,2 | 
+A,> A, A,3/ F,/ | 
+F,2A,2 | 
+F,< F, F, z | 
+E, E,- E, E, | 
+E,2F,3/ E,/[M:5/8] | 
+E, E,E,2A,[M:2/4] | 
+F,2B,2 | 
+A,2F, F,[M:3/8] | 
+F, z E,[M:5/8] | 
+E,2zE,2[M:2/4] | 
+F,> E, E, F, | 
+E,2z A,F,2A,2 | 
+A,2F, F,[M:3/8] | 
+F,2E,[M:5/8] | 
+E,3E,2[M:7/8] | 
+F, E, E, E, E, z B,[M:2/4] | 
+B,2z2 | 
+A,2F, F,[M:3/8] | 
+F, z E,[M:5/8] | 
+E,3E,2[M:7/8] | 
+F,> E, E, F, E, z A,[M:2/4] | 
+F,2B,2 | 
+A,2F, F,[M:3/8] | 
+F, z E,[M:5/8] | 
+E,2zE,2[M:2/4] | 
+F,> E, E, F, | 
+E, z |]  
+
+
+X: 5
+T: Victory Song
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 3244625470
+%%humdrum-veritas-data 3216632158
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=52
+K: Eb clef=bass
+z4z3 A, | 
+(3:2:4A,2 F,2 B, B, B,3 C | 
+B,2> A,2 A,2 F, E, | 
+A,2> E,2 F,2 F, z | 
+E, E,2 E, E, E, E,2 | 
+F,2 A,2 F,> F, F,3/ E,/ | 
+E, E,2 E, E, E, E, z | 
+E, E, E,2 _G, G,2 E,[M:7/8] | 
+E, E,2 E, E,2 E, zE4E2[M:2/4] | 
+E2 B, B,2< B,2 C | 
+B,2> A,2 A,2 F, E, | 
+A,2> E,2 F, F, F, z | 
+E, E,2 E, E, E, E,2 | 
+F,2 A,2 F,< F, F,3/ E,/ | 
+E, E,2 E, E, E, E, z | 
+E, E, E,2 _G,2 G,3/ E,/ | 
+E, E,2 E, E,2 E, z |]  
+
+
+X: 6
+T: Whistle Melody
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 3354329636
+%%humdrum-veritas-data 2974718526
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=100
+K: Bb clef=treble
+f12- | 
+f6(3d c B F z B c | 
+d4>>c4 B z (3G A G[M:3/8] | 
+F z B2 !fermata!d2[M:4/4] | 
+c8-c2 B c (5:4:5d c B G F G2 z2 | 
+B8z7f[M:3/4] | 
+d> c B z d> c B z d> c B z[M:3/8] | 
+G/> A/ G/ z/ F2 B2 | 
+G/> A/ G/ z/ F2 B z | 
+d6[M:2/4] | 
+c4z2 B c[M:4/4] | 
+d c (3B G F G2 z2 B2 z2 B2 c2 | 
+d c (3B G F G2 z2 B2 z2 B2 c2[M:2/4] | 
+d c (3B G F G2 z2 | 
+f2 z2 d2 z2 | 
+d c B2z4 | 
+d c B2 B z B c | 
+d c B z B2 c2[M:3/4] | 
+d2> C2B8 |]  
+
+
+X: 7
+T: Song for Success in the Ball Game
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 3015701528
+%%humdrum-veritas-data 1413635668
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=84
+K: A clef=bass
+A,/ A,/ A, A, A, | 
+A,/ A,/ A, A, A, | 
+C/ B,/ A, A, z | 
+A,/ A,/ B, B, A, | 
+A,/ A,/ G, A, G, | 
+A,/ A,/ A, A, A, | 
+A,/ A,/ A, A, z | 
+A,/ A,/ A, A, A, | 
+A,/ A,/ B, B, A, | 
+B,/ B,/ A, B, A, | 
+A,/ A,/ A, A, A, | 
+B,/ B,/ A, A, z | 
+A,/ A,/ A, A, A, | 
+A, A,/ C/ B, A, | 
+B,/ B,/ A, A, A, | 
+B,/ B,/ A, A, z | 
+A,/ A,/ C B, A, | 
+C/ C/ B, A, A, | 
+B,/ B,/ A, A, A, | 
+B,/ B,/ A, A, z | 
+A,/ A,/ C B, A, | 
+C/ C/ B, A, A, | 
+B,/ B,/ A, A, A, | 
+B,/ B,/ A, A, z |]  
+
+
+X: 8
+T: Song for Success in the Ball Game
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 2887968796
+%%humdrum-veritas-data 4245096400
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=60
+K: G clef=bass
+G,/ G,/ G, G, G, | 
+B,/ B,/ A, A,/> G,/ G, | 
+A,/> G,/ G, G, G, | 
+G,/ G,/ G, G, G, | 
+G,/ G,/ G, G, G, | 
+B,/ B,/ A, A,/> G,/ G, | 
+A,/> G,/ G, G, G, | 
+G,/ G,/ G, G, G, | 
+G,/ G,/ G, G, G, | 
+B,/ B,/ A, A,/> G,/ G, | 
+A,/> G,/ G, G, G, | 
+G,/ G,/ G, G, G, | 
+G,/ G,/ G, G, z |]  
+
+
+X: 9
+T: Bullet Game Song (a)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 2185078411
+%%humdrum-veritas-data 973245376
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=144
+K: A clef=bass
+A,B,/ A,/ | 
+A,2 | 
+A,F,/ E,/ | 
+E,z | 
+A,B,/ A,/ | 
+A,2 | 
+A,F,/ E,/ | 
+E,z | 
+CA, | 
+B,2 | 
+B,A,/ F,/ | 
+E,z | 
+A,B,/ A,/ | 
+A,2 | 
+A,F,/ E,/ | 
+E,z | 
+B,A,/ A,/ | 
+B,2 | 
+B,/ A,/A, | 
+A,z | 
+A,F,/ E,/ | 
+E,z | 
+A,B,/ A,/ | 
+B,2 | 
+B,A,/ F,/ | 
+E,z | 
+B,A, | 
+A,2 | 
+A,F,/ E,/ | 
+E,z | 
+A,B,/ A,/ | 
+B,2 | 
+B,A,/ F,/ | 
+E,z | 
+B,A, | 
+A,2 | 
+A,F,/ E,/ | 
+E,z | 
+B,/ B,/ A,/ A,/ | 
+B,2 | 
+B,/ A,/A, | 
+A,2 | 
+A,F,/ E,/ | 
+E,E, | 
+A,A, | 
+B,2 | 
+B,A, | 
+A,2 | 
+B,B,/ A,/ | 
+A,2 | 
+A,F,/ E,/ | 
+E,z |]  
+
+
+X: 10
+T: Bullet Game Song (b)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 1413821286
+%%humdrum-veritas-data 3266074442
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=144
+K: C clef=bass
+zG, | 
+A,A,/ G,/ | 
+A,2 | 
+A,A,/ z/ | 
+G,G, | 
+G,z | 
+zG, | 
+G,G,/ D,/ | 
+G,2 | 
+G,A,/ G,/ | 
+G,G, | 
+G,z |]  
+
+
+X: 11
+T: Bullet Game Song (c)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 188095203
+%%humdrum-veritas-data 1628332626
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=63
+K: E clef=bass
+E,2 E, E, F,2 E,2 | 
+F,2> G,2 F, F, F, z | 
+E,2 E,2 E,3 C, | 
+C,2 E, E, E,2 C,2 | 
+E,4E, E, F, z | 
+E,2 E, E, E,2 z2 | 
+E,2 E, E, F,2 E,2 | 
+F,2> G,2 F, F, F, z | 
+E,2 E,2 E,3 C, | 
+C,2 E, E, E,2 C,2 | 
+E,4E, E, F, z | 
+E,2 E, E, E,2 z2 |]  
+
+
+X: 12
+T: Tick Dance Song (a)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 1845058602
+%%humdrum-veritas-data 438646014
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=104
+K: Bb clef=bass
+G, G,G,2 | 
+G,2G,2 | 
+B, G, G, z[M:3/4] | 
+G, G, G, G, G, z | 
+D2C2B, G, | 
+B, G, G, zG,2[M:2/4] | 
+B, G,G,2[M:3/4] | 
+B, G,C2B, G,[M:2/4] | 
+B, G, G, z[M:3/4] | 
+G, G, G, G, G, z | 
+G, G, G, G,G,2[M:2/4] | 
+B, G, G, z[M:3/4] | 
+G, G, G, G, G, z | 
+D2C2B, G, | 
+B, G, G, zG,2[M:2/4] | 
+B, G,G,2[M:3/4] | 
+B, G,C2B, G,[M:2/4] | 
+B, G, G, z[M:3/4] | 
+G, G, G, G, G, z | 
+G, G, G, G,G,2[M:2/4] | 
+B, G, G, z[M:3/4] | 
+G, G, G, G, G, z | 
+D2C2C G, | 
+B, G, G, zG,2[M:2/4] | 
+B, G, G, z[M:3/4] | 
+B,2C2B, G,[M:2/4] | 
+B,2G, z[M:3/4] | 
+G, G, G, G, G, z | 
+G, G, G, G,G,2[M:2/4] | 
+B, G, G, z[M:3/4] | 
+G, G, G, G, G, z | 
+D2C2C G, | 
+B, G, G, zG,2[M:2/4] | 
+B, G, G, z[M:3/4] | 
+B,2C2B, G,[M:2/4] | 
+B,2G, z[M:3/4] | 
+G, G, G, G, G, z | 
+G, G, G, G,G,2[M:2/4] | 
+B, G, G, z[M:3/4] | 
+G, G, G, G, G, z | 
+G,2C2B, G,[M:2/4] | 
+B, G, G, z[M:3/4] | 
+G, G, G, G, G, z |]  
+
+
+X: 13
+T: Tick Dance Song (b)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 2845688276
+%%humdrum-veritas-data 357439537
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=132
+K: C clef=bass
+C2G,2[M:3/4] | 
+A,2>B,2 A, E,[M:2/4] | 
+G,4 | 
+G, E,E,2 | 
+G,2G, E, | 
+E,3z | 
+E,2E, z | 
+B, A, G, E, | 
+G,4 | 
+G, E, E, z | 
+G,2G, E, | 
+E,3z[M:3/4] | 
+E, E, E, zA,2[M:2/4] | 
+A,3E, | 
+G,4 | 
+G, E, E, z | 
+G,2G, E, | 
+E,3z[M:3/4] | 
+E, E, E, z/ C/ (3C A, B,[M:2/4] | 
+A,4 | 
+G,2E,2 | 
+C> A, A,3/ E,/ | 
+G,3z | 
+G, E,E,2 | 
+G,2G, E, | 
+E,3z[M:3/4] | 
+E,2E, z/ A,< A, E,/[M:2/4] | 
+G,4 | 
+G, E, E, z | 
+G,2G, E, | 
+E,4[M:3/4] | 
+E,2E, zA,2[M:2/4] | 
+A,3E, | 
+G,3z | 
+G, E, E, z | 
+G,2G, E, | 
+E,4[M:3/4] | 
+E, E, E, z/ C/ (3C A, B,[M:2/4] | 
+A,3z | 
+C2G,2 | 
+C> A, A,3/ E,/ | 
+G,4 | 
+G, E,E,2 | 
+G,2G, E, | 
+E,4[M:3/4] | 
+E, E, E, zA,2[M:2/4] | 
+A,3E, | 
+G,3z | 
+G, E, E, z | 
+G,2G, E, | 
+E,4 | 
+E, E, E, z |]  
+
+
+X: 14
+T: Tick Dance Song (c)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 3947282471
+%%humdrum-veritas-data 3603285922
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=63
+K: Ab clef=bass
+C2 A,2B,4[M:3/4] | 
+C A, A, F,F,4F,4[M:2/4] | 
+E, E, C,2F,4[M:3/4] | 
+F, G, A, F,F,4F,2 F, z | 
+C2 A,2B,4[M:3/4] | 
+C A, A, F,F,4F,4[M:2/4] | 
+E, E, C,2F,4[M:3/4] | 
+F, G, A, F,F,4F,2 F, z[M:2/4] | 
+A,2 B,2B,4[M:3/4] | 
+B, A A F,F,4F,2 F,2[M:2/4] | 
+A,2 C2B,4[M:3/4] | 
+B, A, A, F,F,4F,2 F, z[M:2/4] | 
+E, E, C,2F,4[M:3/4] | 
+F, G, A, F,F,4F,2 F, z[M:2/4] | 
+B, z A zB,4[M:3/4] | 
+B, A, A, F, F,2 z2 F,2 F, z[M:2/4] | 
+E, E, C,2 F,2 F,2[M:3/4] | 
+F, G, A, F,2< F,2 E, F,2 F, z[M:2/4] | 
+A,2 C2B,4[M:3/4] | 
+B, A, A, F,F,4F,2 F, z[M:2/4] | 
+E, E, C,2F,4[M:3/4] | 
+F, G, A, F,F,4F,2 F, z |]  
+
+
+X: 15
+T: Tick Dance Song (d)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 1909793472
+%%humdrum-veritas-data 4137404043
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=132
+K: A clef=bass
+A, A,- A, A, | 
+A,2B,2 | 
+C B,- B, A, | 
+F,2A,2 | 
+A,2F, F, | 
+F,2F, z | 
+F,3C, | 
+F,2F,2 | 
+A,2F, F, | 
+F,2F, z | 
+F,3C, | 
+F,2F, z/ C/ | 
+C3C | 
+A,2A, z/ C/ | 
+B,3A, | 
+F,2A,2 | 
+A,2F, F, | 
+F,2F, z | 
+F,3C, | 
+F,2G, z | 
+A,2F, F, | 
+F,2F, z | 
+F,3C, | 
+F,2F, z/ B,/ | 
+B,3B, | 
+A,2A, z/ C/ | 
+B,3A, | 
+F,2A,2 | 
+A,2F, F, | 
+F,2F, z | 
+F,3C, | 
+F,2G, z | 
+A,2F, F, | 
+F,2F, z | 
+F,3C, | 
+F,2F, z |]  
+
+
+X: 16
+T: Tick Dance Song (e)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 3061987146
+%%humdrum-veritas-data 3411570298
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=80
+K: Eb clef=bass
+A,2A,2A, F, | 
+B,2B, A, G, E, | 
+F,2F, E, E, z | 
+E, E,E,2E,2 | 
+F,2F, E, E, z | 
+E, E,E,2E, B,, | 
+E, E, F, E, E, z | 
+E, E,E,2E, z | 
+E2E B,B,2 | 
+B,2B, A, G, E, | 
+F,2F, E, E, z | 
+E, E,E,2E,2 | 
+F,2F, E, E, z | 
+E,2E, E, E, B,, | 
+E, E, E, E, E, z | 
+E, E, E, E, E, E, | 
+A,2F, E,F,2 | 
+B,2B, A, G, E, | 
+F,2F, E, E, z | 
+E, E, E, E,E,2 | 
+F,2F, E, E, z | 
+E, E,E,2E, B,, | 
+E, E, E, E, E, z | 
+E, E, E, E,E,2 | 
+A,2F, E,F,2 | 
+B,2B, A, G, E, | 
+F,2F, E, E, z | 
+E, E, E, E,E,2 | 
+F,2F, E, E, z | 
+E, E,E,2E, B,, | 
+E, E, E, E, E, z | 
+E, E, E, E,E,2 |]  
+
+
+X: 17
+T: Tick Dance Song (f)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 3202001069
+%%humdrum-veritas-data 2604354786
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=80
+K: G clef=bass
+A, G, E, E, | 
+G, G, G, E,/ z/ | 
+G,< G, G, E,/ z/ | 
+A,2G,3/ F,/ | 
+E, E, E, E, | 
+E, G, E, !tenuto!E, | 
+E, E, E, z | 
+G,< E,E,2 | 
+A, G, E, E, | 
+G,2E,2 | 
+F,< E, G, E,/ z/ | 
+A,2G,3/ F,/ | 
+E, E, E, E, | 
+E, G, E, !tenuto!E, | 
+E, E, E, z | 
+G,< E,E,2 | 
+A, G, E, E, | 
+G,2z2 | 
+E,< E, A, E,/ z/ | 
+A,2G,3/ F,/ | 
+E, E, E, E, | 
+E, G, E, !tenuto!E, | 
+E, E, E, z | 
+G,< E,E,2 | 
+A, G, E, E, | 
+G,2G,3/ E,/ | 
+G,< G, G, E,/ z/ | 
+A,2G,3/ F,/ | 
+E, E, E, E, | 
+E, G, E, !tenuto!E, | 
+E, E, E, z | 
+G,< E,E,2 | 
+A, G, E, E, | 
+A,2G,3/ E,/ | 
+E, E,E,2 | 
+E, G, E, !tenuto!E, | 
+E, E, E, z/ G,/ | 
+E, E, E, z |]  
+
+
+X: 18
+T: Tick Dance Song (g)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 2339187843
+%%humdrum-veritas-data 2292887324
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=84
+K: Ab clef=bass
+A, =A, _A, F,[M:3/4] | 
+E, E, E, E,B,2[M:3/8] | 
+B,2F,[M:2/4] | 
+A, A,!fermata!F,2 | 
+E, E, E, E, | 
+E, E, E, z | 
+E,2E, B,, | 
+E, E,F,2 | 
+F, A, A, F, | 
+E, E, E, E, | 
+E, E, E, z | 
+=E,2_E, B,, | 
+E, E, F, z | 
+F, F, F, E, | 
+E, E, E, E, | 
+E, E, E, z | 
+E,2E, B,, | 
+E, E,E,2 | 
+E, B, B, A,[M:3/4] | 
+F, E, E, E,B,2[M:3/8] | 
+B,2F,[M:2/4] | 
+A, A,!fermata!F,2 | 
+E, E, E, E, | 
+E, E, E, z | 
+E,2E, B,, | 
+E, E,F,2 | 
+F, A, A, F, | 
+E, E, E, E, | 
+E, E, E, z | 
+E,2E, B,, | 
+E, E,E,2 | 
+E, B, B, A,[M:3/4] | 
+F, E, E, E,B,2[M:3/8] | 
+B,2F,[M:2/4] | 
+A, A,!fermata!F,2 | 
+E, E, E, E, | 
+E, E, E, z | 
+E,2E, B,, | 
+E, E,F,2 | 
+F, A, A, F, | 
+E, E, E, E, | 
+E, E, E, z | 
+E,2E, B,, | 
+E, E,E,2 |]  
+
+
+X: 19
+T: Tick Dance Song (h)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 894292478
+%%humdrum-veritas-data 311871480
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=100
+K: F clef=bass
+F,/ F,/F, | 
+F,/ F,/G, | 
+A,!tenuto!A,/ !tenuto!A,/ | 
+^G,z | 
+F,/ F,/F, | 
+C,/ C,/F, | 
+D,2 | 
+C,z | 
+F,/ F,/F, | 
+F,/ F,/G, | 
+A,!tenuto!A,/ !tenuto!A,/ | 
+^G,z | 
+F,/ F,/F, | 
+C,/ C,/F, | 
+D,2 | 
+C,z | 
+F,/< F,/F, | 
+F,/< F,/G, | 
+A,A, | 
+G,F,/ D,/ | 
+F,2 | 
+C,/ C,/F, | 
+D,2 | 
+C,z | 
+F,F,3// G,// | 
+G,2 | 
+A,A, | 
+G,F,/ D,// | 
+F,2 | 
+C,/< C,/F, | 
+D,2 | 
+C,z |]  
+
+
+X: 20
+T: Tick Dance Song (i)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 1844996409
+%%humdrum-veritas-data 1102055344
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=80
+K: Eb clef=bass
+B,3/G,/ | 
+B,G,/ E,/ | 
+G,F,/ E,/ | 
+E,E,/ z/ | 
+B,/< G,/B, | 
+G,F,/ E,/ | 
+F,3/E,/[M:3/4] | 
+F,E,/ z/G,[M:2/4] | 
+F,3/E,/[M:3/4] | 
+F,E,G,[M:2/4] | 
+F,3/E,/ | 
+F,F, | 
+C3/G,/ | 
+B,G,/ F,/ | 
+G,G,/ F,/ | 
+E,/ E,/ E,/ z/ | 
+B,/< G,/B, | 
+G,F,/ E/ | 
+F,3/E,/[M:3/4] | 
+F,E,G,[M:2/4] | 
+F,3/=E,/[M:3/4] | 
+F,E,G,[M:2/4] | 
+F,3/E,/ | 
+F,F, | 
+B,3/G,/ | 
+B,G,/ E,/ | 
+G,F,/ E,/ | 
+E,E,/ z/ | 
+B,/< G,/B, | 
+G,F,/ E,/ | 
+F,3/E,/[M:3/4] | 
+F,E,/ z/G,[M:2/4] | 
+F,3/E,/[M:3/4] | 
+F,E,G,[M:2/4] | 
+F,3/E,/ | 
+F,F, |]  
+
+
+X: 21
+T: Tick Dance Song (j)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 2557872910
+%%humdrum-veritas-data 957715842
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=63
+K: Eb clef=bass
+B, G, B, G, B, z | 
+B,< G, (3G, F, E,!fermata!F,2[M:2/4] | 
+E,> G, (3G, F, E, | 
+F,2z3/ A,/[M:3/4] | 
+G,> E,F,2z2[M:2/4] | 
+F,< F, F, E, | 
+F,2E,3/ G,/[M:3/4] | 
+G,> E,F,2z2 | 
+F,< F, F, E,F,2 | 
+C> C B,> G, B, z[M:2/4] | 
+B,> G, (3G, F, E, | 
+F,2=E,3/ G,/[M:3/4] | 
+G,> E,F,2z3/ A,/ | 
+G,> E,F,2z2[M:2/4] | 
+F,< F, F, E, | 
+F,2E,3/ A,/[M:3/4] | 
+G,> E,F,2z2[M:2/4] | 
+F,< F, F, E,[M:5/8] | 
+F,2F,2F,[M:2/4] | 
+B,> G,B,2 | 
+B,< G, (3G, F, E,!fermata!F,2[M:2/4] | 
+E,> G, (3G, F, E, | 
+F,2z3/ A,/[M:3/4] | 
+G,> E,F,2z2[M:2/4] | 
+F,< F, F, E, | 
+F,2E,3/ G,/[M:3/4] | 
+G,> E,F,2z2 | 
+F,< F, F, E,F,2 |]  
+
+
+X: 22
+T: Tick Dance Song (k)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 1912330375
+%%humdrum-veritas-data 1517908128
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=66
+K: E clef=bass
+z4z2 G,2 | 
+B,2> B,2 B,2 G,2[M:3/4] | 
+B,< B, G, F,2< E,2 E,C,4 | 
+G,< G, G, F, F,2 F,2F,4[M:7/8] | 
+F, E, C, B,, B,,2 B,,2 B,,2 z2 B,,2[M:2/4] | 
+E,2> E,2 E,2 F,2[M:3/4] | 
+G,< G, G, F,2< E,2 E, C,2 z2 | 
+G, G, G, F,F,4F,4 | 
+F, E, C, B,, B,,2 B,,2 B,,2 z2[M:2/4] | 
+G, G, B,2 B,2 G, G,[M:3/4] | 
+B,2 G,2 F,2 E, E,E,4 | 
+B,,2 E,2C,4B,,2 z2[M:2/4] | 
+B,,2 E,> F,F,4 | 
+G,2 G,2 F,2 E,3/ C,/ | 
+E,4B,,2 E,2[M:5/8] | 
+C,4B,,2 z2 B,,2 | 
+z4z2 G,2 | 
+B,2> B,2 B,2 G,2[M:3/4] | 
+B,< B, G, F,2< E,2 E,C,4 | 
+G,< G, G, F, F,2 F,2F,4[M:7/8] | 
+F, E, C, B,, B,,2 B,,2 B,,2 z2 B,,2[M:2/4] | 
+E,2> E,2 E,2 F,2[M:3/4] | 
+G,< G, G, F,2< E,2 E, C,2 z2 | 
+G, G, G, F,F,4F,4 | 
+F, E, C, B,, B,,2 B,,2 B,,2 z2 |]  
+
+
+X: 23
+T: Drunken-man Dance Song (a)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 1523451788
+%%humdrum-veritas-data 999639649
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=112
+K: G clef=bass
+B,2B, A, | 
+A, G,G,2 | 
+B,3A, | 
+G,4[M:3/4] | 
+B,2G, A, (3G, E, E,[M:2/4] | 
+G,2G, G, | 
+B,2A, A, | 
+A, G,z2[M:3/4] | 
+G,2G, A, (3G, E, E, | 
+G,2G, G,z2 | 
+G,2G, A, G,3/ E,/ | 
+G,2G, G,z2 | 
+B,2G, A, (3G, G, G, | 
+B,3A, | 
+G,4[M:3/4] | 
+B,2G, A, (3G, E, E,[M:2/4] | 
+G,2G, G, | 
+B,2A, A, | 
+A, G,z2[M:3/4] | 
+G,2G, A, (3G, E, E, | 
+G,2G, G,z2 |]  
+
+
+X: 24
+T: Drunken-man Dance Song (b)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 1941820686
+%%humdrum-veritas-data 4047670025
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=96
+K: F clef=bass
+F, F, F,3/ G,/ | 
+F, F,F,2 | 
+C2A, A, | 
+A,2A, F, | 
+G,2F, F, | 
+F, F,F,2 | 
+G,> F, F, G, | 
+F,2F, z | 
+F,2F, F, | 
+F, F,F,2 | 
+A,2F, F, | 
+A,2A, F, | 
+G,2F, F, | 
+F, F,F,2 | 
+A,> F, F, G, | 
+F,2F, z | 
+F,2F, F, | 
+F, F,F,2 | 
+A,2F, F, | 
+A,2A, F,/ z/ | 
+G,2G, F, | 
+F, F,F,2 | 
+G,> F, F, G, | 
+F,2F, z | 
+F,2F, F, | 
+F, F,F,2 | 
+C2A, A, | 
+A,2A, F, | 
+G,2F, F, | 
+F, F,F,2 | 
+G,> F, F, G, | 
+F,2F, z | 
+F,2F, F, | 
+F, F,F,2 | 
+A,2F, F, | 
+A,2A, F, | 
+G,2F, F, | 
+F, F,F,2 | 
+A,> F, F, G, | 
+F,2F, z | 
+F,2F, F, | 
+F, F,F,2 | 
+A,2F, F, | 
+A,2A, F,/ z/ | 
+G,2G, F, | 
+F, F,F,2 | 
+G,> F, F, G, | 
+F,2F, z | 
+F,2F, F, | 
+F, F,F,2 |]  
+
+
+X: 25
+T: Drunken-man Dance Song (c)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 3168562189
+%%humdrum-veritas-data 2834887800
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=100
+K: A clef=bass
+F,2F, F, | 
+F, F,- F, F, | 
+E,2C, C, | 
+C,2F, z | 
+F, F,- F, F, | 
+F,2F,3/ ^E,/ | 
+F, F,F,2 | 
+A,2A, F, | 
+B,2A,2 | 
+A, F,- F, F, | 
+F, F, F, z | 
+F, F,F,2 | 
+F, F,- F, F, | 
+E,2C, C, | 
+C,2F, z | 
+F, F,- F, F, | 
+F,2F,3/ ^E,/ | 
+F, F,F,2 | 
+A,2F, F, | 
+B,2A,2 | 
+A, F,- F, F, | 
+F, F, F, z | 
+F, F,F,2 | 
+F, F,- F, F, | 
+E,2E, C, | 
+C,2F, z | 
+F, F,- F, F, | 
+F,2F,3/ ^E,/ | 
+F, F,F,2 | 
+B,2F, F, | 
+B,2A,2 | 
+A, F,- F, ^E, | 
+F, F, F, z | 
+F,2A,2 | 
+E, E,- E, C, | 
+E,2C, C, | 
+C,2F, z | 
+F, F,- F, F, | 
+F,2F,3/ ^E,/ | 
+F, F,F,2 | 
+A,2A, F, | 
+B,2A,2 | 
+A, F,- F, F, | 
+F, F, F, z | 
+F,2A,2 | 
+E, E,- E, C, | 
+E,2C, C, | 
+C,2F, z | 
+F, F,- F, ^E, | 
+F,2F,3/ ^E,/ | 
+F, F,F,2 | 
+F, F,- F, F, | 
+F,2F,3/ ^E,/ | 
+F, F,F,2 | 
+A,2A, F, | 
+B,2A,2 | 
+A, F,- F, F, | 
+F, F, F, z | 
+F, F,F,2 | 
+F, F,- F, F, | 
+E,2C, C, | 
+C,2F, z | 
+F, F,- F, F, | 
+F,2F,3/ ^E,/ | 
+F, F,F,2 | 
+A,2F, F, | 
+B,2A,2 | 
+A, F,- F, F, | 
+F, F, F, z | 
+F, F,F,2 | 
+F, F,- F, F, | 
+E,2E, C, | 
+C,2F, z | 
+F, F,- F, F, | 
+F,2F,3/ ^E,/ | 
+F, F,F,2 | 
+B,2F, F, | 
+B,2A,2 | 
+A, F,- F, ^E, | 
+F, F, F, z | 
+F,2A,2 | 
+E, E,- E, C, | 
+E,2C, C, | 
+C,2F, z | 
+F, F,- F, F, | 
+F,2F,3/ ^E,/ | 
+F, F,F,2 | 
+A,2A, F, | 
+B,2A,2 | 
+A, F,- F, F, | 
+F, F, F, z | 
+F,2A,2 | 
+E, E,- E, C, | 
+E,2C, C, | 
+C,2F, z | 
+F, F,- F, ^E, | 
+F,2F,3/ ^E,/ | 
+F, F,F,2 |]  
+
+
+X: 26
+T: Drunken-man Dance Song (d)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 27, 2000
+%%humdrum-veritas 106771304
+%%humdrum-veritas-data 1416652678
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=96
+K: Ab clef=bass
+F, F, A,3/ F,/ | 
+A,2A, F, | 
+A,2A, F, | 
+F,2F,2 | 
+F, F, A,3/ F,/ | 
+A,2A, z | 
+A,2F, F, | 
+F,2F,2 ]|:  
+F, CC2 [I:setbarnb 10]| 
+B,2A, F, | 
+A,2A, z | 
+A, A, F, F, | 
+F,2F,2 | 
+B,2A, F, | 
+A,2A, z | 
+A, A, F, F, | 
+F,2F,2 | 
+F, CC2 | 
+A,2C C | 
+B,3z | 
+A,2F, F, | 
+F,2F,2 | 
+C CC2 | 
+B,2A, F, | 
+A,2A, z | 
+A,2F, F, | 
+F,2F, z | 
+F,2A, F, | 
+A,2A, z | 
+A,2F, F, | 
+F,2F,2 :|]  
+B,2A, F, [I:setbarnb 33]| 
+A,2A, z | 
+A,2F, F, | 
+F,2F, z |]  
+
+
+X: 27
+T: Drunken-man Dance Song (e)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 2767519777
+%%humdrum-veritas-data 3296101002
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=96
+K: G clef=bass
+G, G, G, G, | 
+G, G,G,2 | 
+B,2G, G, | 
+B,2B, G, | 
+A,2A, G, | 
+G, G, G, z | 
+A,> G, G, A, | 
+G, G, G, z | 
+G, G, G, G, | 
+G, G,G,2 ]|:  
+D2B, B, [I:setbarnb 12]| 
+B,2B, G, | 
+A,2A, G, | 
+G, G,G,2 | 
+A,> G, G, A, | 
+G, G, G, z | 
+G, G, G, G, | 
+G, G,G,2 | 
+B,2G, G, | 
+B,2G, G, | 
+A,2A, G, | 
+G, G,G,2 | 
+A,> G, G, A, | 
+G, G, G, z | 
+G, G, G, G, | 
+G, G,G,2 | 
+B,2G, G, | 
+B,2B, G, | 
+A,2A, G, | 
+G, G,G,2 | 
+A,> G, G, A, | 
+G, G, G, z | 
+G, G, G, G, | 
+G, G,G,2 :|]  
+B,> A, A, D [I:setbarnb 36]| 
+D3z | 
+C2A,3/ G,/ | 
+G,2A, G,/ z/ | 
+D3B, | 
+B,2B, G, | 
+A,2A, G, | 
+G, G,G,2 | 
+A, G, E, A, | 
+G, G, G, z | 
+G, G, G, G, | 
+G, G,G,2 | 
+B,2G, G, | 
+B,2B, G, | 
+A,2A, G, | 
+G, G,G,2 | 
+A, G, E, A, | 
+G, G, G, z | 
+G,> E,G,2 | 
+G, G, G, z |]  
+
+
+X: 28
+T: Drunken-man Dance Song (f)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 757530038
+%%humdrum-veritas-data 3113713441
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=96
+K: A clef=bass
+F, F,- F, F, [I:setbarnb 2]| 
+F, F,F,2 | 
+A, F,E,2 | 
+A, A,- A, A, | 
+A, zA,2 | 
+A, A, E, z | 
+F, F,- F, F, | 
+F, zF,2 | 
+F, E, E, z | 
+F, F,- F, F, | 
+F, F,F,2 | 
+A, A,E,2 | 
+A, A,- A, A, | 
+A, zA,2 | 
+A,> G, E, z | 
+F, F,- F, F, | 
+F, zF,2 | 
+F,> E, E, z :|]  
+F, F,- F, F, [I:setbarnb 20]| 
+F, zz2 |]  
+
+
+X: 29
+T: Drunken-man Dance Song (g)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 4088560092
+%%humdrum-veritas-data 2331160232
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=96
+K: A clef=bass
+F, F,F,2 | 
+F, F,F,2[M:3/4] | 
+A,2B,> A,F,2[M:2/4] | 
+A,2B,/ A,/ A, | 
+F, F,F,2[M:5/8] | 
+A, A,A,2F,[M:2/4] | 
+F,2z2 | 
+F, F,F,2 | 
+F, F,F,2[M:5/8] | 
+A,2B,2A,[M:2/4] | 
+F,2z2 | 
+A,2A, F, | 
+F, F, F, z[M:5/8] | 
+A, A,A,2F,[M:2/4] | 
+F,2F,2 | 
+F, F,F,2 | 
+F, F,F,2[M:5/8] | 
+B, A,B,2A,[M:2/4] | 
+F,2z2 | 
+A,2A,3/ F,/ | 
+F, F,F,2[M:5/8] | 
+A,2A,2F,[M:2/4] | 
+F,2z2 | 
+F, F,F,2 | 
+F, F,F,2 :|]  
+
+
+X: 30
+T: Drunken-man Dance Song (h)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 2063378583
+%%humdrum-veritas-data 3422172026
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=60
+K: F clef=bass
+F,2 F, F,C4 | 
+B,2> G,2 F,2 F,2 | 
+B,2> F,2 G,2 G, z | 
+F,2> D,2 C, C, C,2 | 
+F,2 F, F,C4 | 
+B,2> G,2 F,2 G, F, | 
+B,2> F,2G,4 | 
+F,2> D,2 C, C, C, z :|]  
+
+
+X: 31
+T: Duck Dance Song (a)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 3010135330
+%%humdrum-veritas-data 749640267
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=76
+K: G clef=bass
+B,4G,3 G,[M:3/4] | 
+D,2 G, G, G, G, G,2 G, G, G,2[M:2/4] | 
+E,2> E,2 E,2 z2 | 
+B,4G,2 z2 | 
+B,4G,2 D,2[M:5/8] | 
+G,2 G, G, G,2 G, G, G,2[M:2/4] | 
+E,4E,2 z2 | 
+B,4G,2 B,2 | 
+(3A,2 G,2 E,2 E,2 E, z | 
+A,2> A,2 G,2 G, z | 
+G,2> E,2 E,2 E, z | 
+G,2 A, A, G,2 G, z | 
+G,2> E,2 E,2 E, z | 
+A,2 A, A, G,2 G, z | 
+G,2> E,2 E,2 E, z | 
+G,2 A, A, G,2 G, z | 
+G,2> E,2 E,2 E, z ]|:  
+B,4G,2 B,2 [I:setbarnb 19]| 
+(3A,2 G,2 E,2 E,2 E, z | 
+A,2 A, A, G,2 G, z | 
+G,2> E,2 E,2 E, z |]  
+G,2 A, A, G,2 G, z [I:setbarnb 23]| 
+G,2> E,2 E,2 E, z :|]  
+
+
+X: 32
+T: Duck Dance Song (b)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 1662908574
+%%humdrum-veritas-data 570938784
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=132
+K: G clef=bass
+A, A,A,2 | 
+G,2G,2 | 
+A,2G, E, | 
+E,2E,2 | 
+A, A,A,2 | 
+G,2A,2 | 
+A,2G, E, | 
+D,2D, z | 
+A, A,A,2 | 
+G,2G,2 | 
+A,2G, E, | 
+E,2E,2 | 
+A, A,A,2 | 
+G,2G,2 | 
+A,2G, E, | 
+D,2D, z | 
+B, B,B,2 | 
+A,2B,2 | 
+A,2G, E, | 
+E,2E, z | 
+A, A,A,2 | 
+G,2G,2 | 
+A,2G, E, | 
+D,2D, z | 
+A, A,A,2 | 
+G,2G,2 | 
+A,2G, E, | 
+E,2E, z | 
+A, A,A,2 | 
+G,2G,2 | 
+A,2G, E, | 
+D,2D, z | 
+B, B,B,2 | 
+A,2B,2 | 
+A,2G, E, | 
+E,2E, z | 
+A, A,A,2 | 
+G,2A,2 | 
+A,2G, E, | 
+D,2D, z ]|:  
+A, A,A,2 [I:setbarnb 42]| 
+G,2G,2 | 
+A2G, E, | 
+E,2E, z | 
+A, A,A,2 | 
+G,2A,2 | 
+A,2G, E, | 
+D,2D, z :|]  
+B, B,B,2 [I:setbarnb 50]| 
+A,2B,2 | 
+A,2G, E, | 
+E,2E, z | 
+A, A,A,2 | 
+G,2G,2 | 
+A,2E, E,[M:3/4] | 
+D,2D,2D, z |]  
+
+
+X: 33
+T: Snake Dance Song (a)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 1656139511
+%%humdrum-veritas-data 2655050242
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=66
+K: G clef=bass
+G, G,A,2[M:3/4] | 
+B,> G, G, D,D,2[M:2/4] | 
+B, B,/ A,/B,2[M:3/4] | 
+A,> G, G, D, D, z[M:2/4] | 
+G, G,A,2[M:3/4] | 
+B,> G, G, D,D,2[M:2/4] | 
+B, B,/ A,/B,2[M:3/4] | 
+A,> G, G, D, D, z[M:2/4] | 
+G, G,A,2[M:3/4] | 
+B,> G, G, D, D, z/ G,/ ]|:  
+[M:2/4]G,> G, G, z[M:3/4] [I:setbarnb 12]| 
+G,2G,2z3/ G,/[M:2/4] | 
+G,> G, G, z[M:3/4] | 
+G,2G,2z3/ A,/[M:2/4] | 
+A,> G, G, z[M:3/4] | 
+G,2G,2z3/ G,/[M:2/4] | 
+G,> G, G, z[M:3/4] | 
+G,2G,2z3/ G,/ :|]  
+G,2G,2 |]  
+
+
+X: 34
+T: Snake Dance Song (b)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 2042649866
+%%humdrum-veritas-data 3450707912
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=63
+K: F clef=bass
+F,> G,G,2[M:3/4] | 
+A,> F, F, C,C,2[M:2/4] | 
+A,> ^G,G,2[M:3/4] | 
+=G,> F, F, C, C, z[M:2/4] | 
+F, F,/ F,/G,2[M:3/4] | 
+A,> F, F, C,C,2[M:2/4] | 
+C A,/ A,/A,2[M:3/4] | 
+G,> F, F, C, C, z[M:2/4] | 
+F, F,/ F,/G,2[M:3/4] | 
+A,> F, F, C,C,2[M:2/4] | 
+C A,/ A,/A,2[M:3/4] | 
+G,> F, F, C, C, z |]  
+A,/ A,/ A, A,/ A,/ A,/ z/ :||:  
+A,/ A,/ A, A, A,/ z/ :|]  
+
+
+X: 35
+T: Steal-partner Dance Song (a)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 3270433080
+%%humdrum-veritas-data 612795587
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=80
+K: Ab clef=bass
+A,G,A,2 | 
+C2B,2[M:3/8] | 
+A,2A,[M:2/4] | 
+F,3E, | 
+F,F,F,2 | 
+E,C, C, z[M:5/8] | 
+G,2G,F,G,[M:2/4] | 
+F,3E, | 
+F,F,F,2 | 
+E,C, C, z[M:5/8] | 
+F,2F,F,A,[M:2/4] | 
+F,3E, | 
+F,F,F,2 | 
+E,C, C, z[M:5/8] | 
+G,2G,F,G,[M:2/4] | 
+F,3E, | 
+F,F,F,2 | 
+E,C, C, z[M:5/8] | 
+F,2F,F,A,[M:2/4] | 
+F,4[M:5/8] ]|:  
+ [K:E] =F,F,F,2=C[M:2/4] ||  
+(3A,=G,A, G,3/ =F,/ [I:setbarnb 23]| 
+=F,2z A, | 
+(3A,=G,A, G,3/ G,/ | 
+=F,4 | 
+=D,=C,D,2[M:5/8] | 
+ [K:Ab] G,2G,F,G,[M:2/4] | 
+F,3E, | 
+F,F,F,2 | 
+D,C,D,2[M:5/8] | 
+F,2F,F,G,[M:2/4] | 
+F,2z2 | 
+F,F,F,2 |]  
+G,G,G,2 [I:setbarnb 35]| 
+C2B,2[M:3/8] | 
+G,2G,[M:2/4] | 
+F,2z2 | 
+F,F,F,2 | 
+D,C,D,2[M:5/8] | 
+G,2G,F,G,[M:2/4] | 
+F,3D, | 
+F,F,F,2 | 
+D,C,D,2[M:5/8] | 
+F,2F,F,G,[M:2/4] | 
+F,2z2 :|]  
+
+
+X: 36
+T: Steal-partner Dance Song (b)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 247133203
+%%humdrum-veritas-data 1922508190
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=92
+K: G clef=bass
+G,2G, =F, | 
+E, E, E, z | 
+G, F,- F, E, | 
+F,2F, E,/ z/ | 
+F,2G, F, | 
+E, E, E, z | 
+E, E,- E, B,, | 
+E, E,E,2 | 
+F,2F, E, | 
+F, F, B, z | 
+E, E,- E, B,, | 
+E, E, E, z :|]  
+
+
+X: 37
+T: Steal-partner Dance Song (c)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 184865954
+%%humdrum-veritas-data 2083666817
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=80
+K: F clef=bass
+A,2G,> F, F, F,[M:2/4] | 
+F,2F, z[M:3/4] | 
+G, G, G,> F,F,2 | 
+A, G,A,2G,2 | 
+F, D,F,2z2 | 
+F, D, F, F,F,2[M:2/4] | 
+D,2G,2 | 
+F,2F, D, | 
+F,2z2 | 
+F, D, F, F, | 
+F,2D,2 | 
+F, D,F,2 | 
+F,2C2 | 
+F, D, F, F, | 
+F,2D,2 | 
+[M:3/4]F, D,F,2F, z |]  
+
+
+X: 38
+T: Steal-partner Dance Song (d)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 2734408907
+%%humdrum-veritas-data 3632819386
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=92
+K: E clef=bass
+G, G,G,2F,2 [I:setbarnb 2]| 
+E, E, E, E, E, z | 
+F, F, F,> E,E,2 | 
+G,> F,G,2F,2 | 
+E, C, E, E, E, z | 
+E, C, E, E,E,2[M:2/4] | 
+C,2F,2 | 
+E,2C, E,[M:3/4] | 
+E,2>z2 E, C,[M:2/4] | 
+E, E,E,2 :|]  
+
+
+X: 39
+T: Steal-partner Dance Song (e)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 1656811761
+%%humdrum-veritas-data 1817532338
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=92
+K: F clef=bass
+A,2A, G, | 
+F, F,F,2 | 
+F,> D,D,2 ]|:  
+G,2G,3/ F,/ [I:setbarnb 5]| 
+G,2A, G, | 
+F, F, F, z | 
+F,2D, D, | 
+F, F,F,2 |]  
+F,2G, F, | 
+D, D,D,2[M:3/8] | 
+D, F, F, | 
+
+
+X: 40
+T: Steal-partner Dance Song (f)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 1227908432
+%%humdrum-veritas-data 2497448817
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 5/8
+Q: 1/8=144
+K: F clef=bass
+A,2!tenuto!A, G, A, | 
+F,2F,2G,[M:3/4] | 
+G,> F,G,2G, F,/ z/[M:2/4] | 
+A, G, A,3/ G,/ | 
+F,2z2 | 
+F, F,- F,3/ D,/ | 
+F, F,F,2[M:5/8] | 
+A, F, G,- G,3/ F,/[M:2/4] | 
+D,2z2 | 
+F, F,- F,3/ G,/ | 
+F, F,F,2[M:5/8] | 
+C2A,2G,[M:2/4] | 
+F,2z2 | 
+G, G,- G,3/ F,/ | 
+G,2-G, F,/ z[M:5/8] | 
+A,2G,2A,[M:2/4] | 
+F,2z2 | 
+F, F,- F,3/ D,/ | 
+F, F,F,2[M:5/8] | 
+A,F, G,-G,3/F,/[M:2/4] | 
+D,2z2 | 
+F, F,- F,3/ G,/ | 
+F, F,F,2 |]  
+A,2A,3/ G,/ [I:setbarnb 25]| 
+F,2z2 | 
+G, G,- G,3/ F,/ | 
+G,2G, F,[M:5/8] | 
+A,2G,2A,[M:2/4] | 
+F,2z2 | 
+F, F,- F, D, | 
+F, F,F,2[M:5/8] | 
+A, F, G,- G,3/ F,/[M:2/4] | 
+D,2D, z | 
+F, F,- F,3/ G,/ | 
+F, F,F,2 :|]  
+
+
+X: 41
+T: Steal-partner Dance Song (g)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 3714126389
+%%humdrum-veritas-data 498259952
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=116
+K: E clef=bass
+z> B, B,3/ B,/ | 
+B,2z2 | 
+C2B,3/ C/[M:3/4] | 
+G,3z> G, (3G, E, G,[M:2/4] | 
+G,2z2 | 
+G,2B,3/ G,/[M:3/4] | 
+F,2z> G, (3G, F, G,[M:2/4] | 
+G,2z2 |]  
+C2B,3/ C/[M:3/4] [I:setbarnb 10]| 
+G,2z> B, B,3/ B,/[M:2/4] | 
+B,2z2 :|]  
+Error: new spine information is not the right size
+1	2
+Required size is: 1
+New size would be: 2
+Input line of error: 42
+Line: *M3/4
+
+
+X: 42
+T: Bear Dance Song (b)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 926742358
+%%humdrum-veritas-data 3228157403
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=84
+K: A clef=bass
+A,> A, A, A,/ C/ | 
+B,> A, A, F,/ z/ | 
+A, A, A, z | 
+A,2F, F,/ z/ | 
+A, A, A, z | 
+A, A, F, F,/ z/ | 
+A, A, A, z | 
+A,< E C/ B,3/ | 
+C< B, A,/ F,/ z | 
+A,< A, A, z | 
+A,< A, A, A,/ C/ | 
+B,< A, A,/ F,/ z | 
+A,< A, A, z[M:3/4] | 
+A,< E C< B, A,/ F,/ z[M:2/4] | 
+A,< A, A, z | 
+A,< A, F,/ F,/ z | 
+A,< A, A, z |]  
+
+
+X: 43
+T: Bear Dance Song (c)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 343426621
+%%humdrum-veritas-data 3847446846
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: G clef=bass
+D> B, D z | 
+D> B, D z | 
+D> B, D z | 
+B,> B, B,/ G,3/ | 
+A,> A, G, C | 
+B,> G, G,/ G,3/ | 
+G,> G, G, z | 
+G,> G, G,/ G,3/ | 
+A,> G, G,/ G,3/ | 
+G,> G, G, z | 
+G,> G, G,/ G,3/ | 
+A,> G, G,/ G,3/ | 
+G,> G, G, z | 
+G,> G, G,/ G,3/ | 
+B,2A,2 | 
+B,> B, B,/ G,3/ | 
+A,> G, G, C | 
+B,> G, G,/ G,3/ | 
+G,> G, G, z | 
+G,> G, G,/ G,3/ | 
+A,> G, G,/ G,3/ | 
+G,> G, G,/ G,3/ | 
+D> G, D z |]  
+
+
+X: 44
+T: Bear Dance Song (d)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 2299468128
+%%humdrum-veritas-data 2067215044
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: G clef=bass
+G,> G, G,/ G,3/ | 
+A,> G, G,/ G,3/ | 
+G,> G, G, z | 
+G,> G, G,/ G,3/ | 
+A,> G, G,/ G,3/ | 
+G,> G, G, z | 
+G,> G, G,/ G,3/ | 
+A,> G, G,/ G,3/ | 
+G,> G, G, z | 
+G, D D B,[M:3/4] | 
+A, B, G, E, E, z[M:2/4] | 
+E, D D B,[M:3/4] | 
+A, B, G, G, G, z | 
+G,< G, A, G, G, z[M:2/4] | 
+A,< G, G,/ G,3/ | 
+A, G, G, G, |]  
+
+
+X: 45
+T: Stomp Dance Song (a)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 2178713208
+%%humdrum-veritas-data 3547244368
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=72
+K: Db clef=bass
+B, B,/ B,/ B, B,3// B,//[M:3/4] | 
+(3B, B, B, D> B, B, B,3// B,//[M:2/4] | 
+(3B, B, B, B, B,/ z/[M:3/4] | 
+E E/ B,/ D B, B,/ B, B,/[M:2/4] | 
+(3B, B, B, B, B,/ z/[M:3/4] | 
+E E/ B,/ D B, B,/ B, B,/[M:2/4] | 
+(3B, B, B, B, B,/ z/[M:3/4] | 
+B, B,/ B,< D B,/ B, B,[M:2/4] | 
+B, B,/ B,/ B, B,/ z/[M:3/4] | 
+B, B,/ B,< D B,/ D D/ z/[M:2/4] | 
+B, B,/ B,/ B, B,/ z/[M:3/4] | 
+E E/ B,/ D B, B,/ B,3/[M:2/4] | 
+B, B,/ B,/ B, B,/ z/[M:3/4] | 
+D/ B, B,/ D B, B,/ B,/ z/ B,/[M:2/4] | 
+(3B, B, B, B, B,/ z/[M:3/4] | 
+B, B,/ B,/ D B, B, B,[M:2/4] | 
+B, B,/ B,/ B, B,/ z/[M:3/4] | 
+B, B,/ B,< D B,/ D D/ z/[M:2/4] | 
+B, B,/ B,/ B, B,[M:3/4] | 
+B,/ B, B,/ D B, B,/ B,/ z/ B,/[M:2/4] | 
+(3B, B, B, B, B,/ z// B,// | 
+B, z B, zz2 |]  
+
+
+X: 46
+T: Stomp Dance Song (b)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 963772050
+%%humdrum-veritas-data 2296670849
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=66
+K: B clef=bass
+G,2 G, G, G,2 G,2[M:3/4] | 
+G,2 G, G, B,2 G, F, G, G,3[M:2/4] | 
+G,2 G, G, G,2 G,2[M:3/4] | 
+B, G,2 G, B,2 G, F, G,2 G, z[M:2/4] | 
+G,2 G, G, G,2 G, z[M:3/4] | 
+G,2 G, G,2< B,2 G, B,2 B, z[M:2/4] | 
+G,2 G, G, G,2 G, z[M:3/4] | 
+G,2 G, G, B,2 G,2 G, G, z2[M:2/4] | 
+G,2 G, G, G,2 G, z[M:3/4] | 
+G, G,2 G, B,2 G, F, G, G,2 z[M:2/4] | 
+G,2 G, G, G,2 G, z[M:3/4] | 
+C2 C B, B,2 G, F, G, G, z2[M:2/4] | 
+G,2 G, G, G,2 G, z[M:3/4] | 
+G,2 G, G, B,2 G, F, G, G,2 z[M:2/4] | 
+G,2 G, G, G,2 G,2[M:3/4] | 
+G,2 G, G, B,2 G, F, G,2 G, z[M:2/4] | 
+G,2 G, G, G,2 G,2[M:3/4] | 
+G,2 G, G,2< B,2 G, B,2 B, z[M:2/4] | 
+G,2 G, G, G,2 G, z[M:3/4] | 
+G,2 G, G, B,2 G, F, G,2 G, z[M:2/4] | 
+G,2 G, G, G,2 G, z[M:3/4] | 
+B, G,2 G, B,2 G, F, G,2 G, z[M:2/4] | 
+G,2 G, G, G,2 G, z[M:3/4] | 
+B, G,2 G, B,2 G, F, G, G,2 z[M:2/4] | 
+G,2 G, G, G,2 G, z/ G,/ | 
+G,4G,2 z2 |]  
+
+
+X: 47
+T: Stomp Dance Song (c)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 501599587
+%%humdrum-veritas-data 3128593814
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=66
+K: A clef=bass
+A,2 F, E, A,< A, A, G, A,2 A,2 | 
+A,2 B,2 C2< A,2 A,2 A,2[M:2/4] | 
+A,2 F, E, A, A,2 z[M:3/4] | 
+A,2 B,2 C2< A,2 A,2 A,2[M:2/4] | 
+A,2 F, E, A,< A, F, E,[M:3/8] | 
+A,2 A,2 A, z[M:3/4] | 
+A,2 A, A, =C2 A,2 A,2 A,2 | 
+A,2 F, E, A,< A, A, G, A,2 A, z | 
+C2 C> A, B,2 A,2 A, A,2 z | 
+A,2 F, E, A,< A, A, G, A,2 A,2 | 
+=C A,2 A, C2 A,2 A, A,2 z | 
+A,2 F, E, A,< A, A, G, A,2 A, z | 
+A,2 B,2 C2< A,2 A,2 A, z | 
+A,2 F, E, A,< A, A, G, A,2 A, z/ D/ | 
+D2> A,2 B,2 A,2 A, A,2 z | 
+A,2 F, E, A,< A, A, G, A,2 A,2 | 
+=C A,2 A, C2 A,2 A, A,2 z | 
+A,2 F, E, A,< A, A, G, A,2 A,2 | 
+A, A,2 A, =C2 A,2 A, A,2 z | 
+A,2 F, E, A,< A, A, G, A,2 A, z/ A,/ | 
+A,4A,2 z2z4 |]  
+
+
+X: 48
+T: Stomp Dance Song (d)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 28, 2000
+%%humdrum-veritas 2881057808
+%%humdrum-veritas-data 3848326112
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=76
+K: Eb clef=bass
+E2 C2 B, B,2 G, G,2 B, z[M:5/8] | 
+B,2 B, F, B,2 B,2 C3/ B,/[M:2/4] | 
+B,2> G,2 G,2 B, z[M:5/8] | 
+B,2 B, F, B,2 B,2 C3/ D/[M:2/4] | 
+C2> B2 G,2 B, z | 
+B,2 B, F, B,2 !fermata!z2[M:3/8] | 
+B,2 B, B, C3/ D/[M:2/4] | 
+C2> B,2 G,2 B, z | 
+B,2 B, F, B, z B, B, | 
+C> D C> B, G,2 D z | 
+B,2 B, F, B, z B, B, | 
+C> D C3/ B, G,2 B, z | 
+B,2 B, F, B, z B, B, | 
+C> D C> B, G,2 B, z[M:5/8] | 
+B,2 B, F, B, z E2 C3/ C/[M:2/4] | 
+B,2> G,2 G,2 B, z[M:5/8] | 
+B,2 B, F, B, z B,2 C3/ B,/[M:2/4] | 
+B,2> G,2 G,2 B, z[M:5/8] | 
+B,2 B, F, B, z E2 C3/ E/[M:2/4] | 
+C2> B,2 G,2 B, z[M:5/8] | 
+B,2 B, F, B, z B,2 C3/ B,/[M:2/4] | 
+B,2> G,2 G,2 B, z[M:3/8] | 
+B,2 B, F, B, z/ B,/ | 
+B,4B, z |]  
+
+
+X: 49
+T: Stomp Dance Song (e)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 3743399448
+%%humdrum-veritas-data 341044910
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=72
+K: Bb clef=bass
+G,2 A,2 B,2< G,2 G,2 G,2 | 
+G,2 E, D, G, G, G, F, G,2 G,2 | 
+G,2 A,2 B,2< G,2 G,2 G,2 | 
+G,2 E, D, G, G, G, F, G,2 G,3/ C/ | 
+C2> B,2 B,2 G,2 G, G,2 z[M:2/4] | 
+G,2 E, D, G, G, G, F, | 
+G,2 G,2 G,2 G, z | 
+B,2 G,2 G, G,2 z | 
+G,2 G, G, G,2 G,2[M:3/4] | 
+G,2 E, D, G, G, G, F, G,2 G, z | 
+B, G,2 G, B,2 G,2 G, G,2 z | 
+G,2 E, D, G, G, G, F, G,2 G,3/ B,/ | 
+B,2> C2 C2 B,2 B, G,2 z | 
+G,2 E, D, G, G, G, F, G,2 G,2 | 
+B, G,2 G,2< B,2 G, G, G,2 z | 
+G,2 E, D, G, G, G, F, G,2 G,2 | 
+B, G,2 G, B,2 G,2 G, G,2 z | 
+G,2 E, D, G, G, G, F, G,2 G,3/ G,/ | 
+G,4G,2 z2z4 |]  
+
+
+X: 50
+T: Stomp Dance Song (f)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 4090072007
+%%humdrum-veritas-data 2994439233
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=138
+K: Bb clef=bass
+B, B, F, F,B,2[M:2/4] | 
+B,2B, B, | 
+B,2z2[M:3/4] | 
+B, B, F, F,B,2[M:2/4] | 
+C2C B, | 
+B,2z2[M:3/4] | 
+B, B, F, F, B,3/ B,/[M:2/4] | 
+D7/D/ | 
+D4[M:3/4] | 
+C CB,2C z/ D/[M:2/4] | 
+C3B, | 
+B,2z2[M:3/4] | 
+B, B, F, F,B,2[M:2/4] | 
+C2C B, | 
+B,2z2[M:3/4] | 
+B, B, F, F,B,2[M:2/4] | 
+B, B, B, B, | 
+B,2z2[M:3/4] | 
+B, B, F, F,B,2[M:2/4] | 
+C C C B, | 
+B,2z2[M:3/4] | 
+B, B, F, F, B,3/ B/[M:2/4] | 
+D4 | 
+D3C[M:3/4] | 
+C B,-B,2C z/ D/ | 
+C4 | 
+B,3z[M:3/4] | 
+B, B, F, F,B,2[M:2/4] | 
+D2B C | 
+B,3z[M:3/4] | 
+B, B, F, F,B,2[M:2/4] | 
+C2C B, | 
+B,2z2[M:3/4] | 
+B, B, F, F, B,3/ B,/[M:2/4] | 
+B,2z2 | 
+B,2z2 |]  
+
+
+X: 51
+T: Stomp Dance Song (g)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 838547541
+%%humdrum-veritas-data 4191482478
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=116
+K: Bb clef=bass
+C CC2 | 
+B,2G, z | 
+C CC2 | 
+B,2G, z/ G,/ | 
+D4 | 
+C2C z/ D/ | 
+C4 | 
+B,2G, z | 
+C C C z | 
+B,2G, z | 
+D2C B, | 
+B,2F, z | 
+D2C B, | 
+B,2G, z | 
+C CC2 | 
+B,2G, z | 
+C CC2 | 
+B,2G, z | 
+D C D C | 
+B,2F, z | 
+D C D C | 
+B,2G, z | 
+B, B,C2 | 
+B,2G, z | 
+C CC2 | 
+B,2G, z | 
+C C C B, | 
+B,2G, z | 
+D2C B, | 
+B,2F, z | 
+D2C B, | 
+B,2G, z | 
+C CB,2 | 
+B,2G, z | 
+C C C B, | 
+B,2G, z | 
+C C C B, | 
+B,2G, z/ B,/ | 
+B,2z2 | 
+B,2z2 |]  
+
+
+X: 52
+T: Stomp Dance Song (h) [First rendition]
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 2998440010
+%%humdrum-veritas-data 260975412
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=63
+K: C clef=bass
+C2> A,2 A,2 A,2 | 
+C2> C2 A,2 C2 | 
+C2> A,2 A, G, A,2 | 
+E D2 C A,2 C2[M:5/8] | 
+C2> A,2 A, G, A, z/ A,< A, A,/[M:2/4] | 
+C2 A,2 C C3 | 
+C2> A,2 A, G, A, z ]|:  
+E D2 C A,2 C z [I:setbarnb 9]| 
+C2> A,2 A, G, A,2 :|]  
+E D2 C A,2 C z [I:setbarnb 11]| 
+C2> A,2 A, G, A,2 | 
+E D2 C A,2 C z[M:5/8] | 
+C2> A,2 A, G, A, z/ A,< A, A,/[M:2/4] | 
+E4E z D2 | 
+C> A, A,2z4 | 
+E2> B,2 D2 D2 | 
+C2> A,2 A, G, A, z | 
+E2 C> A, A,2 z2 | 
+C2> A,2 A,2 A, z | 
+E2 C> A, A,2 z2 | 
+C2> A,2 A, G, A, z | 
+D2> E2 D2 D2 | 
+C2> A,2 A, G, A, | 
+D2> E2 D2 D2 | 
+C2> A,2 A, G, A,2 | 
+C2> C2 C2 C2 | 
+C2> A,2 A, G, A,2 | 
+C2> C2 C2 C2 | 
+C2> A,2 A, G, A,2 | 
+A, D D2 A,2 C z | 
+C2> A,2 A, G, A, z | 
+D D D2 A,2 C z[M:3/4] | 
+C2> A,2 A,2 G,2 A,2 z A, | 
+A,2 z2 A,2 z2z4 |]  
+
+
+X: 53
+T: Stomp Dance Song (h) [Second rendition]
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 3334336778
+%%humdrum-veritas-data 616461415
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=72
+K: C clef=bass
+C2> D2 A,2 C2 | 
+C2> A,2 A, G, A,2 | 
+C2> D2 A,2 C2 | 
+C2> A,2 A, G, A, z/ E/ | 
+E2> C2 D2 D2 | 
+C2> A,2 A, G, A, z/ E/ | 
+D2> C2 A,2 C z | 
+C2> A,2 A, G, A, z | 
+D2> A,2 A,2 C2 | 
+C2> A,2 A, G, A, z/ E/ | 
+D2> C2 z | 
+C2> A,2 A, G, A, z | 
+C2> D2 A,2 C z | 
+C2> A,2 A, G, A, z | 
+C2> C2 C2 C z | 
+C2> A,2 A, G, A, z | 
+D2> D2 A,2 C2 | 
+C2> A,2 A, G, A, z | 
+A, A, D2 A,2 C z | 
+C2> A,2 A, G, A, z | 
+D D D2 A,2 C2 | 
+C2> A,2 A, G, A, z/ A,/ | 
+A,2 z2 A,2 z2 |]  
+
+
+X: 54
+T: Stomp Dance Song (i) [First rendition]
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 4235230695
+%%humdrum-veritas-data 2345275833
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=66
+K: Bb clef=bass
+z B,/ G,/ B, B, | 
+B,/ G, B,/ G, G, | 
+B, G, B, B, | 
+B,/ G, B,/ G, G, | 
+B,> C B, G,[M:3/4] | 
+B, B, G, z G, G, | 
+B,> C B, G, B, B,[M:2/4] | 
+G,> B, G, G, | 
+D> C C B,/ G,/[M:3/4] | 
+B, B, G, z G, G,[M:2/4] | 
+D/ C C/ C/ B,/ G,[M:3/4] | 
+B, B, G, z G, G, | 
+C B,/ B,/ B, G, B, B,[M:2/4] | 
+G,> B, G, G,[M:3/4] | 
+C B,/ B,/ B, G, B, B, | 
+G, z G, G, G, z |]  
+
+
+X: 55
+T: Stomp Dance Song (i) [Second rendition]
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 2564913515
+%%humdrum-veritas-data 370639166
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=66
+K: Bb clef=bass
+z B,/ G, G, | 
+B,> C C C/ z/ | 
+G,> B, G, G, | 
+B,> C B, G,[M:3/4] | 
+B, B, G, z G, G, | 
+D> B, C B,/ G,/ B, B,[M:2/4] | 
+G,> B, G, G, | 
+D/ C D/ C/ B,/ G,[M:3/4] | 
+B, B, G, z G, G, | 
+C B,/ B,/ B, G, B, B,[M:2/4] | 
+G, z G, G,[M:3/4] | 
+C B,/ B,/ B, G, B, B, | 
+G,> B, G, G, G, z |]  
+
+
+X: 56
+T: Stomp Dance Song (j)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 1236371454
+%%humdrum-veritas-data 3363698695
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=108
+K: Ab clef=bass
+F,/ F,/F, | 
+A,A, | 
+A,F, | 
+A,3/F,/ | 
+zF,/ z/ | 
+F,/ F,/F, | 
+A,A, | 
+F,F, | 
+A,3/F,/ | 
+zF,/ z/ ]|:  
+F,/ F,/F, [I:setbarnb 12]| 
+A,A, | 
+C3/B,/ | 
+A,/ A,/A, | 
+F,/ F,/ F,/ z/ | 
+B,B, | 
+B,/ C/C | 
+A,3/F,/ | 
+zF,/ z/ | 
+F,/ F,/F, | 
+A,A, | 
+B,F, | 
+A,3/F,/ | 
+zF,/ z/ | 
+F,/ F,/F, | 
+A,A, | 
+B,F, | 
+A,3/F,/ | 
+zF,/ z/ :|]  
+F,/ F,/F, [I:setbarnb 31]| 
+A,A,3// F,// | 
+F,A,3// A,//[M:3/4] | 
+A,/> F,/F,F,/ z/[M:2/4] | 
+F,/ F,/F, | 
+A,A, | 
+B,F, | 
+A,3/F,/ | 
+F,z | 
+F,/ F,/F, | 
+A,A, | 
+B,/< B,/ B,3// B,//[M:3/4] | 
+A,/> F,/F,F,/ z/[M:2/4] | 
+F,/ F,/F, | 
+A,A, | 
+B,F, | 
+A,3/F,/ | 
+F,F,/ z/ |]  
+
+
+X: 57
+T: Stomp Dance Song (k)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 3375505581
+%%humdrum-veritas-data 3615986899
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=63
+K: B clef=bass
+B,2 G, G, G, G, G,2 | 
+B,2> B,2 G, G, B,2 | 
+B,2> G,2 G, G, G,2 | 
+D2> B,2 C B, B,2 | 
+B,2> G,2 G, G, G,2[M:3/4] | 
+D2> C2 B,2 C B,2 B,2[M:2/4] | 
+B,2> G,2 G, G, G,2 | 
+B,2> B,2 G, G, B,2 | 
+B,2> G,2 G, G, G,2[M:3/4] | 
+D2> C2 B,2< G,2B,4[M:2/4] | 
+B,2> G,2 G, G, G,2 ]|:  
+D2> B,2 C C C2 [I:setbarnb 13]| 
+B,2> G,2 G, G, G,2 | 
+B,2> B,2 G, G, B,2 | 
+B,2> G,2 G, G, G,2 | 
+B,2> B,2 G, G, B,2 [I:setbarnb 17]| 
+B,2> G,2 G, G, G,2 | 
+C B,2 G, G, G, B,2 | 
+B,2> G,2 G, G, G,2 :|]  
+
+
+X: 58
+T: Stomp Dance Song (l)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 2741854885
+%%humdrum-veritas-data 3813546464
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=69
+K: Bb clef=bass
+B,2 G, F, G, G, G, z[M:3/4] | 
+B,2> C2 B,2 G,2 B, B, B, z[M:2/4] | 
+B,2 G, F, G, G, G, z[M:7/8] | 
+B,2> C2 B,2 G, G, B, B, B, z z2[M:5/8] | 
+B,2 G, F, G, G, G, z G,2[M:2/4] | 
+D2> B,2 C C C z | 
+B,2 G, F, G, G, G, z[M:3/4] ]|:  
+D2> B,2 C2 B, G, B, B, B, z[M:2/4] [I:setbarnb 9]| 
+B,2 G, F, G, G, G, z[M:3/4] | 
+F,2> F,2 F, F, F,2 C C C z[M:2/4] | 
+B,2 G, F, G, G, G, z :|]  
+
+
+X: 59
+T: Backward-and-forward Dance Song
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 29, 2000
+%%humdrum-veritas 2648309639
+%%humdrum-veritas-data 2483535425
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=bass
+B, A,A,2 | 
+A, A, A, z | 
+B, A,A,2 | 
+A, A, A, z | 
+B, A,A,2 | 
+A, A, A, z | 
+B, A,A,2 | 
+A, A, A, z | 
+C2B,2 | 
+B, B, B, z | 
+B,2A,2 | 
+A, A, A, z | 
+B, A,- A, A, | 
+A, A, A, z | 
+B, A,- A, A, | 
+A, A, A, z :|]  
+
+
+X: 60
+T: Terrapin Dance Song (a)
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 30, 2000
+%%humdrum-veritas 2255735852
+%%humdrum-veritas-data 1886453977
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=132
+K: B clef=bass
+D4[M:3/4] | 
+C2B, B, C B,[M:5/8] | 
+B,4z/ B,/[M:2/4] | 
+G, G,G,2 | 
+F, D,D,2 | 
+z2B,2[M:3/4] | 
+B, B, B, C B,[M:5/8] | 
+B,4z/ B,/[M:2/4] | 
+G, G,G,2[M:3/4] | 
+F, D, D, zD2 | 
+D2B, B,C2[M:5/8] | 
+B,4z/ B,/[M:2/4] | 
+G, G,G,2[M:3/4] | 
+F, D, D, zG,2 | 
+G,2G, F, C B,[M:5/8] | 
+B,4z/ B,/[M:2/4] | 
+G, G,G,2 | 
+F, D, D, z :|]  
+Error: new spine information is not the right size
+1	2
+Required size is: 1
+New size would be: 2
+Input line of error: 69
+Line: *>B
+
+
+X: 61
+T: Quail Dance Song
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 30, 2000
+%%humdrum-veritas 957474507
+%%humdrum-veritas-data 1989556970
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=76
+K: A clef=bass
+A,2C A, [I:setbarnb 2]| 
+A,> F, F, z | 
+A,2C A, | 
+A,> E, E, z[M:3/4] | 
+B, B, E, A, E,/ E, F,/[M:2/4] :|]  
+E,2E, E, [I:setbarnb 7]| 
+E, E, E, z | 
+A, A,/ z/ A, B,/ z/ | 
+A, A, B, A, | 
+C C B,/> B,/ A, | 
+B, B, C/> B,/ A, | 
+F,/ z/ A, A, A,/ z/[M:3/8] | 
+A, B, A,[M:2/4] | 
+C C B,/> B,/ A, | 
+B, B, C/> B,/ A,[M:3/4] | 
+F,/ z/ A, A, A,/ z/ A, A, |]  
+
+
+X: 62
+T: Turkey Dance Song
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 30, 2000
+%%humdrum-veritas 1817148826
+%%humdrum-veritas-data 3594909352
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=72
+K: B clef=bass
+B,2D B, | 
+B,< G, G, z | 
+B,2D B, | 
+B,< G,G,2 | 
+C< C B, B, | 
+F, B, F, G, | 
+G,< F, F, z | 
+B,< B, F, F, | 
+D, F, F, G, | 
+G,< F, F, z | 
+B,2D B, | 
+B,< G, G, z | 
+B,2D B, | 
+B,< G,G,2 | 
+C< C B, B, | 
+F, B, F, G, | 
+G,< F, F, z | 
+D F F D/ C/ | 
+D2D/ C3/ | 
+D2D z | 
+D F F D/ C/ | 
+C B, F, G, | 
+G,< F, F, z | 
+B,2D B, | 
+B,< G, G, z | 
+B,2D B, | 
+B,< G,G,2 | 
+C< C B, B, | 
+F, B, F, G, | 
+G,< F, F, z | 
+B,< B, F, F, | 
+D, F, F, G, | 
+G,< F, F, z |]  
+
+
+X: 63
+T: Chicken Dance Song
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 30, 2000
+%%humdrum-veritas 2246174320
+%%humdrum-veritas-data 3608476588
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=63
+K: C clef=bass
+z8z3 G, | 
+G,> G, G,2 B,2 A, G, G,2 G, z/ A,/ | 
+A,> A, A,2 A,2 G, F, F,2 (3F, D, G,[M:2/4] | 
+G,> G, G,2 B,2 A, G, | 
+G,2 G, D, G,2 G, z/ A,/[M:3/4] | 
+A,> A, A,2 A,2 G, F, F,2 (3F, D, G,[M:2/4] | 
+G,> G, G,2 B,2 A, G, | 
+G,2 G, D, G,2 G, z[M:3/4] | 
+G, G,2 G,2< B,2 A, G,2 G, z | 
+B, B,2 G,2< A,2 G, E,2 E, D, | 
+G, G,2 G,2< G,2 G, G, z B,2[M:2/4] | 
+A,2> G,2 E,2 E, D,[M:3/4] | 
+G, G,2 G,2< G,2 G, G, z A,2[M:2/4] | 
+A,2> G,2 E,2 E, D,/ z/[M:3/4] | 
+G, G,2 G,2< G,2 G, G,2 G, z | 
+G, G,2 G,2< B,2 A, G,2 G, z | 
+B, B,2 G,2< A,2 G, E,2 E, D,/ z/ | 
+G, G,2 G,2< G,2 G, G, z B,2[M:2/4] | 
+A,2> G,2 E,2 E, D,/ z/[M:3/4] | 
+G, G,2 G,2< G,2 G, G,2 G, z |]  
+
+
+X: 64
+T: Pleasure Dance Song
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 30, 2000
+%%humdrum-veritas 1266316990
+%%humdrum-veritas-data 3906262180
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=69
+K: Bb clef=bass
+C2 B,> G,G,4 | 
+G,2 D,> G,G,4 | 
+C2 B,> G,G,4 | 
+G,2 D,> G, G,2 z2 | 
+C2 B,> E!fermata!E4 | 
+D2 B,> G,G,4 | 
+G,2 D,> G,G,4 :|]  
+
+
+X: 65
+T: Hunting Song
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 30, 2000
+%%humdrum-veritas 2205512014
+%%humdrum-veritas-data 2466797097
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=84
+K: Ab clef=bass
+F, F,- F, C,/ z/ | 
+F,2F,2 | 
+F, E,E,2 | 
+B,> A,A,2 | 
+F, F,z2 | 
+F, F,F,2 | 
+C2B, A, | 
+B,2A,2 | 
+F, F,z2 | 
+F, F,F,2 | 
+F, E,F,2 | 
+B,2A,2 | 
+F, F,z2[M:5/8] | 
+F,2F,2C[M:3/4] | 
+B,2C B,A,2[M:2/4] | 
+F, F,z2 ]|:  
+F, F,F,2 [I:setbarnb 18]| 
+F, E,E,2 | 
+B,2A,2 | 
+F, F,z2 | 
+F, F,F,2 | 
+C2B, A, | 
+B,2A,2 | 
+F,2E, C, | 
+F, F,F,2 | 
+F, E, E, z | 
+B,2A,2 | 
+F, F,z2[M:5/8] :||:  
+F,2F,2C[M:3/4] [I:setbarnb 30]| 
+B,2C B,A,2[M:2/4] | 
+F, F,z2 | 
+F, F,F,2 | 
+F, E,E,2 | 
+B,2A,2 | 
+F, F,z2 | 
+F, F,F,2 | 
+F, E,E,2 | 
+B,2A,2 | 
+F, F,z2 | 
+F, F,F,2 :||:  
+C2B, A, [I:setbarnb 42]| 
+B,2A,2 | 
+F,2E, C, | 
+F, F,F,2 | 
+F, E,E,2 | 
+B,2A,2 | 
+F, F,z2 | 
+F, F,F,2 | 
+F, E,E,2 | 
+B,2A,2 | 
+F, F, F, z | 
+F, F,F,2 :|]  
+[M:5/8]F,2F,2C[M:3/4] [I:setbarnb 54]| 
+B,2C B,A,2[M:2/4] | 
+F, F,z2 | 
+F,2F,2C[M:3/4] | 
+B, z A, F,A,2[M:2/4] | 
+F, F,z2 | 
+F, F,F,2 | 
+F, E, E, z | 
+B,2A,2 | 
+F, F,z2 | 
+F, F,F,2 |]  
+
+
+X: 66
+T: Rabbit in the Garden
+C: Anon.
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2020/08/10 20:56:09
+%%abc-copyright Electronic Copyright 2000 David Huron
+%%abc-edited-by David Huron
+%%abcx-initial-encoding-date August 30, 2000
+%%humdrum-veritas 4222098287
+%%humdrum-veritas-data 3799690637
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: E clef=bass
+G, B, B, G, | 
+B,2C B, | 
+G,/ G,/ G,/ G,/ G, E, | 
+F, E, E, z[M:3/4] | 
+G, B, F, G, E, z[M:2/4] | 
+G,2F,2 | 
+E,2z2 | 
+G, B, B, G, | 
+B,2C B, | 
+G,/ G,/ G,/ G,/ G, E, | 
+F, E, E, z[M:3/4] | 
+G, B, F, G, E, z | 
+G,2F,2E, E,/ z/ | 
+G,2F,2E, z[M:2/4] | 
+G, B, B, G, | 
+B, z C B, | 
+G,/ G,/ G,/ G,/ G, E, | 
+F, E, E, z[M:3/4] | 
+G, B, F, F, E, z[M:2/4] | 
+G, B, B, G, | 
+B,2C B, | 
+G,/ G,/ G,/ G,/ G, E, | 
+F, E, E, z[M:3/4] | 
+(3G, B, G, F, F, E, z | 
+G,2F,2E, z[M:2/4] | 
+G, B, B, G, | 
+B,2C B, | 
+G, E, G, E,[M:5/8] | 
+F, E,E,2z G,[M:3/4] | 
+G, G,G,2G, E, | 
+F, E, E, zz2 |]  
+
+
+

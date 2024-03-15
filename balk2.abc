@@ -1,0 +1,5881 @@
+X: 301
+T: Lajkovacko Kolo
+O: Serbia
+M: 2/4
+L: 1/8
+Q: 1/4=144
+K: Gdor
+%%MIDI program 22 Harmonica
+%%MIDI chordprog 24 Acoustic Guitar (nylon)
+%%MIDI bassprog 32 Acoustic Bass
+%%MIDI bassvol 80
+%%MIDI chordvol 32
+|:"F"(3ABc A2  |"C"AGGF |"F"A2 B3/2A/|"C"AGG2 |\
+  "F"(3ABc A2  |"C"AGGF |"F"A2 B3/2A/|"C"AGG2::
+  "F"A2 B3/2A/ |"C"AGcz |"F"A2B3/2A/ |"C"AGG2 |\
+  "F" A2 B3/2A/|"C"AGcz |"F"A2B3/2A/ |"C"AGG2::
+|:"F"F2 GA     |"C"czcz |"F"A2 GA    |"Bb"B4  |\
+  "F" F2 GA    |"Bb"BAAG|"F"A2 GF    |"C"G4::
+|:"F"ABcA      |AGGF    |A2 B3/2A/   |"C"AGG2 |\
+  "F" ABcA     |AGGF    |A2 B3/2A/   |"C"AGG2 :|
+
+
+
+X: 302
+T: Lakodalmi Tanc
+O: Hungary
+F: http://www.youtube.com/watch?v=Cchz4DDz1rg
+L:1/8
+M:6/8
+Q:1/4=96
+K:Am
+|:"Am"A2 B c B2 | A2 B A E2| A2 B c B2 | A2 B A E2  :|
+L:1/8
+M:3/8
+|:"Dm"A3        | "G"G3    | "Dm"F2 G  | A3         |\
+  "G"G3         | "Dm"F2 E | D3        :|
+L:1/8
+M:2/4
+|:"Dm"D2 A2     | A2 G2    | A2 F2     | "Am"E2 D2  |\
+  "Dm"D2 A2     | A2 G2    | A2 F2     | "Am"E2 D2  |
+  "Dm"DE F2     | GFEF     | "Am"E3 F  | "Em"E2 B,2 |\
+  "Dm"DE F2     | GFEF     | D4-       |D4          :|
+
+
+
+X: 303
+T: Lapovo Kolo
+O: Serbia
+S: Atanas Kolarovski AK-008
+M: 2/4
+L: 1/8
+P: ABBCC
+Q: 1/4=280
+K: Bb
+%%MIDI transpose 12
+P:A
+|:fgab   |bfed  | ded2  |dcB2 |
+  fgf2   | fed2 |fed2   |dcB2 |
+  fgab   |bfed  |ded2   |dcB2 |
+  fgf2   |fed2  |fed2   |d2z2 :|
+P:B
+|:f2ed   |c2dc  |BGBd   |c2BA |
+  G2FG   |ABcd  |[1 edfe|d2z2 :|[2BABA|G2z2|
+P:C
+|:F2B2   |AcBA  |F2d2   |cedc |
+  [1 F2f2|=egf_e|dfed   |cedc :|
+  BdcB   |AcBA  |G4     |G4   |
+
+
+
+X: 304
+T:Lapovo Kolo transposed
+O:Serbia
+S: Atanas Kolarovski AK-008
+M:2/4
+L:1/8
+P:ABBCC
+Q:1/4=280
+K:Bb
+%%MIDI gchord fzzz
+%%MIDI bassprog 45
+%%MIDI program 72
+%%MIDI bassvol 90
+P:A
+|:"Bb"f'g'a'b'  |"F"b'f'e'd'  |"A" d'e'd'2    |"Db"d'c'b2   |
+  "F" f'g'f'2   |"A" f'e'd'2  |"A"f'e'd'2     |"Bb"d'c'b2   |
+  "Bb"f'g'a'b'  |"F" b'f'e'd' |"A" d'e'd'2    |"Db"d'c'b2   |
+  "F" f'g'f'2   |"A"f'e'd'2   |"A" f'e'd'2    |"Bb"d'2z2    :|
+P:B
+|:"Bb" f'2e'd'  |"D" c'2d'c'  |"D" bgbd'      |"A"c'2ba     |
+  "D" g2fg      |"F"abc'd'    |[1 "G" e'd'f'e'|"F"d'2z2     :| [2 "G" baba|g2z2|
+P:C
+|:"F" f2b2      |"A"ac'ba     |"A"f2d'2       |"D"c'e'd'c'  |
+  [1 "A" f2f'2  |"F"=e'g'f'_e'|"Bb" d'f'e'd'  |"D" c'e'd'c' :|
+  [2 "Bb" bd'c'b|"F"ac'ba     |"G" g4         |g4           |
+
+
+
+X: 305
+T:Laz Bar
+O:Armenian
+F: http://www.youtube.com/watch?v=_-Go-zRQm10
+F: http://www.youtube.com/watch?v=rGwReGbHkBI
+S:from record Folkdance Underground F.U.1
+L:1/8
+M:7/8
+Q:1/4=210
+K:Dm
+%%MIDI program 0 Acoustic Piano
+%%MIDI beatstring fpppmpp
+    A=Bc      |:  d2 d2 dc=B   |c2 c2 cBA   | B2 B2 BAG   | A2 A2 A3  :|
+|:  G2 c2 c2 G| c2 c2 c2 G     | c2 c2 c3   | d e2 e2 d2  :|
+|:  c2 d2 BAG | A2 A2 B3       |c2 d2 BAG   | A2 A2 A3    :|
+|:  G2 c2 c2 G| c2 c2 c2 G     | c2 c2 c3   | d e2 e2 d2  :|
+|:  c2 d2 e3  | e2 e2 edc      | d2 d2 dc=B | c2 c2 c3    :|
+|:  d2 d2 dc=B| c2 c2 cBA      | B2 B2 BAG  | A2 A2 A3    :|
+|:  c2 d2 e3  | e2 e2 edc      | d2 d2 dc=B | c2 c2 c3    :|
+|:  d2 d2 dc=B| c2 c2 cBA      | B2 B2 BAG  | A2 A2 A3    :|
+|:  d2 d2 c=BA| A=Bcd BG2      | A2 A2 d3   |d2 d2 c=BA   | A=Bcd BG2 | A2 A2 A3 :|
+|:  c2 d2 =B2G| A2 A2 d3       | c2 d2 =B2 G| A2 A2 A3    :|
+|:  c2 d2 e3  | e2 e2 edc      | d2 d2 dc=B | c2 c2 c3    :|
+|:  d2 d2 dc=B| c2 c2 cBA      | B2 B2 BAG  | A2 A2 A3    :|
+
+
+
+X: 306
+T: Laziko
+C: Greece
+F: http://www.youtube.com/watch?v=SSkIl9dszzY
+F: http://www.youtube.com/watch?v=0KH_ZjJ1044
+M: 7/8
+L: 1/8
+Q: 1/4=192
+K: Am clef=treble
+%%MIDI program 24
+|:CG,C DE G,E|E2F E2 DC|\
+DG,D ED CD|D2C B,C B,C|\
+DG,D ED CD|D2C B,C B,C|
+G,A,z A,z A,/D,/A,|G,A,z A,z A,/D,/A,:|\
+K:F
+c2B cB AG|AzA zA2z|\
+c2B cB AG|AzA zA2z|
+c2B cB AG|c2B cB AG|\
+c2B cB AG|AzA zA2z|\
+C2B, CB,3|A,zA, zA,2G,|
+CzC zB,2z|A,zA, zA,2z|\
+c2B cB AG|AzA zA2z|\
+C2D2 E2C|D2CB, A,2G,|
+C2B,C B,3|A,zA,z A,2G,|\
+C2D2 E2C|D2CB, ,A,2G,|\
+C2B,CB,3|A,zA,zA,2G,|
+K:Bm
+ede d2^cA|czez e2z|\
+ede d2^cA|czez e2z|\
+ede d2^cA|ede d2^cA|\
+ede d2^cA|cze ze2z|
+
+
+
+X: 307
+T: Lebedushka
+O: Russia
+F: http://www.youtube.com/watch?v=ABEVjWer3Tg
+F: http://www.youtube.com/watch?v=Nm1gXu_aH2U
+S: Barinya Russian Folk Dances
+M: 2/4
+L: 1/32
+Q:1/4=72
+K:G
+%%MIDI gchord ff
+%%MIDI program 25
+%%MIDI bassprog 32
+|:"g" dddd dddz "d" BBBB BBBz|"f#" cccc cccz "a" AAAA AAAz|
+  "d" BBBBBBBz GGGGGGGz      |"c" cccccccc cccccccc        |
+  "d" dddddddz dddddddz      |dddz cccz BBBz AAAz          |
+  "g"BBBBBBBzGGGGGGGz        |[1Gzzz Azzz Bzzz czzz        :|[2 "g" GGGGGGGG z8|
+Q:1/4=144
+L:1/8
+|:"g".d2 "d" .B2             |"f#".c2 "a".A2               |\
+  "d".B2.G2                  |"c" .c2.c2                   |"d".d2.d2         |
+  dcBA                       |"g" .B2.G2                   |G4                 :|
+Q:1/4=180
+|:"g".d2.B2                  |"f#".c2 "a" .A2              |\
+  "d".B2.G2                  |"c".c2.c2                    |
+  "d".d2.d2                  |dcBA                         |\
+  "g".B2.G2                  |G4                           :|
+
+
+
+X: 308
+T: Lenos
+O: Greece
+M: 7/8
+L: 1/8
+K: Am
+Q: 1/4=120
+%%MIDI program 110 Fiddle
+%%MIDI drum d2ddzz2 41 43 41 60 40 50
+%%MIDI drumon
+|:z3 z2 G,2|C2B,/C/ D2DG,|C2B,/C/ D2zC|F2E/F/ G2E2|D2C DE C2::
+z3 z2 z2|E3 E2D2|C2B,/C/ D4|E3 E2D2|C2B,/C/ A,4:|
+
+
+
+X: 309
+T: Lepa Anka Kolo Vodi
+O: Croatia
+F: http://www.youtube.com/watch?v=FJbVLElodPE
+F: http://www.youtube.com/watch?v=7e_0-lBccmI
+S: Debora Jones VIFD Music Book
+M: 4/4
+L: 1/4
+Q: 1/4=210
+K: D
+%%MIDI program 110
+%%MIDI bassprog 115
+   "D" [F2A2] [FA] [DF]                 | "A7" [E3G3] [EG]                         |\
+   "D" [DF] [FA] [EG] [DF]              | [C4E4]                                   |
+K: G
+L: 1/8
+|: "G" G3 "D"[FA] "G" [G2B2] "D7" [F2c2]| "G" [G2B2] "D" [F2A2] "G" [G2B2] [D2G2]  :|
+L: 1/4
+K: D
+|: "D" [D2F2A2] [DFA] [DF]              | "A7" [E3G3] [EG]                         |\
+   "D" [DF] [FA] [DEG] [DF]             | "A" [A,4C4E4]                            :|
+
+
+
+X: 310
+T: Lepa Moja Milena
+O: Croatia
+S: Deborah Jones VIFD Music Book
+M: 2/4
+L: 1/8
+Q: 1/4=160
+K: D
+%%MIDI program 110
+%%MIDI bassprog 115
+   "D" [Fd][Fd] "A7" [A2c2e2]     |"D" [df][df] "A7" [A2e2g2] |\
+   "D" [df][df] [Ace][ABd]        |"A" [A2c2e2] [Aca] z       |
+   "D" [Fd][Fd] "A7" [A2c2e2]     |"D" [df][df] "A7" [A2e2g2] |\
+   "D" [df][df] [Ace][ABd]        |"A" [Ace][Ace] [Ace] z     |
+Q: 1/4= 80
+K: Dm
+|: "Dm"  [Fd][Fd] "A7" [A^ce][Ace]|"Dm" [Df][Df] "Gm" [B2e2g2]|\
+   "Gm" [Bdf][Bdf] [^G^ce][G=Bd]  |"A7" [A2^c2e2] A2          |
+   "Dm"  [Fd][Fd] "A7" [A^ce][Ace]|"Dm" [Df][Df] "Gm" [B2e2g2]|\
+   "Gm" [Bdf][Bdf] [^G^ce][G=Bd]  |"A7" [A2^c2e2] [A2c2e2]    :|
+Q: 1/4=160
+K: D
+|: "D"[Fd][Fd] "A7" [A2c2e2]      |"D" [Df][Df] "A7" [A2e2g2] |\
+   "D"[dF][dF] [Ace][ABd]         |"A" [A3c3e3] [Aca]         |
+   "D"[Fd][Fd] "A7" [A2c2e2]      |"D" [Df][Df] "A7" [A2e2g2] |\
+   "D"[dF][dF] [Ace][ABd]         |"A" [A2c2e2] [Ace] z       :|
+  
+
+
+
+X: 311
+T: Lerikos 
+O: Greece
+F: http://www.youtube.com/watch?v=cq4TvhMf1Yg
+M: 4/4
+L: 1/8
+Q: 1/4=200
+K: Gm
+|: "Gm"BA G2 -GA Bc | ded2 "(Dm)"z2  fe  \
+| "D7"de cd BcAB | "Gm"GABc "(D7)"d4 \
+| "Gm"BA G2 -GA Bc | ded2 "(Dm)"z2 fe  |
+| "D7"de cd Bc AB |[1 "Gm".G2 .D2 .G2 z2 :|[2 "Gm"G4 z4 \
+|: "Gm"G4 "Dm"F2 E2 | "Gm"D2 C2 B,2  C2  \
+| D8 |[1 GA Bc "Dm"d2 z2 :|[2 "Gm"D4 "Dm"z4 |
+|: "Gm"B2 A2 G2 F2 | "Cm"G2 F2 ED C2  \
+| "D7"D2 C2 B,2 A,2 | [1  "Gm"B,C D2 "D(m)"z3 A :|[2 "Gm"D4 B,4  \
+|: "Cm"C4 E4 | G2 G2 F2 E2  \
+| "Gm"E2 D6 | D8 |
+|1 "D"^F6 G2 | A2 G2 ^F2 E2  \
+| "Gm"E2 D6 | D6 z2 \
+:|2 "D"^F6 G2 | A2 A2 B2 A2  \
+| "Gm"{B}A2 G6- | "Gm"G4 z4 |]
+
+
+
+X: 312
+T:Lesi
+O:Albania
+F: http://www.youtube.com/watch?v=D1xxhVHOlYM
+F: http://www.youtube.com/watch?v=5Fx7c24xZc0
+F: http://www.youtube.com/watch?v=RGc1qjdXDvA
+S:adapted from Deborah Jones, Vancouver Folk Dance Music Book
+L:1/8
+M:7/8
+Q:1/4=132
+%%MIDI gchord fzffzfz
+%%MIDI beatstring fpppmpp
+K:Dm
+|:"Dm" D3 [A4F4]               | "Gm6" [G2E2][FD][G4E4]        |\
+  "A7" [G2E2][DFA,][E2G2][F2A2]|\
+  "Dm"[D2A2][CG][D4A4]         | [DG,][EG,][A,CG,] [D2A,2] z2  :|\
+|:"F" [F3A3] [F2A2-][FA][Ac]   | "C7" [G3B3-] [GB][FA][E2G2]   |\
+  "F" [F3A3] [F2-A2-][FA][Ac]  |"C7" [G2B2] [FA] [E2G2] z2     |
+  "Gm"G3 G2 AB                 |"Dm" A2 G FE D2                |\
+  "A7" E2G FED^C               | "Dm" D3-D2  z2                :|\
+|:"A7" E2 G FED^C              |"Dm"DzBA^GAF                   |\
+  "A7"E2G FED^C                |"Dm" D3D2 z2                   :|
+
+
+
+X: 313
+T:Lesnoto Oro
+O:Macedonia
+L:1/8
+M:7/8
+Q:1/4=120
+K:Gm
+%%MIDI beatstring fppmpmp
+%%MIDI drum d3d2d2 43 43 43
+|: [D3B3] [D2B2] [D2B2]     |[Fc][DB][Fc] [D4B4]     |\
+   [DF][DB][Fc] [F3d3]c     |[DB][Fc][DB] [Fc][D3B3] :|
+|: [D3G3] [D2G2] [D2A2]     |[D3B3] [DA][D3-G3-]     |\
+   [D2G2] [D2-B2-][D2B2][DA]|[D3G3] [DA][D3G3]       :|
+Q:1/4=180
+%%MIDI drumon
+|: f2e dec2                |B2F Bcde                |\
+   d2c d2c2                |[1B2F Bcde             :|[2 B3 B4|
+Q:1/4=210
+|: d2c BcBA                |B2A GABc                |\
+   B2A B2A2                |[1G2F GABc             :|[2G3 G4 |
+|: d2c BcBA                |B2A GABc                |\
+   B2A B2A2                |[1G2F GABc              :|[2G3 G4 |
+
+
+
+X: 314
+T: Levato Oro
+O: Macedonia
+M: 8/8
+L: 1/8
+Q: 1/4=150
+K: Em
+%%MIDI program 23
+%%MIDI drum ddd2 35 35 35
+%%MIDI drumon
+|:E4B3A   |BAGFE4 |FGABAGFD|E3GFED2|
+  E4B3A   |BAGFE4 |FGABAGFD|E4E4   :|
+|:FGABAGFD|E3GFED2|FGABAGFD|E4E4   :|
+
+
+X: 3141
+T: Licno Stojne
+O: Macedonia
+F: https://www.youtube.com/watch?v=AQmXH_AOqME
+F: https://www.youtube.com/watch?v=7fYXM2O-27A
+F: https://www.youtube.com/watch?v=Qoj9zodewvs
+M: 5/8
+L: 1/8
+K: Em
+Q: 1/4=104
+%%MIDI program 110 Fiddle
+%%MIDI bassprog 45
+%%MIDI bassvol 50
+%%MIDI gchord fzfz2
+"D"D2 D3    |"Em"E2 F2E|"D"D2 E2D|"Em"C2 B,3 |\
+E2 E3       |F2 G3     |F2 E3    |"D"D4z     |:
+"Em"E2 E3   |F2 G3     |F2 ED2   |"D"D4z     |\
+"Em"D2 CB,A,|"D"DE F3  |D2 CDC   |"G"B,2-B,3 :|
+
+
+
+
+
+X: 315
+T: Liljano Mome
+O: Bulgaria
+R: lesnoto
+F: http://balkanarama.com/liljano.htm
+F: http://www.youtube.com/watch?v=Ua2Lw854_S0
+F: http://www.youtube.com/watch?v=T91CYbrmUE8
+Z: 2010 John Chambers <jc:trillian.mit.edu>
+Z: MIDI commands added by Seymour Shlien
+M: 7/8
+L: 1/8
+Q:1/4 = 144
+K: Dm
+%%MIDI chordprog 24 % Acoustic Guitar (nylon)
+%%MIDI bassprog 32 % Acoustic Bass
+%%MIDI program 41 % Viola
+%%MIDI beat 97 87  77 4
+%%MIDI ratio 2 1
+%%MIDI chordvol 60
+%%MIDI bassvol 116
+%%MIDI gchord f2cf2f2
+"instr:"\
+|: "Dm"[Ac][GB][FA] [Ac][GB] [F2A2] | "Gm"[G3-B3-] [G4B4] |\
+   "C7"[GB][Ac][Bd] [Bd][Ac] [Ac][GB] | "F"[A3-c3-] [A4c4] |
+   "Dm"[Ac][GB][FA] [Ac][GB] [F2A2] | "Gm"[G3-B3-] [G2B2] [GB][FA] |\
+   "A7"[EG]z[Ac] [Ac][GB] [FA][EG] |1 "Dm"[D3F3] [DF][EG] [FA][GB] :|2 "Dm"[D3-F3-] [DF]z z2 ||
+"vocal:"
+[| "Dm"DAA A2 A2 | "Gm"B2A (G>A GF) | "C"EGG G2 G2 | "F"A2G (F>G FE) |
+   "Dm"DFF F2 F2 | "Gm"G2F (E>F ED) | "A7"^C2D E2 F2 | "Gm"BBA "A7"A4 |
+   "Dm"[DF][Ac][Ac] [A2c2][A2c2] | "Gm"[B2d2][Ac] ([GB]>[Ac] [GB][FA]) |\
+   "C"[EG][GB][GB] "C7"[G2B2] [G2B2] | "F"[A2c2][GB] "A7"([FA]>[GB] [FA][EG]) |
+   "Dm"[DF][FA][FA] [F2A2] [F2A2] | "Gm"[G2B2][FA] ([EG]>[FA] [EG][DF]) |\
+   "A7"[^C2E2][DF] [E2G2] [G2B2] | [FA][E2G2] "Dm"[D4F4] |]
+%
+% Ivan Djakov's 2nd verse:
+%   Не е излязла Лиляна,
+%   най е излязла майка й,
+%   люти си клетви колнеше
+%   и на Георги думаше.
+
+
+
+X: 316
+T: Ljube Ljube
+O: Romania
+M: 4/4
+L: 1/8
+K: Cm
+Q: 1/4=160
+%%MIDI program 110 % Fiddle
+"Eb"(3B,CD E>E EE|E2(3B,CD E3F                |\
+"Eb"G3A B2 A<A   |"Eb"G<G "Ddim"F<F "Eb"F<E-E2|
+(3B,CD E>E EE    |E2(3B,CD E3F                |\
+G4 G2 "Ddim"F<F  |E<E D<D "Cm"D<C-C2          |
+"Eb"z2EF G4      |G4 "Bb"B2A2                 |"Eb"G2F2 E4|\
+z2B,C E4         |E4 G2F2                     |E2D2 "Cm"C4|
+
+
+
+X:3161
+T: Logovac
+O: Croatia
+F: https://www.youtube.com/watch?v=Z_QFt-AQLIA
+F: https://www.youtube.com/watch?v=K69IiJuWh_4
+M: 2/4
+L: 1/8
+K: Em
+Q: 1/4=180
+%%MIDI program 0
+%%MIDI chordprog 24
+%%MIDI gchord gi
+"Em"GA B2|"Am"cB A2   |cB A2    |A2 A2 |\
+"Em"GA B2|"Am"c2 B2   |A2 A2    |A4::
+"D"dc B2 |BA G2       |GF FA    |GF E2 |\
+"Em"EF G2|"F#dim"FE FD|"Em"E2 E2|E2 z2 :|
+
+
+
+X: 317
+T: Loree
+O: Armenia
+F: http://www.youtube.com/watch?v=pZCTIgGGgcI
+M: 6/8
+L: 1/8
+Q: 1/4=90
+K: C
+P:A
+%%MIDI gchord fzzfzz
+|: "C" C C/E/ D/E/ C/E/ D E                       |C E/D/ C/B,/ C/D/ C G, :| 
+|: E E/E/ E/E/ E/G/ D E                           |C E/D/ C/D/ C/D/ C2    :|
+|: A,//B,//A,//B,//A,//B,//A,//B,//G,/A,/ B,/D/ Cz|D z A,/A,/ A, A,2      :|
+|: A,//B,//A,//B,//A,//B,//A,//B,//G,/A,/ B,/D/ Cz|D z A,/A,/ A, A,2      :|
+P:B
+M:2/4
+L:1/8
+%%MIDI gchord fzzz
+   "C" D D/B,/ C2                                 |D D/B,/ C2             |\
+   D D/B,/ C B,                                   |B, A, A,2              |\
+   C/Dz/ B,/C/ A,                                 |C/D/ D D2              |\
+   C/Dz/ B,/C/ A,                                 | C/D/ D D2
+Q:1/4=100
+|: CE/D/ E/C/C                                    | CE/D/ E/C/C           |\
+   CE/D/ E/C/C                                    | CE/D/ E/C/C           :|
+|: A,/ B,//C3/4D/ C3/4B,//A,                      |\
+   A,/ B,//C3/4D/ C3/4B,//A,                      :|
+
+
+
+X: 318
+T: Lorke Lorke
+O: Armenia
+S: Tom Bozigian
+M: 2/4
+L: 1/8
+Q: 1/4=210
+K: F
+%%MIDI drum dz 54
+%%MIDI drumon
+|:c2d2|c2d2|c2d2|c2d2|B2Bc|d2d2|[1 c3B|ABc2   :|[2 c4   |c4|:
+  c2d2|c2d2|c2d2|c2d2|B2Bc|d2d2|[1 c3B|ABc2   :|[2 c4   |c4|:
+  F2GA|B2B2|A2B2|A2G2|F2GA|B2A2|G4    |[1 G4  :|[2 GA B2|:
+  c3c |c2c2|BcBA|G4  |F2FG|B2A2|G4    |[1GAB2 :|[2G4    |:
+  F2GA|B2B2|A2B2|A2G2|F2GA|B2A2|G4    |[1 G4  :|[2 GA B2|:
+  c3c |c2c2|BcBA|G4  |F2FG|B2A2|G4    |[1GAB2 :|[2G4    |
+
+
+
+X: 319
+T:Madocsai Tancok
+O:Hungary
+F: http://www.youtube.com/watch?v=yke-dPuSQdw
+F: http://www.youtube.com/watch?v=rSfk6j2FBE8
+P:AB
+L:1/8
+M:2/4
+Q:1/4=96
+K:Em clef=treble
+P:A
+   z2 B,/C/B,/C/     |"G".D2 .G2      |"Em".E2 "G".G2| "G"DEDC           | B,4|\
+   GF "Em"E2         | "G"DC B,2      | DEDC         | B,2 B,/C/B,/C/    |
+|: .D2 .G2           |"Em".E2 "G".G2  | DEDC         | B,4               |\
+   "C".C2 "Em".E2    | "G".D2 GA      |BGGF          | G4                |
+   "G"B2 "Dm"A/B/A/B/| GB B2          |"Dm".A2 "G".G2| "Bm"F4            |\
+   "C"ce "Em"e2      | "G"Bd d2       | "Am"Ac "C"c2 | "G"B2 B,/C/B,/C/  :| 
+   "G".D2 .G2        |"Em".E2 "G".G2  | DEDC         | B,4               |\
+   "C".C2 "Em".E2    | .D2 GA         |BGGF          | G4                |z4  |
+P:B
+Q:1/4=192
+K:Gm
+%%MIDI gchord fzzzzzzz
+|: "Gm"G2 "Dm"z2     |z.F"Gm".G.A     | .B2 "Dm".A2  | "Gm".G2 "D".^F2   |\
+   "Gm".G2 "Cm"C2    | "Gm"D2 "Eb"E2  | "Gm"DD2D     | D4                :|
+|: "Gm"D3 C          |"Eb"DE3         |"Bb"F3E       |"Gm"DB,3           |\
+   B,3 A,            |B,2 "Cm"C2      | "Gm"D3 B,    | A,G,3             |
+   "Bb"F,2"Gm"B,2    | "Dm"A,2 "Bb"F,2| "Gm"G,G,2F,  | G,4               :|
+
+
+
+X: 320
+T: Maica
+O: Romania
+F: http://www.youtube.com/watch?v=HbFTQ2f-fX8
+F: http://www.youtube.com/watch?v=_6VQrIg0zoA
+M: 2/4
+L: 1/8
+Q: 1/4=220
+K: C
+%%MIDI program 110
+%%MIDI gchord fz
+|:"A"C4    |"D"D4   |"A"E4   |"D"F4  |\
+  "A"E4    |"D"D4   |"A"C2B,2|A,4    |
+  E2E2     |"D"D2C2 |D2E2    |D2C2   |\
+  "A"B,2A,2|[1"E"E4-|E4      :|[2A,4-|A,4   |
+|:"A"G,2A,2|A,2G,2  |C2D2    |"E"E4- |\
+  E4       |D2F2    |E2D2    |D2C2-  |"C"C4-|C4 :|
+
+
+
+X: 321
+T: Makedonikos Horos
+C: Greece
+M: 4/4
+L: 1/8
+Q: 1/4=160
+K: G
+%%MIDI drum dd 47 47
+%%MIDI drumon
+ ~AGFE FGA2|A2 c2 B2A2 |c2 B2 A2 G2|A3G FGA2 |
+ AGFE FGA2 |A2 c2 B2A2 |AGFE   FGA2|A8       |
+ d^cd2 c4  |^c8        |^cBc2 A4   |A8       |:
+ FGAG A2A2 |ABcB  B2A2 |FGAG A2A2  | FGAG A4 :|
+ A^cde cBc2|A^cde cBc2 |A^cdA AcBA |BABG A4  | 
+
+
+
+X: 322
+T:Malisevsko Horo
+O:Bulgaria
+S:Jaap Leegwater, Bulgarian Folk Dances, Nevofoon 15025
+M:2/4
+L:1/8
+Q:1/4=240 
+P:AAB
+K:C
+%%MIDI program 21
+%%MIDI chordprog 40
+%%MIDI bassprog 40
+%%MIDI bassvol 90
+%%MIDI chordvol 40
+%%MIDI drum dz 40
+%%MIDI drumon
+P:A
+%%MIDI gchord fc
+|: "C"f3d    |e3c       |"G" d3c    |Bcde      |\
+   f3d       |e3c       | [1"G" cdg2|"C" gfgf  :| [2 "G".d2.g2|"Dm" .d2z2|
+P:B
+K:Am
+%%MIDI drum dz 40 60
+%%MIDI chordvol 70
+   "Am"G2AA  |A2A2      |A4         |"G"e4     |\
+   "C"dc3    |c4        |c4         |\
+   "Dm"d2 dd |"Am"d2 e2 |c3B        |A4        |
+   G2AA      |A2A2      |A4         |"Em"e4    |\
+   "C"dc3    |c4        |c4         |\
+   "Dm"d2 dd |d2 e2     |"C"c3B     |"Am"A4    |
+   "Dm"d2 cB |"Am" A2 AA|A2 c2      |A4        |\
+   "Dm"d2 cB |"Am"A2 AA |A2 c2      |A4        |
+
+
+
+X:3221
+T: Malisorka
+T: Svekrvino
+M: 7/8
+L: 1/8
+K: Ddor
+Q: 1/4=144
+%%MIDI program 69 English Horn
+%%MIDI bassprog 117 Melodic Tom
+%%MIDI chordprog 22 Harmonica
+%%MIDI gchord f3c2c2
+"Am" A3-A2 d2|"Dm" d3 c2 B2  |"Am"A6 d     |"Dm" c d2 c2 B2|\
+"Am" c3 A2 c2|"G" B2A B2 B2  |"Am" c3 A2 c2| "G" B2 A B2 B2|
+"Am" A3-A2 Bc|"G" B2A B2 B2  |"Am"A3-A2 Bc |"G" B2A B2 B2  |\
+"Am" A3-A2 d2|"Am" A2 z A2 z2|
+"Dm"D3-D2 G2 | "G"G3 F2 E2   |"Dm"D6 G2    |"G"FG2 F2 E2   |\
+"Dm"F3 D2 F2 |"C"E2D E2 E2   |"Dm"F3 D2 F2 |"C"E2D E2 E2   |
+"Dm"D3-D2 EF |"C"E2D E2 E2   |"Dm"D3-D2 EF |"C"E2D E2 E2   |\
+"Dm"D3-D2 G2 |G2z G2 z2      |
+
+
+
+X: 323
+T: Malo Ja Malo Ti
+T: Slavjanka
+O: Serbia
+F: http://www.youtube.com/watch?v=4YM7YihZA7I
+F: http://www.youtube.com/watch?v=SPc9f7L493o
+S: Deborah Jones VIFD Book
+M: 2/4
+L: 1/8
+Q: 1/4=160
+K: Ador
+%%MIDI program 110
+%%MIDI bassprog 115
+%%MIDI chordprog 66
+|:"C" [G4e4]                            |[=Fd][Ec] [G2e2]        |\
+  [=Fd][Ec] [G2e2]                      |[=Fd][Ec] [G2e2]        |  
+  [E/c/][^F/d/][Ge] "G" [G/B/][A/c/][Bd]|"D7" [Ac][FA] "G" [G2B2]|\
+  "D7" [Ac][B/d/][A/c/] "A7" [GB][EG]   |"D" [F2A2] [FA] z       :|
+|:"D7" c3B                              | BA AG                  |\
+  "A7" GF FE                            | "D" ED D2              |
+  DEFG                                  | AB c2                  |\
+  "D7" c/B/A "A7"BG                     |"D" [F2A2] [FA] z       :|
+
+
+
+X: 324
+T:Malo Vlasko Kolo
+O:Serbia
+F: http://www.youtube.com/watch?v=OiocJdvheTA
+M:6/8
+L:1/8
+Q:1/4=180
+K:Bb
+%%MIDI program 69
+%%MIDI bassprog 22
+%%MIDI chordprog 21
+%%MIDI bassvol 75
+%%MIDI chordvol 60
+|:"Bb"FGA BAB |"Bb"FGA BAB|"F"FED C2B,|"Bb"D2F GFE|
+  "Bb"FGA BAB |FGA BAB    |"F"FED C2B,|"Bb"B,6::
+  FED C2B,    |D2F GFE    |FED C2B,   |"F"F2z F2z |
+  "Bb"FED C2B,|D2F GFE    |FED C2B,   |B,6        :|
+
+
+
+X: 325
+T: Mangupsko Kolo
+O: Serbia
+F: http://www.youtube.com/watch?v=KxDPJeu6S-Y
+F: http://www.youtube.com/watch?v=uoPI6ceh0GY
+F: http://www.youtube.com/watch?v=XWv6Xyw_3co
+M: 2/4
+L: 1/8
+Q:1/4=96
+K: Em clef=treble
+"C"GA_BA|GFGE|\
+Q:1/4=120
+%%MIDI gchordoff
+=FEFG|E4|z4|\
+Q:1/4=96
+%%MIDI gchordon
+c_BAG|GFGE|\
+Q:1/4=120
+%%MIDI gchordoff
+=FEFG|E4|z4|
+|:G,/F,/G,C/B,/C|E/^D/EG2|=FEFG|E4|z4:|
+
+
+
+X: 326
+T:Maricensko
+O:Bulgaria
+M:6/8
+L:1/8
+Q:1/4=200
+K:CPhr
+|:"C"CGGG3       |"Bbm"F=ED"C"C3|=E2FG3         |"Bbm"BAF"C"G3    |\
+  "C"CGGG3       |"Bbm"F=ED"C"C3|B,CCC3         |"Bbm"F=ED"C"C3   :|
+|:"C"B,CCC3      |"Bbm"F=ED"C"E3|=EFG"Fm"A3     |AGF"C"G3         |\
+  "Cm"GAB"Bbm"B2A|B3 "Cm"G3      |"Cm"BAG "C"GF=E| "Bbm"F=ED "C"C3 :|
+|:"Cm"GAB "Bbm"BAB|B3"Fm"AGF     |"Bbm"Bdc "Eb"BAG|BAG"C"G3         |\
+  "Cm"GAB "Bbm"BAB|B3"Fm"AGF     |"C"AGG "Bbm"F=ED|"C"C6            :|
+|:"Bbm"B,CDD2D   |D2DD2D        |"C"B,CC B,CC   |C6               |\
+  "Bbm"B,CDD2D   |D2DD2D        |"C"B,CC B,CC   |C6               :|
+|:"Bbm"B,3 B3    |"Fm"AGF "C"=E3|=E3 G3         |"Db"F=ED "Fm"C3  |\
+  "Bbm"B,3 B3    |"Fm"AGF "C"=E3|=E3 G3         |"Db"F=ED "Fm"C3  :| 
+|:"Fm"F3 A3      |"C"G3 "Fm"F2=E|F3 A3          |"Db"F=ED "Fm"C3  |\
+  "Fm"F3 A3      |"C"G3 "Fm"F2=E|F3 A3          |"Db"F=ED "Fm"C3  :|
+  "C"G3"Fm"BA2   |"C"G3"Fm"BA2  |"C"G3"Fm"BA2   |"C"G3"Fm"FF2     |\
+  "C"G3"Fm"BA2   |"C"G3"Fm"BA2  |"C"G3"Fm"BA2   |"C"G3"Fm"FF2     |
+
+
+
+X: 327
+T:Maruntica de la Cajvana
+O:Romania
+M:2/4
+L:1/16
+Q:1/4=120
+K:D
+%%MIDI program 71 % Clarinet
+A2EA cAec|A2EA cAec|A2EA cAec|cdec cdec|
+A2EA cAec|A2EA cAec|A2EA cAec|cdec A2z2::
+dcBA cAEA|dcBA cAeA|dcBA cAeA|dcBA cAEA|
+dcBA cAEA|dcBA cAeA|dcBA cAeA|dcBA cAE2:|\
+e8|a8|
+e^d^f^g ae^cA|dcBA cAEA|e^d^f^g ae^cA|dcBA cAEA|
+e^d^f^g ae^cA|dcBA cAEA|e^d^f^g ae^cA|dcBA cAA2|
+dcBA cAEA|dcBA cAeA|dcBA cAeA|dcBA cAEA|
+dcBA cAEA|dcBA cAeA|dcBA cAeA|dcBA cAE2:|
+
+
+X: 3271
+T: Mavilim
+O: Turkey
+F: https://www.youtube.com/watch?v=pYwJnpRCpRU
+M: 4/4
+L: 1/8
+K: Bm
+Q: 1/4= 180
+%%MIDI program 111
+EFFF Fz3 |EFFF FzFz|EFFF Fz3|EFFF FzFz |
+EFDF EzAz|E2E2E2DC |B,8     |A,DCD E2DC|B,8||
+
+
+
+
+X: 328
+T: Mavromata ke Xanthi
+M: 4/4
+L: 1/8
+Q: 1/4=140
+K: Gmin
+%%MIDI drum d2ddd2d2 43 41 41 41 41
+%%MIDI drumon
+|:GDDCCB,B,A,|G,A,B,CD2z2|GDDCCB,B,A,|G,2C2G,2z2 :|\
+%%MIDI drumoff
+|:G,2G,2G,2C2|D2D6       |G2D2C2B,2  |G,2G,2G,4  :|
+|:C2B,2B,2A,2|G,2G,2C4   |C2B,2B,2A,2|G,2C2G,4   :|
+
+
+
+X: 329
+T: Medax Tashginag
+O: Armenia
+S: Deborah Jones, VIFD Book
+M: 4/4
+L: 1/8
+Q: 1/4=120
+K: Dm
+%%MIDI gchord f2fff2f2f2f2f4
+%%MIDI program 41
+%%MIDI bassprog 32
+"Dm" Dc =Bc A2 d2| A3 G AG F2    |Gc =Bc A2 D2    | A3G AG F2     |
+"Gm" GA FG EF G2 | "Dm" D3C FE D2|"Gm" GA FG EF G2| "Dm" D3C FE D2|
+
+
+
+X: 330
+T: Memede
+O: Macedonia
+F: http://www.youtube.com/watch?v=_sLCGlsmL5Q
+F: http://www.youtube.com/watch?v=uXEguxTLaN0
+F: http://www.youtube.com/watch?v=lXzj8BaAG8Y
+M: 7/8
+L: 1/8
+Q: 1/4=96
+K: Gm clef=treble
+%%MIDI drum d2zd2dd 35 61 54 54
+%%MIDI drumon
+|:DD/B,/C C/D/ B,/A,/G,2|F,A,B,C B,/C/ B,B,     :: B,C/D/ .E.E zE .E|
+  Dz Dz FFF            |F/G/ _A/G/F/=E/ F/E/_D3|CC/E/ _DC B,B,2        :|
+
+
+
+X: 331
+T: Memede
+O: Macedonia
+F: http://www.youtube.com/watch?v=_sLCGlsmL5Q
+F: http://www.youtube.com/watch?v=uXEguxTLaN0
+F: http://www.youtube.com/watch?v=lXzj8BaAG8Y
+M: 7/8
+L: 1/8
+Q: 1/4=96
+K: Gm clef=treble
+V:1
+%%MIDI program 2 Electric Grand
+|z7|z7|:
+DD/B,/CC/D/ B,/A,/G,2|F,A,B,C B,/C/ B,B,     :: B,C/D/ .E .E zE .E|
+Dz Dz FFF            |F/G/ _A/G/F/=E/ F/E/_D3|CC/E/_DCB,B,2        ::
+%%MIDI program 66 Tenor Sax
+DD/B,/CC/D/ B,/A,/G,2|F,A,B,C B,/C/ B,B,     :: B,C/D/ .E .E zE .E|
+Dz Dz FFF            |F/G/ _A/G/F/=E/ F/E/_D3|CC/E/_DCB,B,2        :|
+V:3 name=drum clef=perc stafflines=4
+K: none
+L:1/16
+%%MIDI channel 10
+%%MIDI drummap ^A 35 % Acoustic Bass Drum
+%%MIDI drummap _f 55 % Splash Cymbal
+%%MIDI drummap ^c 60 % Hi Bongo
+%%MIDI drummap ^F 61 % Low Bongo
+|^A2^c^F^A2^c^F^c^F^A2^c^F |^A2^c^F^A2^c^F^c^F^A2^c^F|:
+^A2^c^F^A2^c^F^c^F^A2^c^F |^A2^c^F^A2^c^F^c^F^A2^A2::^A2^c^F^A2^c^F^c^F^A2^A2::
+^A2^c^F^A2^c^F^c^F^A2^A2::^A2^c^F^A2^c^F^c^F^A2^c^F |^A2^c^F^A2^c^F^c^F^A2^c^F ::
+^A2^c^F^A2^c^F^c^F_f2^c^F |^A2^c^F^A2^c^F^c^F^A2^c^F ::^A2^c^F^A2^c^F^c^F_f2_f2 |
+^A2^c^F^A2^c^F^c^F_f2_f2 |^A2^c^F^A2^c^F^c^F^A2^c^F |^A2^c^F^A2^c^F^c^F^A2^c^F :|
+
+
+
+X: 332
+T:Metovnicanka
+O:Serbia
+F: http://www.youtube.com/watch?v=MxeaDbfR4uI
+M:2/4
+L:1/8
+Q:1/4=192
+K:C
+%%MIDI gchord fzzz
+%%MIDI drum  zzdz 44
+%%MIDI drumon
+|:"C"  G,2E2|G,2D2|G,2C2     |CB,CA,   |\
+  G,2E2     |G,2D2|G,2C2     |C4       :|
+|:"C"C2E2   |G2E2 |"G"D2C2   |"C"CB,CA,|\
+  C2E2      |G2E2 |"G"D2"C"C2|"C"C4    :|
+|:"C"G2G2   |GFFE |GFFE      |EDC2     |\
+  GFFE      |GFFE |DCCB,     |C4       :|
+
+
+
+X: 333
+T: Mi Cigani
+O: Croatia
+S: Deborah Jones, VIFD Book
+M: 2/4
+L: 1/8
+Q: 1/4=120
+K: G
+%%MIDI program 41
+%%MIDI bassprog 32
+|:"C" [c2e2][c2e2]                                |[ce][df] [e/g/][d/f/][ce]            |\
+  "G" [Bd][B/d/][B/d/] [B2d2]                     |[Bd][B/^c/][B/d/] [ce][Bd]           |
+  "D7" [Ac][^G/B/][A/c/] [Bd][Ac]                 |"G" [GB][G/B/][G/B/] [G/B/][A/c/][GB]|\
+  "D7" [DFA][D/F/A/][D/F/A/] [D/F/A/][D/F/B/][DFA]|"G" [D2G2] [D2G2]                    :|
+|:"G" BB GG                                       | DD BB                               |\
+  "D7" AA FF                                      | GG GG                               :|
+|:"C" [G2c2e2] [G2c2e2]                           |[Gce][Gce] [Geg][Geg]                |\
+  "G" [GBd][GBd] [G2B2d2]                         |[GBd][GBd][Gce][GBd]                 | 
+  "D7"[DAc][DAc][DBd][DBd]                        |"G" [DGB][DGB][DAc][DAc]             |\
+  "D7"[DFA][DFA][DFB][DFA]                        |"G" [D2G2][D2G2]                     :|
+
+
+
+X: 334
+T: Micino Cergasko Kolo
+O: Serbia
+S: recording: Nama Orchestra, Balkan Folk Dances
+M: 2/4
+L: 1/8
+Q: 1/4=300
+K: Dm
+|:A4  |A4   |B2G2 |A4   |GAA2 |B2G2 |A4   |A4   :|
+|:A4  |A4   |B2G2 |A4   |GAA2 |B2G2 |A4   |A4   :|
+|:eggf|feed |edd^c|ed^c2|A4   |A4   |B2G2 |A4   :|
+|:eggf|feed |edd^c|ed^c2|A4   |A4   |B2G2 |A4   :|
+|:A2a2|a^ga2|=b2g2|g4   |a2^f2|^fef2|^f2e2|d4   |
+  d2f2|f2e2 |d2e2 |e2d2 |^c2d2|B2^c2|B2G2 |A4   :|
+|:G2g2|e2G2 |e2f2 |ede2 |e2d2 |d2d2 |d2f2 |ede2 :|
+|:e2d2|d2d2 |d2f2 |ede2 |e2d2 |d2d2 |d2f2 |ede2 :|
+
+
+
+X: 335
+T: Mindra Mea De La Ciugud
+T: De_a_Longul
+O: Romania
+F: http://www.youtube.com/watch?v=3pVYI4fHnKc
+F: http://www.youtube.com/watch?v=TqpZZ5IWxzE
+F: http://www.youtube.com/watch?v=loU6Rfcjo8U
+S: Deborah Jones VIFD Book I
+M: 3/4
+L: 1/8
+Q: 1/4=84
+K: G
+P:A
+V:1
+%%MIDI program 40
+K: G octave=-1
+  g>a b>a g>d             | (3 eed d2 d2| g/f/g/a/ (3bd'd' (3 abg|
+V:2
+%%MIDI program 24
+  G2 G2 G2                | C2 G2 G2    | G>F E2 (3A,B,C         |
+V:1
+  a4 d2                   | g>a b>a g>d | (3eed d2 d'2           |
+V:2
+  D2-DDEF                 | G2 G2 GB    | c2 G2 ^G2              |
+V:1
+  d'/e'/d'/c'/ (3bcc (3aab| g4 z2       |
+V:2
+  A2 D2 EF                | G2 G2 G2    |
+P:B
+V:1
+|:B>c d2 d2               | d/e/B/c/ d4 | G/F/G/A/ (3Bdd (3cBG   | A4 z2    :|
+V:2
+|:G2 G2 G2                | G2 G2 GF    | E2 E2 A2               | D2-DDEF  :|
+V:1
+  G>A B>A G>D             | (3EED D4    | G/F/G/A/ (3Bdd (3CBG   | A4 z2    |
+V:2
+  G2 G2 GB                |c2 G2 G2     | G>F E2 (3A,B,C         | D2-DDEF  |
+V:1
+  G>A B>A G>D             | (3EED D2 d2 | d/e/d/c/ B/cB/ A/BA/   | G4 z2    |
+V:2
+  G2 G2 GB                | C2 G2 ^G2   | A2 D2 EF               | G2 G2 G2 |
+
+
+
+X: 336
+T:Mindrele
+O:Romania
+S:presented by Mihai & Alexandru David, Gypsy Camp II
+L: 1/8
+M: 5/4
+Q:1/4=192
+K:Em
+%MIDI gchord fzfzfzfzzz
+%%MIDI beatstring fpppppmppp
+|:[CE][DF][EG][FA][EG][CE][D4F4]|[E2G2][C2E2][G,2C2][C4E4]   |\
+  [CE][DF][EG][FA][EG][CE][D4F4]|[E2G2][C2E2][G,2C2][G,4C4]  :|
+|:gabgafg4                      |g2e2c2e4                    |\
+  gabgafg4                      |g2e2c2c4                    :|
+|:g2e2c2e4                      |g2e2c2_b4                   |\
+  g2e2c2e4                      |g2e2c2c4                    :|
+|:_b2a2g2b4                     |g2e2c2e4                    |\
+  _b2a2g2b4                     |g2e2c2c4                    :|
+  efgagfg4                      |g2e2c2e4                    |\
+  efgagfg4                      |g2e2c2c4                    | 
+  [CE][DF][EG][FA][EG][CE][D4F4]|[E2G2][C2E2][G,2C2][C4E4]   |\
+  [CE][DF][EG][FA][EG][CE][D4F4]|[E2G2][C2E2][G,2C2][G,4C4]  |
+
+
+
+X: 337
+T:Mindrele 2
+O:Romania
+F: http://www.youtube.com/watch?v=-Ae6EnmgQKM
+M:6/8
+L:1/8
+Q:1/4=100
+K:BDor
+%%MIDI gchord ffffz2
+|: "B" CCCE2D | CCCE2D        |[1 CCCE2D     | CB,FB,3  :|\
+   [2 FFF=F2D |CB,FB,2D       |
+|: FFF=F2D    | FFF=F2D       | FFF=F2D      |B,B,DF2D  |\
+   FFF=F2D    |[1 B,B,B,B,2D  :|[2 B,B,B,B,3 |
+|: FGGG2F     |=F2DB,3        |FGGG2F        |B3-B2A    |\
+   GGGB2A     |GGGF3          |C/D/EF=F2D    |FFFB,3    :|
+
+
+
+X: 338
+T:Mirkovo Kolo
+O:Serbia
+F: http://www.youtube.com/watch?v=nrMup4xhd0o
+F: http://www.youtube.com/watch?v=L798XgLWZ0w
+M:6/8
+L:1/8
+Q:1/4=240
+K:GDor
+%%MIDI gchord fzzfzz
+|: "F"fef "G"g2f|"C"gfe "G"d2c|"F"f2c c2c    |"F"cBA "G"G3   |
+   "G"BAB "F"c2B|"F"cBA "G"G3 | "G"B2A "F"AFA| "G"G2z G2z    :|
+|: "G"BAB "F"c2B| "F"cBA "G"G3| "F"f2c c2c   |"F"cBA "G"G3   |
+   "G"BAB "F"c2B|"F"cBA "G"G3 |"G"B2A "F"AFA | "G"G2z G2z    :|
+|: "G"d2c d2c   |Bcd B3       |d2c d2c       |BAd B3         |\
+   d2c d2c      |Bcd B3       |B3 "F"A3      | "C"G2c "G"G3  :|
+|: "G"F3 "F"A3  | "G"B2A G3   | "G"F3 "F"A3  | "G"B2A G3     |\
+   d2c d2c      |B2c "F"A3    |"G"B3 "F"A3   |"G"G6          :|
+
+
+
+X: 339
+T: Mitra Moma Popova
+O: Macedonia
+F: http://www.youtube.com/watch?v=AuCKLIVL3X4
+W:transcribed by Jutta Weber-Karn
+W:http://www.folkloretanznoten.de/
+W:converted to abc notation 
+M: 5/8
+L: 1/8
+K: Cdor clef=treble
+Q: 1/4=210
+%%MIDI gchord fzczz
+"Cm" c2 g2 g    |gf g2 f     |\
+"Fm"c2 f2 f     |fe f2 e     |\
+"Bb" B2 e2 e    | ed e2 d    |\
+"Cm"f2 c2 B     |[1 cd efg   :|[2 cB c2z|:
+"Eb" F2 G3      |G2 G3       |\
+F2 G3           |F2 E3       |\
+"Fm" E2 F3      |F2 (E2D)    |\
+"Cm"B,2 C3      |E2 E3::
+"Gm" C2 B,A,G,  |A,B, (C2D)  |\
+"Bb"F2 (E2D)    |"Fm"E2 F3   |\
+"Gm" C2 (B,A,)G,|(A,B,) (C2D)|\
+"Fm"F2 (C2B,)   |"Cm"C2 C3   :|
+
+
+
+X: 340
+T: Moja Diridika
+L:1/8
+O: Croatia 
+F: http://www.youtube.com/watch?v=u4SpMo8PpM8
+F: http://www.youtube.com/watch?v=zGkbzaX3vPA
+F: http://www.youtube.com/watch?v=Q4xfFmT4C28
+S: Deborah Jones ,1982 Vancouver Folk Dance Club
+M:2/4
+Q:1/4=120
+K:G
+   "G" [B3D3] [GB]            | "D7" [Ac][DAc] [EAc][FAd]   |\
+   "G" [GB][GB]  c/2B/2A/2B/2 | "D7"[Ac][DAc] [EAc][FAd]    |
+   "G" [GB][GB]  c/2B/2A/2B/2 | "D7" [Ac][DAc] [EAc][FAd]   |\
+   "G" [GB][GB] c/2B/2A/2B/2  | "D" [D2A2] [DA] z           |
+   "G" [B3D3] [GB]            | "D7" [Ac][DAc] [EAc][FAd]   |\
+   "G"[GB][GB] [AB][GB]       | "D7"[Ac][DAc] [EAc][FAd]    |
+|  "G"[GB][GB] [AB][GB]       | "D7"[Ac][DAc] [EAc][FAd]    |\
+   "G" [GB][GB] [AB][GB]      |"D" [D2A2] [DA] z            |
+|: "D" [F3A3] [DF]            | "A7" [EG][A,EB] [B,EG][CEA] |\
+   "D" [DF][DF] [EF][DF]      | "A7" [EG][A,EG] [BEG][CEA]  |
+   "D" [DF][DF] [EF][DF]      | "A7" [EG][A,EG] [B,EG][CEA] |\
+   "D" [DF][DF] [EF][DG]      | "A" [A,2E2A2] [A,EA] z      :|
+
+
+
+X: 341
+T: Mom Bar
+O: Armenia
+F: http://www.youtube.com/watch?v=jkyQZHLvtnQ
+M: 7/4
+L: 1/8
+K: Am
+Q: 1/4=132
+cd |:ea e3d e2d e2A2z | e/a/e3 eae3  d2c/d/ e2 |
+ c2d2 efed e2A2 AB |[1 cdBG2A2cB A2z3 :|[2cdBGA6z4|
+
+
+
+X: 342
+T: Momacka Setnja
+O: Serbia
+F: http://www.youtube.com/watch?v=Q4xfFmT4C28
+F: http://www.youtube.com/watch?v=WOCmCT7oN2s
+M: 4/4
+L: 1/8
+Q: 1/4=200
+K: Gm
+%%MIDI bassprog 117
+%%MIDI gchord ffz2
+|:"a"A2"c"c2c2B2   |"a"A2"c"c2c2B2  |\
+  "a"A2"c"c2c2B2   |"a"A2 "c"BAG2z2 :|
+K: Cm
+%%MIDI gchord fzfz
+|:"b"F>D E2  D>E C2|"e"D2 E2 C2 z2  |\ 
+  "b" F>D E2 D>E C2|"e" D2 DE C2 z2 | 
+  "b" F>D E2 D>E C2|"^a"EF G_A BG AF|\
+  GE FD EC DC      |[1C2 FC-C2 DE   :|[2C2 z6|
+  EF G_A BG AF     |GE FD ED CB,    |\
+  EF G_A BG AF     |GE FD E2 z2     |
+  EF G_A BG AF     |GE FD ED CB,    |\
+  D2 F2 EDCB,      |C2 z6           |
+|:D2 F2 TE4        |D2 E2 TC4       |\
+  D2 F2 TE4        |D2 ED C2 z2     |
+  D2 F2 TE4        |D2 E2 C2 G_A    |\
+  BG AF GE FD      |ED Cz F2 C2     :|
+
+
+
+X: 343
+T: Momino Horo
+O: Bulgaria
+M: 2/4
+L: 1/16
+Q: 1/4=108
+K: Gm
+%%MIDI gchord Gf
+|:"Gm"CB,A,2 B,A,G,2 | G,8     |D8           | F2E2 D2C2|\
+  D2B,2-B,4          | G,4 C4  |B,2A,2 G,4   | G,8      :|
+|:"Bb"D8             | D8      |"Cm"F2E2 D2C2|"Dm" D4 D4|\
+  "F"F2E2 D2C2       |"Gm" B,8 | G,8-        |G,8       |
+  "Cm"C8             | C8      |"Bb"B,4 B,4  |"Eb"G,4 C4|B,8|\
+  "Adim" C2B,2 A,2G,2|"Dm"G,8  | C8          |B,8       |\
+  C2B,2 A,2G,2       |"Gm"G,8- |G,8          :|
+
+
+
+X: 344
+T: Moravac
+O: Serbia
+S: Ciga Despotovic vol. 4
+F: http://www.youtube.com/watch?v=BN7Ph-bv5hs
+F: http://www.youtube.com/watch?v=fMqBfsKWHVA
+F: http://www.youtube.com/watch?v=WU32Q94DgcM
+F: http://www.youtube.com/watch?v=ijAqX16Qevc
+M: 2/4
+L: 1/8
+Q: 1/4=240
+P:ABCDEDE
+K:Bb
+%%MIDI gchord fzzz
+%%MIDI program 74
+%%MIDI bassprog 26
+%%MIDI bassvol 60
+P:A
+   | B2         |:"f"c2 cB  |"c"c2 cB   |"f"c2 cB  |"f" c2 cB\
+   |"c" c2 cB   |"f" c2 cB  |[1 "c"c2 f2|"f"c2 B2  :|\
+    [2 "c" c2 cA|F2 z2      |
+P:B
+  |:"bb" B4     |e2 d2      | d2ed      |"f" c4    |\
+    "bb" e2 d2  |d2 ed      |"f" c4     |c4        |
+    "bb" d2 fd  | e2 d2     |d2 ed      |"f" c4    |\
+    "bb" e2 d2  |d2 ed      |"f" c4     |[1 c4     :|[2 "f" A2 F2|
+P:C
+    "bb" d4     |"f" f4     |"bb" e4    |efd2      |\
+    d4          |"f"f4      |"bb" e4    |efd2      |
+    d4          |"f"f4      |"bb" e4    |efd2      |\
+    d4          |"f"bag2    |"bb" e4    |efd2      |
+P:D
+|:  "bb" B2cd   |e2 d2      |d2 ed      |"f" c4    |\
+    "bb" e2 d2  |d2 ed      |"f" c4     |[1 c4     :|[2 Bcde     |
+P:E
+|:  "f" fgaf    |"bb" bagf  |egfe       |dfed      |\
+    "f" c3B     |"bb" e2 d2 | d2  ed    |[1 cBcd   :|[2 "f" c2 AF|
+
+
+
+X: 345
+T: Moravsko Kolo
+O: Serbia
+F: http://www.youtube.com/watch?v=IXTsUEduLdo
+M: 2/4
+L: 1/8
+Q:1/4=132
+K: Emix
+%%MIDI gchord if
+%%MIDI program 28
+%%MIDI bassprog 45
+%%MIDI chordprog 45
+|:"A"agfe|fedc |c2e2   |E4   |\
+  "E"GABc|dcBA |c2e2   |E4   :|
+|:"E"GABc|dcBA |c2e2   |E4   :|\
+|:"B"dddd|dcB2 |"A"cccc|cBA2 :|
+| "B"dddd|dcB2 |"A"cccc|cBA2 |\
+  B2dc   |dB=cA|"E"B2B2|E4   |
+
+
+
+X: 346
+T: More Cica Rece da me Zeni
+O: Bulgaria
+F: http://www.youtube.com/watch?v=JCuEvko6YBc
+F: http://www.youtube.com/watch?v=FyS1x_2MfhU
+M: 5/8
+L: 1/8
+Q: 1/4=192
+K: Em
+%%MIDI program 64 Soprano Sax
+%%MIDI bassprog 32
+%%MIDI gchord fz4
+|:"E" E/B,/G2FE|"B"FD  E3|"E"E/B,/G2FE|"B"FDEB,2   |
+  "E"E/B,/G2FE |"B"FG AB2|AG  GFE     |"E"FDE3     :|
+%%MIDI gchord fzfzz
+  "G"  GG2A2   |B2B3     |B2B3        |A2G3        |\
+  "A"  GF2G2   |A2E3     |"E"E2E3     |E2E3        |
+|:"D" D2D3     |"E"E2E3  |E2E3        |"G"FG2G2    |\
+  "G" zGA"A"BA |TG2F3    |A2E3        |"E"E2E3     :|
+
+
+
+X: 347
+T: Mori Shej Cigan Tanc
+O: Hungary gypsy
+D: Czsokolom - May I Kiss Your Hand
+N: Adapted from Moishe Branner's transcription
+F: http://www.youtube.com/watch?v=G6RLcLEeuQA
+F: http://www.youtube.com/watch?v=bnafRoYiXgY
+F: http://www.youtube.com/watch?v=W-DOTljkpio
+M: C
+L: 1/8
+Q:1/4=120
+K: Am
+%%MIDI program 24
+%%MIDI chordprog 0
+%%MIDI bassprog 0
+|: "Am"AA-AA-A3B   | AG-GA-A2 G2     |\
+   "C"EE-EE-D3D    | ED-DE-E4        :|
+|: "G"D4-D4        | E^FFG-G4        |\
+   "Am"AB-BA-A2 G2 | ED-DC-C4        |
+   "G"B,C D2 D2 D2 | "E7"E2 DC E2 DC |\
+   "Am"A,2 A,2-A,4 | A,4-A,4         :|
+
+
+
+X: 348
+T: Na Purt
+O: Bulgaria
+F: http://www.youtube.com/watch?v=XsCcidA-bww
+M: 2/4
+L: 1/16
+Q: 1/4=132
+P:ABCBCD2
+K: Gm
+%%MIDI gchord fzfz
+%%MIDI program 22 Harmonica
+%%MIDI bassprog 45
+P:A
+|:"g"B2A2"d"AGF2|"g"G4 "d"c2d2|"g"B2A2 "d"AGF2|"g"G4 "d" G4:|
+P:B
+|:"g"d2e2"bb"d2zc|"g"d2e2"bb"d2zc|"g"c3B"bb"c2d2|"g"B2A2G4:|
+P:C
+|:"g"B4"b"zFGA|"d"B4"g"c4|"d"c2B2c2d2|"g"B2A2G4:|
+P:D
+|:"g"G4B2A2|.G2.G2F=ED2|G4B2A2|.G2.G2G4:|
+
+
+
+X: 349
+T: Nabrala
+O: Croatia
+F: http://www.youtube.com/watch?v=OvHu_HjtSig
+F: http://www.youtube.com/watch?v=OdjDi5qVSUs
+F: http://www.youtube.com/watch?v=MAujh3RDoKI
+F: http://www.youtube.com/watch?v=cSlP0B0_gVs
+M: 2/4
+L: 1/8
+Q: 1/4=120
+K: Cm
+%%MIDI program 110
+%%MIDI bassprog 32
+%%MIDI chordprog 32
+  "Fm"FF FF|"Dm"ED E2|"Fm"FF FF   |"Dm"ED E2|\
+  "Cm"C2 F2|ED C2    |D C2 =B,    |C2 C2    |
+|:"Gm"G3 c |G3 c     |"Bb"BAGF    |G2 E2    |\
+  "Fm"FE D2|"Cm"C4   :|
+|:"Eb"ED EF|ED EF    |"Gm"G2 c2   |G4       |\
+  "Fm"FF FF|ED E2    |FF FF       |ED E2    |
+  "Fm"C2 F2|ED C2    |"Cm"D C2 =B,|C2 C2    :|
+
+
+
+X: 350
+T:Nabrala Je
+O:Croatia
+F: http://www.youtube.com/watch?v=OvHu_HjtSig
+F: http://www.youtube.com/watch?v=OdjDi5qVSUs
+F: http://www.youtube.com/watch?v=MAujh3RDoKI
+F: http://www.youtube.com/watch?v=cSlP0B0_gVs
+M:2/4
+L:1/8
+Q:1/4=132
+K:Eb
+%%MIDI program 110
+%%MIDI bassprog 32
+%%MIDI chordprog 32
+"Fm"[fd][fd] [fd][fd]|"Dm"[ec][d=B] [e2c2]|\
+"Fm"[fd][fd] [fd][fd]|"Dm"[ec][d=B] [e2c2]|\
+"Cm"[c2G2] [f2d2]|[ec][d=B] [c2G2] |\
+[dA] [c2G2] [=BG] |[c2G2] [c2G2] |
+|:"Gm"[g3c3] [c'g] |[g3c3] [c'g] |\
+"Bb"[bg][af][ge][fd] |[g2e2] [e2c2] |\
+"Fm"[fd][ec] [d2=B2]|"Cm"[c4E4] :|
+|:"Eb"ed ef|ed ef |\
+"Gm"g2 c'2 |g4 |\
+"Fm"ff ff|ed e2 |\
+ff ff |ed e2 |
+"Fm"c2 f2|ed c2 |\
+"Cm"d c2 =B|c2 c2 :|
+
+
+
+X: 351
+T: NagyKonyi Verbunk
+O: Hungary
+S: Andor Czompo, Hungarian Folk Dance Music, AC Publications
+M: 2/4
+L: 1/8
+K: E
+AGFB|AGFB|A2G2|F2B,2|E2 ED|E4|
+edcf|edcf|e2d2|c2F2|B2B^A|B4|
+g4|e4|B2e2|e2=d2|c4|c4|
+B2e2|B2A2|G4|F4|E2ED|E4|
+
+
+
+X: 352
+T: Nana Nani Savu Ludo Dete
+O: Serbia
+F: http://www.youtube.com/watch?v=LkEV29qJ_OA
+M: 7/8
+L: 1/8
+P:B
+Q:1/4=120
+K: Cm
+%%MIDI program 20 Reed organ
+%%MIDI bassprog 58 Tuba
+%%MIDI gchord fz2fzz2
+"Cm"GGG AGF2|=E3-E2-E2|"Fm"F2F F2 F2|"Cm"=E2^C =C2^C2|C3-C2-C2|
+G2G AGF2|=E3-E2-E2|"Fm"F2F F2 F2|"Cm"=E2^C =C2^C2|C3-C2-C2|
+"Cm"C2^C F2F2|=E2^C E2C2|C3F4|\
+C2^C F2F2|=E2^C E2C2|C3F4|
+C2^C F2F2|=E2^C E2C2|C3C4-|C3-C4|:\
+"Fm"F2F F2F2|G2F =E2C2|"Cm"F2=E C2-C2-|C7:|
+
+
+
+X: 353
+T: Narino
+O: Turkey
+F: http://www.youtube.com/watch?v=THf76TpHvss
+F: http://www.youtube.com/watch?v=OVxvLPuVCFw
+F: http://www.youtube.com/watch?v=B0cw7mk-LYQ
+M: 2/4
+L: 1/8
+Q:1/4=100
+K: Dm
+%%MIDI drum d4d2d3d3 45 45 45 45 60 40 60 40
+%%MIDI drumon
+%%MIDI program 25
+| G2 d2 | dcdc|c4-  |c2 BA |\
+  G2 d2 | dcdc|c4-  |c2 BA |
+%%MIDI program 110
+| G2 d2 | dcdc|c4-  |c2 BA |\
+  G2 d2 | dcdc|c4-  |c2 BA |
+%%MIDI program 42
+|:d2 d2 | ddd2|d2cB |ccc2  |\
+  Gddd  |d2cB |ccc2 | Gddd |d2cB|ccc2 :|
+
+
+
+X: 354
+T: Nazad Nazad Kalino Mome
+O: Macedonia
+F: http://www.youtube.com/watch?v=Pg2mhunskgI
+F: http://www.youtube.com/watch?v=0AWbal8Y4I8
+F: http://www.youtube.com/watch?v=736b9LmDlxc
+M: 7/8
+L: 1/8
+Q: 1/4=144
+K: Em^G
+%%MIDI program 42 Cello
+%%MIDI bassprog 32 Acoustic Bass
+%%MIDI gchord fzzfzfz
+"E"E3 "G#m"G2A2|"A"Bc2 A4|c3 "B"B2A2|AB2 "E"E4|\
+"E"E3 G2A2|"A"c3 "B"B4|"A"cA2 "B"B4-|B3-B4|:
+"C"c3 c2c2|"A"cB2 A4|"C"c3 B2A2|AB2 "G#m"G4|\
+GAB G2E2|"D"=F2E"E"D2E2-|E7:|
+
+
+
+X: 355
+T: Ne si go Prodavaj Koljo Ciflikot
+O: Macedonia
+F: http://www.youtube.com/watch?v=WkLtu7uN1mw
+F: http://www.youtube.com/watch?v=xSNmNZWtiUU
+F: http://www.youtube.com/watch?v=GTRQVGS7Bbg
+M: 7/8
+Q: 1/4=120
+K: Dm
+%%MIDI program 110 Fiddle
+%%MIDI chordprog 24 Acoustic Guitar
+%%MIDI gchord cccc2c2
+D2|"Gm"GGG G2G2|"Dm"FGF GB AG|GF GA F3 |D_EDC D3-|Dz2 DC=B,C|D3 z2D2|
+"Gm"GGG G2G2|GBA G4|"Am"cBA GFGA |"Dm"zFG_E D3|:
+%%MIDI gchord ccccc3
+"Dm"D2 dd dd2|"Am"cB AG ABc|dcB AGFG|AFG"Dm"_ED-D2::
+%%MIDI gchord cccc2c2
+"Gm"GG GG GFA|"Edim"GF ED CDE |"Am"FcBA FGA|zFG_E "Dm"D3:|
+
+
+
+X: 356
+T: Nesho (Xhimixhi)
+O: Albania
+Z: Birgitt Karlson
+Z: http://www-linux.gsi.de/~karlson/index_e.htm
+M: 12/8
+L: 1/8
+K: Dmix
+|:"D"AAA ABAG F2 E ED|F2E EDDD "G"G3-GF|\
+"D"AAA ABAG F2E ED|"A"F2E ED ^CE D3-D2:|
+|:z3 "D"D2 D2 "G"G3 GF|G2F E2D2 "A"E3-E2|\
+"D"A A2 A2 F2 E2D E2|F3 E3D "G"G3-GF|\
+"D"A A2 A2 F2 E2D E2|"A"F2E E3D D3-D2:|
+
+
+
+X: 357
+T:Nestinarsko
+O:Bulgaria
+F: http://www.youtube.com/watch?v=7lFZ7K2SAiI
+I:bagpipes and percussion recommended
+P:ABCBCDEDEFGH
+M:2/4
+L:1/8
+Q:1/4=180
+K:Dm
+%%MIDI gchord fzzz
+%%MIDI drum d2d2 50
+%%MIDI drumon
+P:A
+   A4-      |A4       |D4-       |D4      |"Dm"z4    |
+P:B
+|:"D"D2EF   |GAGA     |GFGA      |D4      |\
+  A2GA      |GFED     |D4        |D4      :|
+P:C
+|:"D"A2GA   |GF"A"EC  |"D"D4     |DEFG    |\
+  A2GA      |GF"A"EC  |"D"D4     |D4      :|
+P:D
+|:"D"FGAG   |A4       |FGAG      |A4      |\
+  FGAG      |A4       |GF"A"EC   |"D"D4   :|
+P:E
+|:"D"G2FE   |DEDC     |"C"G2"D"FE|"D"DEDC |\
+  "C"G2"D"FE|DEDC     |D4        |D4      :|
+P:F
+|:"D"D2EF   |GAA2     |GAA2      |D4      |\
+  A2GA      |GF"A"EC  |"D"D4     |D4      :|
+P:G
+|:"D"A2AG   |FGD2     |A2AG      |FGD2    |\
+  A2AG      |FGD2     |FD"A"EC   |"D"D4   :|
+P:H
+K:Am
+|:"A"A,2B,C |DEDE     |DCDE      |A,4     |\
+  E2DE      |DCB,A,   |A,4       |A,4     :|
+|:"A"E2DE   |DC"E"B,G,|"A"A,4    |A,B,CD  |\
+  E2DE      |DC"E"B,G,|A,4       |A,4     :|
+|:"A"CDED   |E4       |CDED      |E4      |\
+  CDED      |E4       |DC"E"B,G, |A,4     :|
+|:"A"C2B,A, |A,B,A,G, | C2B,A,   |A,B,A,G,|\
+  C2B,A,    |A,B,A,G, |A,4       |A,4     :|
+K:Dm
+|:"D"FGAG   |A4       |FGAG      |A4      |\
+  FGAG      |A4       |GF"A"EC   |"D"D4   :|
+|:"D"G2FE   |DEDC     |"C"G2"D"FE|"D"DEDC |\
+  "C"G2"D"FE|DEDC     |D4        |D4      :|
+|:"D"D2EF   |GAA2     |GAA2      |D4      |\
+  A2GA      |GF"A"EC  |"D"D4     |D4      :|
+
+
+
+X: 358
+T: Nevestinsko
+O: Bulgaria
+M: 7/8
+L: 1/8
+Q: 1/4=120
+K: G
+%%MIDI drum dzzdzdz 50 50 50
+%%MIDI drumon
+|: d2e dc BA|GDG AG AB    |c2c cB AB    |GDG AG AB|cBA B2z2|
+  ded dc BA |cBA B4    |GDG AG AB    |c2c cB AB    |\
+  GAB A2 AG |A7       |A7         :|
+  dzd ^cd ef|:gzg gf ed |edc Bd AG    |B2c d4      |\
+  gzg gf ed |edc Bd AG  |[1B2c dB cd  :|[2 B2A G2z2|
+
+
+
+X: 359
+T: Nino
+O: Armenia
+M: 2/4
+L: 1/8
+Q: 1/4=220
+K: Am
+%%MIDI program 23
+%%MIDI gchord fz
+|:"D"Bcdz |"F"dcdz|cBcz   |"A"BAAz|\
+  "F" Azcz|cBcz   |BAAz   |[1d2z2 :|[2"A"A2z2|
+|:"C"c3z  |c3z    |"F"c2d2|d2c2   |"D"B4     |"C"c3z :|\
+|:"C"c3z  |c3z    |"F"c2d2|d2c2   |"D"B4     |"C"c3z :|
+|:"D"d2z2 |"F"dccB|"A"A2B2|cBcz   |"F"BAAz   |d4     |\
+  "D"d2z2 |"F"dccB|"A"A2B2|cBcz   |BAAz      |A4     :|
+
+
+
+X: 360
+T:Niska Banja
+O:Serbia
+F: http://www.youtube.com/watch?v=kxRNWWr4Dus
+F: http://www.youtube.com/watch?v=uU-a5uGDAu8
+F: http://www.youtube.com/watch?v=aH4QZ2YQ3eQ
+F: http://www.youtube.com/watch?v=tsH29kl2OVM
+M:10/8
+L:1/8
+Q:1/4=180
+K:F
+%%MIDI drum dddd2 54 54 54 54 60 40 40 40
+%%MIDI drumon
+%%MIDI program 1
+| z6C4    |:F2F2F2F4 |A2B2G2A4|A2B2G2A4 |G2G2F2F4 :|
+|:A2B2G2A4|G2G2G2FGA2|A2B2G2A4|G2G2G2F4 :|
+
+
+
+X: 361
+T: not identified 6
+T: 7a 305
+M: 2/4
+L: 1/8
+Q: 1/4=180
+K: Em
+%%MIDI drum dzdz 54 54 40 40
+%%MIDI drumon
+f^ga2|d4-|d4|:d2f2|f2d2|f2f2|d4|
+d2f2|f2d2|f2f2|d4 :: E2(3^G=FE| (3DE=F E2 |
+(3^G=FE  (3DE=F |E2 E2| E2(3^G=FE| (3DE=F E2 |
+(3^G=FE  (3DE=F |E2 E2 ::f2 (3def|e2 f2|
+f2 (3def|e4|f2 (3def|e2 f2|f2 (3def|e4 ::
+(3d^cd e2|g2 f2|(3d^cd e2|(3ed^c B2| (3d^cd (3ede|(3gfg f2|
+(3d^cd e2|(3ed^c B2 :: E2(3^G=FE| (3DE=F E2 |
+(3^G=FE  (3DE=F |E2 E2| E2(3^G=FE| (3DE=F E2 |(3^G=FE  (3DE=F |E2 E2:|
+
+
+
+X: 362
+T: Novozagorsko Horo
+O: Bulgaria
+S: Horas and Ruchenitsas
+http://www.youtube.com/watch?v=cs1Ie8QWgG0
+http://www.youtube.com/watch?v=oHm2F1N9Td0
+M: 2/4
+L: 1/8
+Q: 1/4=150
+K: BPhr
+%%MIDI program 110
+|:(3Bff (3:2:1f3   |(3e^dc (3:2:1B3|(3:2:2^d2e (3:2:1f3   |(3age (3:2:1f3   |\
+  (3Bff (3:2:1f3   |(3e^dc (3:2:1B3|(3:2:2A2B (3:2:1B3 |(3e^dc (3:2:1B3 :|
+|:(3ABB (3:2:1B3|(3e^dc (3:2:1e3 |(3^def (3:2:1g3   |(3fe^d (3:2:1f3  |\
+  (3fg^g (3:2:2a2g  |(3:2:1a3 (3gfe  |(3^def (3e^dc |(3:2:1B3 (3:2:1B3  :|
+|:(3fg^g (3:2:2a2g  |(3:2:1a3 (3gfe  |(3ac'b (3agf   |(3gfe (3:2:1f3   |\
+  (3fg^g (3:2:2a2g  |(3:2:1a3 (3gfe  |(3^def (3e^dc |(3:2:1B3 (3:2:1B3  :|
+|:(3ABB (3:2:1B3|(3:2:2cc2 (3:2:1c3  |(3BAB (3:2:1B3|(3:2:1B3 (3:2:1B3  |\ 
+  (3ABB (3:2:1B3|(3:2:2cc2 (3:2:1c3  |(3BAB (3:2:1B3|(3:2:1B3 (3:2:1B3  :| 
+|:(3:2:1A3 (3:2:1a3    |(3agf (3:2:1e3  |(3:2:1e3 (3:2:1f3     |(3e^dc (3:2:1A3 |\
+  (3:2:1e3 (3fga    |(3:2:1g3 (3:2:1f3   |(3:2:1e3 (3fe^d   |(3:2:1^c3 (3:2:1A3  :|
+|:(3:2:1e3 (3fga    |(3:2:1g3 (3:2:1f3   |(3:2:1e3 (3fe^d   |(3:2:1^c3 (3:2:1A3  |\
+  (3:2:1e3 (3fga    |(3:2:1g3 (3:2:1f3   |(3:2:1e3 (3fe^d   |(3:2:1^c3 (3:2:1A3  :|
+
+
+
+X: 363
+T: Oj cvetjot Kalina
+O: Russia
+F: http://www.youtube.com/watch?v=AwSz4CKkYUM
+M: 2/4
+L: 1/8
+K: Cm
+Q: 1/4=120
+%%MIDI program 22 Harmonica
+%%MIDI bassprog 34 Electric Bass (pick)
+%%MIDI gchord fz
+"Cm"C2C2|"Gm"=B,2G,2|"Cm"C4  |"Fm"F4  |\
+"Gm"E2E2|DCD2       |[1"Cm"C4|C4      :|"Eb"E4|E4|:
+B2B2    |c2B2       |"Fm"A4  |"Fm"G2F2|B2B2   |\
+AGA2    |"Gm"G4     |G4      |
+G,2G2   |G2"Fm"F2   |F4      |E2D2    |\
+"Gm"G2G2|FGF2       |"Cm"C4- |C4      :|
+
+
+
+X: 364
+T: Oj Rasticu Susnjati
+O: Croatia
+F: http://www.youtube.com/watch?v=BV5Glygh4iQ
+F: http://www.youtube.com/watch?v=BhqUNb82m3E
+S: Deborah Jones VIFD Book 1
+M: 2/4
+L: 1/8
+Q:1/4=96
+K: Edor
+%%MIDI program 64
+%%MIDI chordprog 32
+%%MIDI bassprog 25
+   [ce][Adf] [Aeg][Adf]         |[Ae][Ae] [c3/2e3/2][A/d/f/]              |\
+   [Aeg][Adf] [Aeg][Adf]        | [ce][ce] [c2e2]                        |
+   EF GF                        | EE E2                                  |\
+   GF GF                        | EE E2                                  |
+|: [CE][DF] [EG][DF]            |[A,E][A,E] [A,2E2]                      |\
+   [EG][DF] [EG][DF]            |[A,E][A,E] [A,2E2]                      :|
+Q:1/4=120
+|: "D" [eg][df] [d/f/][e/g/][df]|"A" [df][c-e-] [c/e/][b/d/][c/e/][d/f/] |\
+   "D" [eg][df] [d/f/][e/g/][df]|"A" [df][c-e-] [c/e/][b/d/][c/e/][d/f/] :|
+Q:1/4=140
+|: "D" [EG][DF] [EG][DF]        |"A" [A,2E2] [A,E][DF]                   |\
+   "D" [EG][DF] [EG][DF]        |"A" [A,2E2] [A,E][DF]                   :|
+|: "D" [EG][DF] [EG][DF]        |"A" [DF][A,2E2] [DF]                    |\
+   "D" [EG][DF] [EG][DF]        |"A" [DF][A,2E2] [DF]                    :|
+|: "D" [EG][DF] [EG][DF]        |"A" [A,3E3][DF]                         |\
+   "D" [EG][DF] [EG][DF]        |"A" [A,3E3][DF]                         :|
+  
+
+X: 3641
+T: Omal
+O: Greece
+M: 4/4
+L: 1/8
+K: Ephr
+Q: 1/4=210
+%%MIDI program 65 alto sax
+.B2 .B2 .A2 GA|.B2 AG A2 z2|.G2 .G2 .F2 EF|.G2 FE F2 z2|\
+.F2 .F2 .E2 DE| F2 ED E4   |D2 E6|
+.D2 .G2 .G2 A2| B2 AG A2 z2|.D2 .G2 .G2 A2| B2 AG A2 z2|\
+.D2 .G2 .G2 A2| B2 AG A2 z2|.D2 .G2 .G2 A2| B2 AG A2 z2|
+
+
+X: 365
+T: Ooska Googas
+O: Armenia
+F: http://www.youtube.com/watch?v=EPntUhp7EzI
+M: 6/8
+L: 1/8
+Q: 1/4=120
+K: Fdor
+%%MIDI program 4
+Fcc cc2|Bc2 Bc2|Bc2 def |cBc BB2|
+ABc BB2|ABc BB2|A2G AB2 |F6     |
+F2E Fc2| B6    |A2G AB2 |F6     |
+F2E Fc2| B6    |A2G AB2 |F6     |
+
+
+
+X: 366
+T: Op Sa Sa
+O: Serbia
+S:from recording Ciga Ivon Despotovic -16 Yugoslavian Dances
+M: 2/4
+L: 1/8
+Q: 1/4=192
+K: C
+|:.G.A.G.A|.G.F.E2  |.G.A.G.A   |.G.G.c2       |\
+  .G.A.G.A|.G.F.E2  |.G.A.G.F   |E4            :|
+|:G<<c cB |AG EF    |GccB       |AG EF         |\
+  G<_B-B2 | GF EF   |[1G_BBB    |G4            :|
+  [2 EGGG |E2 (3EFG |:.G2.G2    |GA GF         |\
+  E2 G2   |GG c2    |
+  .E2 .G2 |GA GF    |E2 (3G,A,B,|[1 C2 (3EFG   :|\
+  [2 C4   |
+K:Dm
+|:DE^FG   |.A2.A2   |.A2.A2     |A4            |\
+  GAB2    |.c2 .B2  |.A2 .G2    |A4            |
+  GAB2    |.c2 .B2  |.A2 .G2    |F3 G          |\
+  .A2 .D2 |.F2 .G2  |.F2 .E2    |D4            :|
+|:F2D2    |D4       |F2D2       |A2 GF         |\
+  E2 D2   |A2 GF    |E2 D2      |D4            :|
+
+
+
+X: 367
+T: Opinca
+O: Romania
+M: 8/8
+L: 1/8
+Q:1/4=120
+K: Bb clef=treble
+P:A
+%%MIDI program 6 Harpsichord
+B,FCB,_D/C/ B,B,B,|B,FCB,_D/C/ B,B,B,|\
+B,FCB,_D/C/ B,B,B,|B,FCB,_D/C/ B,B,B,|
+P:B
+L:1/16
+%%MIDI program 73 Flute
+|:F3_D EDB,2  B,DB,D D2B,2|\
+F3_D EDB,2  B,DB,D D2B,2|
+F3_D EDB,2  B,DB,D D2B,2|\
+_DEDE FEDC  B,4 z4:|
+P:C
+L:1/16
+%%MIDI program 41 Viola
+F4B,2B,2   B,2B,2B,2z2|\
+B,2C_D E_DCB,  B,2C_D E_DCB,|
+B,2C_D E_DCB,  B,4F,4|\
+F2G_A BAGF F2G_A BAGF|
+F2G_A BAGF F4z4|\
+F2G_A BAGF F2G_A BAGF|
+F2G_A G4  F=E2_D EDCB,|\
+F,B,A,B, =E_DCB, F,2B,2 A,2B,2|
+_E4-E2_DE F2E2_D2C2| B,4z4 z8|
+P:D
+|:F8- F8|F2B2F2E2 _D3C DCB,2|\
+F,B,_A,B, E_DCD B,4z4|
+F,2B,2A,2C2 ^F4E2_D2|F2_D2 FE_DC B,4z4:|
+
+
+
+X: 368
+T:Opinca
+O:Romania
+M:2/4
+L:1/8
+K:Am clef=treble
+Q:1/4=108
+%%MIDI chordprog 6
+%%MIDI bassprog 6
+P:A
+  [A,CEA] z z [A,CEA]|z z [A,CEA] z      |\
+  [A,CEA] z z [A,CEA]|z z [A,CEA] z      |
+P:B
+%%MIDI program 6 Harpsichord
+  A,ECA,             |C/B,/A, A,A,       |A,ECA,    |C/B,/A, A,A,|\
+  A,ECA,             |C/B,/A, A,A,       |A,ECA,    |C/B,/A, A,A,|
+P:C
+L:1/16
+%%MIDI program 74 Flute
+%%MIDI gchord hIgf
+|:"Am"E3C DCA,2      |A,^G,A,C ECEC      |\
+  E3C DCA,2          |A,G,A,C C2A,2      |\
+  E3C DCA,2          |A,^G,A,C ECEC      |\
+  CDCD EDCB,         |A,4 z4             :|
+P:D
+L:1/16
+%%MIDI program 41 Viola
+%%MIDI gchordoff
+  E2z2A,2            |B,C DCB,A, A,2     |z4E4      |\
+%%MIDI gchordon
+%%MIDI gchord fc
+  "Am"E2z2 A,2B,A,   |DCB,C DCB,C        |\
+  DCB,C A,zB,C       |
+  DCB,C  DCB,C       | A,4E4             |\
+  "E"E2^FG AGFG      |AG^FG A2z2         |\
+  AG^FG AGFG         | E4z4              |
+  E2^FG AGFG         |AG^FG F3E          |\
+  D3C ECB,C          |"D"^F,B,A,B, CB,CB,|
+  "A"E,2A,2 G,2A,2   |\
+  "D"D4- D2CD        |"E"E2D2 C2B,2      |\
+  "A"A,4z4           | z8                |
+P:E
+|:"Am"E8-            |E8                 |\
+   E2A2E2D2          |C3B, CB,A,2        |\
+  E,A,G,A, DCB,2     |C2A,2z4            |\
+  "E"E,2A,2G,2B,2    |^E4D2C2            |
+   E2C2 EDCB,        |"A" A,4z4         :|
+
+
+
+X: 369
+T:Opincuta
+O:Romania
+F: http://www.youtube.com/watch?v=QALYHR7QaGA
+M:4/4
+L:1/8
+Q:1/4=240
+K:Dm
+%%MIDI chordprog 45
+%%MIDI bassprog 45
+%%MIDI program 23
+|:"Dm"F3G A2F2 |"Bb"B2A2 "Gm"G2F2|EF G4 FG    |"Dm"A4 A4   |\
+  F3G A2F2     |"Bb"B2A2 "Gm"G2F2|EF G4 FE    |"Dm"D4 D4   :|
+|:D2A2 D2D2    |D2D2 D4          |"Gm"EF G4 FG| "Dm"A4 A4  |\
+  D2A2 D2D2    |D2D2 D4          |"Gm"EF G4 FE| "Dm"D4 D4  :|
+
+
+
+X: 370
+T: Opsaj Diri
+S: Deborah Jones, VIFD Book 1
+O: Croatia
+F: http://www.youtube.com/watch?v=cx5NwnE03q4
+F: http://www.youtube.com/watch?v=MmPLM3HtBGw
+M: 2/4
+L: 1/8
+Q: 1/4=100
+K: Edor
+%%MIDI program 25
+%%MIDI bassprog 36
+    "D" [A,D][DF] [DFA][DFA]                      |"A7" [EG][E/G/][F/A/] "D" [D2F2]              |\
+    "D" [A,D][DF] [DFA][DFA]                      |"A7" [EG][E/G/][F/A/] "D" [D2F2]              |
+    [A,D][DF] [DFA][DFA]                          |"A7" [E/G/][F/A/][E/G/][D/F/] [C3/2G3/2][D/F/]|\
+    [E3/2G3/2][D/F/] "E7" [CE][B,F]               |"A" [A,CE][A,CE] [A,CE] z                     |
+|:  "D" [A,D][DF] [DFA][DFA]                      |"A7" [EG][E/G/][F/A/] "D" [D2F2]              |\
+    [A,D][DF] [DFA][DFA]                          |"A7" [EG][E/G/][F/A/] "D" [D2F2]              |\
+    [A,D][DF] [DFA][DFA]                          |"A7"[A,EG][A,DF] [A2C2E2]                     |
+    [A,3/2E3/2G3/2][A,/D/F/] "E7"[^G,CE][G,CE]    |"A"[A,CE][A,CE] [A,CE]z                       :|
+K: Em
+|:  [DG][GB] [GBd][GBd]                           |"D7"[Ac][A/c/][B/d/] "G" [G2B2]               |\
+    [DG][GB] [GBd][GBd]                           |"D7"[A/c/][G/B/][A/c/][B/d/] "G" [G2B2]        |
+    [DG][GB] [GBd][GBd]                           |"D7"[A/c/][B/d/][A/c/][G/B/] [F3/2A3/2][G/B/] |\
+    [A3/2c3/2][G/B/] "A7" [F/A/][G/B/][F/A/][E/G/]|"D" [DFA][DFA] [DFA] z                        :|
+
+
+
+X: 371
+T: Ordan Sedi
+T: Deninka
+O: Macedonia
+F: http://www.youtube.com/watch?v=QQC83XQOiBk
+F: http://www.youtube.com/watch?v=4c156pkWHZg
+S: Deborah Jones VIFD Book 1
+M: 7/8
+L: 1/8
+Q: 1/4=160
+K: D
+%%MIDI gchord f2zc2c2
+%%MIDI program 25
+%%MIDI bassprog 36
+   "D" fda Tf2 "A7" fe              |"D" Td2 A dA dA                  |\
+   aga Tf2 "A7" fe                  | "D" d2 A dA de                  |
+   fga Tf2 "A7" fe                  | "D" d2 A "D7" de fg             |\
+   "G" f2 e "A7"ed ef               | "D" d2 A d2-d2                  |
+|: "D" [F2d2] [Fd] [A2c2]"G"[G2B2]  | "A7"[F2A2][GB] [A2c2][G2B2]     |\
+   "D" [F3-A3-] [F2-A2-] [F2-A2-]   |[F3-A3-] [F2-A2-] [F2A2]         :|
+|: "D" [D2F2][EG] [F2A2][GB][FA]    | "A7" [EG][DF][EG] [F2A2][FA][EG]|\
+   "D" [D2F2][EG] [FA][GB] [F2-A2-] | [F3-A3-][F2-A2-][F2A2]          |
+   "D" [D2F2][EG] [F2A2][GB][FA]    | "A7" [EG][DF][EG] [F2A2][FA][EG]|\
+   "D" [D3-F3-] [D2-F2-][D2-F2-]    | [D3-F3-] [D2-F2-][D2F2]         :|
+
+
+
+X: 372
+T:Orlovka
+O:Serbia
+N: Ansambl Arhaika
+F: http://www.youtube.com/watch?v=cVwNiXeyshs
+M:2/4
+L:1/8
+K:Gmaj
+%%MIDI program 79 Ocarina
+|:\
+%%MIDI drum dddd 47 41 47 41 50 30 40 30
+%%MIDI drumon
+(3fdf(3agf|(3e-edd2|\
+(3fdf(3agf|(3e-edd2|\
+(3fdf(3agf|(3e-edd2|\
+(3fdf(3agf|(3e-edd2|
+%%MIDI drum dddz 47 41 47  50 30 40 
+d/2f/2d/2f/2 e2|d/2f/2d/2f/2 e2|\
+d/2f/2d/2f/2 e2|e2 e2|\
+g/2b/2g/2b/2 a2|g/2b/2g/2b/2 a2|\ 
+g/2b/2g/2b/2 a2|a2 a2:| 
+
+
+
+X: 373
+T: Ostropat
+T: La Culesul Viilor
+O: Romania
+F: http://www.youtube.com/watch?v=wnFckOC-5tA
+Z: Birgitt Karlson
+M: 7/16
+L: 1/16
+Q: 1/4=110
+K: Dm
+%%MIDI trim 1/2
+%%MIDI gchord c2c2f3
+%%MIDI program 22
+%%MIDI chordprog 105
+%%MIDI bassprog 43
+%%MIDI chordvol 60
+%%MIDI bassvol 85
+|:"Dm" AB_A=A fed  | dA=B^c def        |\
+  "A7" gffe d^ce   | dA=B^c def        |
+  "D7"d_e^cd ede   |^f_edc BAd         |\
+  cBAG ^FGA        |"Gm"GDE^F GAB      |
+  GAB^c def        |"A7" gefd e^cd     |\
+  e^cdB cAB        |^cBAG GFE          |
+  G2FE BAG         | BAGF ED^C         |\
+  EA,B,^C DEF      |[1"Dm"DEF^G AFD    :|[2 "Dm"D4 z3  |
+|:"C7" A2G^F GAG   |"F"FCFG ABc        |\
+  "Bb"B2BA BcB     |"F"AFAc f_Bc       |
+  "Bb"d2 d^c ded   | "F"cfed cBA       |\
+  "C7"c2 G^F GEG   |[1"F"FCDE F^FG     :|[2"F"F4 z3   |
+|:"D7" d2d2 cBA    |"Gm"cBBA GAB       |\
+  "C7"c2c2 BAG     |"F"BAAG FGA        |\
+  "Gm"B2B2 BAG     |
+  BAGF ED^C        |"A7"EA,B,^C DEF    |\
+  [1"Dm"DEF_A =AFD :|[2"Dm"D4 z3       |
+|:"D7"dDdD cBA     |"Gm"BCDE F^FG      |\
+  "C7"cCcC BAG     |"F"ACDE FGA        |
+  "Gm" BB,BB, BAG  | BAGF ED^C         |\
+  "A7"EA,=B,^C DEF |[1 "Dm" DEF_A =AFD :|[2 "Dm" D4 z3|
+
+
+
+X: 374
+T: Ovce Cuvam
+O: Serbia
+F: http://www.youtube.com/watch?v=v4xYynz6lC8
+M: 2/4
+L: 1/8
+Q: 1/4=160
+K: Eb
+%%MIDI gchord fzcz
+"Bb"B2 B2|"Fm"A2 A2|"Eb"G2 G2|"Bb"F2 F2|\
+"Eb"EF G2|"Fm"AG A2|"Eb"GF G2|"Bb"F4:|
+%%MIDI program 70 Bassoon
+"Eb"G2G2|B4|"Ab"A4-|A2G2|\
+"Eb"G2G2|B4|"Ab"A4-|A3G|
+"Bb"G2G2|B4|"Ab"A4-|A3G|\
+"Eb"F2G2|A2G2"Fm"|A4|G4|"Bb"F4-|F4|
+"Eb"G2G2|"Bb"B4|"F"A4-|A3G|\
+"Eb"F2G2|A2G2|"Fm"A4|G4|"Bb"F4-|F4|
+
+
+
+X: 375
+T: Ovchepolska Potrchulka
+O: Macedonia
+S: Village Music of Macedonia
+F: http://www.youtube.com/watch?v=wcP_efMrn40
+M: 4/4
+L: 1/8
+Q: 1/4=200
+K: Bm
+%%MIDI program 69
+%%MIDI drum dzdz 36 35
+%%MIDI drumon
+|:CD E2 E2 D2|CD E2 B,2 z2 :|\
+|:A,4 DC B,2 |CD E2 B,2 z2 |\
+  A,4 DC B,2 |CD E2 B,2 z2 :|
+
+
+
+X: 376
+T:Paharelul
+O:Romania
+W:presented by Mihai & Alexandru David, Gypsy Camp II
+F: http://www.youtube.com/watch?v=6d9pZDr6mxY
+L: 1/8
+M: 12/8
+Q:1/4=120
+K:Am
+%%MIDI gchord fzfzffzzfzfz
+%%MIDI beatstring fpppmppmpmp
+  "A"A2e2dc2Bd2cB|A2e2dc2Bd2cB |\
+|:ABcBBA2Gd2cB   |ABcBBA2GA2A2 :|
+
+
+
+X: 377
+T:Paidushka
+O:Macedonia
+F: http://www.youtube.com/watch?v=GWxLLFOfTXM
+F: http://www.youtube.com/watch?v=R4-2tFnoq7M
+L:1/8
+M:5/8
+Q:1/4=200
+K:Am
+%%MIDI gchord fzf2z
+%%MIDI beatstring fpmpp
+|:"A" cde3|edc3    |c2B3 |B2B3|cde3    |edc3    |c2B3 |A2A3 :|
+|:G2A2G   |ABc3    |d2c2B|ABc3|G2A2G   |ABc3    |d2c2B|AGA3 :|
+|:G2A3    |c2B3    |A2c3 |B2A3|G2A2c   |BAB3    |A2c3 |B2A3 :|
+|:ccdc2   |ccdc2   |G2AA2|B2c3|ccdc2   |ccdc2   |G2AA2|B2A3 :|
+K:Amix
+|:A2B3    |d2c3    |A2B3 |B2B3|A2B3    |d2c3    |A2B3 |B2B3 :|
+|:e2c3    |B2A/B/ce|e2c3 |B2A3|e2c3    |B2A/B/ce|e2c3 |B2A3 :|
+|:e2d3    |c2B3    |A2G3 |F2E3|e2d3    |c2B3    |A2G3 |F2E3 :|
+|:A2G/A/A2|A2E3    |A2G3 |F2E3|A2G/A/A2|A2E3    |A2G3 |F2E3 :|
+
+
+
+X: 378
+T: Paloc Tancok
+O: Hungary
+W: transcribed by Debra Jones
+M: 4/4
+L: 1/8
+K: G octave=-1 clef=treble-8
+[EA]2 [EA][Fd] [Gc][BF] [EA]2|[EA][FB] [Gc][Ad] [Gc][FB] [EA][DG]|
+[EA]2 [EA][Fd] [Gc][BF] [EA]2|[EA][FB] [Gc][Ad] [Gc][FB] [EA]2|
+K: G clef=treble
+%%MIDI gchord c2z2c2z2
+"Am"A A3 D D3|"C"C3 D E D3|"Am" A,2 A,D CB, A,2|[EA][Fd] [Gc][Ad] [Gc][FB] [EA]2|
+EE3 AA3|"G"GA3 BA3|"E" E2 Ec GF E2|[Be][^cf] [dg][ea] [dg][cf] [dg][Ad]|:
+"Am"EE3 A2A2|"G"G A3 BA3|"C"E2 EF GF EF|"Am"G G3 F2E2|
+"C"C2D2E2D2|"D"A,2 A,D CB, A,2|[1[EA][FB] [Gc][Ad] [Be][ea] [dg][Ad]:|\
+[2 [EA][Ad] [Gc][FB] "Am" [EA]4|
+
+
+
+X: 379
+T: Papatya
+O: Turkey
+Z: Birgitt Karlson
+M: 5/8
+L: 1/8
+Q: 1/4=88
+K: D octave=1
+%%MIDI program 28
+%%MIDI bassprog 118
+%%MIDI gchord f2ff2
+P:A
+  "D"z5             |z5                    |\
+  F2 E F2           |DE C D2               |\
+  FF E F2           |DE C D2               |
+  F/G/A/G/ F/E/ F2  |DE C D2               |\
+  =c/B/A/G/ F/E/ F2 |DE C D2               |
+P:B
+%%MIDI bassprog 117
+  "G"D/G/G/G/ G G2  |"D"G2 G F2            |\
+  "G"D/G/G/G/ G G2  |"D"G2 G F2            |\
+  F/G/A A A2        |B2 A A2               |
+  G/F/G/A/ F F2     |E2 D F2               |\
+  DE D F2           | DE C D2              |\
+  D/E/F/E/ D F2     |DE C D2               |
+P:C
+%%MIDI bassprog 116
+|:"D"A/d/d d d2     |e/d/=c/B/  A A2       |\
+  B2 =c/B/ A2       | ^G2 FA2              :|
+|:A/^G/A/G/ =F/E/ D2| DE/C/ D/C/D/E/ =F/^G/|\
+  A/B/A/^G/ =F/E/ D2|E3/2D/ C/E/ D2        :|
+
+
+
+X: 380
+T: Papouri
+O: Armenia
+M: 2/4
+L: 1/8
+Q: 1/4=192
+K: Am
+%%MIDI program 71
+%%MIDI bassprog 1
+%%MIDI bassvol 70
+%%MIDI drum dz 38
+%%MIDI drumon
+%%MIDI gchord zf
+|:z2"d".d.c |.B2"a".c2|"d".d.e.d.c|TB4  |"a".c.d.c.B|A2B2|cdcB|TA4  :|
+  "a" e4  |"d" d4  |"a" e4 |"e"dc3|"d"Bcd2|Bcd2 |d2d2 |"a"A4|
+  "a" ede2|"d"dcd2 |"a"ede2|"e"Tc4|"d"Bcd2|Bcd2 |d2d2 |"a"A4|
+
+
+
+X: 381
+T:Papuselele
+O:Romania
+F: http://www.youtube.com/watch?v=zmGymfuHQoc
+M:12/8
+L:1/8
+Q:1/4=200
+K:FDor
+%%MIDI gchord f2zf2zfzf2z2
+%%MIDI beatstring fppmppmpmpmp
+|  "F"z12                 |"F"z12          | 
+|: "F"F2EF2EFGA2G2        | F2EF2EFGA2G2   | F2EF2EFGA2G2       |F3c3F2F4 :|
+|: "Eb"B2A"Eb"B2A"F"BAG2F2| "F"F2EF2EFGA2G2| "Eb"B2AB2A"F"BAG2F2|F3c3F2F4 :|
+|: "F"f3c3=A2G2F2         |F3c3=A2c4       | f3c3=A2G2F2        |F3c3F2F4 :|
+
+
+
+X: 382
+T: Paraliakos
+O: Greece
+F: http://www.youtube.com/watch?v=v1BlLBZzKrQ
+M: 4/4
+L: 1/8
+Q: 1/4=96
+K: Ab
+|:"Ab"zEAA c2c3/2B/|cdef e2dc    |"Eb"BBBB- B3A|"Ab"c3B c2A2::
+  "Eb"B4 B3d       |"Ab"cBAB GEF2|[1EFGA FGA2  :|[2 EA2A A3|
+
+
+
+X: 383
+T: Pasarelska
+O: Macedonia
+M: 7/8
+L: 1/8
+Q: 1/4=132
+K: G 
+%%MIDI drum d2zd3z 41 41
+%%MIDI drumon
+|:F2D E2B,2|D3 DED2 |F2D E2B,2|D3 D4 |\
+  D3 D4  |D2C D2C2|
+B,3 B,CD2|E2F DCDC|B,3 B,4  | B,3 B,4|B,3 B,4  :|
+
+
+
+X: 384
+T: Pembe Oro
+T: Skudrinka Oro
+O: Macedonia
+S: George Tomov - Macedonia Dance and Song
+F: http://www.youtube.com/watch?v=1JDMOSeFEnk
+F: http://www.youtube.com/watch?v=t4GghdI9z1Q
+F: http://www.youtube.com/watch?v=W2qvxvY7lq4
+F: http://www.youtube.com/watch?v=fG7xk6SdBqE
+M: 8/4
+L: 1/8
+Q: 1/4=210
+K: Bb
+%%MIDI program 60
+%%MIDI drum dz3dzdz 35 35 35 100 80 80
+%%MIDI drumon
+|:F2BB B2F2 B4 c4   |d2dd d2c2   Bcde f2z2|
+  f2gg g2g2 fgfe d4 |c2d2 e2d2 Tc4 B4     :|
+|:z2FG G2G2 G3F G2z2|BABc B_AGF FGFE D2z2 |
+  F2GG G2G2 FGFE D4 |C2D2 E2D2 TC4 B,4    :|
+|:F2GG G2G2 FGFE D4 |C2D2 E2D2 TC4 B,4    |
+  F2GG G2G2 FGFE D4 |C2D2 E2D2 TC4 B,4    :|
+
+
+
+X: 385
+T:Pentozali
+O:Greece
+S:Deborah Jones, VIFD Music Book
+F: http://www.youtube.com/watch?v=nnFt3bun3HQ
+L:1/8
+M:2/4
+Q:1/4=120
+K:Am
+|:"G"cc/d/ BA/B/| GG/A/ B/c/d/B/| cc/A/ BG|[1 "Am" AA A/e/A/B/  :|[2 "Am" AA A/e/A|
+|:"Am" ec d/e/d | cc/A/ B/c/d/B/| cc/A/ BG|[1 AA A/e/A          :|[2 AA A/c/B/A/  |
+|:GGcc          |B>A GG/A/      |BG cB    |[1 AA A/c/B/A/       :|[2 AA AE        |
+
+
+
+X: 386
+T:Pera stous pera kampous
+O:Greece
+S:presented by Athan Karras, "Panhellenion greek Mountain and Island..."
+F: http://www.youtube.com/watch?v=E-ijYE1-h_c
+F: http://www.youtube.com/watch?v=7dZ5u73yopc
+F: http://www.youtube.com/watch?v=6N0RWUMpwZw
+F: http://www.youtube.com/watch?v=RpBAGteHDVo
+L:1/8
+M:2/4
+Q:1/4=102
+K:Dm
+|:"Dm"d2 A2  | "Gm"B/A/ G2 B| "Dm"AG FE    |[1DF A2  :|[2D2 A,2  |\
+|:"Dm"DDDE   | F3 E         |
+  FGAB       | A3 F         | "Gm"GGGF     | G3 B    |\
+  [1 "Dm"AGFG| A2 A,2       :|[2 "Dm" AG FE| D4      |
+
+
+
+X: 387
+T:Perinita
+O:Romania
+M:2/4
+L:1/16
+Q:1/4=180
+K:D
+%%MIDI program 50 SynthStrings 1
+%%MIDI gchord ffcz
+%%MIDI bassprog 32 Acoustic Bass 
+%%MIDI chordprog 32 Acoustic Bass octave=1
+"D"^G2A2  G2A2| ^G2A2 F4|^G2A2 G2A2|F8|\
+"D"^G2A2  G2A2| ^G2A2 F4|^G2A2 G2A2|F8::
+D4 D4|D3E F4|D4 D3E|"F#m"F8|\
+"A"E4 E4|E3F G4|(3A2G2F2 (3G2F2E2|"D"D8::
+L:1/8
+%%MIDI chordprog 32 Acoustic Bass octave=0
+"G"(3GFG (3BAG|(3FEF (3AGF|(3EFE (3GFE|"D"Dz GA|\
+"G"(3GFG (3BAG|(3FEF (3AGF|(3EFE (3GFE|"D"D2 z2:|
+
+
+
+X: 388
+T:Petruno Pile Shareno
+S:Jaap Leegwater,from record BHA 10441
+O:Bulgaria
+F: http://www.youtube.com/watch?v=XKPKshYczaY
+L:1/8
+M:7/8
+Q:1/4=120
+%%MIDI gchord fzfffzz
+%%MIDI beatstring fpmpmpp
+K:DDor
+"Dm"A2 BA ^G2 F     | ^G2 FE D3             | A2 BA ^G2 F| ^G2 FE D3|\
+D2 EF E2 A,         | D2 EF D3              | D2 GF E2 A,| D2 EF D3 |
+%%MIDI gchordoff
+"G"d2 d/c/B/A/  ^GB2|"Am"A A ^G/F/E/D/ E E2|\
+"G"d2 d/c/B/A/  ^GB2|"Am"A A ^G/F/E/D/ E3  |
+
+
+
+X: 389
+T: Pevano Kolo
+O: Croatia
+Z: Birgitt Karlson
+Z: http://www-linux.gsi.de/~karlson/index_e.htm
+F: http://www.youtube.com/watch?v=GQxtXZdtWuo
+M: 2/4
+L: 1/8
+Q: 1/4=144
+K: Edor
+V:1
+|:"G"gb/b/ ba|bg gg|gb/b/ ba|b2 g2|gb/b/ ba/a/|ag/g/ gf/f/|"D"fa gf|"A"e2 e2:|
+V:2
+|:[B,G]D E[DF]|[DG][B,G] [B,G][B,G]|[B,G]D E[DF]|[B,G]2[B,G]2|\
+[B,G][DG]/[DG]/ [DG][DF]/[DF]/|[DF]E/E/ E[B,D]/[B,D]/|\
+D[B,D][B,D][B,D]|[A,E]2[A,E]2:|
+V:1
+|:"A"G3F|GF EE|"D"AA AF|"A"G2 E2|G3F|G3F|GF EE|"D"FF "E" FF|"A"E4:|
+V:2
+|:z4|z4|z4|z4|E3D|E3D|ED CC|DD B,B,|A4:|
+
+
+
+X: 390
+T: Phiravelman Kalyi Phur
+O: Gypsy, Romani
+F: http://www.youtube.com/watch?v=1CGElOiuzMI
+M: 4/4
+L: 1/8
+K: FPhr =A clef=treble
+Q: 1/4=180
+%%MIDI program 1 % Bright Piano
+%%MIDI bassprog 32 % Acoustic Bass
+%%MIDI chordprog 24 % Acoustic Guitar
+ABcAB2A2    |AcBAG2F2   |ABcAB2A2       |AcBAG2F2 |
+ABcAB2A2    |AcBAG2E2   |DEF2 EFG2      |FGA2AcBA |G2F2z4|
+"Fm"z2ABc2c2|"Gb"d3cB4  |"Fm"z2ABc2c2   |"Gb"d3cB4|
+"Fm"z2ABc2c2|"Gb"d3cB2B2|"Fm"c3B"Gb"A2G2|"Fm"A4z4 |
+"Gb"z2B3Bc2 |"Fm"A2A6   |"Gb"z2B3Bc2    |"Fm"A2A6 |
+"Gb"z2B3BB2 |"Fm"c3BG2F2|F2F4z2         |
+
+
+
+X: 391
+T: Pinosavka
+O: Serbia
+F: http://www.youtube.com/watch?v=XOYMPi2zB4s
+F: http://www.youtube.com/watch?v=UmJLig9uh54
+F: http://www.youtube.com/watch?v=vg3YFn5cIy4
+M: 2/4
+L: 1/8
+K: Em
+|:e>ddB|d>ccA|c>BBG |B>AAF |A>GGF |A>GGF|
+  FEFE |FGAB | e>ddB|d>ccA |c>BBG |B>AAF|A>GGF|
+  A>GGF|A3G  |E4    ::A2AA |G2GG  |F2FF |EDEF |
+  A2AA |G2GG |FEDE  |A4    |A2AA  |G2GG |F2FF |EDEF |
+  F2FF |EDED |E2E2  |E2E2 ::  zDEF|GFGF |
+  GDEF |FEFE |FDEF  |GFGF  |GDEF  |FEFE |
+  FDEF |AG3- |GDEF  |GF3-  |FDEF  |E3D  |EDEA |A2E2 :|
+
+
+
+X: 392
+T: Piperana
+O: Serbia
+M: 2/8
+L: 1/16
+K: Gm
+|z2F2|GABA|BAG2|F2G2-|G2z2|d2c2-|czF2|GABA|BAGF|G2F2|G4|F2G2-|G4|
+
+
+
+X: 393
+T: Pirinska Igra
+O: Macedonia
+M: 7/8
+Q: 1/4=96
+K: Cm
+P:A
+%%MIDI drum d2dd2d2 60 61 60 61
+%%MIDI drumon
+G,3 C2D2  |E2D C4  |D2F E2D2  |D2C C4|\
+G,3 C2D2  |E2D C4  |D2E F2A2  |G7    |
+G2G G2G2  |A2G F4  |F2F E2F2  |A2G G4|\
+C2D E2F2  |G2F EFDE|C7-       |C7    |
+P:B
+B,2B, B2B2|A2B GFE2|B,2B, B2A2|G7    |\
+F2c BAGF  |E2F G4  |F2E EDDC  |C7    |
+
+
+
+X: 394
+T: Pjevaj mi Pjevaj 
+T: Licko Kolo
+O: Croatia
+F: http://www.youtube.com/watch?v=Brbiz89tuII
+F: http://www.youtube.com/watch?v=-OsSXOKLEHA
+F: http://www.youtube.com/watch?v=U1ceZG8ludw
+F: http://www.youtube.com/watch?v=E7QhtE_Zd7U
+S: Deborah Jones VIFD Book 1
+M: 4/4
+L: 1/4
+Q: 1/4=120
+K: Edor
+%%MIDI program 70
+ F2 GF           | E2 D2        | [D2F2] [F2A2]|\
+ [FA][E2G2][DF]  |[D2F2][EG][DF]|
+ [A,2E2][A,2D2]  |[D2F2][F2A2]  |[FA][E2G2][DF]|\
+ [DF][DF][EG][DF]|[A4E4]        |
+
+
+
+X: 395
+T: Pleskovac kolo
+M: 2/4
+L: 1/16
+K: D
+Q: 1/4=108
+%%MIDI program 110 % Fiddle
+%%MIDI chordprog 45 % Pizzicato Strings
+%%MIDI bassprog 32 % Acoustic Bass
+|: "D"F2A2 F2A2 | "A7"GFE2 "D"F2D2 :: "G"BcdB "A7"edcB |\
+   "D"A2F2 F4   | "A7"EFGF AGFE                        |1 "D"D2F2 A4  :|2 "D"D2F2 D4 |]
+K: G
+|: "G"B2d2 B2d2 | "D7"cBA2 "G"B2G2 :: "C"efge "D7"agfe |\
+   "G"d2B2 B4   | "D7"ABcB dcBA                        |1 "G"G2B2 d4  :|2 "G"G2B2 G4 |]
+
+
+
+X: 396
+T: Podrimsko Oro
+O: Serbia
+F: http://www.youtube.com/watch?v=urKWIvyymK8
+F: http://www.youtube.com/watch?v=nIZpQFJ9ayQ
+S: Ciga Ivon Despotovic, Radio-Televizija Beograd
+M: 4/4
+L: 1/8
+Q: 1/4=210
+K: Bm
+%%MIDI gchord fzzzfzfz
+|:"Bm"F2EF E^D=C2 |"Bm"B,2=C2^D2E2|"Bm" F2EF E^D=C2|"Bm"B,8    :|
+|:B,2A,B, A,^G,F,2|^G,2A,2 B,2=C2 |B,FFE E^DD=C    |B,8        :|
+|:B,=CCB, B,^DCB,  | B,=CCB, B,^DCB,| B,=CCB, B,^DCB, |B,=CCB,B,4 :|
+
+
+
+X: 397
+T:Pogonisios
+O:Greece
+M:4/4
+L:1/8
+Q:1/4=120
+K:BbDor
+%%MIDI gchord fzzzfzzz
+%%MIDI drum dzzz 41
+   B,2                |\
+%%MIDI drumon
+   "Bbm".F2 .F2 FE ED |.F2 .F2 FE ED|\
+   "Ab"E2 E2 E2 DC    |"Bbm"B,4 D2B,2           |\
+   "Eb"E2 E2 "Ab"E2 DC| "Bbm"B,6 B,2            |
+   "Bbm".F2 .F2 .F2 ED|.F2 .F2 .F2 ED           |\
+   "Eb"E2 E2 "Ab"E2 DC|"Bbm"B,4 D2B,2           |\
+   "Eb"E2 E2 "Ab"E2 DC| "Bbm"B,6 B,2            |
+|: "Bbm"DB,3 DB,3     |"Eb"EEEE "Bbm"B,4        |\
+   DB,3 DB,3          |"Eb"EEEE "Bbm"B,4        :|
+
+
+
+X: 398
+T:Polomka
+O:Serbia
+F: http://www.youtube.com/watch?v=2caqBRhHWu8
+F: http://www.youtube.com/watch?v=8-7s7lxatoA
+F: http://www.youtube.com/watch?v=2QJFs07cdaE
+M:2/4
+L:1/8
+Q:1/4=200
+K:C
+%%MIDI gchord fzzz 
+%%MIDI drum z2dz 44
+%%MIDI drumon
+|:"C"  C4     |G,4       |C4         |G,2C2      |\
+  E4-         |E2 "Dm"DE |"C"C4      |G,4        :|
+|:"C"C2E2-    |E2"Dm"DE  |"C"C4      |G,4        |\
+  C2E2-       |E2"Dm"DE  |"C"C4      |G,4        :|
+|:"F"F2"C"E2  |EDEC      |"F"F2"C"E2 |EDEC       |\
+  C2E2        |EDEC      |"F"F4      |"C"E2E2    :|
+|:"C"E2"Dm"DE |"C"C2G,2  |"C"E2"Dm"DE|"C"C2G,2   |\
+  E2"Dm"DE    |"C"C2"F"F2|FE"Dm"DE   |"C"C4      :|
+|:"F"FE"Dm"DE |"C"C2"F"F2|"F"FE"Dm"DE|"C"C2"F"F2 |\
+  "F"FE"Dm"DE |"C"C2"F"F2|"F"FE"Dm"DE|"C"C4      :|"Am"z4|"C"C4-|C4|
+
+
+
+X: 399
+T: Poloxia
+O: Romania
+S: Ansamblul Folcloric Junii Sibiului Romania
+M: 2/4
+L: 1/8
+Q: 1/4=220
+P:ABA
+K: Am
+%%MIDI program 110
+%%MIDI bassprog 105
+%%MIDI gchord zf
+P:A
+|:"a"Bcdc|"e"B3A |"a"Bcdc  |"e"B3A  |\
+  "a"Bcdc|"a"B2A2|Bcde     |ecA2    |
+  Bcdc   |B3A    |Bcdc     |B3A     |\
+  Bcdc   |B3A    |A2E2     |A2z2    :|
+P:B
+|:"c"cdef|"g"gage|"c"g2e2  |"f"^f4  |\
+  "g"gage|"c"gage|e^fga    |ag^f2   |
+  "c"cdef|"g"gage|"c"g2e2  |"^f"^f4 |\
+  "g"gage|"g"gage|"c".g2.e2|"c"c2z2 :|
+
+
+
+X: 400
+T:Popovicanka
+O:Serbia 
+F: http://www.youtube.com/watch?v=wU2EdqdqKl4
+F: http://www.youtube.com/watch?v=LaLdlGQ-iT8
+Q:1/4=120
+L:1/8
+M:2/4
+K:Am
+|: "G"G4     | AG "Am"A2   | "G"GG GD| "Am"A4 |\
+   "G".G2 Bc |dc B2        | BG cB   | "Am"A4 |
+   "G"G4     | AG "Am"A2   | "G"GG GD| "Am"A4 |\
+   "G".G2 Bc |dc B2        | BG cB   | "Am"A4 :|
+|: "G"d2 B2  | "Am"c2 "G"B2| B2 cB   |\
+   "Am"A4    | "G".G2 Bc   | dc B2   | BG cB  | "Am"A4|
+   "G"d2 B2  | "Am"c2 B2   | B2 cB   | "Am"A4 |\
+   "G".G2 Bc | dc B2       | BG cB   | "Am"A4 :|
+
+
+
+X: 401
+T: Porodinka Kolo
+O: Serbia
+F: http://www.youtube.com/watch?v=ptuGnfF4pDE
+F: http://www.youtube.com/watch?v=FCkK1m2fHhE
+M: 2/4
+L: 1/8
+Q:1/4=190
+K: F#m
+|:  A2 (3AGF |(3FGA (3AGF  |F<A (3AGF| E>D C2  |\
+    A2 (3AGF |(3FGA (3AGF  |
+    F<A (3AGF| E>D C2      :|        |:A,C2E   |\
+    DCA,E    |A,C2E        |DC B,A,  |
+    A,C2E    |DC A,E       |A,C2E    |DC B,A,  :|\
+|:  e2 B2    |ABc2         |
+    Bcdc     |BAGE         |e2 B2    |ABc2     |\
+    (3BAG FE |F2 F2        :|        |:(3BAG FE|(3EFG AG|
+    (3BAG FE |c2 c2        |(3BAG FE |(3EFG AG |\
+    (3BAG FE |F2 F2        :|
+
+
+
+X: 402
+T: Posavski Drmes
+O: Croatia
+F: http://www.youtube.com/watch?v=me4ZVAjRZkY
+W: From Deborah Jones' transcription
+M: 2/4
+L: 1/16
+K: C
+|:"C" g2g2 a2g2 | g^fgf g2e2 |\
+ [ce]2[ce]2 [df]2[ce]2| [ce][B^d][ce][Bd] [ce]2[Gc]2|
+"F" [Ac]2[Bd]2 [ce]2[df]2 | "C" [ce][B^d][ce][Bd] [ce]2[Gc]2|\
+"G7" [Gc]2[Bd]2 [ce]2[Bd]2| "C" [Gc][GB][Gc][GB] [Gc]4|
+L:1/8
+"C" ce gg| "F"aa "C"ge|\
+ gg "F" aa|"C"gg ec|
+"F" [Ac][Bd] [ce][df] | "C" [ce][B^d] [ce][Gc]|\
+"G7" [Gc][Bd] [ce][Bd]|[Ac][Ac] [Ac]2:|
+
+
+
+X: 403
+T: Poskok
+O: Serbia
+Z: Deborah Jones VIFD 1 (Serbian Medley)
+F: http://www.youtube.com/watch?v=U00hAkXOqlw
+M: 2/4
+L: 1/16
+Q: 1/4=96
+K: E
+|: "E" GEFD GABA                   |GEFD GABz              |\
+   GEFD GABA                       |GEFD E2z2              :|
+L: 1/8
+|: "E" [Ge][GB] "A"[Ac][G/B/][F/A/]|"E"[EG][FA] [G2B2]     |\
+   [GB][Ge] "A" [Ae][G/B/][F/A/]   | "E"[EG][DF] E2        :|
+   "E" [EG][DF] G/A/ B             |"A" [Ec][Fd] "E" [G2e2]|\
+   [GB][Ge] [Ge][G/B/][F/A/]       | [EG][DF] E2           |
+   "E" [EG][DF] G/A/B              |"A" [Ac][Ad] "E" [G2e2]|\
+   [GB][Ge] "A" [Ae][G/B/][F/A/]   |"E" [EG][DF] E2        | 
+
+
+
+X: 404
+T: Posla Rumena
+O: Serbia
+F: http://www.youtube.com/watch?v=hljyjm-W8aM
+M: 2/4
+L: 1/8
+Q: 1/4=144
+K: Dm
+%%MIDI program 21 Accordian
+%%MIDI bassprog 24 Acoustic Guitar
+%%MIDI chordprog 24 Acoustic Guitar
+"F"C2A2|A4|cB AG|GF GA|"G7"F3G|"C"E2C2:|"C"G2 GA|"G7"F3G|"C"E2C2|
+"D7"FE DC|"G"D4|"C"G2 G2|"F"cB AG|"G7"F3G|"C"E2C2|"D7"FE DC|"G"D4|D2D2|
+W:
+W: http://www.folkloretanznoten.de/
+
+
+
+X: 405
+T: Povod, Prolovcica, Prekid
+N: Ansamble Arhaika
+O: Serbia
+M: 2/4
+L: 1/8
+K:G
+P:A
+%%MIDI gchord fzzz
+"G"d3e|d2B2|dc(3cBA|ABG2|\
+d3e|d2B2|dc(3cBA|B2B2|
+%%MIDI gchord fcfc
+"G"GBB2|ABcd|GBB2|GBB2|\
+"D"ABcd|"G"d3e|d2B2|dc(3cBA|\
+"Am"A4-|A4:|
+P:B
+"G"cBBA|GAB/A/B|cBBA|GABB|cBBA|
+GAB/A/B|cBBA|GAB/A/A|AGGF|"Am"A4:|
+P:C
+"G"Bd^cd|BA/B/cB|BAGA|B/A/BBz|
+.B.d.^c.d|BA/B/cB|cBAG|A/G/AA:|
+P:D
+c/B/A/B/ c/B/A/B/|GAA2|\
+c/B/A/B/ c/B/A/B/|GAA2:|
+
+
+
+X: 406
+T: Povrateno
+O: Greece
+F: http://www.youtube.com/watch?v=GdBjqPrp2no
+M: 4/4
+L: 1/8
+Q: 1/4=84
+K: C
+|:.G.G/.G/ .G.G .D.D G2|.G.G/.G/ .G.G .D.D G2 :|
+|:GG/G/ Gd d/c/d/c/ B_A|G{_A}G FG AGG2        :|
+|:GG/G/ Gd d/c/d/c/ B_A|G{_A}G FG AGG2        :|
+|:B{_A}B _AG GA Bc     |B{_A}B  _AG FGGz      :|
+
+
+
+X: 407
+T: Poziv Kolo
+S: Ciga Ivon Despotovic, Radio-Televizija Beograd
+M: 2/4
+L: 1/8
+Q: 1/4=180
+P:AABBCC
+K: Emix
+%%MIDI gchord fzfz
+P:A
+|:"d" D2 D2|"a"B=cBA   |"d" BA"a"G=F |"a" GA=FA      |\
+  "e"BAG=F |"a" GA=FA  |"a" G=F "e"ED|[1 "e" E=FEA,  :|[2 "e" E2 E2|
+P:B
+%%MIDI gchord fz
+|:"d" =FED2|"e" DCD2   |"a"D2=F2     |"d" G2ED       |\
+  "e" E=FG2|"a" .G2.=F2|G=FED        |[1CB,CA,       :|[2CB,CE     |
+P:C
+%%MIDI gchord zf
+|:"a" E2E2-|EFED       |^CB,3        |"e" F,G,A,B,   |"e"CD2C      |\
+  "b"FEDC  |[1 B,2EF   |G2A2         :|[2 B,4        |
+
+
+
+X: 408
+T: Pravo Horo
+M: 2/4
+L: 1/8
+Q: 1/4=200
+P:AABBCCDD
+K: Gm
+%%MIDI program 65
+P:A
+CD D2 |D2 (3^FEF| ^F2 (3GFG|A2 z2|\
+cd d2|cB c2|BA B2|A4|
+CD D2 |D2 (3^FEF| ^F2 (3GFG|A2 z2|\
+cd d2|cB c2|BA B2|A4|
+cd d2|cB c2|BA B2|A4|\
+AB B2|AG G2|D>E ^FG|A4|
+cd d2|cB c2|BA B2|A4|\
+AB B2|AG G2|D>E ^FE|D4|
+P:B
+|:(3dcd (3dcd |(3dcd (3dcd|\
+(3cBc (3cBc |(3cBc (3cBc|
+(3BAB (3BAB |(3BAB (3BAB|\
+[1A>G ^FG|A4:|\
+[2A>G ^FE|D4|
+P:C
+|:(3^FGA (3AGA|(3^FED (3DEF|\
+(3^FDE (3FDE|[1(3^FED A2:|[2(3^FED D2|
+P:D
+|:^F2G2|(3^FED (3DEF|^F2G2|(3^FED D2:|
+
+
+
+X: 409
+T: Pravo Horo version 2
+O: Bulgaria
+M: 2/8
+L: 1/16
+Q: 1/4=150
+P:ABABCBD
+K: D
+%%MIDI gchord fc
+%%MIDI program 71
+%%MIDI bassprog 43
+%%MIDI chordprog 45
+P:A
+|: "D"A4        |(3A2B2c2 |d4-       |d2e2     |\
+   "G"c2B2      |c2B2     |"A"A4-    |A4       |\
+   "D"B4        |A2G2     |F4        |F4       |\
+   E4           |E4       |D4-       |D4       :|
+P:B
+|: "D"B4        |A2G2     |"F#m"F4   |F4       |"Em"E4 |\
+   E4           |[1"D"D2E2|"F#m"F4   :|[2"D"D4-|D4     |
+P:C
+|: "D"(3D2E2D2  |F2G2     |"A"A4     | A4      |\
+   "G"G3F       |G3F      |"Em"E4-   |E4       |\
+   "Em"(3E2F2E2 |G2A2     |B4        | B4      |"A"A3G |A3G|"D"F4-|F4 :|
+P:D
+|: "G"(3_e2=e2A2|(3g2f2e2 |(3_e2=e2A2|c2A2     |\
+   (3_e2=e2A2   |(3g2f2e2 |(3_e2=e2A2|c2A2     :|
+|: (3g2f2e2     |(3g2f2e2 |(3_e2=e2A2|c2A2     |\
+   (3_e2=e2A2   |(3g2f2e2 |(3_e2=e2A2|c2A2     :|
+
+
+
+X: 410
+T: Pre Picior
+O: Serbia
+M: 2/4
+L: 1/8
+K: F
+P:A
+|:.B.c.B.c|F2F2|.B.c.B.c|F2F2|\
+(3f_ed.c.B|F2F2|.B.c.B.c|F2F2:|
+P:B
+.f2.f2|.B.c.B.B|.f.g.f.B|cBB2::\
+.F.B.B.B|.c.d.G.F|.F.B.B.B|.c.d.G.F:|
+P:C
+.F.B.B.B|.c.d.G.F|.F.B.B.B|[1(3BcBd2:|[2cdGF|
+.F.B.B.B|.c.d.G.F|.F.B.B.B|[1(3BcBd2:|[2cdGF|
+
+
+
+X: 411
+T:Prekid Kolo
+O: Serbia
+F: http://www.youtube.com/watch?v=vp0ybwVzOUE
+F: http://www.youtube.com/watch?v=6QUEF0o_7Sw
+P:AABC
+M:2/4
+L:1/8
+Q:1/4=180
+K:D clef=treble
+%%MIDI gchord fzfz
+P:A
+  D2 CD|B,2 GF |EFED    |B,4     |\
+|:D2 z2|D,2^B,2|^B,D^B,2|B,4     ::\ 
+P:B 
+  D2 z2|D,2^B,2|^B,D^B,2|B,4     :: 
+P:C
+  G4   |^E4    |^E2=E2  |EDE^B,  |\
+  D2D2 |^E2E2  |^E2=E2  |EDE^B,  |
+  G^EG2|^E=E^E2|^E2=E2  |EDE^B,  |\
+  D2D2 |^E2E2  |^E2=E2  |EDE^B,  :|
+
+
+
+X: 412
+T: Presevka
+O: Serbia
+F: http://www.youtube.com/watch?v=2s3fTlYnIsk
+M: 2/4
+L: 1/8
+K: C
+"C"E3/2E/ "F"AA|"C"G3/2^F/ GE|"G"F3/2E/ DD|"C"EE E2::
+K:Em
+"Em"E/F/G/A/ B3/2B/|BB B2|"Am"A3/2A/ AA|"Em"BB B2::
+K:C
+"C"E3/2E/ "F"AA|"C"G3/2^F/ GE|"G"F3/2E/ DD|"C"EE E2::
+"Dm"B/c/d/e/ ff|ff g/f/e/d/|"Am"e3/2e/ "Dm"fd|"C"CC C2:|
+W:
+W: http://www.folkloretanznoten.de/
+
+
+
+X: 413
+T: Preumblata de Femei
+O: Romania
+M: 4/4
+L: 1/8
+Q: 1/4=132
+K: G
+%%MIDI program 48
+|:G2 A2 A2 A2|B4 A2GF  |E3D A3G    |G6 (3DEF|\
+  G2 A2 A2 A2|B4 A4    |GF E6-     |E8      :|
+%%MIDI program 75
+|:G3 A B2 c2 |dcBA B4  | G3 A B2 c2|dcBA B4 |\
+  G2 AA3 G2  |B2-B3 ABA|G8-        |G8      :|
+
+
+
+X: 414
+T: Prialitza
+O: Ukraine
+S: Barinya Russian Folk Dances
+M: 2/4
+L: 1/16
+P:AABC
+Q: 1/4=96
+K: D
+%%MIDI program 24
+%%MIDI bassprog 36
+%%MIDI gchord fzfz
+P:A
+  FFF2"g"GGG2                   |F2G2 "a"FFF2                    |\
+  EEE2"d"FFF2                   | FFF2"g"GGG2                    |
+  F2G2 "a"FFF2                  |EEE2"d"DDD2                     |\
+  D2D2DDD2                      |D2E2DDD2                        |
+  "a"CCC2"d"DDD2                | D2D2DDD2                       |\
+  D2E2DDD2                      |"a"CCC2"d"DDD2                  |
+P:B
+L:1/16
+Q: 1/4=108
+  "g"zdef gagf                  | efed cdcB                      |\
+  "d"ABAG FGFE                  | DEFD ABcA                      |
+  "g" AdcB AdcB                 |ABcd efge                       |\
+  "f#"fedc Bcdf                 |e3d c2B2                        |
+  "g"A2g2 f2e2                  | "d"d3c Bcdf                    |\
+  e3d c2B2                      |"a"A2g2 f2e2                    |\
+  "d"d2z2z4                     |
+P:C
+M:6/8
+L:1/8
+K:A
+Q:1/4=120
+%%MIDI gchord fzfzfz
+|:"a"[F2f2] "d"[F2f2] "a"[E2e2] |"d" [G2g2]"g#" [G2g2] "a"[A2a2] |\
+  "a"[F2f2] "d"[F2f2] "a"[E2e2] |"d" [G2g2]"g#" [G2g2] "a"[A2a2] :|
+|:"a"A,2D2 CA,                  |B,2 B,2 A,2                     |\
+  A,2D2 CA,                     |B,2 B,2 A,2                     :|
+
+
+X: 4141
+T: Primavera en Salonico
+O: Greece
+F: https://www.youtube.com/watch?v=OaP_8aStJck
+F: https://www.youtube.com/watch?v=ZUYM6w9-mo0
+M: 4/4
+L: 1/8
+K: EPhr
+%%MIDI program 22 Harmonica
+Q: 1/4=80
+"Em"BB A/G/A/B/ GF/E/ FE|[M:5/4] GA B/A/A/G/ G/F/F/E/ E2 z2 E/F/|
+"Em"[M:4/4]GA GF/E/ FE G/A/B |[M:5/4]B/A/A/G/ G/F/F/E/ E2 z2 E/F/|
+"Em"[M:4/4]GA GF/E/ FE G/A/B |[M:5/4]B/A/A/G/ G/F/F/E/ E2 z4|
+
+
+X: 415
+T: Radomirska Lesa
+O: Bulgaria
+F: https://www.youtube.com/watch?v=3YWK854FFnk
+M: 2/4
+L: 1/16
+K: Em
+Q: 1/4=160
+%%MIDI program 21 % Accordian
+%%MIDI bassprog 32 % Acoustic Bass
+%%MIDI chordprog 32 % Acoustic Bass
+%%MIDI bassvol 80
+%%MIDI chordvol 60
+"Em"B4 "Am"AB A2|"Em"G4  "D"F4|"Em"E4 ED E2|G4 "Am"A4|\
+"Em"B4 "Am"AB A2|"Em"G4  "D"F4|"Em"E4 ED G2|"Am"A4 "Em"E4::
+%%MIDI program 66 % Baritone Sax
+"Em"G4 G4|G4 G4|"D"F4 F4|F4 F4|\
+G2 F4 D2|F4 "Em"G4|E8|E8|\
+"D"G2 F4 D2|F4 "Em"G4|E8|E8:|
+
+
+
+X: 416
+T:Radomirsko Horo
+O:Bulgaria
+S:Folk Dances from Bulgaria collected by Yves Moreau
+F: http://www.youtube.com/watch?v=aqLiazeV6TI
+L:1/8
+M:2/4
+Q:1/4=120
+P:AABBCCDDCCEE
+K:Cdor
+%%MIDI program 21 Accordian
+P:A
+|:"Eb"G>F G/F/E|"Bb" FDE2    |"F" E/D/C "Cm"DB,  |[1"F" CD EF     :|[2 "F"C2 C2 |
+P:B
+|"Bb" B,CDD         |DDDD     |"Eb"EEED        |FEED         |\
+"Bb"  B,CDD         |DDDD     |"Cm"CB,CC       |CCC2         |
+P:C
+|"Bb" D2 DD         | DDDD    |"Cm" E2 FE      |\
+  FE E2         |"Bb"D2 DD    | DDDD       |"F" =A,/B,/C2 B,|"Cm"C2 C2     |
+P:D
+|"Bb" B,2 B,/C/D    |"Cm"EEEE     |"Bb"DDDD        |DDCB,        |\
+ "Bb" B,2 B,/C/D    |"Cm"EEEE     |"F"FCCB,       |"Cm"C2 z2        |
+P:E
+|:"Cm"G/F/=E E/D/C  | C>B, C=E|G/F/=E E/D/C|[1 C2 G2     :|[2 C2 C2 |
+
+
+
+X: 417
+T: Ratevka
+O: Macedonia
+F: http://www.youtube.com/watch?v=Mb07Miy8bHE
+M: 2/4
+L: 1/8
+Q: 1/4=120
+K: EPhr
+%%MIDI drum dzzzdzzz 36 36 70 60
+%%MIDI drumon
+ {EFEF}E2 E/D/E/F/|^G/A/B/G/- G3/2F/ |^G3 B/A/     |^GF/E/ D2   | 
+  E2 E/D/E/F/     |^G/A/B/G/- ^G3/2F/|^G2 B/A/G-   |^G2 Gz      | 
+|:^G>A Bc         |^G>A Bc           |B3/2A/ ^GF   |^G2 B/A/G/F/|^GF E2|
+  F3 B/A/         |^GFED             |[1E2 ^G/A/B  :|[2 E3 z    |
+|:A>^GFF          |FED2              |A>^GFF       |FED2        |\
+  A>^GFF          |FED2              |E4           |[1^GAB2     :|[2E4 |
+
+
+
+X: 418
+T: Ravno Oro
+O: Macedonia
+F: http://www.youtube.com/watch?v=Mb07Miy8bHE
+F: http://www.youtube.com/watch?v=BqPu6OzbWsQ
+M: 7/8
+L: 1/8
+Q: 1/4=102
+K: Dmix
+%%MIDI program 23
+%%MIDI drum d3d4
+%%MIDI drumon
+P:A
+|:(3AGFE F2ED |D2A,D EFG|(3AGFE F2ED| D2A,D z3:|
+P:B
+|:D2A,D CB,A,  |B,2C D2D2|EF2 EE2D|D2A, D3z:|
+
+
+
+X: 419
+T: Razvivaj Dobro
+O: Bulgaria
+M: 7/8
+L: 1/8
+K: Fdor
+Q: 1/4=120
+P:A
+%%MIDI program 20 Reed Organ
+BcA B4|AGA F4|BcA B4|AGc-c4|\
+BcA B4|AGA F4-|F3 AFFA|Bc2 F4|
+P:B
+%%MIDI program 70 Bassoon
+%%MIDI drum d2dd2d2 48 45 47 47 80 50 60 50
+%%MIDI drumon
+|:F3-F2A2|A3-A3F|FEAz2AG|F3-F2A2-|A3-A3F|F3z4:|
+P:C
+[Ac]3 [=A^c]2[_A=c]2|[ce]3 [ce]2[=A^c][_A=c]|[FB]3-[FB]2A2|c3^c2=c2|
+P:D
+|:cBAB3c|BA2-A4|cBAB3A|c7|\
+ecB c2 B2|AF2-F4|AFFA2B2|F3-F4:|
+
+
+
+X: 420
+T:Retko Kolo
+O:Serbia
+S:Ciga and Ivon Despotovic vol 1.
+M: 4/4
+L: 1/8
+Q: 1/4=320
+K:G 
+P:A
+%%MIDI program 42
+%%MIDI gchord fzfz
+%0
+"d"(3cBc BA "f#" ^GA Bc|\
+"d" zA2 "f#" c<c c B<A|\
+"g" ^G/A/ z3 cccB|\
+B2 D2 =FG ^G2|
+"d" zA2z "f#" Bz =Gz|\
+"e" E2 Az "g#" Gz D2|\
+"a"^A/G/^F/E/ FE Ez Dz|\
+"e"^Fz GA "a" z2 B2|
+"d" cc BA "f#" ^GA cz|\
+"d" .B2 .G2 "f#".F2 .A2|\
+%10
+"g" F2 ez dz cz|\
+"e" Bz Dz "g" FG ^GA|
+"g" Az ^cz Bz F2|\
+"a" Az G2 Fz G2|\
+"a" F/=F/2 Ee ^cAz3|
+%0
+"d"(3CB,C B,A, "F#" ^G,A, B,C|\
+"d" zA,2 "F#" C<C C B,<A,|\
+"g" ^G,/A,/ z3 CCCB,|\
+B,2 D,2 =F,G, ^G,2|
+"d" zA,2z "F#" B,z =G,z|\
+"e" E,2 A,z "G#" G,z D,2|\
+"a"^A,/G,/^F,/E,/ F,E, E,z D,z|\
+"e"^F,z G,A, "A" z2 B,2|
+"d" CC B,A, "F#" ^G,A, Cz|\
+"d" .B,2 .G,2 "F#".F,2 .A,2|\
+%10
+"g" F,2 Ez Dz Cz|\
+"e" B,z D,z "G" F,G, ^G,A,|
+"g" A,z ^Cz B,z F,2|\
+"a" A,z G,2 F,z G,2|\
+"a" F,/=F,/2 E,E ^CA,z3|
+P:B
+M: 2/4
+L: 1/16
+K:D 
+|:
+"a" z2ED ^D2=D2| \
+    (3.C4.C4.C4| \
+   C2z2   C4   | \
+  .C4     .A4  |
+  .C4      D2F2| \
+  F2E2     z4  | \
+  FEF2    z4   | \
+  (3.G4 .G4 .F4|
+  E2E2    D4   | \
+  c2 ^A2 =A2 A2| \
+(3G2F2G2  z2^A2| \
+   A4        G4|
+z2 F2        A4| \
+G2 z2      D4  | \
+^G2 =G2 F2 E2  | \
+=F2 E2  ^F2 z2 |
+G2 z2     A2 z2| \
+"g" (3B2A2B2 z2 B2| \
+.B4     .B4    | \
+.B4     .B4    |
+.B4     .B4    | \
+ B2 ^d2  c2 z2 | \
+ A2 z2   B4    | \
+"d" G4      A4 |
+"g" F2 G2 z2 G2| \
+"e" E2 E2   F2 z2  | \
+"g".D4      .D4   | \
+"g" F2 z2   A2 G2  |
+"g" F2 z2   G2G2   | \
+"a" F2 E2  E2 z2   :|
+P:C
+M: 4/4
+L: 1/4
+K:G 
+"a"^c=c "g"  BB|  \
+"g" BB "d"   BB| \
+"g" BB  (3Bcc|  \
+"g" AB "d"    GA| 
+"g" (3FGF "e" E<E|  \
+"g#" F>D  "f#"FA/2G/2| \
+"g#"  FE "a"  E2  |  \
+"a"z3/2^C/2 "d" AB|
+"a" c^c    dB   |
+"g" BB    BB| \
+"a" BB "g" B=c/2c/2 | \
+"g" AB "d"    GA| \
+"g" (3FAG "e" (3EFF| 
+"g#" Ad "g" F/2zG/2| \
+"g" FG  "a" F/2<E/2E |
+P:D
+M: 4/4
+L: 1/8
+K:A 
+|:z4      zz/2 F/2 =FF|\
+"a" EzE3/2d/2  dcd/2c3/2|\
+"a" cz  c2     dc    =cB|\
+"e" Bz  B2   "g#" ^cB   ^A=A|
+"a" Az  E2     AB  AB   |\
+ (3 =fdc  dc  zc  z/2A3/2|\
+"e" B/2z3/2 B2   "g#"    BG2d|\
+"a" cB ^A=A       AE3    |
+"e" Az  G2  "g#" FD/2 =F2 E/2 |\
+"a" z4      (3=ded (3dBB|\
+"e"    z4 "g#"  =c/2d/2^c (3B=cB|\
+"a" z4         (3=c^cB ^A=A |\
+"a" z4             AB    AB     |\
+"a" ddcc    z2    A2     |
+"e" BAB2    "g#" Bz    G2     |\
+ cBAA             zz/2 F/2 =FF:|\
+
+
+
+X: 421
+T:Reyhan
+O:Azerbaijan
+F: http://www.youtube.com/watch?v=DYj6x7kXMVQ
+M:2/4
+L:1/8
+Q:1/4=96
+K:Am
+%%MIDI control bass 0 1
+|: "Am"C/D/E .E.E      |E2 "G"DC       | D2 "Am"CB,      |C2 "G"B,A,     :: "Am"CD "G".D.D|\
+   "G"D2 "Am"CB,       | "Am"C2 "G"B,A,|"G"B,2 "Am"A,2   :|
+|: "Am"C/D/E .E.E      |E2 "G"DC       | D2 "Am"CB,      |C2 "G"B,A,     :|
+|: "Am"CD "G".D.D      |"G"D2 "Am"CB,  | C2 "G"B,A,      |B,2 "Am"A,2    :|
+|: "G"G,G,/G,/ G,G,/G,/|"Am"A,C"G"B,A, |G,G,/G,/ G,G,/G,/|"Dm"A,D"Am"A,2 :|
+
+
+
+X: 422
+T: Roata Din Bihor
+M: 2/4
+L: 1/8
+Q: 1/4=180
+K: Em
+|:DEFG   |A2 AF         |A2 AF          |A2 AF       |\
+  DEFG   |A2 AF         |EF E2          |E2 z2       :|
+|:GABc   |d2 dB         |d2 dB          |d2 dB       |\
+  GABc   |d2 dB         |AB A2          |A2 z2       :|
+|:DEFG   |A2^G/F/E/z/   |A2^G/F/E/z/    | =F2 D/E/D  |E=FED|D^CD2 :| 
+|:A,B,^CD|E2 ^C/B,/B,/z/| E2 ^C/B,/B,/z/|=FE/D/D/C/D :|dzdz|
+
+
+
+X: 423
+T: Roata Femeilor
+O: Romania
+M: 3/4
+L: 1/8
+K: F
+Q: 1/4=120
+V:1
+%%MIDI program 41
+|:EFG3F  |A2c4  |dcB3F  |AFG4    |\
+  A2c4   |dcB3F |AFG4   |FEF4::
+  ff3c2  |d2d4  |cdB2AB |AG5     |\
+  A2c4   |dcB4  |GB/A/G4|AGF4    :|
+V:2
+L:1/4
+|:F,,G,,2|A,,C,2|D,F,,2 |A,,G,,2 |\
+  A,,C,2 |D,B,,2|A,,G,,2|F,,F,,2::
+  F,,C,2 |D,D,2 |D,B,,2 |A,,G,,2 |\
+  A,,G,,2|D,B,,2|G,,G,,2|A,,F,,2 :|
+
+
+
+X: 424
+T: Romska Gaida
+O: Bulgaria
+F: http://www.youtube.com/watch?v=9LlB3kxH8XU
+F: http://www.youtube.com/watch?v=o3TWG8h189w
+%M: 8.7/8
+M: 15/16
+L: 1/16
+Q: 1/4=88
+K: Cm
+P:A
+V:1
+%%MIDI program 111
+%%MIDI beatstring fmmmfmmmfpmpfp
+%%MIDI chordattack 40
+z8 z7|z8 z7|
+|:cgfed2c2 c2c2c3|cgfed2c2 c2c2c3|
+  cgfed2c2 c2c2c3|B6eB c4-c3:|
+V:2 name=percussion
+%%MIDI channel 10
+!f! [B,,,D,,F,,]4 D,,4 D,,2D,,2 [D,,F,,]3|\ 
+[D,,F,,^C,]4 D,,4 D,,2D,,2 [D,,F,,]3 |:
+[D,,F,,^G,,]4 [D,,F,,]4 D,,2D,,2 [D,,F,,]3|\
+[D,,F,,^G,,]4 [D,,F,,]4 D,,2D,,2 [D,,F,,]3|\
+[D,,F,,^G,,]4 [D,,F,,]4 D,,2D,,2 [D,,F,,]3|\ 
+[D,,F,,^G,,]4 z4 D,,2G,,2 [D,,F,,]3 :|
+P:B
+V:1
+%%MIDI program 67
+|:G6F2 FGGF-F3|E2C2C2C2 C2D2E3|\
+ E2C2C2C2 C2D2E3|E2F2D2E2 C2C2-C3:|
+|:B,2C2E2E2 E4-E3|F2G2F2E2- E7  |\
+  F2G2E2E2 E7    |D2E2D2C2- C7 :|\
+|:E2D2C2C2 C2C2F3|E2E2D2C2 D2C2C3:|
+V:2
+|: [D,,F,,]4 C,,4 F,,2F,,2 [D,,F,,]3 |\
+[D,,F,,]4 [C,,^D,]4 F,,2F,,2 [D,,F,,]3 | 
+[D,,F,,]4 C,,4 F,,2F,,2 [D,,F,,]3 |
+[D,,F,,]4 C,,4 F,,2F,,2 [D,,F,,]3 ::
+[A,,D,,]4 [A,,D,,]4 z2F,,2 F,,3 |
+[A,,D,,]4 [A,,D,,]4 z2F,,2 F,,3 |
+[A,,D,,]4 [A,,D,,]4 z2F,,2 F,,3 |
+[A,,D,,]4 [A,,D,,]4 z2F,,2 F,,3 :: 
+[A,,D,,]2F,,2 [A,,D,,]2F,,2 z2[F,,D,,]2 [F,,D,,]3 |
+[A,,D,,]2F,,2 [A,,D,,]2F,,2 z2[F,,D,,]2 [F,,D,,]3:|
+
+
+
+X: 425
+T:Romski Cacak
+O:Bulgaria
+M:6/8
+L:1/8
+Q:1/4=300
+P:AABBCCBBDD
+K:G
+P:A
+  Az2       |:A2B cz2 |c2B Bz2     |B2A Az2    |A2G Gz2    |\
+  [1 G2F AGA|Az2 Az2  :| [2 G2F AGF|Fz2    z3  |
+P:B
+|:DF2 DAA   | DAA GFE | FGA GFE    | [1 F2G A3 :| [2 F2G F3|
+P:C
+|:dd2 AA2   |B2zB2z   |A2zGFE      | [1 F2G A3 :| [2 F2G F3|
+P:D
+|:dde d3    |ed^c Bc2 |Acc Acc     |ecB c2A    |\
+  A^GG FED  |DB,C DEB,| AB,B A^GG  |FFF EBE    :|
+
+
+
+X: 426
+T: Round Dance
+O: Russia
+M: 2/4
+L: 1/8
+Q: 1/4=96
+K: EMin
+|:B2 B2|AG F2 |G2 FG|B2 A2|G2 G2  |FE ^D2  |E4 |E4  :|
+|:E2 E2|^DE F2|BAGF |FE DC|B,2 B,2|B,^C ^D2|E4 | E4 :|
+
+
+
+X: 427
+T:Rumelaj
+O:Hungary Macedonia Romani Gypsy
+F: http://www.youtube.com/watch?v=FL-U3EK32OI
+F: http://www.youtube.com/watch?v=6h4Q5HP_g5s
+F: http://www.youtube.com/watch?v=nqncjQf8j60
+M:4/4
+L:1/8
+Q:1/4=108
+K:DDor
+%%MIDI gchord fzzzfzzz
+%%MIDI bassprog 115
+%%MIDI program 65
+|:"D" G2^FG FGE2 |F2EF EFD2 |DEFG AGFE|DE2E E2E2 :|
+|:EA2^G AGAG     |A^GAG AGFE|DF2F GFED|DE2E E2E2 :|
+
+
+
+X: 428
+T: Rusi Kosi
+F: http://www.youtube.com/watch?v=fCs9GPgRzak
+F: http://www.youtube.com/watch?v=I2_ulhi1pSU
+O:Bulgaria 
+M:2/4
+L:1/8
+Q:1/4=160
+K:G
+|:.B2 .E2   |.A2 .E2       | G3F      |E2 zD   |\
+  .E2 .E2   |FEFA          |.G2 z2    |EFGA    |
+  .B2 .E2   |.A2 .E2       | G3F      |E2 zD   |\
+  .E2 .E2   |FEFA          |G3F       |GA FE   |E4  :|
+|:[B,3E3] D | EDEF         | [B,4G4]  |\
+  [B,4G4]   | [C2A2][C2A2] |\
+  GFGA      | [B,3G3]F     | [B,4E4]  :|
+  [B,3E3] D | EDEF         | [B,4G4]  | [B,4G4]|\
+  [B,3E3] D | EDEF         | [B,4G4]  | [B,4G4]|
+  B4        | A4           | G3F      | E3D    |\
+  E2 E2     | FEFA         | G3F      | GAFE   | E4 |
+
+
+
+X: 429
+T: S kamenicki friat Mamo
+O: Serbia
+F: http://www.youtube.com/watch?v=FckJfghYGCU
+F: http://www.youtube.com/watch?v=pYCc_puFMIw
+F: http://www.youtube.com/watch?v=ILwOeYpRins
+M: 2/4
+L: 1/8
+Q: 1/4=160
+K: Dphr
+%%MIDI program 23 Tango Accordian
+  ^FAGF   |E2D2  |D2D2   |D4    |\
+|:A2B2    |.c2.c2|.c2.c2.|.c2.d2|\
+  .c2.B2  |.c2.B2|.A2.A2 |A4::
+  .B.B.B.B|.B.BB2|BcBA   |B2A2  |\
+  B2A2    |G2A2  |G3^F   |^F4   :|
+
+
+
+X: 430
+T: Sadi Moma
+O: Bulgaria
+F: http://www.youtube.com/watch?v=I2_ulhi1pSU
+F: http://www.youtube.com/watch?v=AhGCT0GTzbs
+F: http://www.youtube.com/watch?v=ULG1pCQhYC8
+S: Deborah Jones VIFD Book I
+M: 7/8
+L: 1/8
+Q: 1/4=120
+K: EDor
+%%MIDI gchord fzzczcz
+|:"G" G2 A B3 A          |{c}d2 G A3 G   | "A7" (4GFEF "D" D2-D2|
+  "A7" D3 E3 F           | G3 "D" F3 A   |"Am" E3-E2-E2-        |"Em"E3-E2-E2 :|
+|:"A7" A2 G "D" F2 "A7"E2| "D" F2 G FE D2| D3 "A7" E3 F         |G3 "D" F2 A2 |
+  [1 "A" E3 E2-E2        |"A7" A2G F2-F2 :|[2 "Am" E3 E2-E2     |"Em" E3-E2-E2|
+ 
+
+
+
+X: 431
+T:Sadilo Mome
+O:Bulgaria
+F: http://www.youtube.com/watch?v=aZwxASYvJbY
+F: http://www.youtube.com/watch?v=ULG1pCQhYC8
+F: http://www.youtube.com/watch?v=legJZ-fEzJ0
+L:1/8
+M:7/8
+Q:1/4=240
+K:Cm
+%%MIDI gchord fzffzfz
+%%MIDI beatstring fppmpmp
+|:"C" B3 c4| c3-c4 | e2dc4|e2dc4  |\
+  B3 e4    |d2fc4  | c3-c4|c3-c4  :|
+|:e3-e4-   |e3 fedc| d3-d4|d3 edcB|\
+  c2f c2f2 | c3-c4 |fc2-c4|fc2-c4 :|
+
+
+
+X: 432
+T: Salcioara
+O: Romania
+M: 2/4
+L: 1/8
+Q: 1/4=180
+K: Dm
+%%MIDI gchord hzzzizzz 
+%%MIDI program 22
+%%MIDI chordprog 56
+|:"Edim" E3/2F/GF|E3/2F/GF|"C"E2A2  |^GFED   |
+  "Edim"E3/2F/GF |E3/2F/GF|"Dm"E2D2 |D4::
+%%MIDI gchord hzzzzzzz
+  "Am"A2A2       |A4      |"Dm"^GFED|"Gm"G2G2|G4|AFED::
+%%MIDI gchord hzzzizzz
+  E3/2F/GF       |E3/2F/GF|E2A2     |^GFED   |
+  E3/2F/GF       |E3/2F/GF|E2D2     |D4      :|
+
+
+
+X: 433
+T:Sarajevka Kolo
+O:Serbia
+F: http://www.youtube.com/watch?v=6Y_yd4fnbAA
+F: http://www.youtube.com/watch?v=5aw-RyIxE8o
+M:2/4
+L:1/16
+Q:1/4=72
+K:Edor
+%%MIDI program 41 Viola
+%%MIDI bassprog 24 Acoustic Guitar
+%%MIDI chordprog 24 Acoustic Guitar
+"D"F2A2 A^GAF|"G" EFG2 GFED| EFG2 "D"FEFD|"Em"E4"A"A4|
+"D"F2A2 A^GAF|"G" EFG2 GFED|"A"B2A2 "D"GFED|"Em"E4-EFG^G|:
+Q:1/4=84
+"A"A2B2c4|cdBc A4|"A"e2^de d=cBA|  [1"Bm"B4-B4:|[2"Bm"B4 B2c2|:
+"D"d3e d=cBA|"G"BGA2 "D"GFED|"G"EFG2 "D"FEFD|[1"Em"E4 e4:|[2 E4 E2E2|
+W:
+W:adapted from  http://www.folkloretanznoten.de/
+
+
+
+X: 434
+T: Sarba Batuta
+O: Romania
+F: http://www.youtube.com/watch?v=WFtOHCk1AIs
+F: http://www.youtube.com/watch?v=1YXvpBsLSyw
+W: originally transcribed by Miamon Miller
+W: http://balkantunes.org/music/folklore2011/ 
+M: 2/4
+L: 1/16
+Q: 1/4=144
+K: F
+%%MIDI program 40 violin
+%%MIDI bassprog 32 acoustic bass
+%%MIDI chordprog 32 acoustic bass
+"F" F2F2 C2F2  |GABG A2AG          |\
+F2F2 C2F2      |GAFG A2AG          |
+F2F2 "F/A" C2F2|"Bb" GABG "Bm" A2AG|\
+"C"F2F2 C2c2   |"F"cBAG F z z2::
+"F" ABc2 d2c2  |ABc2 ABc2          |\
+ABc2 d2c2      |ABc2 ABc2          |
+ABc2 "F/A" d2c2|"Bb"d2c2 "Bm"ABc2  |\
+"C"d2c2 ABcA   |"F"F2FE Fz z2      :|
+
+
+
+X: 435
+T: Sarba Zarnestenilor
+O: Romania
+F: http://www.youtube.com/watch?v=0Xv0pFxwKtg
+F: http://www.youtube.com/watch?v=w6APOSvdAr4
+M: 2/4
+L: 1/8
+Q:1/4=160
+K: C
+P:A
+|:B/c3/2G2|"C"E2G2|E2G2|E2G2|B/c3/2G2|E2G2|G2 (3GAB|c2z2:|
+P:B
+K:Cm=B
+L:1/16
+|:"C"c3c d3e|"Dm"d3c "C"edcz|"C"cBAz cBAz|"F"A3G "G"G4|
+ "F" A=AB2 AGF2|"G7"GF=E2 =EFG2|"C"=E4 c=BA2|"G"cBA2 G4:|
+P:C
+K:C
+L:1/8
+|:"F"FG A2|A2 A2|A2 A2|A4|"C"Gc G2|G2 G2|F2 E2|"Em"(3GFE "F"(3FED|
+D2D2-|D4-|D4|(3DEF(3DEF|\
+(3DEF D2|(3DEF G2|"C"FE F2| FDE2|
+"G7"DC D2 |"C" CB, C2|[1EF"G7" G2-|G4:|[2"G7"zGAF|"C"GABc|
+
+
+
+X: 436
+T:Sasino Kolo
+O:Yugoslavia
+F: http://www.youtube.com/watch?v=G11JFTw4-A8
+L:1/8
+M:2/4
+Q:1/4=180
+K:G
+|:"C"A2 Bc| e3 e       |fe^dc       | e3 e         |\
+ "D7" fe^dc    |^dcBA    | [1 "G"B4      |"E" e2 e2        :| [2"G" B3 A |B4   |
+|:"E"E2 F^G| "Am"A4     | "E"^GB"E"GE| "B"F4        |\
+  "E"^GBGE |"Am"A^G"B"FE| F4         | [1 "E"B2 B2  :| [2 "B"F4|
+|:"E"AB^GE |A^G"B"FE    |"E"AB^GE    |A^G"B"FE      |\
+  "E"AB^GE |"E"A^G"B"FE | [1"B"F4    | "E"B2 B2     :| [2 "B"F4|"B"F4|
+
+
+
+X: 437
+T:Satovcensko Horo
+O: Bulgaria
+M:7/8
+L:1/8
+Q:1/4=160
+K:Gm
+%%MIDI gchord fz2fzfz
+%%MIDI program 25
+%%MIDI bassprog 45
+|:"G"Gdd d2d2|"Cm"edc c2c2   |"G"dc=B cB _A2|G2F G2=B2     |\
+  Gdd d2d2   |"Cm"edc c2c2   |"G"dc=B cB_A2 |G3 G4         :|
+|:FGG GGGG   |"Abm"=B2_A B2A2|"G"FGG GGGG   |"Ab"edc d2_A2 |\
+  "G"FGG GGGG|"Abm"=B2_A B2A2|"G"G_A=B cBA2 |G2F G4        :|
+
+
+
+X: 438
+T: Seleneje Schito
+T: Zeleneje zhito
+O: Russia
+M: 2/4
+L: 1/8
+Q: 1/4=84
+K: Dm clef=treble
+%%MIDI gchord fzzz
+"A"AAGA  |"D"BAGF|"A"A3G/F/|E4     |\
+"D"A,D^CD|"A"E2FE|"D"D4-   |D4     |
+"D"A,D^CD|"A"E2FE|"D"D4    |"A"A,4 |\
+"D"A,D^CD|"A"E2FE|"D"D4    |"Em"=C4|
+"A"AAGA  |"D"BAGF|"A"A3G/F/|E4     |\
+"D"A,D^CD|"A"E2FE|"D"D4-   |D4     |
+
+
+
+X: 439
+T: Seljancica
+O: Serbia and Croatia
+Z: Deborah Jones VIFD Book 1
+F: http://www.youtube.com/watch?v=SC46fw_tvl8
+F: http://www.youtube.com/watch?v=EY-c-HERazM
+F: http://www.youtube.com/watch?v=U6JyRFHNM4c
+F: http://www.youtube.com/watch?v=AHV57zcTH5k
+M: 2/4
+L: 1/8
+Q: 1/4=100
+K: G
+%%MIDI program 25
+%%MIDI bassprog 36
+%%MIDI chordprog 24
+|:"G" [GB][Ac] [Bd][ce]             |[Bd][ce] [B2d2]     |\
+  "C" [eg][eg] [df][ce]             |"G" [B2d2] [G2B2]   :|
+  "D7" [B2d2] [A2c2]                | "G" [B2d2] [G2B2]  |\
+  "D7" [B2d2] [A2c2]                | "G" [B2d2] [G2B2]  |
+|:"G" [G/B/][A/c/][Bd] "D7" [Bd][Ac]|\
+  "G" [G/B/][A/c/][Bd] "D7" [Bd][Ac]|\
+  "G" [G/B/][A/c/][Bd] "D7" [Bd][Ac]|\
+  [1"G" [G2B2] [D2B2]               :|[2"G" [G2B2] [G2B2]|
+
+
+
+X: 440
+T: Sepo
+O: Armenia
+F: http://www.youtube.com/watch?v=TmVQU6vl1u8
+M: 2/4
+L: 1/8
+Q: 1/4=88
+K: Dm
+%%MIDI program 66
+%%MIDI drum d2dd 54 54 54
+%%MIDI drumon
+|:E2 F/E/D            |E2 F/E/D |\
+  ^C/D/E F/E/D/C/     |[1D4     :|\
+  [2 D2-D/A,/=B,/^C/  |
+|:D/E/F/E/ D/^C/=B,/C/|=B,>A,B,2|\
+  D/E/F/E/ D/^C/=B,/C/|D4       :|
+
+
+X: 4401
+T: Serez
+O: Serbia
+F: https://www.youtube.com/watch?v=VlolOTMjax8
+M: 2/4
+L: 1/8
+K: Em
+Q:1/4=120
+%%MIDI program 110 fiddle
+%%MIDI bassprog 24 Acoustic Guitar
+%%MIDI gchord fz
+"Am"cBAc|cBAc    |"Em"B4  |"Am"EFGA|"D"GEFD |"Em"E3D |^CDE2  |E4::
+"Am"e3e |"D"d2=f2|"Am"e3d |cBA2    |"D"d3B  |"Am"cABG|A3G    |A2z2::
+cBcd    |"Em"BABc|"Am"AGAB|"Em"GFG2|"Am"edcd|"Em"BcAB|"Am"GA3|GA3 :|
+
+
+
+
+
+X: 441
+T: Sev Acherov Aghcheek
+O: Armenia
+Z: Debra Jones VIFD I
+F: http://www.youtube.com/watch?v=TmVQU6vl1u8
+F: http://www.youtube.com/watch?v=AjlXcv5Kx8M
+F: http://www.youtube.com/watch?v=F92JbBIfDOo
+F: http://www.youtube.com/watch?v=YtLrDgocFgs
+M: 4/4
+L: 1/8
+Q: 1/4=144
+K: Em
+%%MIDI program 24
+%%MIDI bassprog 33
+%%MIDI chordprog 25
+"Em" B2 B2 "B7" B2 B2| "Dm" dc BA "Am" A4| "D" FG A2 "D#dim" A2 Ac|\
+"Em7" BA GF G4| 
+G A/G/ FG "A7"A2 AF|"Em7"G A/G/ FG "A7" A4| "C" GG GB "Am" A2 AF|\
+"B 7" GA F/E/F "Em" E4|"Em" z2 EE "A"z2 A2|"Em" z2 GG "A" z2 A2|
+%%MIDI program 43
+|:"Em" B,2 E2 "B7" E2 ^DC|^DE F2 "Em" E4| "G" GG GB "A" A2 AF|\
+[1 "B7" GA FE "Em" E4:|[2 "Am" B2 AB "B7" B4|
+"E" B2 B2 B2 B2|"Am" dc BA A4|"D" FG A2 A2 Ac|"G"BA GF G4
+|:"Em7" G2 F2 "A7" FG AF|"Em7" F2 FG "A7"{G}A4|"C" G2 GB "Am7" A2 AF|\
+"B7" GA FE "Em" E4:|
+
+
+
+X: 442
+T: Severnyashka Racenica
+O: Bulgaria
+M: 4/4
+L: 1/8
+Q: 1/4=240
+K: G
+%%MIDI program 68 Oboe
+|:ez3 ez3 Az3 z4        |GAGF GAGF EFGA Bz3    |
+  ez3 ez3 Az3 z4        |GAGF GAGF EFB,^C ^DEz2::
+  GGFG AGFG G/A/GFG AGFG|G/A/GFG AGFG EFGA B2z2|
+  GGFG AGFG G/A/GFG AGFG|G/A/GFG AGFG AGFE E2z2::
+  FGAB cB<AG GFGB dB<Gz |FGAB c>BAG GFGB d2z2  |
+  FGAB cB<AG GFGB dB<Gz |FGAB c>BAG GDEF G2z2  :|
+
+
+
+X: 443
+T:Sheikhani
+O:Assyria
+M:2/4
+L:1/8
+Q:1/4=180
+I:percussion recommended for bass accompaniment
+%%MIDI gchord fzfz
+K:Am
+|:"A" edec|d2c2            |AccB|A2A2 |\
+  AccB    |A2d2            |cBcB|A2A2 :|
+|:cdec    |d/e/d/e/d/e/d/e/|cdec|d2c2 |
+  cdec    |d/e/d/e/d/e/d/e/|edec|d2c2 |
+  BcBc    |BcBc            |BcBc|A2A2 :|
+|:A^GAG   |ABcd            |cBcB|A2e2 |
+  efde    |c2d2            |dcBc|A2A2 :|
+  cdez    |d/e/d/e/d/e/d/e/|ezed|e2d2 |
+  cdez    |d/e/d/e/d/e/d/e/|gzed|e2d2 |
+  geze    |e/f/e/f/e2      |edez|d2c2 |
+  eddz    |d2c2            |dcdz|d2c2 |
+  eddz    |d2c2            |dcdz|d2A2 |
+
+
+
+X: 444
+T: Sherele
+L:1/8
+M:4/4
+Q:1/4=180
+O: Klezmer 
+K:Cm
+|:"G" GF=EF G2 A2          | G8           | =BAGA B2 c2  | d8              |de f2 f2 f2|
+ fe ed dc c=B             | =Bc d2 d2 d2 | dc c=B BA AG | F=E FG Ac =BA   | G8        :|
+ "Cm" c3 G/2c/2 e3 c/2e/2 | g8           | gf fe ed dc  | "G" d8          |
+ d3 e f3 g                | a8           | gf fe ed dc  | e4 (3g^fe (3edc |
+ "Cm" c3 G/2c/2 e3 c/2e/2 | g8           | gf fe ed dc  | "G" d8          |
+ d3 e f3 g                | a8           | gf fe ed dc  | c3 d/2e/2 c3 z  |
+ "G" dc =B2 BA G2         | Gc=Bc d z g z| dc =B2 BA G2 |  AGFA "G" G4    |
+ "G" dc =B2 BA G2         | Gc=Bc d z g z| dc =B2 BA G2 |  AGFc "G" G4    |
+
+
+
+X: 445
+T: Sila Kale Bal
+O: Serbia
+F: http://www.youtube.com/watch?v=gGUGJK9w544
+F: http://www.youtube.com/watch?v=wAHuPfddiO8
+F: http://www.youtube.com/watch?v=m81i87-u8HQ
+M: 7/8
+L: 1/8
+P: AB
+Q: 1/4=132
+K: Em
+P: A
+%%MIDI program 110
+%%MIDI gchord f2zfzfz
+|:"E" E2E/E/ E2 E2      | e/f/e6         |"B"dfe de cd      |"Bm"B3 B2 B2   |\ 
+  "A"A2A/A/ A2 A2       | c2A/A/ A2 A2   |"B"G2A B2 G2      |"E"E3 E2 E2    :|
+P:B
+%%MIDI program 65
+|:"E" E,2E,/E,/ E,2 E,2 |E3 FE3          |"D" DFE D2 C2     |"B"B,3 z4      |\
+  "A" C2C B,2 A,2       |"Bm" G,3 F,2 E,2|"F#m"F,2G, A,2 G,2|"F#m"F,3 F,2 z2|
+  "G"G,G,2"F#m" F,2 F,2 |"Em"E,3 E,2 E,2 |"D"DD2 "C"E2 C2   |"Bm"B,3 B,2 z2 |\ 
+  "D"DD2 D2 D2          |"Em"E3 "D"D2 z2 |"Bm"G,G,2 F,2 F,2 |"Em"E,3-E,4    :|
+
+
+
+X: 446
+T: Sira
+O: Bulgaria
+M: 4/4
+L: 1/8
+Q: 1/4=180
+K: Am
+%%MIDI program 72
+%%MIDI bassprog 45
+%%MIDI chordprog 45
+  AcBG A4      |AcBG A4  |AcBG A4      |A2G2 A4     |
+|:"Am"A4 ABcd  |B2cd cBA2|"E"e2f2 edce |"Am"c2B2A4  :|
+|:"Am"A4 ABcd  |B2cd cBA2|"E"e2f2 edce |"Am"c2B2A4  :|
+|:"Am"e2f2 edce|c2B2 Ace2|"E"^GAB2 B2ed|"Am"c2B2 A4 :|
+|:"Am"e2f2 edce|c2B2 Ace2|"E"^GAB2 B2ed|"Am"c2B2 A4 :|
+|:"Am"AcBG A4  |AcBG A4  |AcBG A4      |A2G2 A4     :|
+
+
+
+X: 447
+T:Sirba de Cimpoi
+O:Romania
+S:Gypsy Camp vol. 1. presented by Mihai & Alexandru David (GC5201B)
+F: http://www.youtube.com/watch?v=VZHmT7uUdGg
+P:ABAC
+L:1/8
+M:2/4
+Q:1/4=180
+K:Am
+P:A
+|: "Am"AB cd    | e2 "G"d2    | c2 "Em"B2   | "Am"c3 d|\
+   e2 "G"d2     | "Am"c2 "G"d2|[1 "Am"c3 d  | cB A2   :|[2 "Am"c2 "Em"B2| "Am"A2 z2|
+P:B
+|: "Am"ed e2    | ed e2       | ed e2       | dc c2   |\
+   "Dm"dc d2    |"Dm"dc d2    | ed "Am"e2   |dc c2    :|
+P:C
+|: "Am"c2 "Em"B2| "Am"e3 d    | c2 "Em"B2   | "Am"e3 d|\
+   c2 "Em"B2    |"Am"e2 "G"d2 |"Am"c2 "Em"B2| "Am"A4  :|
+
+
+
+X: 448
+T: Sirba de la Vorona
+O: Romania
+M: 6/8
+L: 1/8
+Q:1/4=240
+K: Aphr
+%%MIDI program 41 viola
+%%MIDI chordprog 45 octave=1 Pizzicato Strings
+%%MIDI bassprog 32 Acoustic Bass
+%%MIDI chordvol 40
+%%MIDI bassvol 40
+%%MIDI gchord czfz
+|:"Am"A3-A3    |"G"fed-d3    |"Dm"dcB cBA|"G"G3-G3  |\
+  "Em" efg fed |"Em"edc "C"c3|"Dm"edc dcB|"Am"A3-A3 :|
+K:EPhr
+%%MIDI program 71 Clarinet
+  "Am"A2B c2d  |"Em"e2f d2f  |e3-e3      |e3 Ace    |\
+  "Am"a3 agf   | g3 "C"^fef  |"Em" ede-e3|e3-e2z    |
+  "Am"A2B c2d  |"Em"e2f fed  |e3-e3      |"Am"a3-a3 |\
+  "Bdim"b3 ag^f|"G"g3 g^fe   |"Em"fed e3-|e3-efg    |:
+  "Am"a3 "Em"e3|efg"Dm" f2d  |d3-d3-     |d3 def    |\
+  "G"g3 "Dm"d3 |cdc _B2A     |"G"G3-G3-  |G3 GAB    |
+  "Am"c3 e3    |"Dm"efg f2d  |d3-d3      | GAB"Am"c3|
+  "G"_B2A _B3  |-BAG         |"Am"A3-A3- |A3-A3     :|
+
+
+
+X: 449
+T:Sirba Munteneasca
+O:Romania
+W:presented by Mihai & Alexandru David, Gypsy Camp II
+L: 1/8
+M: 2/4
+Q:1/4=112
+K:C
+|:"G"ddBG|"C"gge2|"G"d/c/d/c/ d/c/d/c/|"C"e4|\
+"G"ddBG|"C"gge2|"G"d/c/d/c/ d/c/d/c/|"C"c4:|\
+[eg][eg][fa][fa]|[e/g/][f/a/][e/g/][d/f/][c2e2]|
+"G"[Bd][Bd][B/d/][d/f/][c/e/][d/f/]|"C"[c4e4]|\
+[eg][eg][fa][fa]|[e/g/][f/a/][e/g/][d/f/][c2e2]|\
+"G"[Bd][Bd][B/d/][d/f/][c/e/][d/f/]|"C"[E4c4]|\
+"G"[Bd][Bd][GB][EG]|"C"[eg][eg][c2e2]|
+"G"[B/d/][A/c/][B/d/][A/c/] [B/d/][A/c/][B/d/][A/c/]|"C"[c4e4]|\
+"G"[Bd][Bd][GB][EG]|"C"[eg][eg][c2e2]|\
+"G"[B/d/][A/c/][B/d/][A/c/] [B/d/][A/c/][B/d/][A/c/]|"C"[E4c4]\
+|:"G"f/g/z/g/ g/g/f|"C"d/e/z/e/ e/e/e|"G" f/g/z/g/ g/g/f|"C"d/e/z/e/ e/e/e|
+"G"dddd|"C"efed|"G"dddd|"C"efed:|
+
+
+
+X: 450
+T:Sirba Pe Loc
+O:Romania
+S:Mihai and Alexandru David, Gypsy Camp Vol. 1
+F: http://www.youtube.com/watch?v=JP9cbeFa8xk
+F: http://www.youtube.com/watch?v=vcsossba9IQ
+F: http://www.youtube.com/watch?v=nZfFYZNr0I4
+M:6/16
+L:1/16
+Q:1/4=150
+P:AABBAACCAA
+K:A
+%%MIDI gchord fzzfzz
+P:A
+|:"C#m"B,2C/D/ C2B,/A,/|"Bm"B,2A, E3     |"C#m" B,2C/D/ C2B,/A,/|\
+  [1 "Bm"B,2A, E3      :| [2"A" B,2A, A,3|
+P:B
+  "A"cde cde           |cde c3           |cde cde               |\
+  cde c3               |cde cde          |cde c3                |
+  c2d B2A              |AA5              | cde cde              |\
+  cde c3               |cde cde          |cde c3                |
+  cde cde              |cde c3           |c2d B2A               |AA5 |
+P:C
+|:"Dm"d2z d2z          |d2z d2z          |e2z d2z               |\
+  c5z                  |B2c d3           |e3 d3                 |c5 A|\
+  [1B3 e3              :| [2B3 A3        |
+
+
+
+X: 451
+T: Siriul
+O: Romania
+F: http://www.youtube.com/watch?v=hzwwSDWW8iU
+F: http://www.youtube.com/watch?v=XH-ZPezb4N8
+F: http://www.youtube.com/watch?v=3D29_PTyOn8
+M: 3/2
+L: 1/16
+Q:1/4=132
+K:G % 1 sharps
+V:1
+%%MIDI program 74
+G2E2F2D2  E8-          E4F4      |\
+G2E2F2D2  E8-          E4F4      |\
+G2E2F2D2  E8-          E4F4      |\
+G2A2B2A2  G2E2F2D2     E8-       |
+E8-          E8           x8     |\
+ x8         |\
+% B
+e8           d8           e8         |\
+f4e4         d8           e8         |
+f4e4         d8           c8         |\
+B4A4         G8           A8         |\
+B4G4         A8           G4F4       |\
+E8-          E8-          E8         |
+e8           d8           e8         |\
+f4e4         d8           e8         |\
+f4e4         d8           c8         |\
+B4A4         G8           A8         |
+B4G4         A8           G4F4       |\
+E8-          E8-          E8         |\
+E8           E8           D8         |\
+E4F4         G8           A8         |
+B4d4         c8           B8         |\
+B4A4         G8-          G8         |\
+A8           B4G4         A8         |\
+G4F4         E8-          E8         |
+V:2
+%%MIDI program 45
+% B
+E,4B,4       E,4B,4       E,4B,4     |\
+E,4B,4       E,4B,4       E,4B,4     |\
+E,4B,4       E,4B,4       E,4B,4     |\
+E,4B,4       E,4B,4       E,4B,4     |
+E,4B,4       E,4B,4       E,4B,4     |\
+E,4B,4    |\
+% B
+E,4B,4       D,4A,4       E,4B,4    |\
+F,4C4        D,4A,4       E,4B,4    |
+F,4C4        D,4A,4       C,4G,4    |\
+B,4F4        B,4F4        A,4E4     |\
+G,4D4        A,4E4        G,4D4     |\
+E,4B,4       E,4B,4       E,4B,4    |
+E,4B,4       D,4A,4       E,4B,4    |\
+F,4C4        D,4A,4       E,4B,4    |\
+F,4C4        D,4A,4       C,4G,4    |\
+B,4F4        B,4F4        A,4E4     |
+G,4D4        A,4 E4       G,4D4     |\
+E,4B,4       E,4 B,4      E,4B,4    |\
+E,4B,4       E,4B,4       D,4A,4    |\
+E,4B,4       G,4D4        A,4E4     |
+D,4A,4       C,4G,4       G,4D4     |\
+G,4D4        G,4D4        G,4D4     |\
+A,4E4        B,4F4        A,4E4     |\
+B,4F4        E,4B,4       E,4B,4    |
+
+
+
+X: 452
+T:Sirto
+O:Bulgaria
+S:presented by Jaap Leegwater (JL 1985.01)
+L:1/8
+M:7/8
+Q:1/4=120
+K:D
+%%MIDI program 0
+%%MIDI bassprog 32
+%%MIDI bassvol 100
+%%MIDI gchord fzzfzfz
+%%MIDI beatstring fppmpmp
+  "D"F2AGFEF    |"D"D7      |\
+|:"D"D2A,D2D2   |"D"EF2 GFED|"D"EF2GA2A    |"D"BA4z2  :|
+  "D"A2dcBAB    |"D"A2GFED2 |"A"E2GF2FG    |"D"A4z3   |\
+  "D"A2dcBAB    |"D"A2GFED2 |"A"E2GF2FE    |"D"D4z3   |
+  "D"FF4ED      |"D"AA4z2   |"A"A,2A,B,2C2 |"D"D2EF4  |\
+  "D"FF4ED      |"D"AA4z2   |"A"A,2A,B,2C2 |"D"D2ED4  |
+|:"Em"DEEEDEF   |"Em"GAFG3F |"Em"E2DEFGA   |"Em"FG3G3 |\
+  "Em"AAAAGAB   |"Em"G2FE3G |"Em"B/A/GFGAFD|"Em"E3E3z :|
+  "Em"B/A/GFGAFD|"Em"E2DEFGA|"D"B/A/GFGAFD |"Em"E3B3z |\
+  "Em"B/A/GFGAFD|"Em"E2DEFGA|"D"B/A/GFGAFD |"Em"E3E3z |
+
+
+
+X: 453
+T: Site Momi
+O: Bulgaria
+F: http://www.youtube.com/watch?v=4UYDlgfO3-k
+W: adapted from Martin Junghans/Jutta Weber-Karn transcription
+W: http://www.folkloretanznoten.de/
+M: 9/8
+L: 1/16
+K: F#m
+%%MIDI gchord fzfzfzfz2
+|:"E"edcB B2B2 BABc "A"A2A2"E"G2|G2G2 B2B2 BABc "A"A2A2"E"G2|
+  edcB B2B2 "D"BABc A2A2G2|[1"B"B2B2 BABc "f#m"AGGE F2FGAB:|[2"B"B2B2 BABc "f#m"AGGE F2F2 z2|
+L: 1/8
+|"f#"F2 B2 B B A2 G|A2 B2 B2 A2 G|G2 B2 B c A2 G| G2 F2 F2 F2 z|
+|"Bm"[B,F]2 [DB]2 [B,B] [B,B] "D"[DA]2 [DG] | "Bm"[B,A]2 [B,B]2 [EB]2 "D"[DA]2 [DG]|\
+"Bm"[B,G]2 [B,B]2 [EB] [Fc] "D"[DA]2 [DG]|"E" G2 "F#m"F2 F2 F2 z|
+%%MIDI gchordoff
+|:EG GF FG A2 G|EG GF FG A2 G|\ 
+|[B,FG][B,FG] [B,FG][B,F] [B,F][B,FG] [DFA]2 [EG]|[EG]2 F2 F2 F2 z:| 
+
+
+
+X: 454
+T: Sitna Zborenka
+L:1/16
+O: Bulgaria 
+M:2/4
+Q:1/4=72
+S: The dance was re-transcribed from the "Vancouver International 
+S: Folk Dancers Music Book" Deborah Jones (c) 1982 and modified
+S: for abc notation software -Seymour 
+F: http://www.youtube.com/watch?v=QEjYfDUf3Bk
+F: http://www.youtube.com/watch?v=iErfo-kDa9c
+P:ABCDEHBCDEHFG
+K:Em
+P:A
+|:"Am"cdde cBA2           | BEcE "Em" BAG2     |"D" FGA2 "G" AGAB   |"Am" ~c2cd "D" ~cBA2|
+  "G" cdde "Am" cBA2      |"Em" BEcE BAG2      |"D" FGA2 "G" AGcd   |"Am" A2AE "D" A2AE  :|
+%%sep 10 10
+P:B
+|:"D" AGFE FGA2           | ABcd "G" ~B2BG     |"Am" ABcd cBAG      |"G" B2BG B2BG       |
+  "Em" FGG2 "Am" ABcd     |"D" cBAG B2BG       |\
+  "Am" cd/2e/2dB "G" cABG |"Am" A2AE "D" A2AE  :|
+%%sep 10 10
+P:C
+|:"D" FGA2 "G" AGBA       |"Am" ~A2AE "Em" GFE2|"D" FGA2 "G" AGBA   |"Am" A2AE A2AE      :|
+%%sep 10 10
+P:D
+|:"D" A2cd dccB           |"G" A2cd B2BG       |"Am" cdcB "D" A2cd  |"G" B2BG B2BG       :|
+%%sep 10 10
+P:E
+|:"D" cdcB A2cd           | B2BG "G" ~Bcde     |"Am" cdcB "D" A2cd  |"G" B2BG B2BG       :|
+%%sep 10 10
+P:H
+|:"Am" cddc cBA2          |"Em" BccB BA~G2     |"Am" ABA2 "Em" GFE2 |"D" A2AB "G" c2d2   |
+  "Am" dcde cBA2          |"Em" BccB BAG2      |"Am" A2BA "Em" GFE2 |"Am" A2AE A2AE      :|
+%%sep 10 10
+K:F#m
+P:F
+  "A" AEdE c2cA           |"E7" ABBA "A" ABcd  |"E7"  eEdE "A" c2cA |"E7" ABBA "A" A2AE  |
+  "A" AEAd c2cA           |"Dm" ABBA "A" ABcd  | eEdE c2cA          |"Dm" ABBA "A" AEAB  |
+%%sep 10 10
+P:G
+  "E7" cded cBB2          |"A" cded cBA2       |"E7" cddc cBde      |"A" A2AE ABcd       |
+  "D" efed "E7" cBB2      | cded "A" cBA2      |"E7" cddc cBde      |"A" A2AB A2AB       |
+  "E7" cded cBB2          |"A" cded cBA2       |"E7" cddc cBde      |"A" A2AE ABcd       |
+  "D" efed "E7" cBB2      | cded "A" cBA2      |"E7" cddc cBde      |"A" A2AE Azz2       |
+
+
+
+X: 455
+T: Sitnata
+O: Bulgaria
+W: adapted from Martin Junghans/Jutta Weber-Karn transcription
+W: http://www.folkloretanznoten.de/
+M: 2/4
+L: 1/16
+Q: 1/4=120
+K: Am
+%%MIDI program 75 Pan Flute
+ .A2.A2 .A2.A2     |.F2.F2 .F2.F2       |\
+ .D2.D2 .D2.D2     |.E2z2 EDCB          |:
+ "Am"A2cB BAe2     |EAcB B^GA2          |\
+ "F"A2cB B^GAc     |"E"e^dcB "Am"Ace2   |
+ A2cB BAe2         |EAcB B^GA2          |\
+ "F"A2cB "Dm"B^GAc |"E"e^dcB A2z2::
+ "Am"e^de2 g^fg2   |^f3e gfe2           |\
+ ^d2cd ^fge2       |"E"e^dcB "Am"Ace2   |e^de2 g^fg2       |
+ ^f3e gfe2         |[1^d2cd "B" ^fde2   |\
+ "E"e^dcB A2z2     :|[2^d2 cd "Dm"cde2  |"E" f^dcB "Am"A2z2|:
+ AcB2 BAe2         |eAcB B^GA2          |\
+ "F" A2cB "Dm"B^GAc|"E"e^fcB "Am"Bce2   |
+ AcB2 BAe2         |eAcB B^GA2          |\
+ "F" A2cB "Dm"B^GAc|[1"E"e^fcB "Am"A2z2 :|[2e^dcB A2^F2    |
+K:G
+ "G"G4 B4          |c3B BAB2            |\
+ ^cdec d2B2        |"D"c3B "G"B^AB2     |
+ G4 B4             |c3B BAB2            |\
+ GFGA GcdB         |"D"c2Bc "G"G2z2     |
+ GGG2 BBB2         |c3B BAB2            |\
+ G2d2d2B2          |c3B BAB2            |
+ GGG2 BBB2         |c3B BAB2            |\
+ GFGA BcdB         |c2Bc G2z2           |:
+%page 2
+ d2g2 g2B2         |c2z2 ^c2zB          |\
+ ^cddc d=ccB       |B^cdB GBd2          |
+ d2g2 g2B2         |c2z2 ^c2zB          |\
+ ^cddc d=ccB       |B^cdB G2z2::
+ "Em"c2 z2 B2Bc    |"Am"dccB BAAG       |\
+ "Em"ABB2 A3G      |"B"F2EF "Em"E2B2    |
+ "Em"e2Bc B2Bc     |"Am"dccB BAAG       |\
+ ABB2 A3G          |F2EF E2z2           :|
+ "Am"cBA^G Ace2    |cBA^G A4            |\
+ cBA^G Ace2        |cBA^G A4            |
+ "Am"cBA^G Ace2    |cBA^G A4            |\
+ cBA^G Ace2        |"Em" e2E2 "A"A4     |
+ "Am"cBA^G Ace2    |cBA^G A4            |\
+ cBA^G Ace2        |^d2e2 "E"d2e2       |
+ "Am"cBA^G Ace2    |cBA^G A4            |\
+ cBA^G Ace2        |cBA^G A2z2          |:
+ cBA^G cBAG        |cBA^G Ace2          |\
+ cBA^G cBAG        |cBA^G A2z2::
+ cBA^G cBAG        |cBA^G Ace2          |\
+ [1cBA^G cBAG      |"E"cBA^G "Am"A2z2   :|\
+ [2"F"A2A2 cBA2    |z2"E"E2"Am"A2z2     |
+
+
+
+X: 456
+T:Sitno Krajdunavsko Horo
+O:Bulgaria
+M:2/4
+L:1/8
+Q:1/4=240
+K:C
+%%MIDI gchord z2f2
+|:"G"B,CDE|"C"F2E2|D2C2 |G4   |"G"B,CDE|"C"F2E2|D2C2   |C4    :|
+K:Cm
+|:"C"FGG2 |GFE2   |EFG2 |EDC2 |CDEF    |G2E2   |"G"E2D2|"C"C4 :|
+|:"C"CDEF |G2E2   |D2C2 |G4   |CDEF    |G2E2   |D2C2   |C4    :|
+|:"C"F2G2 |F2G2   |F2E2 |"G"D4|"C"F2G2 |F2G2   |F2E2   |"G"D4 :|
+|:"C"FGG2 |G4     |cB=AG|G2G2 |FGG2    |G4     |cB=AG  |G2G2  :|
+
+
+
+X: 457
+T:Sitno Zhensko Horo
+O:Bulgaria
+P:AABBCCDEDEAA
+L:1/8
+M:2/4
+Q:1/4=120
+K:Am
+P:A
+|:"G"d/c/d d/c/d  | d/c/B "D"A2 | "G"GA/B/ cB     | cB "D"A2    :|
+P:B
+|:"G"GA/B/ cB     | cB "D"A2    |"G"cB cB         | "D"A2 A2    :|
+P:C
+|:"G"GB GG        | GA G2       |GB GG            | GA G2       :|
+P:D
+K:Gm
+|:"Cm"c2 c/B/A/G/ | "Gm"BB"D"AG | "Cm"c2 c/B/A/G/ | "Gm"BB"D"AG :| 
+P:E
+|:"Cm"c2 c/B/A/G/ | "D"^FA"Cm"GF| CDE^F           | GA "D"^F2   :|
+
+
+
+X: 458
+T: Skopska Crnogurka
+F: http://www.youtube.com/watch?v=7EyCjIpGUwQ
+M: 2/4
+L: 1/16
+Q: 1/4 = 120
+K: F 
+%%MIDI program 71
+%%MIDI bassprog 32
+%%MIDI bassvol 70
+%%MIDI gchord fzfz
+|:"F"FFF2 "C" GGG2 |"F" FFF2 "C" GGG2|ABAG A4    |
+  "F"FFF2 GGG2     |FFF2 GGG2        |ABAG F4    :|
+|:"F" ABcc "C" cBAG|"F" AAA2 "C"GA2F |ABAG A4    |
+  "C" ABcc cBAG    |AAA2 GA2F        |"F"ABAG F4 :|
+
+
+
+X: 459
+T: Skopski Cocek
+O: Macedonia
+M: 4/4
+L: 1/8
+Q: 1/4=240
+K: GPhr
+|:zGBcdzdc |BcBAGFGA |BcBABcBA |cGGFGFG2 ::
+  zGBcdzdc |BcBAGFGA |BcBABcBA |cGGFGFG2 :|
+  zFG=ABzBz|B=AGABzBz|zFG=ABzBz|B=AGABzBz|:
+  cBcBA2G2-|G2FGABz2 |cBcBA2G2-|G2FG2G2z ::
+  defdcdzz |defdcdzz |cdecBczz |cdecBczz |
+  BcdBABzz |BcdBABzz |ddccBBAA |BcBAG4   :|
+
+
+
+X: 460
+T: Slavonsko
+O: Croatia
+Z: Deborah Jones, VIFD I
+F: http://www.youtube.com/watch?v=3Gx2sD9ICbg
+F: http://www.youtube.com/watch?v=RvB5ub3pJEM
+M: 2/4
+L: 1/16
+Q: 1/4=144
+K: Edor
+%%MIDI program 24
+P:A
+|:"D" ^GAAA AAAA| "A7" ^GAAA AAAA:|
+P:B
+L: 1/8
+|:A>B =cB|"A7" AB GA| "D" F G/F/  ED|[1E=c BA:|[2"A7" E2 E2|
+P:C
+%%MIDI gchordoff
+A2 AA|A A3| GFGF|E2 E2|: [D2A2][D2A2]|[D2A2][D2A2]|
+[GD][FD][GD][FD]|[1 E3 E:|[2 [A3E3][AE]|
+P:D
+%%MIDI gchordon
+|:"G" [GB][FA] [GB][A=c]|[GB][FA] [E2G2]|\
+"G" [GB][FA] [GB][A=c]|[GB][FA] [E2G2]|\
+"G" [GB][FA] [GB][A=c]|[GB][FA] [E2G2]|
+"D" [D/F/][E/G/][FA] [DF]D|"A7"[C2E2][C2E2]:|
+P:E
+|:"D" AB =cB|"A7" A=c BA/B/|"D" =cB Ac|"A7" BA BA :|
+P:F
+|:"D" dd A=c| "A7" BA Gc/G/|"D" FG/F/ ED|[1"A7" E=c BA:|[2 "A7" E2 E2|
+
+
+
+X: 461
+T: Soroc
+O: Romania
+S: Alexandru, Mihai David : Gypsy Camp vol. 1
+F: http://www.youtube.com/watch?v=3Gx2sD9ICbg
+M: 2/4
+L: 1/8
+Q: 1/4=180
+K: G 
+P:A
+%%MIDI program 19
+  AG.A2 |AG.A2|AG.A2 |AG.A2 |\
+%%MIDI program 75
+|:cBA2  |A2 A2|AGAB  |.A2.A2|
+  .G2.A2|.B2BG|.B2BG |.B2Bd |\
+  cBA2  |A2 A2|AGAB  |.A2.A2|
+  GFE2  |EDEF |D2z2  |z4    :|
+P:B
+|:A2GF  |EFGz |GFGA  |F2F2  |\
+  EFGz  |GF^EF|ABA2  |A^GAz |
+  A2GF  |EFG2 |GFGA  |BAGF  |\
+  F2GF  |EFD2 |[1DEFG|ABA2  :|[2 z4| z4|
+P:C
+|:A^GAB |cAcz |BGAF  |GzGA  |\
+  cAc2  |BGAF |Gz3   |d2z2  |
+  A^GAB |cAB2 |BGAF  |G2FG  |\
+  AFGE  |FDE^C|D2z2  |D2z2  :|
+
+
+
+X: 462
+T: Sota
+O: Albania
+M: 4/4
+L: 1/16
+Q: 1/4=108
+K: Dm
+P: A
+%%MIDI program 22
+%%MIDI drum dddddddddddddddz 35 45 45 45 35 45 45 45 35 35 45 45 35 45 35
+%%MIDI drumon
+  A2z14    | A2A2z12   | A2A2z12    | A2A2z12    |
+%%MIDI drumoff
+P: B
+M: 2/4
+L: 1/16
+  A2ee2A2A |B2AG AEAE  |A2ee2A2A    |B2AG AEAE   |
+  A2ee2A2A |B2AG ^cde2 |fedf2e2d    |ABGA3z2     |
+  A2ee3de  |fedeAA2z   |A2ee3de     |fedeAA2z     |
+  A2A2A4   |BAG2E4     |FEDFED3     |A,2G,A,3z2  |
+P: C
+|:D2AA2AA2 |cd2dcB2z   |BAG2FG2A    |B2AB2z3     |
+  AcBABGA2 |FGFG FGEF  |EFEF DECD   |B,2C2 B,2A,2:|
+P: D
+|:E2E6     |EDF2 ED^C2 |\
+  E2E6     |EDF2 ED^C2 |
+  E2E6     |EDF2 ED^C2 |\
+  FGFEFED^C|^C2B,2 A,4 :|
+P:E
+K: Gm
+  G8       |G8         |=BA^GF =EFGF|G3A =B4     |
+  =B4 B4   |=Bc_AB BdBe|cece5       |d8          |
+P:F
+  G2c6     |=B2cd _A2G2|G4 e4       |d4 c4       |
+  G4 g4    |f2gf e2d2  | c2dc =B2_A2|G8          |
+
+
+
+X: 463
+T: Srbijanka
+O: Serbia
+F: http://www.youtube.com/watch?v=1qoHP2H34HM
+M: 2/4
+L: 1/16
+Q: 1/4=132
+K: F
+%%MIDI program 25
+|:ccccccdc |BBBBc2B2|AAFFGGAA |
+  ccccccdc |BBBBc2B2|AAFFGGGG :|
+|:G2G2cBAG |F2F4GF  |E2C2D2E2 |
+  G2G2cBAG |F2F4GF  |E2C2D4   :|
+|:G4D4     |D4C2D2  |G4D4     |D4C2D2 :|
+
+
+
+X: 464
+T:Srpkinja
+O:Serbia
+F: http://www.youtube.com/watch?v=nkJAqBodfuY
+M:2/4
+L:1/16
+Q:1/4=210
+K:F
+%%MIDI program 24
+P:A
+   GA     |:B4 B4 |A4 G4   |AAAAA4 |FFFFF4|\
+   BBB6   |AAAA G4|AAAAA4- |A8     |
+   fff2f4 |e2e2d4 |eeeee4  |ccccc4 |\
+   fffff4 |eeeed4 |[1e8-   |e4G2A2 :|[2c8-|c8|
+P:B
+|: dddd d4|dddd d4|ddd2 c4-|c4 c4  |\
+   d4 ccc2|BBB2 A4|G8      |G4 z4  :|
+P:C
+   ccccc4 |=B4c4  |ddddd4  |z8     |\
+   ccccc4 |B4 A4  |BBBBB4  |A8     |
+   ccccc4 |f4 e4  |ddddd4  |z8     |\
+   c8     |B4 A4  |B8      |A8     |
+   c4c4   |B4A4   |G4A4    |B8     |\
+   A4F4   |F4F4   |G4A4    |B8     |
+   c4c4   |B4A4   |G4A4    |B8     |\
+   A4F4   |F4F4   |G8      |G8     |
+
+
+
+X: 465
+T: Stara Osmica
+O: Serbia
+M: 2/4
+L: 1/8
+Q: 1/4 = 240
+K: EMix
+%%MIDI gchord fzzz
+%%MIDI program 23
+%%MIDI bassprog 33
+%%MIDI bassvol 65
+|:"E"z2E2|GABA    |B2E2  |GABA   |B2E2   |\
+  =d4    |=dcBA   |G2B2  |B2E2   |
+  z2E2   |GABA    |B2E2  |GABA   |B2E2   |\
+  =d4    |=dcBA   |G2B2  |B2E2   :|
+|:"A"AzBc|d2c2    |d2c2  |d2c2   |\
+  cde2   |fed2    |dcBA  |c2z2   |
+  cde2   |fed2    |dcBA  |c2Bc   |\
+  "D"d4  |"E"dce2 |[1B2z2|B2z2   :|[2B2z2|z2Bc|
+|:"D"d4  |"G#"cBe2|BA^GA |B2Bc   |\
+  "D"d4  |"G#"cBe2|BA^GA |B2Bc   |
+  "D"d4  |"G#"cBe2|BA^GA |B2Bc   |\
+  "D"d4  |"G#"cBe2|BA^GA |[1BBB2 :|[2B2z2|
+
+
+
+X: 466
+T:Stara Sapcanka
+O:Serbia
+F: http://www.youtube.com/watch?v=34BQUCiwcT4
+M:2/4
+L:1/8
+Q:1/4=132
+K:Ddor clef=treble
+%%MIDI gchord GI
+|:"G"G3E              |F/2G/2F/2G/2 F2                      |CE E/2C/2D/2E/2|\
+  F/2G/2F/2G/2 F2     |CE E/2C/2D/2E/2                      |F/2G/2F/2G/2 F2|
+  CE E/2C/2D/2E/2     |"Dm"D2 B,G,:: "G"d3/2c/2 d/2c/2c/2d/2|\
+  d/2c/2c/2d/2 e3/2d/2| c/2B/2B/2c/2 c/2B/2B/2c/2           |
+  c/2B/2B/2c/2 c3/2B/2| GBBB                                |c/2B/2B/2c/2 c2|\
+  cBAG                |"Dm"A2D2                             :|
+
+
+
+X: 467
+T:Stara Vlaijna
+S:Borino
+M:3/8
+L:1/8
+Q:1/4=120
+K:A
+%%MIDI gchord f
+|:"A"E^DE |"F#"F2E  |"A"A2E    |EDC  |"F#"EF2 |"A"E2D   |CB,A,   |C3      |
+  A2E     |EDC      |"E"B,A,B, |"A"C3|CB,A,   |A,2B,    |A,3     |A,3     :|
+|:"A"A,B,2|"E"B,A,G,|"A"A,3    |A,3  |A,B,2   |"E"B,A,G,|"A"A,3  |A,3     |
+  "A"A,B,2|"E"B,A,G,|"A"CDB,   |C3   |A,B,2   |"E"B,A,G,|"A"A,3  |A,3     :|
+M: 2/4
+L: 1/8
+Q: 1/4=160
+  "A"E4   |E4       |E4        |E4   |:"A"E2A2|AGA2     |"D"D2F2 |"F#"FEF2|
+  "A"E4   |CB,A,2   |"D"D4     |F4   | "E"B4  |"A"AGA2  |"F#"F2E2|"A"EDE2 |
+  "D"D2C2 |"A"C2A,2 |"E"B,4    |B,4  :|\
+|:"A"A2E2 |"D"DCB,2 |"E"B,A,B,2|"A"C4|"A"A2E2 |EDC2     |"E"B,4  |B,4     :|
+
+
+
+X: 468
+T: Stinjacko Kolo
+O: Serbia
+M: 2/4
+L: 1/16
+K: D
+V:1
+%%MIDI program 25 Acoustic Guitar (steel)
+|:dddd BBBB    |dddd BBBB    |AAAA AAAA |AAAA z4   :|
+  GGGG GGGG    |AAAA AAAA    |FFFF z4   |GGGG EEEE |A4 A4 |DDDDDDDD|
+V:2
+%%MIDI program 32
+|:D,,2z2 B,,2z2|D,,2z2 B,,2z2|A,,2z2 z4 |A,,2z2 z4 :|
+  G,,4 z4      |A,,2z2 z4    |F,,4 z4   | G,,4 E,,4|A,4 z4|D,4 z4  |
+
+
+
+X: 469
+T: Sto Mi Domilelo
+T: Sopsko Za Pojas
+O: Bulgaria
+Z: Deborah Jones VIFD I
+M: 2/4
+L: 1/8
+Q: 1/4=120
+K: Em
+%%MIDI program 24
+%%MIDI bassprog 115
+|:"Em" (3ABA (3Adz|B2- (3BBA|(3AAG (3GGF|
+"D" (3D^CD (3EFD|[1"Em" E2-E2|(3GAz G2:|[2 E2- (3E-EA|E2 E z|
+|:"D" (3D^CD (3EED|"Em" (3GAz (3GGF|"D" (3D^CD (3EED|
+  "Em" (3GAB (3GGF|"D" (3D^CD (3EED|"Em"(3GAz (3GGF|
+"D" (3GFE (3DEF| "Em" E2 E z:|
+"Em" DE EE|[EG][EA] [EG][EF]| DE EE|[EG][EA] [EG][EF]|
+[EG][EF] [EG][EF]|[EG][EF] E[DE]|EE E[EA]| E2 E z|
+D2Ez|E2 z2| D2Ez|E2z2|e2 e2|b2 Bz|
+
+
+
+X: 470
+T:  Sto mi e Milo
+O: Macedonia
+F: http://www.youtube.com/watch?v=e-WTPcaufso
+F: http://www.youtube.com/watch?v=S0MePW5w4Ns
+F: http://www.youtube.com/watch?v=DTb2X-IhsfA
+F: http://www.youtube.com/watch?v=C5VPJjL-TsA
+S: Village Music of Macedonia
+M: 7/8
+L: 1/8
+Q: 1/4=144
+K: D clef=treble
+%%MIDI program 23
+  [DA,][CA,][DA,][E2C2][E2C2]|[A,F,][E2C2] [E2C2][E2C2]|\
+  [F3D3] [E2C2][D2B,2]       |[F2D2][GE] [A4F4]        |
+  [B3G3][A2F2][GE][FD]       |[E2C2][DB,][A2F2][G2E2]  |\
+  [F3D3][E2C2][E2C2]         |[D3D,3]z4                |
+|:[D3A,3][F2D2][G2E2]        |[A3F3][A4F4]             |\
+  [B3G3][A2F2][G2E2]         |[A7F7]                   |
+  [B3G3][A2F2][GE][FD]       |[E2C2][DB,][A2F2][G2E2]  |\
+  [F3D3][E2C2][E2C2]         |[D3D,3][D3D,3]z          :|
+
+
+
+X: 471
+T: Sukacko Kolo
+O: Croatia
+Z: Deborah Jones VIFD I
+F: http://www.youtube.com/watch?v=aOZBnk940AM
+F: http://www.youtube.com/watch?v=6NKdr56-FtA
+F: http://www.youtube.com/watch?v=rqsugAdzNAo
+M: 2/4
+L: 1/8
+Q: 1/4=120
+K: G
+%%MIDI program 0
+%%MIDI bassprog 17
+%%MIDI chordprog 38
+P:A
+   "G"[DG][DG] "D"[DG][DG]  |"G"[GB][GB] "D"[A2c2]    |\
+   "G"[FB][G] "D"A/B/A/F/   |"G"[DG] [D2G2]D          |
+   "G" [DG][DG] "D" G/A/G/A/|"G" [GB][Gd] "D" [A2c2]  |\
+   "G" [GB][Gd] "D" [DA][DF]|"G" [D2G2][DG]z          |
+|: "G" [GB][cd] [A^c][Bd]   |"C"[c2e2] "G" [B2d2]     |\
+   [^c2A2] [G2B2]           |[Bd][^A^c] 
+   [Bd][GB]                 | [B2d2][G2B2]            |\
+   "D" [D2A2] "G" [DG]z     :|
+|: "G"[DG][DG] "D" [DA][DA] |"G" [GB][GB] "D" [AD][Ac]|\
+   "G" [GB][GB]"D"[DA][DA]  |[1 "G"[D3G3]D            :|[2 [D2G2][DG]z|
+P:B
+K:C
+   "C"[ce][eg] [^d^f][eg]   |"F"[f2a2]"C"[e2g2]       |\
+   [eg][d^f] [c2e2]         |[eg][eg] [df][ce]        |\
+   "G" [d2f2]"C"[c2e2]      |"G"[G2d2] "C" [G2c2]     |
+   "C"c[eg] [^d^f][eg]      |"F"[f2a2]"C"[e2g2]       |\
+   [d2^f2][c2e2]            |[eg][^d^f] [eg][ce]      |\
+   [d2^f2][c2e2]            |"G" [G2d2] "C" [G2c2]    |
+   "C" [Gc][Gc] "G" c/d/c/d/|"C" [ce][ce] "G" [d2f2]  |\
+   "C" [ce]c d/e/d/B/       |[Gc][g2c2]G              |
+   "C" [Gc][Gc] c/d/c/d/    |"C" [ce][cg] "G"[d2g2]   |\
+   "C" [ce][cg] "G" [Gd][GB]|"C" [G2c2][Gc]z          |
+
+
+
+X: 472
+T: Sumarsko
+O: Bulgaria
+W:transcribed by Jutta Weber-Karn
+W:http://www.folkloretanznoten.de/
+W:converted to abc notation by Seymour Shlien
+M: 7/8
+L: 1/16
+K: D
+Q: 1/4=120
+%%MIDI program 21  % Accordian
+%%MIDI bassprog 24 & Acoustic Guitar
+%%MIDI chordprog 24 & Acoustic Guitar
+%%MIDI gchord fffc2c2
+"Em" d2e2e2 eABc defg                |"A" a2a2g2 "D" fgfe f2d2         |\
+L:1/8
+"Em"dee e2 fg                        |"A"ffe "D" d2 z2::
+"D" [FA][FA] [DF] "Em"[EG]2 [FA][GB] |"A"[FA][FA][EG] "D"[DF]2 [DF][EG]|\
+"Bm" [FA][FA] [DF] "Em"[EG]2 [FA][GB]|"A"[FA][FA][EG] "D"[DF]4 z2::
+"D" [FA][FA] [DF] "Em"[EG]2 [FA][GB] |"A"[Ac][Ac][GB] "D"[FA]2 [FA][DF]|\
+"Bm" [FA][FA] [DF] "Em"[EG]2 [FA][GB]|"A"[FA][FA][EG] "D"[DF]4 z2      :|
+
+
+
+X: 473
+T: Susu Mile
+O: Croatia
+M: 2/4
+L: 1/8
+Q: 1/4 = 240
+K: F#m
+%%MIDI program 24
+|:aaaa|a2g2 |g2f2|f2g2|aaaa|a2g2|g2f2 |f2g2 :|
+|:g2a2|b2c'2|b2a2|g2f2|g2a2|g2f2|e2f2-|f2z2 :|
+K:Bm
+|:dddd|d2c2 |c2B2|B2c2|dddd|d2c2|c2B2 |B2c2 :|
+|:c2d2|e2f2 |e2d2|c2B2|c2d2|c2B2|A2B2-|B2z2 :|
+
+
+
+X: 474
+T: Svornato
+O: Bulgaria
+F: http://www.youtube.com/watch?v=PzGmZoH4hJU
+F: http://www.youtube.com/watch?v=J9Xa5ZpD3E0
+M: 9/8
+L: 1/8
+Q: 1/4=120
+K: Bm
+%%MIDI program 25
+%% MIDI chordprog 21
+%%MIDI chordvol 40
+%%MIDI gchord c
+dBBB d2e2f|dBBB e2 f3 |\
+afff e2f2f|ddBB BB B3 |
+"Bm"F2F2F2F2D |"Em"F2E2E2E3   |\
+"Bm"F2F2F2F2D |"Em"F2E2E2E3   |
+"Em"E2E2E2E2F |"D"D2B,2B,2E3   |\
+"Em"E2E2E2E2F |"Bm"D2B,2B,2B,3|
+
+
+
+X: 475
+T:Sweet Girl
+S:from record Folkdance Underground vol. 3 F.U.3
+O:Armenia
+F: http://www.youtube.com/watch?v=doOzX-dVciY
+F: http://www.youtube.com/watch?v=piSysDxXHPU
+F: http://www.youtube.com/watch?v=4_s_luQ2DVk
+L:1/8
+M:2/4
+Q:1/4=150
+K:GDor
+%%MIDI gchord fzfz
+|: "F"z2 AB    |c2 c2      | "Gm"d2 dB   | "F"c4  |\
+   "F"cB"Gm"dB |"Gm"BA"F"cA| AG"Gm"BA    | "C"G4  :|
+|: "F"z2 "Am"ef| "C"g2 g2  | "F"f2 "Am"ef| "Gm"d4 |\
+   "F"c2 AB    | c2 c2     | "Gm"B2 "F"AB| "C"G4  :|
+
+
+
+X: 476
+T: Syrtos
+O: Greece
+M: 7/8
+L: 1/8
+Q: 1/4=120
+K: Gm
+%%MIDI program 40 violin
+%%MIDI drum d3d2d2 35 37 37
+  z3 z2(3edc  |:\
+%%MIDI drumon
+  B2A G2(3FGA |B2cd2(3edc    |\
+  B2c B2 (3GAF|[1G3-G2 (3edc :|[2G3-G2z2|
+|:G3c2-cd     |d3-de dc      |\
+  B2c B2 (3AGA|B7            |\
+  zGB-BGG2-   |G3-G2z2::
+  c3 c2 c2    |d3 d3c        |\
+  B2A G3F     |[1d3cB4       :|[2G2F G4 |
+
+
+
+X: 477
+T: Syrtos Pylaias
+O: Greece
+Z: Deborah Jones VIFD I
+M: 7/8
+L: 1/8
+Q: 1/4=120
+K: D
+  %%MIDI gchord f2zfzfz|
+%%MIDI program 71
+%%MIDI bassprog 24
+|:"D" a2 a b2 b2       | a2 g f^e fg   | a a2 b2 b2      | a2 g f2-f2  :|
+  eff fefe             |eff fe ed      | eff fe ed       |
+  "A7"a3-ab ad         |f2 f fd ef     |"D" d D/F/A d2-d2|
+  "D" A3 B2B2          |TA2 G FE FG    | A2 A B2B2       | A2G F2-F2   |
+  "D" a2 a b2b2        |a2g f^e fg     |a a2b2 b2        |
+  a2 g fe f2           | "D" F2 F FE ED| F2 F FE ED      | F2F FE ED   |
+  "A7" A3-AB AG        | F2E ED ED     | "D" D3-D2-D2    |
+
+
+
+X: 478
+T: Szekely Friss
+O: Hungary
+M: 2/4
+L: 1/8
+Q: 1/4=132
+K: C
+"C"eee2     |gfe2         |gfed             |ecc/2d/2e|\
+eee2        |gfe2         |gfed             |ecc2     |:
+"G"BBB/2c/2d|"Am"ccc/2d/2e|ff"F"f/2g/2a     |"C"ggg2  |\
+"G"BBB/2c/2d|"Am"ccc/2d/2e|e/2d/2c"G"d/2c/2B|"Am"AAA2 :|
+
+
+
+X: 479
+T: Szenyeri paros
+S: Andro Czompo 'Hungarian Folk Dance Music'
+M: 2/4
+L: 1/8
+Q:1/4=120
+K: C
+P:A
+%%MIDI gchord fzfz
+%%MIDI program 110
+|:"g"GG"e"EE  |"a"AA"g"G2 |"f"FF"d"DD  |"g" GG"f"F2 |\
+  "e"EE"c"CC  |"d"D2"e"E2 |"g"G2G2     |"g"G2EF     |
+  "g"GG"e"EE  |"g"G2"f"F2 |"e"EE"c"CC  |"d"D2"b"B,2 |\
+  "c"C4-      |C2z/G/A/B/  |
+  "c"c2"g"G2  |"c"c2"b"_B2|"a"A2"g"G2  |"e"E2"c"C2  |\
+  "g"G4       |G2z/G/A/B/  |
+  "c"c2"g"G2  |"c"c2"b"_B2|"a"A2"g"G2  |"e"E2"c"C2  |\
+  "g"G4       |"a"A4      |"e"EE"c"CC  |"d"DD"b"B,B,|"c"C4    |C4     :|
+P:B
+K:D
+Q:1/4=132
+|:"a"A2A2     |A2A2       |"b" (3ABA GF|"e" G2E2    |\
+  EFGA        |"a"GFED    |"f#"FDCD    |"a"E2A,2    |
+  "f#"D4      |"e"E4      |"c#"G4      |"a"A4       |\
+  "e"GFED     |"f#"C2A,2  |"g"G,4      |"a"A,4      |
+  "f"D4       |"e"E4      |"c#"G4      |"a"A4       |\
+  "e"GFED     |"f#"C2A,2  |"g"G,4      |"a"A,4      :|
+P:C
+K:G
+Q:1/4=120
+|:"b"zEGA     |"b"B2B2    |B2E2        |"a"A2A2     |GFE^D    |"e"E4  |E4 |
+  "b"Be3      |Be3        |"b" d2B2    |"a" c2A2    |"b"B4    |B4     |
+  "b"Be3      |Be3        |"b" d2B2    |"a" c2A2    |"b" B4   |"a"A4  |
+  zEGA        |"b"B2B2    |B2E2        |"a"A2A2     |"g"GFE^D |E4     |E4 :|
+P:D
+Q:1/4=180
+K:Bb
+|:"c".c2"g".G2|"c".c2z2   |"c".c2"g".G2|"c".c2z2    |\
+  "c".c2"g".G2|cz2c       |"g"dcBA     |"bb"B4      |"d".d2.d2|"c"c2zB|
+  "a"GABA     |"g"G4      |"f".F2.F2   |"bb".B2zB   |cBAB     |"eb"E3z|\
+  "g"G2G2     |"f"F2zE    |"g"CDED     |C4          :|
+
+
+
+X: 480
+T: Tai Tai
+O: Greece
+M: 2/4
+L: 1/8
+Q: 1/4=96
+K: Em
+%%MIDI program 71
+%%MIDI chordprog 22
+%%MID bassprog 45
+  A/G/F/G/           |"B7" F3 B,         |\
+  "Em" EE F/G/G/F/   |E/B,/C/^D/ E z     |
+|:A2 A (3G/F/E/      |"Em" G/F/E/^D/ E2  |\
+  "Am" A>A A (3G/F/E/|"Em" G/F/E/^D/ EG  |
+  "B7" F3 B,         |"Em" EE F/G/G/F/   |\
+  E2 EG              |"B7" F3 B,         |
+  "Em"EE F/G/G/F/    |E2 EG              |\
+  "B7" F3 B,         |"Em" EE/G/ G/E/E/G/|
+  G/E/E/G/ G/D/G     |"B7"F3 B,          |\
+  "Em" EE F/G/G/F/   |E3 z               |
+  z2 A/G/F/G/        |"B7" F3 B,         |\
+  "Em" EE/G/ G/E/E/G/|G/E/E/G/  A/G/F/G/ |
+  "B7" F3 B,         |"Em"EE F/G/G/F/    |\
+  [1E/B/C/^D/ E z    :|[2E/^D/E z2       |
+
+
+
+X: 481
+T: Takanata
+O: Bulgaria
+F: http://www.youtube.com/watch?v=c-GXl-qFjLk
+F: http://www.youtube.com/watch?v=p6pdsJFZrPE
+F: http://www.youtube.com/watch?v=7_nxn0NWz_s
+F: http://www.youtube.com/watch?v=-Iomc-VoFGI
+M: 2/4
+L: 1/8
+Q: 1/4 = 240
+K: Dm
+%%MIDI gchord fzzz
+%%MIDI program 23
+%%MIDI bassprog 45
+%%MIDI bassvol 60
+P:A
+|:"C"cBAG|"F"F2F2|"C"E2E2|DEFG    |\
+  cAAG   |"F"F2F2|FDEC   |"D"D2D2 :|
+P:B
+|:"C"cAAG|"F"F2F2|"C"c2c2|"D"ddd2 |\
+  "C"cAAG|"F"F2F2|FDEC   |"D"D2D2 :|
+P:C
+|:"C"cBAG|"F"F2F2|"C"E2E2|DEFG    |\
+  cAAG   |"F"F2F2|FDEC   |"D"D2D2 :|
+P:D
+|:"C"C2Cz|CDEF   |AGFE   |"D"D2Dz |\
+  "C"cBAG|A3G    |FDEC   |"D"D2z2 :|
+
+
+
+X: 482
+T: Tamzara
+O: Armenia
+W: adapted from Martin Junghans/Jutta Weber-Karn transcription
+W: http://www.folkloretanznoten.de/
+F: http://www.youtube.com/watch?v=lmKqduBkcKc
+F: http://www.youtube.com/watch?v=Q-TxU4-u3Q0
+M: 9/8
+L: 1/16
+Q:1/4=108
+K: Em
+V:1
+%%MIDI program 69 English Horn
+B4 BcA2- A3G AcG3F|G3F GAF2- F3E FGEFGA|B3E BcA2- A3G ABG3F|G3F GAFE F3E GE E2E2|
+V:2
+%%MIDI program 32 Acoustic Bass
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|\
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|
+V:1
+E2B2 BcA2- A3G AcG3F|G3F GAF2- F3E FGEFGA|B3E BcA2- A3G ABG3F|G3F GAFE F3E GE E4|
+V:2
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|\
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|
+V:1
+|:EBAB GAFG E3D FGA3E|ABAB GAFE G3A FG E4:|
+V:2
+|:E,,4 E,,4 E,,4 A,,2 A,,4|A,,4 B,,2C,2 B,,4 B,,2 E,,4:|
+V:1
+Bcdc dcBA B3A dc B4|dcBA G2AB G3A FG E4|Bcdc dcBA B3A dc B4|dcBA G2AB G3A FG E4|:
+V:2
+E,,4 E,,4 E,,4 E,,2 E,,4|E,,4 A,,4 B,,4 E,,2 E,,4|\
+E,,4 E,,4 E,,4 E,,2 E,,4|E,,4 A,,4 B,,4 B,,2 E,,4|:
+V:1
+EDEF GFGA G4 A2 B4|dcBA G2 AB G3A FG E4:|
+V:2
+E,,4 E,,4 G,,4 G,,2 G,,4|E,,4 E,,2E,,2 A,,4 A,,2 E,,4:|
+V:1
+Bcdc dcBA B3A dc B4|dcBA G2AB G3A FG E4|Bcdc dcBA B3A dc B4|dcBA G2AB G3A FG E4|
+V:2
+E,,4 E,,4 E,,4 E,,2 E,,4| E,,4 A,,4 B,,4 E,,2 E,,4|\
+E,,4 E,,4 E,,4 E,,2 E,,4| E,,4 A,,4 B,,4 E,,2 E,,4|
+V:1
+E2ED GFGE G3A FG E4|E2ED GFGE G3A FG E4|E2ED GFGE G3A FGE3D|E2ED GFGE G3A FG E4|:
+V:2
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|\
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|:
+V:1
+EBAB GAFG E3D FGA3E|ABAB GAFE G3A FG E4::
+V:2
+E,,4 E,,4 E,,4 E,,2 E,,4|A,,4 B,,4 E,,4 E,,2 E,,4::
+V:1
+G2GA .G2.F2 .G4 .A2 .B4|dcBA G2AB G3A FG E4:|
+V:2
+E,,4 E,,2E,,2 G,,4 D,,2 G,,4|G,,4 D,,2G,,2 A,,4 E,,2 E,,4:|
+
+
+
+X: 483
+T: Tamzara
+O: Armenia
+F: http://www.youtube.com/watch?v=lmKqduBkcKc
+F: http://www.youtube.com/watch?v=Q-TxU4-u3Q0
+M: 9/8
+L: 1/16
+Q:1/4=108
+K: Em
+V:1
+%%MIDI program 69 English Horn
+B4 BcA2- A3G AcG3F|G3F GAF2- F3E FGEFGA|B3E BcA2- A3G ABG3F|G3F GAFE F3E GE E2E2|
+V:2
+%%MIDI program 32 Acoustic Bass
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|\
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|
+V:1
+E2B2 BcA2- A3G AcG3F|G3F GAF2- F3E FGEFGA|B3E BcA2- A3G ABG3F|G3F GAFE F3E GE E4|
+V:2
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|\
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|
+V:1
+|:EBAB GAFG E3D FGA3E|ABAB GAFE G3A FG E4:|
+V:2
+|:E,,4 E,,4 E,,4 A,,2 A,,4|A,,4 B,,2C,2 B,,4 B,,2 E,,4:|
+V:1
+Bcdc dcBA B3A dc B4|dcBA G2AB G3A FG E4|Bcdc dcBA B3A dc B4|dcBA G2AB G3A FG E4|:
+V:2
+E,,4 E,,4 E,,4 E,,2 E,,4|E,,4 A,,4 B,,4 E,,2 E,,4|\
+E,,4 E,,4 E,,4 E,,2 E,,4|E,,4 A,,4 B,,4 B,,2 E,,4|:
+V:1
+EDEF GFGA G4 A2 B4|dcBA G2 AB G3A FG E4:|
+V:2
+E,,4 E,,4 G,,4 G,,2 G,,4|E,,4 E,,2E,,2 A,,4 A,,2 E,,4:|
+V:1
+Bcdc dcBA B3A dc B4|dcBA G2AB G3A FG E4|Bcdc dcBA B3A dc B4|dcBA G2AB G3A FG E4|
+V:2
+E,,4 E,,4 E,,4 E,,2 E,,4| E,,4 A,,4 B,,4 E,,2 E,,4|\
+E,,4 E,,4 E,,4 E,,2 E,,4| E,,4 A,,4 B,,4 E,,2 E,,4|
+V:1
+E2ED GFGE G3A FG E4|E2ED GFGE G3A FG E4|E2ED GFGE G3A FGE3D|E2ED GFGE G3A FG E4|:
+V:2
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|\
+E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2| E,,2E,,2 E,,2E,,2 E,,2E,,2 E,,2E,,2E,,2|:
+V:1
+EBAB GAFG E3D FGA3E|ABAB GAFE G3A FG E4::
+V:2
+E,,4 E,,4 E,,4 E,,2 E,,4|A,,4 B,,4 E,,4 E,,2 E,,4::
+V:1
+G2GA .G2.F2 .G4 .A2 .B4|dcBA G2AB G3A FG E4:|
+V:2
+E,,4 E,,2E,,2 G,,4 D,,2 G,,4|G,,4 D,,2G,,2 A,,4 E,,2 E,,4:|
+W:
+W: adapted from Martin Junghans/Jutta Weber-Karn transcription
+W: http://www.folkloretanznoten.de/
+
+
+
+X: 484
+T: Taraban
+O: Croatia
+F: http://www.youtube.com/watch?v=pIJkAcUhYXs
+F: http://www.youtube.com/watch?v=9kKl7VjTyrk
+M: 2/4
+L: 1/8
+Q: 1/4=150
+K: F
+%%MIDI program 25
+%%MIDI bassprog 32
+%%MIDI bassvol 60
+%%MIDI gchord fzfz
+|: "F"F/F/F "C"G/G/G|"F"A2 "C" A2|\
+   "F"AB"C"AG       |"F"A2 "C" A2
+:: "C"GzGG          |"Gm"DEF2    |\
+   "C"EGFE          |"Gm"D2D2    :|
+
+
+
+X: 485
+T: Tasino
+O: Serbia & Macedonia
+S: Atanas Kolarovski - music AK-003
+F: http://www.youtube.com/watch?v=ZlYfZBeNd1U
+M: 6/8
+L: 1/8
+Q: 1/4=180
+K: F
+%%MIDI program 64
+%%MIDI beat 97 87 77 3
+%%MIDI gchord fzzfzz
+%%MIDI bassprog 24
+%%MIDI bassvol 50
+|: "F"F3 EFG  | F3 EFG     | F3 EFG     |F3 B3      |
+   D3 CD_E    | D3 CD_E    | D3 B,CD    |C3 F3    :|
+%%MIDI program 57
+|: "Gm"C3 FGB |"Am" A3 AGF |"Gm" C3 FGB |"Am"A3 c3  |
+   "Gm"C3 FGB |"Am" A3 AGF |"Gm" C3 FGA |"Gm"G3 G3  :|
+
+
+
+X: 486
+T: Te Aven Baxtale
+O: Romania - Roma
+F: http://www.youtube.com/watch?v=6z8AggweC1w
+F: http://www.youtube.com/watch?v=jz6VbgrCg5E
+F: http://www.youtube.com/watch?v=WnS9FNNtekY
+M: 2/4
+L: 1/16
+Q:1/4=144
+K:Bm clef=treble
+%%MIDI program 45 Pizzicato String
+AAA4G2  |A2B2 B4 |c3B AAG2 |F8    |:\
+B6A2    |B2c2d2e2|f2f4e2   |f2g2a4|
+a2b4g2  |f4e4    |B8       :|\
+%%MIDI program 42 Cello
+D4D4    |F4F4    |F2F2F2E2 |B,8   |
+A,4A,4  |B,4B,4  |C2C2C2B,2|F,8   |\
+B2B2B2B2|B2B2B4  |F2F2F2F2 |F2F2F4|
+B2B2B4  |G4F4    |A4B2B2   |B8    |
+
+
+
+X: 487
+T: Tedena
+O: Serbia
+N: Ansambl Arhaika
+F: http://www.youtube.com/watch?v=cVwNiXeyshs
+M: 2/8
+L: 1/16
+K: Em octave=1
+Q: 1/4=108
+%%MIDI program 75 Pan Flute
+%%MIDI drum dzzzdzzz 47 41 50 40
+%%MIDI drumon
+F2 A2|BA G2|GAF2|\
+F2 A2|BA G2|GAF2|
+G2 F2|D2 E2|EFD2|\
+G2 F2|D2 E2|E4:|
+
+
+
+X: 488
+T:Teen
+O:Armenia
+M:2/4
+L:1/8
+Q:1/4=180
+K:DMix
+|:B,CDz|.D2.D2|.D2.E2|=F4 |E=FG2|G2E2|D4  |E2D2|
+E=FG2|G2E2  |D4    |E2D2|EDED |EDED|E2D2|D4 :|
+
+
+
+X: 489
+T: Ti Momo
+T: Posavski Plez
+T: Hajd' Povedi Veselo
+O: Croatia
+S: Ciga Despotovic, vol 4.
+M: 4/4
+L: 1/8
+Q: 1/4=160
+K: Dm
+%%MIDI gchord fzfz
+%%MIDI program 110
+%%MIDI bassprog 26
+%%MIDI bassvol 60
+P:A
+"F"c4 c4 |=B2_A2 G2F2|"C"G6 c2  |"Gm"c2B2 _A2G2|\
+"F"c4 c4 |=B2_A2 G2F2|"Gm"G8    |G8            |\
+"F"c4 c4 |=B2_A2 G2F2|"Gm"G8    |G8            |
+P:B
+%%MIDI gchordoff
+%%MIDI drum dddd 35 35 35 35
+%%MIDI drumon
+f2f2 cccc| f2f2 cccc | f2f2 cccc| f2f2 cccc    |
+ccdc BBcB|AABA G2G2  | ccdc BBcB|AABA G2G2     |
+f2f2 cccc| f2f2 cccc | f2f2 cccc| f2f2 cccc    |
+
+
+
+X: 490
+T: Ti Momo, Ti Devojko
+O: Serbia
+W: From Deborah Jones' VIFD Book I (Serbian Medley)
+M: 2/4
+L: 1/8
+Q: 1/4=108
+K: Em^A
+%%MIDI program 21 accordian
+"Em" B4           | A2G2       |A2 G/F/E      |[1"B7" F2G z :|[2 F2 Fz     |:
+"Em"E4            | E2 FG      |"F#7" A2 G/F/E|"B7"F2Gz     :|[2 "F#7"AG FE|"B"F2 Fz|:
+"B" F3/2E/ F/G/B  |F3/2E/ F/G/B|[1F3/2E/ F/G/B|F3/2E/ ^DE   :|\
+[2 "F#7"F3/2E/ ^DE|"B"Fz Fz    |
+
+
+
+X: 491
+T: Tikho Nad Richkoyu
+F: http://www.youtube.com/watch?v=d_HVQR-Qv80
+O: Ukraine
+M: 4/4
+L: 1/8
+Q: 1/4=84
+K: Dm
+%%MIDI program 52 Choir Aahs
+A2A4 G3/2A/|F2E2D4 |A2A4 G3/2A/|F2E2D4      |
+G2A2B2d2   |c2B2A4-|A8         |:d2d4 c3/2d/|B2A2G4|
+A2A4 G3/2A/|F2E2D4 |G2A2B2A2   |E2F2D4-     |D4z4  :|
+
+
+
+X: 492
+T: Tino Mori
+O: Macedonia 
+S: Deborah Jones ,1982 Vancouver Folk Dance Club
+F: http://www.youtube.com/watch?v=GRpSrCCrPoE
+F: http://www.youtube.com/watch?v=Y8N7N4kaBYk
+F: http://www.youtube.com/watch?v=u4O4RTFu3ug
+F: http://www.youtube.com/watch?v=MKB-OxsljSc
+F: http://www.youtube.com/watch?v=5C3zWq82xD8
+M:7/8
+L:1/8
+Q:1/4=144
+K:G
+%%MIDI beatstring fppmpmp
+%%MIDI gchord f3f2f2
+|: "G" G3-G2 [G2d2]                    | [G2d2] [Ec] [D2B2] [D2A2] |\
+   "C" [E3c3]  "G" [D4B4]              | "D7" [C3A3] "G" [B,4G4]   |
+   [D2B2] [Ec]  [F2d2] [Ec][DB]        |\
+   "D7"  [C3-A3-][C2A2] [D2B2]         |\
+   [C2A2] [B,G] "G" [B,2-G2-][B,2G2] | [B,3G3] [B,4G4]           | 
+   "C" [E3c3]  "G" [D4B4]              | "D7" [C3A3]  "G" [B,4G4]  |\
+   [D2B2] [Ec] [F2d2] [Ec][DB]         | "D7" [C3-A3-][C2A2] [D2B2]|
+   [C2A2] [B,G] "G" [B,4G4]            | [D3B3] [CA][CB] [CA][CG]  |\
+   [B,3-G3-][B,2-G2-][B,2G2]           | [B,3-G3-] [B,2G2] z2      :|
+|: "G" GDG  A2 "D7" AG                 | "G" B2 A A2 AG            | Bcd B2 AG     |\
+   "G" GDG A2 AG                       | B2 A "D7" A2 AG           | "G" G3 G2 z2  :|
+
+
+
+X: 493
+T:Toicevo Kolo
+O:Serbia
+S:from record: Sixteen Yugoslaian Dances created Ciga/Ivon Despotovic
+L:1/8
+M:2/4
+Q:1/4=96
+K:F#m
+|:"A"[E,/C/][F,/D/][G,/E/][A,/F/] "F#m"[A,F][G,E]|\
+  "A"[E,/C/][F,/D/][G,/E/][A,/F/] "F#m"[A,F][G,E]|\
+  "A"[G,/E/][E,/C/][F,/D/][G,/E/] [G,E][CA]      |"E"^G/F/E/D/ "A"CB,      :|
+|:"A"[E,/C/][F,/D/][G,/E/][A,/F/] "F#m"[A,F][G,E]|\
+  "A"[E,/C/][F,/D/][G,/E/][A,/F/] "F#m"[A,F][G,E]|\
+  "A"[G,/E/][E,/C/][F,/D/][G,/E/] [G,E][CA]      |"E"^G/F/E/D/ "A"CB,      :|
+|:"A"e/c/d/e/ea                                  |"E"^g/f/e/d/ "A"cB       |\
+  "E"[Ge][Ge] "Bm"[Fd][Fd]                       | "A"[Ec][Ec] "E"[DB][DB] :| 
+|:"A"[Ec][CA] [Ec][Ge]                           |"Bm"[Fd][Ge] "F#m"[A2f2] |\
+  "E"[Ce][Ce] "Bm"[Fd][Fd]                       |[1 "E"[D4B4]             :|[2 "E"[D3B3] E|
+|:"E"GAGB                                        |"A"ABc2                  |\
+  "E"BB"A"AA                                     |"E"G/F/G"F#m"F2          :|
+|:"E"GAGB                                        |"A"ABc2                  |\
+  "E"BB"A"AA                                     |"E"G/F/G"F#m"F2          :|
+%%MIDI drum dddd 35 35 35 35
+%%MIDI drumon
+f2f2| cccc| f2f2| cccc| f2f2| cccc| f2f2| cccc|
+ccdc| BBcB|AABA| G2G2 | ccdc| BBcB|AABA| G2G2 |
+f2f2| cccc| f2f2| cccc| f2f2| cccc| f2f2| cccc|
+
+
+
+X: 494
+T: Trabzoni Bar
+O: Armenia
+M: 2/4
+L: 1/8
+Q: 1/4=180
+K: EPhr
+%%MIDI program 24
+%%MIDI beat 80 70 60 4
+|:EF^GA|BcAc |^GAFG |E4  |
+  A^GFE|DEFD |D2E2  |E4::
+  A4   |BcA2 |BcAc  |B4  |
+  ^GABc|^GAFA|^GAE2-|E4  |
+  A4   |BcA2 |Bcdc  |B2A2|
+  ^GABc|^GAFA|^GAE2-|E4  :|
+
+
+
+X: 495
+T: Trata
+O: Greece
+Z: Deborah Jones VIFD I
+M: 2/4
+L: 1/16
+Q: 1/4=96
+K: Am
+GAB\
+|:"Am"c>dcB AGAB |cdcB AGAB          |\
+  [1AcBA cBBA    |"Dm"e2d2zGAB       :|\
+  [2"Dm"cedc cBBG|A4 A2G2            |
+L:1/8
+  "Am"AB cd      |"Dm"e/f/e/d/ d z/G/|\
+  "Am"AB cd      |"Dm"e d2 z/G/      |
+  "Am"AB cd      |"Dm"e/f/e/d/ cB/c/ |\
+  dd cB          |"Am" A2 AA         |
+  "Am"AB cd      |"Dm"e/f/e/d/ cB/c/ |\
+  dd cB          |"Am" A2 Ae         |
+  "Am" ee "Dm"d2 |"Am" GA Ae         |\
+  ee "Dm" d2     |"Am" GA Ae         |\
+  ee "Dm"dG      | "Am" GA Az        |
+
+
+
+X: 496
+T:Trgnala Rumjana
+O:Bulgaria
+F: http://www.youtube.com/watch?v=upb1pYgCVm4
+F: http://www.youtube.com/watch?v=oaVuDT0evEc
+M:7/8
+L:1/8
+Q:1/4=132
+K:GPhr
+%%MIDI beat 68 58 48
+%%MIDI beatstring fppmpmp
+%%MIDI program 24
+|G2F GAGF               |F2E F2G2                   |\
+  G2F GAGF               |E2F G2A2                   |\
+  BBBB EFG               |cccc BA2                   |\
+  G2G FGFE               |F7                         |
+%%MIDI program 41
+|G2F GAGF               |F2E F2G2                   |\
+  G2F GAGF               |E2F G2A2                   |\
+  BBBB EFG               |cccc BA2                   |\
+  G2G FGFE               |F7                         |
+%%MIDI program 52
+%%MIDI beat 97 87 77
+Q:1/4=128
+|:[G2B2][GB] [A2c2][G2B2]|[E2G2][FA] [G4B4]          |\
+  [G2B2][FA] [G2B2][F2A2]|[1 [E2G2][DF] [E2G2][F2A2] :|[2 [E7G7] |
+|:[E2G2][DF] [E2G2][D2F2]|[C2E2][DF] [E2G2][F2A2]    |\
+  [E2G2][DF] [E2G2][D2F2]|[1 [C2E2][DF] [E4G4]       :|[2 [B,7E7]|
+
+
+
+X: 497
+T: Tri Godini
+O: Macedonia
+Z: Transcribed yb Lyuben Dossev
+Z: http://www.dunav.org.il/balkan_music_scores.html
+M: 9/8
+K: Eb
+[ce][Bd] [Ac][Bd] [ce][df] [ce]3|\
+[ce][Bd] [Ac][Bd] [ce][df] [ce]3|\
+[Ac]2 [Ac][Ac] [Ac]2 [Ac][GB][FA]|
+[GB]2 [ce][Bd] [Ac][GB] [GB]3|:\
+[GB]2 [df]/2[eg]/2[eg] [df][ce] [Bd]2  [Ac]|\
+[ce]>[Bd] [Ac]>[GB] [GB]/[Ac]/[GB]/[FA]/ [EG]2 z|
+[Ac]2 [Ac]>[GB] [GB]>[FA] [EG][DF][CE]|\
+[DF][EG] [FA][EG] [DF]E E3::\
+ed c d ef e3|ed c d ef e2 z|\
+c2 c2 c2 cBA|B2 ed dB B3::B B d/f/ g f e d c z|
+e d c B B/c/B/A/ G2 z| c2 cB GA GFE|F G A G FE E2 z:|
+
+
+
+X: 498
+T: Triantafullia
+T: Poluguros
+O: Greece
+M: 7/8
+L: 1/8
+K: Ador
+Q: 1/4=160
+%%MIDI gchord f3c2c2
+%%MIDI program 110  % fiddle
+"Am"c2c c2e2|"Bm"d2cB2A2|"Am"A2G "D"F2G2|"Am"A3-A2z2::
+%%MIDI program 52 % choir
+A3 A2A2|e7|"Bm"d2c B2c2|"D"d3"Am"A2z2|
+"Am"c2c c2e2|"D"d2c"Bm"B2A2|"Am"A2G "D"F2G2|"Am"A3-A2z2:|
+
+
+
+X: 499
+T: Tropotica de la Balti
+O: Romania
+F: http://video.google.com/videoplay?docid=-9145606658200198258#
+M: 2/4
+L: 1/8
+Q:1/4=240
+K: Gm
+%%MIDI program 41
+|:"Bb"D2C2  |CB,A,B,    |CB,A,B,  |CB,A,B,   |\
+  D2C2      |CB,A,B,    |DF=EF    |G2F2      |
+  D2C2      |CB,A,B,    |CB,A,B,  |CB,A,B,   |\
+  D2C2      |"Cm"CB,A,B,|"Gm"G,4  |[1"Dm"F,4 :|[2"Dm"F,2F2|
+  "Gm"=E2F2 |GF=ED      |E2F2     |D2B,2     |\
+  "Bb"C2D2  |E2D2       |C2D2     |B,2F2     |
+  =E2F2     |"F"G2F2    |E2F2     |D2B,2     |\
+  F2G2      |B2F2       |=E2F2    |"Gm"D2B,2 |
+  C2D2      |E2D2       |C2D2     |"Bb"B,4   |\
+|:"Bb"B,2B,2|"Cm"A,2G,2 |A,2B,2   |C4        |
+  E2 E2     |D2 C2      |"F"B,2D2 |F4        |\
+  "Gm"B,2B,2|A,2G,2     |A,2B,2   |C4        |
+  E2 E2     |D2 C2      |"Bb"B,4  |[1B,4     :|[2B,2 B,2  |
+  B,2B,2    |A,2G,2     |F2B,2    |A,2G,2    |\
+  A,2B,2    |"Cm"A,2G,2 |D2A,2    |"Gm"G,4   |
+
+
+
+X: 500
+T: Tsamikos
+O: Greece
+S: Greek Dance Party
+F: http://www.youtube.com/watch?v=pWeBh-NfGBs
+F: http://www.youtube.com/watch?v=DbuVwgnYg3o
+F: http://www.youtube.com/watch?v=lvXEM3N0JrE
+M: 6/8
+L: 1/8
+Q: 1/4=96
+K: Am
+%%MIDI gchord fzcccc
+%%MIDI program 64
+%%MIDI bassprog 6
+%%MIDI chordprog 107
+|:"Am"EA/A/ AA Ac            |A4 c/B/A/B/          |\
+  A3/2E/ e/d/c/A/ c/A/B/c/   |"C"c6                |
+  Ec/B/ AA Bc                |"Dm"B4 "Am"E/^F/^G/A/|\
+  c/B/A/^G/ A4               |c/B/A/B/ ^G2A2       :|
+|:"Dm"A/B/c/^c/ dddd         |d/c/B/A/ B2 d/c/B/A/ |\
+  "Em"E2 E/^F/^G/A/ c/B/A/^G/|[1"Am" A4 c/B/A/B/   :|[2"Am"A6|
+
+
+
+X: 501
+T:Tuberosa Csardas
+O:Hungary
+F: http://www.youtube.com/watch?v=6OIzGgMduLo
+S:Deborah Jones VIFD Book
+L:1/4
+M:4/4
+Q:1/4=180
+K:Dm
+ "D" dddd  |de "D7" c2| "G7" de fe| de "Am" c2| "Dm" d2 c=B| "Am" A2 A2|
+ "Gm" dG GG|"G7" GA F2|"C7" GA BA | GA "Dm" F2|"Gm" G2 FE  |"Dm" D2 D2 |
+
+
+
+X: 502
+T: U Naseto Selo
+O: Macedonia
+M:2/4
+L:1/8
+Q:1/4=180
+K:F
+|:A4  |GFGA|F4  |F2G2|A2A2|GFGA|F4  |z4 :|
+  c2c2|c2c2|c2B2|A4  |B2B2|B2B2|c2B2|A4 |
+  A4  |GFGA|F4  |F2G2|A2A2|GFGA|F4  |z4 |
+
+
+
+X: 503
+T: Uc Ayak
+O: Turkey
+M: 4/4
+L: 1/8
+Q: 1/4=240
+K: C
+%%MIDI program 1
+|:C4 DCDE|C4 DCDE|C4 DCDE|B,4 C4|
+C2D2 E2D2|E2D2 EDC2|C4 DCDE|B,4 C4:|
+
+
+
+X: 504
+T:Urva Fanka
+O:Macedonia
+F: http://www.youtube.com/watch?v=ys6iB4hKgDg
+M:4/4
+L:1/8
+Q:1/4=160
+K:C
+|:[C4E4] [B,D][CE] [B,2D2]| [G,8C8]       |[G,2C2] [G,2C2] [G,C][B,D][CE][DF]|\
+  [C4E4] [B,D][CE] [B,2D2]| [1 [G,6C6] D2 :| [2 [G,4C4] [G,4C4]              | 
+
+
+
+X: 505
+T: Ushti, Ushti Baba
+O: Macedonia
+Z: Lyuben Dossev
+S: http://www.dunav.org.il/balkan_music_scores.html
+F: http://www.youtube.com/watch?v=skWmsBnQ5Ps
+F: http://www.youtube.com/watch?v=y0E9ObBh2I0
+M: 4/4
+L: 1/8
+Q: 1/4=96
+K: C
+L:1/16
+%%MIDI program 23
+   c_def gefc e~f2e dcgc                                              | c_def gefc e~f2e dccz         |
+   [ce][_df][eg][f_a] [g_b][eg][fa][ce] [eg][fa]2[eg] [df][ce][gb][ce]|
+   [ce][_df][eg][f_a] [g_b][eg][fa][ce] [eg][fa]2[eg] [df][ce][ce]z   |
+L: 1/8
+%%MIDI drum d2z2d2d2 54 54 54 80 50 50
+%%MIDI drumon
+|: [EG][F_A] [FA]2 [FA][G_B] [FA][EG]                                 | [CE][_DF] [E-G-]2[EG]3 [DF]   |
+   [CE][_DF] [DF]2 [DF][EG] [DF][CE]                                  | [CE][_DF] [E-G-]2[EG]3 z      |
+   [EG][F_A] [FA]2 [FA][G_B] [FA][EG]                                 | [CE][_DF] [EG]2 [EG][DF] [CE]2|
+   [_DF]2[DF]2 [DF][EG] [DF][CE]                                      | [CE]2 [C-E-]2 [CE]3 z         :|
+
+
+
+X: 506
+T:Uszodi Czardas
+O:Hungary
+P:AB
+L:1/8
+M:2/4
+Q:1/4=96
+K:D
+%%MIDI gchord f2zzf2zz
+P:A
+  "Bm"F2 F2     | "E"^G2 "F#"^A2| "Bm"B2 B2     | F2 "Em"E2     |\
+  "Bm"D3 E      | "F#m"D C3     | "Bm"B,2 B,2   | B,4           |
+|:"Bm"d2 d2     | "Em"e2 "Bm"d2 | "F#m"c2 "Bm"B2| F2 B2         |\
+  "D"d A3       | A2 "Em"G2     | [1 "Bm"F4     | F4            :|
+  [2 "Bm"F4     |"E"^G2 "F#"^A2 |"Bm"B2 B2      | F2 "Em"E2     |\
+  "Bm"D3 E      | "F#m"D C3     | "Bm"B,2 B,2   | B,4           |z4|
+P:B
+Q:1/4=192
+  "Em"E3 B,     |E3 B,          |E2 G2          | "Bm"F2 "Em"E2 |\
+  "Bm"F3 E      | F3 E          | F2 "D"A2      | "Em"G2 "Bm"F2 |
+  "Em"E2 "Bm"B,2|"Em"E2 "Bm"B,2 |"Em"E2 G2      | "Bm"F2 "Em"E2 |\
+  "Bm"B2 "D"A2  |"Em"G2 "Bm"F2  |"Em"E E2^D     | E4            |
+  "G"G3 D       |G3 D           |"Bm"B2 "D"A2   |"G"G3 D        |\
+  "Bm"F3 D      |F3 D           |"D"A2 "Em"G2   |"Bm"F4         |
+  "Em"E3 B,     |E3 B,          |G2 "Bm"F2      |"Em"E4         |\
+  "Bm"B2 "D"A2  |"Em"G2 "Bm"F2  |"Em"E E2 E     |"Em"E4         |
+
+
+
+X: 507
+T: Vaklaj Vaklaj
+O: Bulgaria
+F: http://www.youtube.com/watch?v=4hK3h052RpA
+M: 7/8
+L: 1/8
+Q: 1/4=150
+K: Dm
+%%MIDI program 71
+|:c2=Bdc2B|AGFGAF2|ECD2CD2|EFEGF3|
+  c2=Bdc2B|AGFGAF2|ECD2CD2|CD6:|
+C3C2F2|E2FED2F|D3D2D2|D2CE4|
+C3C2F2|E2FED2F|DED2D2G|D7|
+
+
+
+X: 508
+T: Valle e Qemalit
+O: Albania
+M: 4/4
+L: 1/4
+Q: 1/4=132
+K: Gm
+%%MIDI program 71
+%%MIDI bassprog 33
+%%MIDI chordprog 1
+%%MIDI gchord f2cc
+"Gm"Bddd|cBG2|"Cm"c3B|"Gm"d4|\
+"Bb"fdfd|cBG2|"Cm"c3d|"Gm"G4|
+
+
+
+X: 509
+T: Valle Kcim
+O: Kosovo
+F: https://www.youtube.com/watch?v=BgqI-QM1VKk
+M: 4/4
+L: 1/8
+K: Fdor
+Q: 1/4=160
+%%MIDI drum d3dd2d2 35 35 35 35 100 70 80 80
+%%MIDI drumon
+%%MIDI program 109 Bagpipes
+Z2|F3C FGAB|A3G AGF2|F3E F2F2|F3F F4|\
+F3C FGAB|A3G AGF2|F4  E4  |F4  F4|
+F3C FGAB|A3G AGF2|A3G F2E2|F3F F4|\
+f3e edcB|A3G AGF2|F4  F4  |F4 F2z2|
+|:F3F B2B2|A3A BAB2|F3F B2B2|A3A BAB2|\
+ F3F A2A2|G2G2 AGA2|F4 F4|E2F2 F4:|
+
+
+X: 5091
+T: Valle Nuseve Nga Korce
+O: Albania
+F: https://www.youtube.com/watch?v=aQn2u-ssZCs
+M: 4/4
+L: 1/8
+K: Cm
+Q: 1/4 = 144
+%%MIDI program 69
+%%MIDI drum d2dd 48 35 45
+%%MIDI drumon
+G2 G2 B4|F2 EF C2 C2|F2 EG G4|F2 EF C2 C2:|
+
+
+
+X: 510
+T: Valle Pogonishte
+O: Albania
+F: http://www.youtube.com/watch?v=ZfvKgfgqTss
+M: 4/4
+L: 1/8
+Q: 1/4=132
+K: Cdor 
+%%MIDI gchord f
+%%MIDI program 43
+%%MIDI bassprog 24
+%%MIDI bassvol 60
+|:"C"C2 B,2 G,2 B,2| C2 B,2 G,2 B,2|C2 B,2 G,2 B,2 | C2 B,2 C2 z2|
+  CB,G,B, C2C2     |"Bb"DzDzCE3    |"C"CB,G,B, C2C2|"Bb"DzDzCE3  |
+  "F"FFFF FEDC     |"G"ED3-D2z2    |"C"DEDCCB,DC-  |C6z2         :|
+|:"G"G,3G,G,2G,2   |_A,2B,2G,2G,2  |"Eb"E,3E,E,2E,2|F,2G,2E,2E,2 |
+  E,3E,E,2E,2      |F,2F,2G,2G,2   |[1G,8-         |G,4z4        :|[2"C"C,8-|C,4z4|
+
+
+
+X: 511
+T:Varnenska Tropanka
+O:Bulgaria
+F: http://www.youtube.com/watch?v=yL19ezrng9A
+M:2/4
+L:1/8
+Q:1/4=180
+%%MIDI gchord zzfz
+K:FDor
+|:edc2     |d2B2     |B2f2   |f4    |edc2    |d2B2    |F2B2   |B4     :|
+|:"Ab"edc2 |"Bb"d2B2 |B2f2   |f4    |"Ab"edc2|"Bb"d2B2|F2B2   |B4     :|
+|:"Bb"B2AB |"F"cBA2  |AGF2   |"Bb"B4|B2AB    |"F"cBA2 |AGF2   |"Bb"B4 |
+  "Bb"B_dcB|"F"cBA2  |AGF2   |"Bb"B4|B2AB    |"F"cBA2 |AGF2   |"Bb"F4 :|
+|:"F"AGAG  |"Bb"F2B2 |"F"AGAG|"Bb"F4|"F"AGAG |"Bb"F2B2|"F"AGAG|"Bb"F4 :|
+  "F"EFA2- |A2BA     |c2BA   |A4    |cBc2    |A2BG    |A4     |A4     |
+  "Bb"_dddc|"Eb"eee_d|"F"cccB|BA3   |"Bb"BBBA|"F"ccAG |"Bb"F4 |F4     |
+
+
+
+X: 512
+T: Varnenski Predsvatben Tantz
+O: Bulgaria
+F: http://www.youtube.com/watch?v=hDycMXoEbCA
+F: http://www.youtube.com/watch?v=6hfjbmiFZao
+M: 4/4
+L: 1/8
+Q: 1/4=144
+K: Am
+%%MIDI gchord f2zfzfz2
+%%MIDI program 50
+%%MIDI bassprog 24
+%%MIDI bassvol 60
+|:"A"A2E A2A2B|c2B ABcdz         |A2E A2A2B          |c2B A2A2z   :|
+%%MIDI program 73
+%%MIDI gchordoff
+  "D"A2d dcBAz|[M:7/8]d2c B2z2   |[M:4/4]"A"A2E A2A2B|"D"c2B ABcdz|
+  "E"e2c dcBAz|[M:7/8]"D"dec d2z2|[M:4/4]"A"A2E A2A2B|c2B A2A2z   |
+
+
+
+X: 513
+T: Vasilice
+O: Macedonia
+F: http://www.youtube.com/watch?v=DR8oqwOT9XY
+M: 7/8
+L: 1/8
+Q: 1/4 =160
+K: Ador
+%%MIDI program 24
+%%MIDI beat 80 70 60 4
+dddd2d2 |c2d e4| g2=f edc2|dcB A4  |
+dddd2d2 |c2d e4| g2=f edc2|dcB A4  |
+%%MIDI program 42
+GFG A2A2|GFG A4|G2=F EDC2 |DCB, A,4|
+GFG A2A2|GFG A4|G2=F EDC2 |DCB, A,4|
+DDDD2D2 |C2D E4| G2=F EDC2|DCB, A,4|
+DDDD2D2 |C2D E4| G2=F EDC2|DCB, A,4|
+
+
+
+X: 514
+T: Vecheren Tanz
+O: Gypsy
+M: 4/4
+L: 1/8
+Q:1/4=180
+K: Gm
+%%MIDI program 23
+P:A
+|:gzfz=ez_dz|c2ccc2c2 |_d2BBB2B2 |_d2ccc2c2 |
+  gzfz=ez_dz|c2ccc2c2 |_d2BBB2B2 |_d2ccc2c2 :|
+P:B
+  _d2BBB2B2 |_d2ccc2c2|:g_agag2f2| c2ccc2c2 |_d2BBB2B2|_d2ccc2c2 :|
+P:C
+|:g_agag2f2 | c2ccc2c2|Bc_dBd2cB |c2c2c2c2  |
+  g_agag2f2 | c2ccc2c2|Bc_dBd2cB |c2c2c2c2   :|
+
+
+
+X: 515
+T:Vidinsko Horo
+O:Bulgaria
+S:Yves Moreau
+F: http://www.youtube.com/watch?v=981NNd2jczg
+F: http://www.youtube.com/watch?v=lZk92lHbhoo
+F: http://www.youtube.com/watch?v=5E_30tTyGUc
+M:2/4
+L:1/8
+Q: 1/4=240
+P:AABBCDE
+K:Gm
+P:A
+%%MIDI gchord fzzz
+%%MIDI program 40
+%%MIDI beat 97 87 77 4
+%%MIDI bassprog 32
+|:  "c" c'2 ba   |"g" g^f ga |"c" a2 g^f  |"g" ^fd fg  |\
+    "c" g2 ^fd  |"g" cd  eg |"c" g2 ^fd  |"g"  cd eg  :|
+P:B
+|:  "c" g2 ^fd  |"g" cd eg  | "c"  g2 ^fd|"g" cd eg   |\
+    "c"  g2 ^fd |"g" cd eg  | "c"  g2 ^fd|"g" cd eg   :|
+P:C
+    "d" f2  dd  |"a" d2 a2  |"d" f2  dd  |"a"d2 a2    |\
+    "d" f2  dd  |"a" d2 a2  |"d" f2  dd  |"a"d2 a2    |
+P:D
+    "d"addd     |"a"dddd    |"d" ^fddd   |"a"dddd     |\
+    "d"addd     |"a"dddd    |"d" ^fddd   |"a"dddd     |
+    "g" c4-     |"bb"c4-    |"g" c4-     |"b" c4      |\
+    "g" c4-     |"bb"c4-    |"g" c4-     |"b" c4      |
+P:E
+    "c" cd e^f  |"g" ac ^fc |"c" ^fg2c   |"g"ec^fc    |\
+    "c" cd e^f  |"g" ac ^fc |"c" ^fg2c   |"g"ec^fc    |
+
+
+
+X: 516
+T: Vlashko
+O: Bulgaria
+F: http://www.youtube.com/watch?v=swCwW2yagwY
+M: 2/4
+L:1/8
+Q:1/4=140
+K:FMix
+%%MIDI gchord gzhz
+%%MIDI chordprog 117
+%%MIDI bassprog 117
+%%MIDI chordvol 60
+%%MIDI bassvol 60
+V:1
+%%MIDI program 22
+|: "F"FG AB  |c2 B2 |AF B2 |~A2 F2 |\
+   FG AB  |c2 B2 |AF B2 |A4     |
+|  FG AB  |e2 ^c2|cB ^c2|c2 B2  |\
+   F2 B2  |A2 B2 |A2 ^F2| F4    :|
+|: F2 B2  |A2 B2 |A2 ^F2| F^F c2|\
+   F2 B2  |A2 B2 |A2 ^F2| F4    :|
+|: F_G F2-|F2 B2 |A2 ^F2|F^F c2 |\
+   F_G F2-|F2 B2 |A2 ^F2|F4     :|
+Q:1/4=180
+|: FG AB  |c2 B2 |AF B2 |A2 F2  |\
+   FG AB  |c2 B2 |AF B2 |A4     |
+|  FG AB  |e2 ^c2|cB ^c2|c2 B2  |\
+   F2 B2  |A2 B2 |A2 ^F2| F4    :|
+|: F2 B2  |A2 B2 |A2 ^F2| F^F c2|\
+   F2 B2  |A2 B2 |A2 ^F2| F4    :|
+|: F_G F2-|F2 B2 |A2 ^F2|F^F c2 |\
+   F_G F2-|F2 B2 |A2 ^F2|F4     :|
+V:2
+%%MIDI program 23
+|: fg ab  |c'2 b2 |af b2 |~a2 f2 |\
+   fg ab  |c'2 b2 |af b2 |a4     |
+|  fg ab  |e'2 ^c'2|c'b ^c'2|c'2 b2  |\
+   f2 b2  |a2 b2 |a2 ^f2| f4    :|
+|: f2 b2  |a2 b2 |a2 ^f2| f^f c'2|\
+   f2 b2  |a2 b2 |a2 ^f2| f4    :|
+|: f_g f2-|f2 b2 |a2 ^f2|f^f c'2 |\
+   f_g f2-|f2 b2 |a2 ^f2|f4     :|
+Q:1/4=180
+|: fg ab  |c'2 b2 |af b2 |a2 f2  |\
+   fg ab  |c'2 b2 |af b2 |a4     |
+|  fg ab  |e'2 ^c'2|c'b ^c'2|c'2 b2  |\
+   f2 b2  |a2 b2 |a2 ^f2| f4    :|
+|: f2 b2  |a2 b2 |a2 ^f2| f^f c'2|\
+   f2 b2  |a2 b2 |a2 ^f2| f4    :|
+|: f_g f2-|f2 b2 |a2 ^f2|f^f c'2 |\
+   f_g f2-|f2 b2 |a2 ^f2|f4     :|
+
+
+
+X: 517
+T: Vlashko Petur Iliev
+O: Bulgaria
+M: 2/4
+L: 1/8
+Q: 1/4=180
+P:ABBCCDD
+K: Em
+%%MIDI program 110
+%%MIDI bassprog 32
+%%MIDI chordprog 32
+P:A
+  "D"z4       |z4      |\
+P:B
+|:"Em"E4      |e2 e2   |"Bm"d^cde      |B4        |
+  "Am"(3cdc BA|"Bm"GFGA|[1 B4          |(3dcBAG   :|[2"Em"E2B,2|E2z2|
+P:C
+|:"G"G4       |G4      |"Bm"BcBA       |GFGA      |G4          |\
+  [1"G"G4     |GFEF    |G2z2           :|[2"Fm"=F4|"Em"E4      |z4  |
+P:D
+|:"G"B>cBG    |G>AGF   |"Bm"(3GFE(3^DEF|[1 EGB2   :|"Em"E2z2   |
+
+
+
+X: 518
+T: Vlasinka Kolo
+O: Serbia
+F: http://www.youtube.com/watch?v=dArEjg0TeHk
+F: http://www.youtube.com/watch?v=HSCamMyf84w
+M: 4/4
+L: 1/8
+K: Ador
+Q: 1/4=240
+%%MIDI program 20 % Reed Organ
+"Am"c2BGA2A2|c2BGA2A2   |c2BGA2A2     |GFGzA2A2      |\
+c2BGA2A2    |c2BGA2A2   |c2BGA2A2     |GFGzA2A2::
+FGA2A2A2    |c2c2cBG2   |FGA2A2A2     |B2G2A2z2      |\
+FGA2A2A2    |c2c2cBG2   |FGA2A2A2     |B2G2A2z2::
+"C"ede2c2c2 |cABG cde2  |ede2 c2c2    |"Am"cABG A2z2 |\
+"C"ede2c2c2 |cABG cde2  |ede2 c2c2    |"Am"cABG A2z2 :|
+c2BA ABcd   |"C"e2A2A2z2|"Am"c2BA ABcd|e2A2A2z2      |\
+c2BA ABcd   |"C"e2A2A2z2|"Am"c2BA ABcd|e2A2A2z2      |
+
+
+
+X: 519
+T: Vlasko
+O: Bulgaria
+Z: Birgitt Karlson  http://www-linux.gsi.de/~karlson/index_e.htm
+Z: some simplification
+F: http://www.youtube.com/watch?v=swCwW2yagwY
+M: 2/4
+L: 1/16
+Q: 1/4=108
+K: G
+%%MIDI program 23
+|:d_efg a2gf    |f_ege f2ed   |[1defg a2gf  |\
+  f_ege f2z2    :|[2daga faga |f2_ed d2z2   :|
+|:d_efg a2gf    |f_ege f2ed   |[1defg a2gf  |\
+  f_ege f2z2    :|[2daga faga |f2_ed d2z2   |:
+  dAgA fAgA     |f2_ed dAaA   |dAgA fAgA    |\
+  [1f2_ed dAdA  :|[2f2_ed d2 z2
+|:^gad'a gad'a  |^gada gaad   |=f^f^ga bgad |\
+  [1^gaad fdad  :|[2 ^gaaf d2z2
+|:^gaad fdad    |^gaad fded   |^gaad fdad   |\
+  [1^gaad f2z2  :|[2^faaf d2 z2
+|:=f^f^ga bgad  |^gaad fdad   |=f^f^ga bgad |\
+  [1^gaad fded  :|[2 ^gaaf d2 z2
+|:c2cz e2ez     |c2cz g2gz    |c2cG _edce   |\
+  [1dcBd c2cG   :|[2 dcBd c2z2
+|:efgz  dGfG    |e2dc efg2    |efgz dGfG    |e2dc c2z2 :|
+|:ceg_b abag    |^fgg=f eceg  |[1ceg_b abag |\
+  ^fgab c'cc2   :|[2fed^c defg|ecdB c2z2
+K: D
+|:dfa=c' bc'ba  |^gaad fdad   |[1dfa=c' bcba|\
+  ^gabc' d'dd'2 :|[2gfe^d efga|fdec d2z2
+|:gfe^d efga    |fdec d2a2    |gfe^d efga   |fdec d2z2 :|
+
+
+
+X: 520
+T: Vodarki
+S: Medley from Macedonian Band
+O: Yugoslavia
+M: 7/8
+L: 1/8
+Q: 1/4=180
+K: GPhr
+%%MIDI gchord z3f2f2
+|:"G"^FG2 G3A  |=Bcd BAGA |[1 =B4 Bdc  |=BAF G2z2 :|[2 =B7 -    |=B7|
+|:=B.c2 .d2.e2 |d2c =B2A2 |=B3 dcBA    |AGF G2z2  |
+  FG2 G2c2     |=B2A G2F2 |[1G4 =Bcd   |d_ecd2z2  :|[2 G3 G2c2  |G7 |
+|:gfgf_edc     |d_ec dz3  |[1 gz2 f_edc|d_ec dz3  :|[2 c2=B A2G2|G7 |
+|:gfgf_edc     |d_ec dz3  |[1 gz2 f_edc|d_ec dz3  :|[2 c2=B A2G2|G7 |
+|:=BcdBAGA     |=B2AG2A2  |d2c =B2A2   |=B2A G4   :|
+|:=BcdBAGA     |=B2AG2A2  |d2c =B2A2   |=B2A G4   :|
+
+
+
+X: 521
+T: Vranjanska Kadenca
+O: Macedonia
+F: http://www.youtube.com/watch?v=Wd4l-pOo5uw
+M: 7/8
+L: 1/8
+Q:1/4=144
+K: D
+%%MIDI program 20 Reed organ
+%%MIDI drum d3d2d2 41 41 41 80 60 50
+%%MIDI drumon
+|:DCDEz3|FEFGz3|A2FG2A2|[1FGEFD3:|[2FGEFD3-|D4z3|
+%%MIDI drumoff
+F2-F2-F2G|ABGAF3-|F4z3|\
+A2-A2-A2B|cd ed c3-|c4z3|: fF GA Bcd|f2 ee ddc|
+c2-c2 dcd|ec dB cAB|GF-F2 BA|\
+B3A BcA|A2 GAG F3-|F7:|
+
+
+
+X: 522
+T: Vrapcheto
+O: Bulgaria
+M: 2/4
+L: 1/8
+Q: 1/4=120
+K: APhr
+%%MIDI program 65
+F: http://www.youtube.com/watch?v=Ir4Qr6qTiAQ
+F: http://www.youtube.com/watch?v=WnZj_4kr1fQ
+|CccB|AF3 |GABA|G4   |B2B2|
+ A4  |ABc2|cBBA| G2c2|A4  |
+
+
+
+X: 523
+T: Vrni Se Vrni
+O: Macedonia
+Z: Deborah Jones
+F: http://www.youtube.com/watch?v=eddP3rJjH00
+M: 2/4
+L: 1/16
+Q: 1/4=120
+K: A
+|:"A" abba gabg          |"F#m" a2ag fgaf       |\
+  "C#m" g2gf efge        | "E7"f2ed cdez        |
+  "E7" B2 e4 d2          |c3B BABc              |\
+  "A" A2z2 "E7" edcB     |[1 "A" Az cd efga     :|[2 "A" A2 AE A2 z2|
+L: 1/8
+  "A" [A,C] [A,2C2] [A,D]|"D" [DF] [D2F2] [DF]  |\
+  "A" [CE][^B^D] [C2E2]  |[CE] [C2F2][CG]       |
+  "E7" [D2A2][D2B2]      |"A" [C4-A4-]          |\
+  [C4A4]                 |:"D" [DA] [D2B2] [DA] |
+  [D2G2][D2F2]           |"A" [CE][C2E2][B,D]   |\
+  [A,2C2] [A,B,]A,       |"E7"[G,B,][G,2E2][G,D]|\
+  [G,2C2][G,2B,2]        |"A" A,4-              |A,4                :|
+
+
+
+X: 524
+T:Vrtielka
+O:Czechoslovakia
+Z:Deborah Jones, VIFD
+L:1/8
+M:6/8
+Q:1/4=160
+K:D
+D/D/             |"D"D2 F A2 G      | "A7" F2 E-E2 F/E/|"D" D2 F A2 G | "A7" F2 E-E3|\
+"D" FED "A7"C2 E | D3-D2 A/A/       |
+K:A
+"A" A2 c e2 c    | "E7" d2 B-B2 c/B/|"A" A2 c e2 c     | "E7" dcB-B3  |\ 
+"A" cBA "E7" G2 B| "A" A3 "A7" ABc  |
+K:D
+"G" d3-d2 d      | c e2-e2 d/e/     | d2 c/d/ c2 B     | "D" A3 F3    |\
+"G" d3-d2 e/d/   | c e2-e2 d/e/     | d2 c/d/ c2 B     |"D" A3-A2 F/E/|
+D2F A2G          | "A7" F2 E-E2 F/E/|"D" D2 F A2 G     | "A7" F E2-E3 |\
+"D" FED "A7" C2 E| "D" D3-D3        |
+
+
+
+X: 525
+T:Vulpiuta
+O:Romania
+Z:Deborah Jones, VIFD
+F: http://www.youtube.com/watch?v=YIFKZzVRlXY
+F: http://www.youtube.com/watch?v=R_-yVrNpFPw
+F: http://www.youtube.com/watch?v=Sx_vZ4yUR6c
+L:1/8
+M:2/4
+Q:1/4=180
+K:D
+|: "Em" c/d/.e z a| ea e2    | ed ed    | gf e2     :|\
+|: "Em" c/d/.e z a| ea e2    | ed ed    | gf e2     :|
+|: "D" df aa      | "G" ag gf| "A" fe ag|"D" fe d2  :|\
+|: "D" df aa      | "G" ag gf| "A" fe ag|"D" fe d2  :|
+
+
+
+X: 526
+T:Walczyk Lubelski
+O:Poland
+M:3/4
+L:1/8
+Q:1/4=120
+K:G 
+|:"G"d2d2d2     | "C"c2"G"B4| "G"d2B4   | "D"A2"G"G4 |\
+  "G"d2d2d2     | "C"c2"G"B4| "G"d2B4   | "D"A2"G"G4 :|
+|:"G"B2B2B2     | "D"A2"G"G4| "G"d2d2d2 | "C"c2"G"B4 |\
+  "Em"e2e2"Bm"f2| "G"g2"G"d4| "C"c2"G"B4| "D"A2"G"G4 :|
+
+
+
+X: 527
+T: Yaylalar
+O: Turkey
+Z: Deborah Jones VIFD I
+F: http://www.youtube.com/watch?v=vXhF6o-NoAE
+M: 4/4
+L: 1/8
+Q: 1/4=180
+K: Am
+  "Dm" Bc dd d2 d2  |d2 d2 "Am" A3 G   |"Dm" Bc dd d2 dB |\
+  cd d2 "Am" A2 z2  | "Dm" Bc dd d2 dB | cd d2 "Am" A2 z2|
+|:"Dm" Bc dd d2 dB  | c2 cB "Am" B A2 G|\
+  "Dm" cB BA dB cB  |BA A2 A4 "Am"     :| 
+  "Dm" Bc d2 d2 d2  |d d3 "Am" A2 z2   |\
+  "Dm" Bc d2 d d3   | d2 d2 "Am" A2 z2 |\
+  "Dm" Bc d2 d d3   | d2 d2 "Am" A2 z2 |
+|:"Dm" Bc d2 d2 dB  |c2 cB "Am" A2 z2  |\
+  "Dm" c B2 B d c2 c|B2 A2 "Am" A4     :|
+
+
+
+X: 528
+T:Yes Siretsi
+O:Armenia
+F: http://www.youtube.com/watch?v=UQlzqZjC6Jo
+M:3/4
+L:1/8
+Q:1/4=111
+K:Edor 
+%%MIDI program 42
+%%MIDI drum dzdzdz 43 43 43 80 50 50
+%%MIDI drumon
+|:CDE4-|EGFG E2|\
+CD E2E2|DB,3z2|
+ {A}A2 AB G2|B A4-A|\
+G A3 F2-|F E3 z2:|
+|:B6  |B=c AG B2-|\
+BGA4|AB GF A2|\
+GF FE Ez|[1E2 FG AB:|[2E4z2| 
+
+
+
+X: 529
+T: Zagorski Drmes
+O: Croatia
+F: http://www.youtube.com/watch?v=nmgYBqruMFM
+M: 2/4
+L: 1/8
+Q: 1/4=300
+P:ABCBCDAA
+K: Edor
+P:A
+%%MIDI program 21
+  [F2D2] [A2D2]|[F2D2] [A2D2]|[G2E2] [G2E2]        |[GE][FE] [E2A,2]|\
+  [F2D2] [F2D2]|[E2A,2] D2   |[E4A,4]              |[E4A,4]         |
+P:B
+%%MIDI program 21
+|:[A4D4]       | [A4D4]      |[^G4E4]              | [^G4E4]        |\
+  [A2D2][A2D2] | [F2D2][A2D2]|[^G4E4]              | [^G4E4]        |
+  [A2D2][A2D2] | [F2D2][A2D2]|[^G4E4]              | [^G4E4]        |\
+  [A2D2][A2D2] | [F2D2]D2    |[E4C4A,4]            | [E4^C4A,4]    :|
+P:C
+%%MIDI program 25
+|:F2 F2        |E2 F2        |G2 G2                |GF E2           |\
+  F2 F2        |E2 F2        |G2 F2                |E4              |
+  F2 F2        |E2 F2        |G2 G2                |GF E2           |\
+  F2 F2        |E2 D2        |E4                   |E4              :|
+P:D
+%%MIDI program 110
+|:G4           |A4           |B4                   |B4              |\
+  B2B2         |B2^A2        |B4                   |B4              |
+  d4-          |d4           |d4                   | =c2B2          |\
+  B2B2         |B2^A2        |B4                   |B4              :|
+
+
+
+X: 530
+T:Zamanska Igra
+O:Bulgaria
+L:1/16
+M:15/16
+Q:1/4=60
+S:Folk dances from Bulgaria, learned and collected by Jaap Leegwater.(BHA 10441)
+K:ADor
+|:A2E A2A2 B c2B ABcd|A2E A2A2 B  c2B A4      :|
+|:A2d dcBA z  d2c B3A| A2E A2A2 B  c2B ABcd   |
+  e2c dcBA-A  d2c B4 | A2E A2A2 B  c2B A2 z2  :|
+
+
+
+X: 531
+T:Zborenka
+O:Bulgaria
+L:1/8
+M:2/4
+Q:1/4=160
+K: AMix
+%%MIDI gchord fzfz
+|: "A"G2AB      |B2BG         |B2BG     |B2BG       |\
+   cded         |c2Bc         |A2B2     |A4         :|
+|: A2e2         |edcd         |edcd     |c4         |cded|\
+   c2Bc         |A2B2         |A4       :|
+|: cde2         |e2fg         |f4       |edc2       |cde2|\
+   e2fg         |f4           |e4       :|
+Q:1/4=180
+K:F
+%%MIDI gchord fzfz
+|: "F"C2 c2     | C2c2        | cBAG    | A2 GF     |\
+   C2 c2        | cBAG        | AF "C"G2| "F"F2 z2  :|
+|: "F"A2 F2     | "C"G2 "F"FG | A2 "C"G2| "F"FGAB   |\
+   A2 F2        | "C"G2 "F"FG | A2 "C"G2| "F"F2 z2  :|
+|: "F"C2 "Dm" DE| "F"F3 G     | AF "C"G2| "F"F2 z G |\
+   "F"AF "C"G2  | "F"FE "Dm"D2| D2 D2   | D2 "F"z2  :|
+|: "F"C2 "Dm"DE | "F"F3 G     | AF "C"G2| "F"F2 z G |\
+   AF "C"G2     | "F"FE "Dm"D2| D2 D2   | D2 "F"z2  :|
+
+
+
+X: 532
+T: Zemjo Makedonska
+O: Macedonia
+F: http://www.youtube.com/watch?v=jbQFOG1qGPU
+F: http://www.youtube.com/watch?v=DSIypRdzQEM
+M: 2/4
+L: 1/8
+K: C clef=treble
+Q: 1/4=120
+%%MIDI program 20 Reed Organ
+%%MIDI bassprog 24 Acoustic Guitar
+%%MIDI chordprog 24 Acoustic Guitar
+%%MIDI gchord fc
+"F"GAAG   |GFFE       |"G"EDDC|"C"CDE2|\
+"F"GAAG   |GFFE       |"G"EDDC|"C"C4  |:
+"C"G,2C2  |"G"B,2"C"C2|"G"D4  |"C"C4  |\
+"G"D2"C"E2|"F"F2"C"E2 |E4-    |E4::
+"F"F3G    |A2A2       |"G"G4  |ED"C"C2|\
+"F"F3G    |A2A2       |"G"G4- |G4     |
+"C"E4     |"G"D4      |"C"C4- |C4     |\
+E4        |"G"D4      |"C"C4- |C4     |\
+
+
+
+X: 533
+T: Zemplin
+O: Slovakia
+M: 2/4
+L: 1/8
+Q: 1/4=172
+K: Bm
+%%MIDI program 42
+%%MIDI chordprog 24
+%%MIDI chordvol 60
+%%MIDI gchord czcz
+  "Bm" z4     |z4\
+|:B,2C2       |D2 B,2  |F2 A2   |G4       |\
+  "A"F2 E2    |[1D2 C2 |"Bm"B,4 |B,4      :|\
+  [2"Bm" D2 E2|"F#m" F4|F4      |
+|:"Bm"F2 F2   |B2 F2   |A4      |G4       |\
+  B2 B2       |"A"c2 B2|"Bm"F4  |F4       |
+  B,2C2       |D2 B,2  |"A"F2 A2|G4       |\
+  "Bm"F2 E2   |D2 C2   |B,4     |B,4      :|
+  "C#m"z4     |z4      |\
+%%MIDI gchordoff
+|:G2 F2       |E2 ^D2  |E2 E2   |F4       |\
+%%MIDI gchordon
+  "Bm" B2 B2  |^A2 B2  |F4      |F4       :|
+|:"Bm"G2 A2   |B4      |B2 A2   |B4       |\
+  B2 A2       |G2 F2   |E2 F2   |G4       |\
+  B2 A2       |G2 F2   |E4      |E4       :|
+  D4          |D4      |\
+  "G"B4       |"C#m"A4 |"A"d2 c2|"Bm"B2 F2|\
+  "G"B4       |"C#m"A4 |"A"d2 c2|"Bm"B4   |
+|:"Bm"A2 G2   |F2 E2   |B4      |"F#m"A4  |\
+  "Bm"A2 G2   |F2 E2   |B,4     |B,4      :|
+
+
+
+X: 534
+T:Zenska Siptarska Igra
+O:Albania
+F: http://www.youtube.com/watch?v=OnBRxuVNuV4
+F: http://www.youtube.com/watch?v=w6HhRr7sLgw
+M:7/8
+L:1/8
+Q:1/4=132
+K:Am
+%%MIDI gchord f3f2f2
+%%MIDI beatstring fppmpmp
+  "A"E2FEDCD | E2FEDCD | E2FEDCD    | E2FEDCD|
+  "E"B2^GA2F2|EDCB,3C  |D2CB,A,^G,A,|^G,7    |
+|:"A"E3A2c2  |f3e4     |f3e2d2      |"E"c2BB4|\
+  E3^G2B2    |  d3B4   |"E"e2f edcB | "A"A7  :|
+|:"A"A3A2A2  |"D"A3F2D2|"E"B2cBA^GA |B7      |\
+  E3^G2B2    |  d3B4   |"E"e2f edcB | "A"A7  :|
+
+
+
+X: 535
+T: Zensko Kresteno
+O: Macedonia
+F: http://www.youtube.com/watch?v=cuFVnR0w8Dc
+M: 12/8
+L: 1/8
+Q: 1/4=200
+K: Cm
+%%MIDI beatstring fppmppmppmpp
+|:B,2z BAG FEF EDD |B,2z BAG FEF EDD   |
+  B,2z BAG FEF EDD |E2D EFD B,CB, C3   :|
+|:B,DD DGF EFE DDz |B,DD DGF EFE DDz   |
+  B,DD DGF EFE DDz |E2D EFD B,CB, C3   :|
+|:=EFz AGF E_DC DEz| =EFz AGF E_DC DEz |\
+  =EFz AGF E_DC DEz|=EFz AGF E_DC- C2z :|
+
+
+
+X: 536
+T: Zensko Za Raka
+O: Macedonia
+F: http://www.youtube.com/watch?v=koFJp0HJs1E
+F: http://www.youtube.com/watch?v=GQnQ6GxyX04
+M: 4/8
+L: 1/8
+Q:1/4=160
+K: Cdor
+%%MIDI drum dd 35 35 60 40
+%%MIDI drumon
+%%MIDI program 23
+cdcB |c2cd |ezed   |e2d2   |e4-   |e2f2 |g_agf  |e2d2|
+cdcB |cGcd |efed   |e2ed   |e4-   |e2f2 |g_agf  |e3d |
+eeed |cccB |dddc   |B2AB   |c4-   |c2f2 |cBAB   |c4  |
+eeed |cccB |dddc   |B2AB   |cBc2- |c2f2 |cBAB   |c4  |
+CDCB,|C2CD |EzED   |E2D2   |E4-   |E2F2 |G_AGF  |E2D2|
+CDCB,|CG,CD|EFED   |E2ED   |E4-   |E2F2 |G_AGF  |E3D |
+EEED |CCCB,|DDDC   |B,2A,B,|C4-   |C2F2 |CB,A,B,|C4  |
+EEED |CCCB,|DDDC   |B,2A,B,|CB,C2-|C2F2 |CB,A,B,|C4  |
+G_ABc|B_AGF|EDCE   |DDD2   |DEDC  |EDCB,|CzDz   |EzFz|
+G_ABc|B_AGF|EDCE   |DDD2   |DEDC  |EDCB,|CB,A,B,|C2z2|
+EDCE |DCB,D|CB,A,B,|CCC2   |EDCE  |DCB,D|CDEF-  |F2z2|
+EDCE |DCB,D|CB,A,B,|CCC2   |EDCE  |DCB,D|C4     |z4  |
+
+
+
+X: 537
+T: Zervos Karpathou
+O: Greece
+Z: Deborah Jones
+M: 4/4
+L: 1/8
+Q: 1/4=160
+K: C
+  E              |:"G" D2 GG "C" E2 FE     |"G" DC-CD "C" E4  |\
+  EA GG "G7" E2FF|"C" E6 zE                :|
+|:"G" D2 GG G2 G2|G2 B2 BA AG              |"Am" A3 D "G" GFED|\
+  [1 "C" E6 z E  :|[2 "C" HE4 z e/f/ g/^f/g|
+M: 2/4
+L: 1/8
+|:"C" aa fe      | ee/f/ g/^f/g            |aa fe             |\
+  ee/f/ g/^f/g   | "Dm" dd _ee             |c e/f/ g/^f/g     |
+  "G" dd _ee     |[1 "C"  c e/f/ g/^f/g    :|[2 "C" c2 z e    |
+
+
+
+X: 538
+T: Zikino Kolo
+O: Serbia
+F: http://www.youtube.com/watch?v=IruuPSbc_bM
+F: http://www.youtube.com/watch?v=7R4uw7zuBAc
+M: 3/4
+L: 1/8
+Q: 1/4=180
+K: G
+%%MIDI drum d2d2d2 37 35 35 70 50 50
+%%MIDI drumon
+|:GB d2 d2|de d^cd2|de d=cBA|BABA G2 :|
+K:Dm
+|:A2F2F2  |FEDEF2  |A2F2F2  |FE D4   |
+  A2F2F2  |FEDEFD  |E4A2    |E6      :|
+K:Em
+|: EF G2G2 |G2F2z2  |EF G2G2 |G2F2z2  |
+  EF G2G2 |G2F2z2  |E4A2    |E6      :|
+
+
+

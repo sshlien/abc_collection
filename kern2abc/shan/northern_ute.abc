@@ -1,0 +1,3078 @@
+%%linebreak <none>
+X: 1
+T: Duplication of No 39
+N: Derived from Duplication_of_No_39.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 499216680
+%%humdrum-veritas-data 2496825872
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Eb
+[V:1] [K:clef=bass][M:2/4]E4FE3 [I:setbarnb 2]||  
+[V:2] [K:clef=bass][M:2/4]G,,4G,,4 ||  
+[V:1] [M:3/4]E8E4 ||  
+[V:2] [M:3/4]G,,4G,,4G,,4 ||  
+[V:1] [M:2/4]B,4CB,C3/B,/ | 
+[V:2] [M:2/4]G,,4G,,4 | 
+[V:1] G,G,F,2 F,E,3 | 
+[V:2] z8 | 
+[V:1] E,8 | 
+[V:2] z8 | 
+[V:1] CB,3 CB,3 | 
+[V:2] z8 | 
+[V:1] B,8 ||  
+[V:2] z8 ||  
+[V:1] [M:3/4]CB,3 F,3G, G,2F,2 ||  
+[V:2] [M:3/4]z12 ||  
+[V:1] [M:2/4]E,8 | 
+[V:2] [M:2/4]z8 | 
+[V:1] G,E,3 G,E,3 | 
+[V:2] z8 | 
+[V:1] E,8 | 
+[V:2] z8 | 
+[V:1] G,E,3 C,3E, | 
+[V:2] z8 | 
+[V:1] E,C,3 C,2B,,2 | 
+[V:2] z8 | 
+[V:1] B,,2B,,2 B,,3B,, | 
+[V:2] z8 | 
+[V:1] B,,4CB,CB, | 
+[V:2] z8 | 
+[V:1] CB,3 CB,C3/B,/ | 
+[V:2] z8 | 
+[V:1] A,A,G,2 F,E,3 ||  
+[V:2] z8 ||  
+[V:1] [M:3/4]E,12 :|]  
+[V:2] [M:3/4]z12 :|]  
+[V:1] [M:2/4]B,,2B,,2 B,,3B,, | 
+[V:2] [M:2/4]z8 | 
+[V:1] B,,8 | 
+[V:2] z8 | 
+[V:1] C2C2 C!fermata!B,2C | 
+[V:2] z8 | 
+[V:1] (3C2B,2G,2 F,2 F,/E,3/ | 
+[V:2] z8 | 
+[V:1] E,8 |]  
+[V:2] z8 |]  
+
+
+
+X: 2
+T: No_100_Hand_Game_Song_(g).krn
+N: Derived from No_100_Hand_Game_Song_(g).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1291305489
+%%humdrum-veritas-data 1116237974
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: C
+[V:1] [K:clef=bass][M:3/4]D4A,2D3/D/A,4 [I:setbarnb 2]| 
+[V:2] [K:clef=bass][M:3/4]G,,G,,G,,G,, G,,G,,G,,G,, G,,G,,G,,G,, | 
+[V:1] D2E2 D2E2 D3/D/A,2 | 
+[V:2] z12 | 
+[V:1] D2E2 D2A,3/A,/A,4 | 
+[V:2] z12 | 
+[V:1] D4A,2A,3/A,/A,4 | 
+[V:2] z12 | 
+[V:1] D4A,A,D3/D/A,4 | 
+[V:2] z12 | 
+[V:1] D4(3A,2A,2A,2A,4 | 
+[V:2] z12 | 
+[V:1] (3A,2A,2A,2 (3A,2A,2A,2A,4 :|]  
+[V:2] z12 :|]  
+
+
+
+X: 3
+T: No_101_Hand_Game_Song_(h).krn
+N: Derived from No_101_Hand_Game_Song_(h).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 448286255
+%%humdrum-veritas-data 1365188122
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+K: Ab clef=bass
+[K:clef=bass][M:2/4]E3C CA,3 [I:setbarnb 2]| 
+ECECA,4 | 
+C3/A,/A,A,A,4 | 
+C3/A,/CCA,4 | 
+C3/A,/A,A,A,4 | 
+C3/A,/A,A,A,4 ||  
+[M:3/4]C3/A,/CCA,4A,4 :|]  
+
+
+
+X: 4
+T: No_102_Hand_Game_Song_(i).krn
+N: Derived from No_102_Hand_Game_Song_(i).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1174001147
+%%humdrum-veritas-data 3982917582
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: G
+[V:1] [K:clef=bass][M:3/4]D4ED [I:setbarnb 2]||  
+[V:2] [K:clef=bass][M:3/4]G,,G,, G,,G,, G,,G,, ||  
+[V:1] [M:2/4]A,2G,2 | 
+[V:2] [M:2/4]z4 | 
+[V:1] E,D,E,2 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]D,2D,4 | 
+[V:2] [M:3/4]z6 | 
+[V:1] G,2A,/G,3/ A,/G,3/ ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]E,/D,3/ E,/D,3/ ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]D,2D,4 | 
+[V:2] [M:3/4]z6 | 
+[V:1] G,2E,/D,3/E,2 | 
+[V:2] z6 | 
+[V:1] D,2D,4 ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]D,4 | 
+[V:2] [M:2/4]z4 | 
+[V:1] D,4 :|]  
+[V:2] z4 :|]  
+
+
+
+X: 5
+T: No_103_Smoking_Song_(a).krn
+N: Derived from No_103_Smoking_Song_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3714064820
+%%humdrum-veritas-data 989306319
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Db
+[V:1] [K:clef=bass][M:3/4]E3C CC | 
+[V:2] [K:clef=bass][M:3/4]G,,2G,,2G,,2 | 
+[V:1] E4C2 ||  
+[V:2] G,,2G,,2G,,2 ||  
+[V:1] [M:2/4]A,3E, | 
+[V:2] [M:2/4]z4 | 
+[V:1] E,4 | 
+[V:2] z4 | 
+[V:1] E,4- | 
+[V:2] z4 | 
+[V:1] E,4 | 
+[V:2] z4 | 
+[V:1] E,4 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]D3D DD | 
+[V:2] [M:3/4]z6 | 
+[V:1] D4C2 | 
+[V:2] z6 | 
+[V:1] A,6 ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]F,2E,E, | 
+[V:2] [M:2/4]z4 | 
+[V:1] F,4 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]E,2D,D,- D,B,, ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]F,2E,E, | 
+[V:2] [M:2/4]z4 | 
+[V:1] F,4 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]E,2D,D,- D,B,, ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]D,4 | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,,4 | 
+[V:2] z4 | 
+[V:1] B,,4 |]  
+[V:2] z4 |]  
+
+
+
+X: 6
+T: No_104_Smoking_Song_(b).krn
+N: Derived from No_104_Smoking_Song_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1685840168
+%%humdrum-veritas-data 399653428
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: B
+[V:1] [K:clef=bass][M:3/4]D3/B,/D2D2 | 
+[V:2] [K:clef=bass][M:3/4]G,,2G,,2G,,2 | 
+[V:1] B,/B,/G,/B,/B,4 | 
+[V:2] G,,2G,,2G,,2 | 
+[V:1] (3DB,D-D2D2 ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]B,/B,/G,/B,/B,2 | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,2B,2 | 
+[V:2] z4 | 
+[V:1] (3G,D,G,G,2 | 
+[V:2] z4 | 
+[V:1] G,2G,G, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4](3B,G,B,B,2B,2 | 
+[V:2] [M:3/4]z6 | 
+[V:1] (3G,D,G,G,2G,2 ||  
+[V:2] z6 ||  
+[V:1] [M:2/4](3D,C,D,D,2 ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]D,C,C,4 | 
+[V:2] [M:3/4]z6 | 
+[V:1] G,2G,G,G,2 ||  
+[V:2] z6 ||  
+[V:1] [M:2/4](3D,C,D,D,2 ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]D,C,C,4 | 
+[V:2] [M:3/4]z6 | 
+[V:1] D,C,D,3D, | 
+[V:2] z6 | 
+[V:1] D,6 |]  
+[V:2] z6 |]  
+
+
+
+X: 7
+T: No_105_Smoking_Song_(c).krn
+N: Derived from No_105_Smoking_Song_(c).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1485972073
+%%humdrum-veritas-data 3673469487
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: E
+[V:1] [K:clef=bass][M:2/4](3B,F,B,B,2 | 
+[V:2] [K:clef=bass][M:2/4]G,,/G,,/G,,/G,,/ G,,/G,,/G,,/G,,/ | 
+[V:1] (3B,F,B,!fermata!B,2 | 
+[V:2] z4 | 
+[V:1] B,2C2 | 
+[V:2] z4 | 
+[V:1] C3/G,/ G,3//F,//E, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]F,F, G,3//F,//E, G,3//F,//E, ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4](3F,F,F, (3E,F,E, | 
+[V:2] [M:2/4]z4 | 
+[V:1] E,/E,3/E,2 | 
+[V:2] z4 | 
+[V:1] F,/E,E,/E,2 |]  
+[V:2] z4 |]  
+
+
+
+X: 8
+T: No_106_Song_When_Begging_for_Tobacco.krn
+N: Derived from No_106_Song_When_Begging_for_Tobacco.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 4232314895
+%%humdrum-veritas-data 3184853197
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Eb
+[V:1] [K:clef=bass][M:2/4]!fermata!E2FE [I:setbarnb 2]| 
+[V:2] [K:clef=bass][M:2/4]G,,G,, G,,G,, | 
+[V:1] E2B,/G,/G, ||  
+[V:2] G,,G,, G,,G,, ||  
+[V:1] [M:3/4]F,/!fermata!E,3/ (3F,E,E,!fermata!E,2 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]B,2B,2 ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]G,/F,3/E,2E,2 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]E,2E,2 ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]F,/F,/E, F,/F,/E,E,2 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]B,,2B,,2 :|]  
+[V:2] [M:2/4]z4 :|]  
+
+
+
+X: 9
+T: No_107_Song_When_Welcoming_Visitors.krn
+N: Derived from No_107_Song_When_Welcoming_Visitors.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3327287034
+%%humdrum-veritas-data 1065863713
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: F
+[V:1] [K:clef=bass][M:2/4]A,A, A,G, | 
+[V:2] [K:clef=bass][M:2/4]G,,2G,,2 | 
+[V:1] A,2!fermata!G,2 | 
+[V:2] G,,2G,,2 | 
+[V:1] F,F,F,2 | 
+[V:2] G,,2G,,2 | 
+[V:1] G,/F,/F,F,2 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]C,C,C,4 | 
+[V:2] [M:3/4]z6 | 
+[V:1] G,/F,/F,F,4 | 
+[V:2] z6 | 
+[V:1] C,3F,F,2 | 
+[V:2] z6 | 
+[V:1] C,C,C,4 | 
+[V:2] z6 | 
+[V:1] B,,C, B,,C, C,3/F,/ ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]F,2C,C, | 
+[V:2] [M:2/4]z4 | 
+[V:1] C,4 | 
+[V:2] z4 | 
+[V:1] C,4 |]  
+[V:2] z4 |]  
+
+
+
+X: 10
+T: No_108_Serenade.krn
+N: Derived from No_108_Serenade.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 934475006
+%%humdrum-veritas-data 1424519629
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Ab
+[V:1] [K:clef=bass][M:2/4]E2FE FEF2 | 
+[V:2] [K:clef=bass][M:2/4](3!accent!G,,2G,,2 z2 (3!accent!G,,2G,,2 z2 | 
+[V:1] E3C B,2 C/B,/A,/F,/ | 
+[V:2] (3!accent!G,,2G,,2 z2 (3!accent!G,,2G,,2 z2 | 
+[V:1] E,E,3 E,E,3 | 
+[V:2] z8 | 
+[V:1] B,2(3:2:2A,F,2 A,A,F,2 ||  
+[V:2] z8 ||  
+[V:1] [M:3/4]E,E,3E,6E,2 | 
+[V:2] [M:3/4]z12 | 
+[V:1] E,4E,8 ||  
+[V:2] z12 ||  
+[V:1] [M:2/4]A,4A,2C3/B,/ | 
+[V:2] [M:2/4]z8 | 
+[V:1] A,4A,2B,F, | 
+[V:2] z8 | 
+[V:1] E,4E,/E,3/A,F, ||  
+[V:2] z8 ||  
+[V:1] [M:3/4]E,4E,E,3E,4 ||  
+[V:2] [M:3/4]z12 ||  
+[V:1] [M:2/4]C3/B,/A,2 A,/A,3/B,F, | 
+[V:2] [M:2/4]z8 | 
+[V:1] E,E,3 E,2A,F, | 
+[V:2] z8 | 
+[V:1] E,E,3 E,2E,2 ||  
+[V:2] z8 ||  
+[V:1] [M:3/4]E,4E,8 |]  
+[V:2] [M:3/4]z12 |]  
+
+
+
+X: 11
+T: No_109_Song_Around_a_Rawhide.krn
+N: Derived from No_109_Song_Around_a_Rawhide.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2643984302
+%%humdrum-veritas-data 958093997
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Bb
+[V:1] [K:clef=bass][M:2/4]B,3/C/B,2 | 
+[V:2] [K:clef=bass][M:2/4](3!accent!G,,G,, z (3!accent!G,,G,, z | 
+[V:1] B,2(3B,B,B, | 
+[V:2] z4 | 
+[V:1] B,3/B,/F,2 | 
+[V:2] z4 | 
+[V:1] F,2F,2 | 
+[V:2] z4 | 
+[V:1] B,3/C/B,2 | 
+[V:2] z4 | 
+[V:1] B,2(3B,B,B, | 
+[V:2] z4 | 
+[V:1] B,3/B,/F,2 | 
+[V:2] z4 | 
+[V:1] F,2(3=E,E,E, | 
+[V:2] z4 | 
+[V:1] F,3/G,/F,2 | 
+[V:2] z4 | 
+[V:1] F,2(3=E,E,E, | 
+[V:2] z4 | 
+[V:1] F,3/E,/ D,B,, | 
+[V:2] z4 | 
+[V:1] D,/D,3/B,,2 | 
+[V:2] z4 | 
+[V:1] D,3/F,/ D,3/B,,/ | 
+[V:2] z4 | 
+[V:1] D,/D,3/ (3B,,B,,B,, | 
+[V:2] z4 | 
+[V:1] B,,3B,, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]D,/B,,3/ B,,3/D,/ | 
+[V:2] [M:2/4]z4 | 
+[V:1] D,/D,3/B,,2 | 
+[V:2] z4 | 
+[V:1] F,3/G,/F,2 | 
+[V:2] z4 | 
+[V:1] F,2(3=E,E,E, | 
+[V:2] z4 | 
+[V:1] F,3/E,/ D,B,, | 
+[V:2] z4 | 
+[V:1] D,/D,3/B,,2 | 
+[V:2] z4 | 
+[V:1] D,3/F,/ D,3/B,,/ | 
+[V:2] z4 | 
+[V:1] D,/D,3/ (3B,,B,,B,, | 
+[V:2] z4 | 
+[V:1] B,,3B,, | 
+[V:2] z4 | 
+[V:1] B,,4 | 
+[V:2] z4 | 
+[V:1] B,,4 |]  
+[V:2] z4 |]  
+
+
+
+X: 12
+T: No_10_Bear_Dance_Song_(f).krn
+N: Derived from No_10_Bear_Dance_Song_(f).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1672543312
+%%humdrum-veritas-data 4119159277
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+K: Eb clef=bass
+[K:clef=bass][M:2/4]B,4B,3/F,/F,2 | 
+B,4B,4 | 
+C4C3G, | 
+DCB,B, B,B,3 | 
+B,4B,2F,F, | 
+B,A,F,E, E,E,3 | 
+C,C,C,2 C,C,C,2 | 
+C,C,C,2 C,C,C,2 ||  
+[M:3/4]E,C,C,2 E,C,C,2 E,E,E,E, ||  
+[M:2/4]C,C,C,2 C,C,C,2 ||  
+[M:3/4]E,C,C,2 E,C,C,2 E,C,C,C, ||  
+[M:2/4]C,C,C,2 C,C,C,2 | 
+C,C,C,2 C,C,C,2 |]  
+
+
+
+X: 13
+T: No_110_Dream_Song.krn
+N: Derived from No_110_Dream_Song.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2813401938
+%%humdrum-veritas-data 2542909885
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+K: A clef=bass
+[K:clef=bass][M:3/4]CC [I:setbarnb 1]| 
+B,2B,B, CC ||  
+[M:2/4]A,A, B,B, | 
+A,A, A,B, | 
+A,A, CC ||  
+[M:3/4]B,2B,B, CC ||  
+[M:2/4]A,A, F,B, | 
+A,2A,B, | 
+A,A, F,B, | 
+A,2A,B, | 
+A,A, F,B, | 
+A,2A,B, | 
+A,2z2 | 
+
+
+
+X: 14
+T: No_11_Bear_Dance_Song_(g).krn
+N: Derived from No_11_Bear_Dance_Song_(g).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1509719430
+%%humdrum-veritas-data 1217375015
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+K: B clef=bass
+[K:clef=bass][M:3/4]DC CB, B,3/B,/ ||  
+[M:2/4]D4- | 
+D4 | 
+C4 | 
+C3G, | 
+D4 | 
+DB,B,2 | 
+G,G,F,2 | 
+G,F, F,D, | 
+D,4- | 
+D,4 | 
+(3C,C,C,C,2 | 
+(3C,C,C,C,2 | 
+(3C,C,C,C,2 | 
+(3C,C,C,C,2 ||  
+D2D2 | 
+DB,B,2 | 
+G,F,F,2 ||  
+[M:3/4]G,F, F,D, !fermata!D,3/G,/ | 
+G,2D, z/ G,/ G,3/G,/ | 
+G,6 ||  
+[M:2/4]G,F, F,D, ||  
+[M:3/4]D,2D, z D,3/G,/ | 
+G,2D, z/ G,/ G,3/G,/ ||  
+[M:2/4]G,4 | 
+G,3G, | 
+G,3G, ||  
+[M:3/4]G,3/G,/G,3G, ||  
+[M:2/4]G,3G, | 
+G,4- | 
+G,4 |]  
+
+
+
+X: 15
+T: No_12_Bear_Dance_Song_(h).krn
+N: Derived from No_12_Bear_Dance_Song_(h).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1972738958
+%%humdrum-veritas-data 3027368797
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+K: Db clef=bass
+[K:clef=bass][M:3/4]F/ [I:setbarnb 1]| 
+(3FDE (3EDB, A,3/E/ | 
+(3EB,D (3DB,A, F,3/A,/ | 
+(3A,G,A, A,/E,3/- E,A, ||  
+[M:2/4](3A,G,A, A,/A,3/ | 
+A,/A,3/ A,/A,3/ | 
+A,/A,3/- A,3/ z/ |]  
+
+
+
+X: 16
+T: No_13_Bear_Dance_Song_(i).krn
+N: Derived from No_13_Bear_Dance_Song_(i).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3736603266
+%%humdrum-veritas-data 2636222435
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: Db clef=bass
+[K:clef=bass][M:2/4]F/ [I:setbarnb 1]| 
+(3FDE A,3/E/ | 
+D3/F,/ A,/A,3/ | 
+A,/A,3/ A,3/F/ | 
+(3FDE A,3/E/ | 
+D3/F,/ A,/A,3/ | 
+A,A,- A,3/B,/ | 
+(3B,F,B, A,3/B,/ ||  
+[M:3/4]A,/A,3/A,3B, ||  
+[M:2/4](3B,F,B, A,3/B,/ ||  
+[M:3/4]A,A,A,7/z/ |]  
+
+
+
+X: 17
+T: No_14_Bear_Dance_Song_(j).krn
+N: Derived from No_14_Bear_Dance_Song_(j).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3345797833
+%%humdrum-veritas-data 1389617935
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: A clef=bass
+[K:clef=bass][M:2/4]F3/E/F2 [I:setbarnb 2]| 
+E3/C/ !fermata!E3/C/ | 
+(3CA,A, (3F,E,E, | 
+E,2!fermata!E,2 | 
+E3/C/ E3/C/ | 
+(3CA,A, (3F,E,E, | 
+E,2!fermata!E,2 | 
+F,/E,3/ F,/E,3/ ||  
+[M:5/8]F,/F,/E,F,/F,/E,/E,/E, ||  
+[M:2/4]E,E, E,E, | 
+E,E, E,E, :|]  
+
+
+
+X: 18
+T: No_15_Bear_Dance_Song_(k).krn
+N: Derived from No_15_Bear_Dance_Song_(k).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 784987814
+%%humdrum-veritas-data 1448018611
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+K: G clef=bass
+[K:clef=bass][M:3/4]B,B, A,B, A,G, [I:setbarnb 2]| 
+A,A, G,A, G,D, | 
+F,D, F,D, F,D, | 
+D,2B,,D,D,2 | 
+F,D, F,D, F,D, | 
+D,2B,,D,D,2 :|]  
+
+
+
+X: 19
+T: No_16_Final_Song_of_Bear_Dance_(a).krn
+N: Derived from No_16_Final_Song_of_Bear_Dance_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2887346948
+%%humdrum-veritas-data 641781422
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: G clef=bass
+[K:clef=bass][M:2/4](3B,B,G, B,(3:2:2G,/G, | 
+(3B,G,G, B,(3:2:2G,/G, | 
+(3:2:7B,/G,/G,D, G,G,-G, | 
+(3:2:7B,/G,/G,D, G,G,-G, | 
+(3:2:4B,/G,/B,G, B,(3:2:2G,/G, | 
+(3B,B,G, (3B,G,G, | 
+(3B,G,D, (3G,G,G, | 
+(3B,G,D, (3G,G,-G, | 
+(3:2:4B,/G,/B,G, B,(3:2:2G,/G, [I:setbarnb 10]| 
+(3:2:4B,/G,/B,G, B,(3:2:2G,/G, | 
+(3B,G,D, (3G,G,-G, | 
+(3B,G,D, (3G,G,-G, | 
+(3:2:4B,/G,/B,G, B,(3:2:2G,/G, | 
+(3:2:7B,/G,/G,D, G,G,-G, | 
+(3:2:7B,/G,/G,D, G,G,-G, :|]  
+
+
+
+X: 20
+T: No_17_Final_Song_of_Bear_Dance_(b).krn
+N: Derived from No_17_Final_Song_of_Bear_Dance_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 4008163870
+%%humdrum-veritas-data 1665234323
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+K: Eb clef=bass
+[K:clef=bass][M:3/4]G,G,G, ||  
+[M:4/4]G,G,E,E, ||  
+[M:3/4]E,3 | 
+G,G,G, ||  
+[M:4/4]G,G,E,E, ||  
+[M:3/4]E,3 | 
+G,E,E, ||  
+[M:4/4]G,E,B,,E, ||  
+[M:3/4]E,3 | 
+G,E,E, ||  
+[M:4/4]G,E,B,,E, ||  
+[M:3/4]E,3 |]  
+
+
+
+X: 21
+T: No_18_Sun_Dance_Song_(a).krn
+N: Derived from No_18_Sun_Dance_Song_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1523562960
+%%humdrum-veritas-data 3192623381
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Db
+[V:1] [K:clef=bass][M:2/4]B,2CB, | 
+[V:2] [K:clef=bass][M:2/4]G,,G,, G,,G,, | 
+[V:1] B,B,A,2 | 
+[V:2] G,,G,, G,,G,, | 
+[V:1] B,2B,A, | 
+[V:2] z4 | 
+[V:1] F,F,/E,/ B,,C,/B,,/ ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]E,2G,E, | 
+[V:2] [M:2/4]z4 | 
+[V:1] D,E,D,2 | 
+[V:2] z4 | 
+[V:1] E,2E,D, | 
+[V:2] z4 | 
+[V:1] B,,3/B,,/B,,2 | 
+[V:2] z4 | 
+[V:1] !fermata!B,,4 | 
+[V:2] z4 | 
+[V:1] B,,B,,B,,2 | 
+[V:2] z4 | 
+[V:1] E,2E,D, | 
+[V:2] z4 | 
+[V:1] E,3//E,//D, B,,D,/B,,/ | 
+[V:2] z4 | 
+[V:1] B,,4 |]  
+[V:2] z4 |]  
+
+
+
+X: 22
+T: No_19_Sun_Dance_Song_(b).krn
+N: Derived from No_19_Sun_Dance_Song_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 563037241
+%%humdrum-veritas-data 1866872988
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: Ab clef=bass
+[K:clef=bass][M:2/4]EE (3FEC | 
+E2D/B,/A, | 
+A,2CA, | 
+A,2A,2 | 
+CA, CA, | 
+F,A, A,E, | 
+E,2E,2 | 
+F,E, F,E, | 
+C,E, F,/E,/E,/C,/ | 
+A,,A,,A,,2 | 
+A,A, CA, | 
+F,A, CA, | 
+A,A, A, z | 
+CA, CA, | 
+F,A, A,E, | 
+E,E,E,2 | 
+F,E, F,E, | 
+C,E, F,/E,/E,/C,/ | 
+A,,A,,A,,2 |]  
+
+
+
+X: 23
+T: No_1_The_Dust_of_the_Red_Wagon.krn
+N: Derived from No_1_The_Dust_of_the_Red_Wagon.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2444330607
+%%humdrum-veritas-data 1916847429
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: Bb clef=bass
+[K:clef=bass][M:2/4]DD/B,/ D(B,/G,/) [I:setbarnb 2]| 
+G,G,G,2 | 
+(3B,G,B, G,F, | 
+F,F,F,2 | 
+DD/B,/ D(B,/G,/) | 
+G,G,G,2 | 
+(3B,G,B, G,F, | 
+F,F,F,2 | 
+F,B, G,3/G,/ | 
+B,G, B,G, | 
+G,G,G,2 | 
+G,B, G,3/G,/ | 
+B,G, B,G, | 
+G,G,G,2 :|]  
+
+
+
+X: 24
+T: No_20_Sun_Dance_Song_(c).krn
+N: Derived from No_20_Sun_Dance_Song_(c).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1102987787
+%%humdrum-veritas-data 478203621
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: C
+[V:1] [K:clef=bass][M:2/4]E2D2 | 
+[V:2] [K:clef=bass][M:2/4]G,,2G,,2 | 
+[V:1] ED A,E, | 
+[V:2] G,,2G,,2 | 
+[V:1] E2D2 | 
+[V:2] G,,2G,,2 | 
+[V:1] ED A,E, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]A,/E,D,/D,4 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]CD/A,/ C/G,/F, | 
+[V:2] [M:2/4]z4 | 
+[V:1] D,2F,D, | 
+[V:2] z4 | 
+[V:1] A,,2D,C, | 
+[V:2] z4 | 
+[V:1] A,,C,/A,,/A,,2 | 
+[V:2] z4 | 
+[V:1] A,,4 |]  
+[V:2] z4 |]  
+
+
+
+X: 25
+T: No_21_Sun_Dance_Song_(d).krn
+N: Derived from No_21_Sun_Dance_Song_(d).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1375867439
+%%humdrum-veritas-data 1365727085
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Db
+[V:1] [K:clef=bass][M:3/4]F3/E/D2B,2 | 
+[V:2] [K:clef=bass][M:3/4]G,,G,, G,,G,, G,,G,, | 
+[V:1] F/FE/F2F2 | 
+[V:2] z6 | 
+[V:1] F/FE/D2B,2 | 
+[V:2] z6 | 
+[V:1] F/FE/ D3/D/D2 ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]B,/B,3/ F,3/F,/ | 
+[V:2] [M:2/4]z4 | 
+[V:1] F,4 | 
+[V:2] z4 | 
+[V:1] B,/B,3/F,2 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,/B,3/B,4 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]B,/B,3/ F,3/F,/ | 
+[V:2] [M:2/4]z4 | 
+[V:1] F,4 | 
+[V:2] z4 | 
+[V:1] B,/B,3/ F,3/F,/ | 
+[V:2] z4 | 
+[V:1] F,3F, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]G,F,F,4 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]D/D3/B,2 ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]F/FE/ D3/D/D2 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]B,/B,3/ F,3/F,/ | 
+[V:2] [M:2/4]z4 | 
+[V:1] F,4 | 
+[V:2] z4 | 
+[V:1] B,/B,3/F,2 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,/B,3/B,4 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]B,/B,3/ F,3/F,/ | 
+[V:2] [M:2/4]z4 | 
+[V:1] F,4 | 
+[V:2] z4 | 
+[V:1] B,/B,3/ F,3/F,/ | 
+[V:2] z4 | 
+[V:1] G,F,F,2 |]  
+[V:2] z4 |]  
+
+
+
+X: 26
+T: No_22_Sun_Dance_Song_(e).krn
+N: Derived from No_22_Sun_Dance_Song_(e).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2938334768
+%%humdrum-veritas-data 3198635691
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/8
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Bb
+[V:1] [K:clef=bass][M:3/8]F3 | 
+[V:2] [K:clef=bass][M:3/8]G,,G,,G,, | 
+[V:1] F/E/-E/D/B, | 
+[V:2] G,,G,,G,, | 
+[V:1] F3 | 
+[V:2] z3 | 
+[V:1] F2E | 
+[V:2] z3 | 
+[V:1] F3 | 
+[V:2] z3 | 
+[V:1] F/E/-E/D/B,//F,3// | 
+[V:2] z3 | 
+[V:1] B,3 | 
+[V:2] z3 | 
+[V:1] B,G,/F,/F, | 
+[V:2] z3 | 
+[V:1] B,B,B, | 
+[V:2] z3 | 
+[V:1] C//B,3//B,B, ||  
+[V:2] z3 ||  
+[V:1] [M:2/8]B, z ||  
+[V:2] [M:2/8]z2 ||  
+[V:1] [M:3/8]DD2 | 
+[V:2] [M:3/8]z3 | 
+[V:1] D/B,/B,G, ||  
+[V:2] z3 ||  
+[V:1] [M:2/8]F,2 | 
+[V:2] [M:2/8]z2 | 
+[V:1] F,2- | 
+[V:2] z2 | 
+[V:1] F,E, | 
+[V:2] z2 | 
+[V:1] F,G,/F,/ | 
+[V:2] z2 | 
+[V:1] F,F, | 
+[V:2] z2 | 
+[V:1] G,//F,3//F, ||  
+[V:2] z2 ||  
+[V:1] [M:3/8]F,3 | 
+[V:2] [M:3/8]z3 | 
+[V:1] F,G,/F,/F, | 
+[V:2] z3 | 
+[V:1] F,3 | 
+[V:2] z3 | 
+[V:1] B,B,2 | 
+[V:2] z3 | 
+[V:1] B,G,/F,/F, | 
+[V:2] z3 | 
+[V:1] B,B,B, | 
+[V:2] z3 | 
+[V:1] C//B,3//B,B, ||  
+[V:2] z3 ||  
+[V:1] [M:2/8]B, z ||  
+[V:2] [M:2/8]z2 ||  
+[V:1] [M:3/8]DD2 | 
+[V:2] [M:3/8]z3 | 
+[V:1] D/B,/B,G, ||  
+[V:2] z3 ||  
+[V:1] [M:2/8]F,2 | 
+[V:2] [M:2/8]z2 | 
+[V:1] F,2- | 
+[V:2] z2 | 
+[V:1] F,E, | 
+[V:2] z2 | 
+[V:1] F,G,/F,/ | 
+[V:2] z2 | 
+[V:1] F,F, | 
+[V:2] z2 | 
+[V:1] G,//F,3//F, | 
+[V:2] z2 | 
+[V:1] F,2 |]  
+[V:2] z2 |]  
+
+
+
+X: 27
+T: No_23_Sun_Dance_Song_(f).krn
+N: Derived from No_23_Sun_Dance_Song_(f).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2991456400
+%%humdrum-veritas-data 283866215
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+K: Db clef=bass
+[K:clef=bass][M:3/4]F4F//E3//D | 
+B,2F,F, G,F, ||  
+[M:2/4]F,4 ||  
+[M:3/4]E,E,E,4 | 
+E,C,/B,,/B,,4 ||  
+[M:2/4]F,F,F,2 ||  
+[M:3/4]G,2G,4 | 
+F,F,F,4 ||  
+[M:2/4]F,F,F,2- | 
+F,F, G,F, | 
+F,4 |]  
+
+
+
+X: 28
+T: No_24_Sun_Dance_Song_(g).krn
+N: Derived from No_24_Sun_Dance_Song_(g).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1620432314
+%%humdrum-veritas-data 3734334930
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Eb
+[V:1] G [I:setbarnb 1]| 
+[V:2] z | 
+[V:1] G3E GG ||  
+[V:2] G,,G,, G,,G,, G,,G,, ||  
+[V:1] [M:2/4]G3E ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]FF F3/G/ GF ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]E2C2 ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]G,G,G,4 | 
+[V:2] [M:3/4]z6 | 
+[V:1] EEE3G, | 
+[V:2] z6 | 
+[V:1] EEE3G, | 
+[V:2] z6 | 
+[V:1] CCC3G, | 
+[V:2] z6 | 
+[V:1] G,G,G,3E, | 
+[V:2] z6 | 
+[V:1] F,F, F,3/G,/ G,F, ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]E,2(3F,E,C, | 
+[V:2] [M:2/4]z4 | 
+[V:1] C,4 |]  
+[V:2] z4 |]  
+
+
+
+X: 29
+T: No_25_Sun_Dance_Song_(h).krn
+N: Derived from No_25_Sun_Dance_Song_(h).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1617221784
+%%humdrum-veritas-data 2409205835
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+K: A clef=bass
+[K:clef=bass][M:3/4]E2EEE8 ||  
+[M:2/4]EE3A,4 | 
+C3E (5:4:5DCDB,B, | 
+F,F,2E, (3F,2E,2E,2 | 
+E,6E,2 ||  
+[M:3/4]E2EEE8 ||  
+[M:2/4]EE3A,4 | 
+C3E (5:4:5DCDB,B, | 
+F,F,2E, (3F,2E,2E,2 | 
+E,8 | 
+F,2A,2- A,2A,2 | 
+A,8 | 
+C,C,2B,,A,,4 | 
+F,2A,2 A,2A,F, | 
+A,A,2F,E,4 ||  
+[M:3/4]F,E,E,2E,6E,2 ||  
+[M:2/4]F,E,E,2E,4 | 
+E,8 |]  
+
+
+
+X: 30
+T: No_26_Sun_Dance_Song_(i).krn
+N: Derived from No_26_Sun_Dance_Song_(i).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 852342302
+%%humdrum-veritas-data 3016673835
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+K: B clef=bass
+[K:clef=bass][M:2/4]G6D2 | 
+D4C4 ||  
+[M:3/4]F/D3/GDD4C4 | 
+B,4G,8 ||  
+[M:2/4]B,G,3 B,G,3 | 
+B,3G,G,4 | 
+B,G,3 C3B, | 
+B,G,3 C3B, ||  
+[M:3/4]B,G,3G,8 | 
+G,12 |]  
+
+
+
+X: 31
+T: No_27_Undetermined_Dance_Song_(a).krn
+N: Derived from No_27_Undetermined_Dance_Song_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2093317028
+%%humdrum-veritas-data 1476533289
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: G clef=bass
+[K:clef=bass][M:2/4]B,3/B,/ [I:setbarnb 1]| 
+D3/D/ D3/D/ | 
+B,D/C/ B,A, ||  
+[M:3/4]G,3/G,/ G,3/D,/ B,3/B,/ ||  
+[M:2/4]D3/D/ D3/D/ | 
+B,D/C/ B,A, ||  
+[M:5/8]G,3/G,/G,G, z ||  
+[M:3/8]G,G,E, ||  
+[M:2/4]D,3/D,/ D, z | 
+D,3/D,/ D,3/D,/ ||  
+[M:3/4]D,3/D,/ D,3/D,/D,2 ||  
+[M:2/4](3G,E,D, (3E,D,F, ||  
+[M:3/4](3G,E,D, D,3/D,/D,2 ||  
+[M:2/4](3G,E,D, (3E,D,F, ||  
+[M:3/4](3G,E,D, D,3/D,/D,2 ||  
+[M:2/4]D,3/D,/ D,3/D,/ | 
+D,3/D,/ D,3/D,/ | 
+D,2z2 |]  
+
+
+
+X: 32
+T: No_28_Undetermined_Dance_Song_(b).krn
+N: Derived from No_28_Undetermined_Dance_Song_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1081062852
+%%humdrum-veritas-data 2093162554
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+K: Eb clef=bass
+[K:clef=bass][M:3/4]E2EF EDCB, B,3E, | 
+E2EF EDCB, B,3C | 
+B,2B,C B,A,G,F, F,F,2F, | 
+F,2F,G, F,E,E,2 E,E,3 | 
+E,2E,F, E,D,C,B,, B,,B,,3 | 
+F,2F,G, F,E,E,2 E,E,E,2 | 
+E,2E,F, E,D,C,B,, B,,B,,3 ||  
+[M:2/4]B,,2 B,,/B,,3/- B,,B,,B,,2 | 
+B,,2 B,,/B,,3/- B,,B,,B,,B,, | 
+B,,6B,,2 | 
+B,,8 |]  
+
+
+
+X: 33
+T: No_29_Undetermined_Dance_Song_(c).krn
+N: Derived from No_29_Undetermined_Dance_Song_(c).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1100266170
+%%humdrum-veritas-data 3013904082
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: G clef=bass
+[K:clef=bass][M:2/4]D3A, | 
+D4 | 
+A,C CA,/F,/ | 
+A,4 | 
+E,G, G,E,/D,/ | 
+E,4 | 
+D,E, E,D,/B,,/ | 
+D,4 | 
+D,G, G,E,/D,/ | 
+E,4 | 
+D,E, E,D,/B,,/ | 
+D,4 | 
+D,G, G,E,/D,/ | 
+D,3E, | 
+D,4 |]  
+
+
+
+X: 34
+T: No_2_Yellow_Hair.krn
+N: Derived from No_2_Yellow_Hair.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3887583139
+%%humdrum-veritas-data 3215857480
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+K: Bb clef=bass
+[K:clef=bass][M:3/4](B,/G,/)B,G, | 
+B,3/G,/G, | 
+(B,/G,/)B,G, | 
+B,3/G,/G, | 
+(B,/G,/)G,F, | 
+G,3 | 
+(B,/G,/)G,F, | 
+G,3 |]  
+
+
+
+X: 35
+T: No_30_Turkey_Dance_Song_(a).krn
+N: Derived from No_30_Turkey_Dance_Song_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3495459032
+%%humdrum-veritas-data 125610516
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: B
+[V:1] [K:clef=bass][M:2/4]F3/G/ GF | 
+[V:2] [K:clef=bass][M:2/4]G,,G,, G,,G,, | 
+[V:1] DF D3/D/ ||  
+[V:2] G,,G,, G,,G,, ||  
+[V:1] [M:7/8]D4B,G,G, ||  
+[V:2] [M:7/8]G,,G,,G,,G,,G,,G,,G,, ||  
+[V:1] [M:2/4]B,3/C/ CB, | 
+[V:2] [M:2/4]G,,G,, G,,G,, | 
+[V:1] G,/G,/B, G,3/G,/ ||  
+[V:2] G,,G,, G,,G,, ||  
+[V:1] [M:7/8]G,4F,D,/D,/D, ||  
+[V:2] [M:7/8]G,,G,,G,,G,,G,,G,,G,, ||  
+[V:1] [M:3/8]G,3/B,/B,/G,/ ||  
+[V:2] [M:3/8]G,,G,,G,, ||  
+[V:1] [M:5/8]F,D,/F,/F,D,3/D,/ ||  
+[V:2] [M:5/8]G,,G,,G,,G,,G,, ||  
+[V:1] [M:3/4]D,4D,2 ||  
+[V:2] [M:3/4]G,,G,, G,,G,, G,,G,, ||  
+[V:1] [M:2/4]B,3/G,/G,2 | 
+[V:2] [M:2/4]!accent!G,,G,, G,, z | 
+[V:1] B,3/C/ CB, | 
+[V:2] G,, z G,, z | 
+[V:1] G,/G,/B, G,3/G,/ ||  
+[V:2] z4 ||  
+[V:1] [M:3/8]G,3 | 
+[V:2] [M:3/8]z3 | 
+[V:1] F,3//D,//D,2 | 
+[V:2] z3 | 
+[V:1] G,3/B,/B,/G,/ ||  
+[V:2] z G,,!accent!G,, ||  
+[V:1] [M:5/8]F,D,/D,/F,D,3/D,/ ||  
+[V:2] [M:5/8]G,,!accent!G,,G,,!accent!G,,G,, ||  
+[V:1] [M:2/4]D,4 | 
+[V:2] [M:2/4]!accent!G,,G,, !accent!G,,G,, | 
+[V:1] D,2z2 ||  
+[V:2] !accent!G,,G,, !accent!G,,G,, ||  
+[V:1] [M:3/4](3FFF DF D3/D/ | 
+[V:2] [M:3/4]G,,G,, G,,G,, G,,G,, | 
+[V:1] D3B, G,G, | 
+[V:2] G,,G,, G,,G,, G,,G,, | 
+[V:1] (3FFF DF D3/D/ | 
+[V:2] G,,G,, G,,G,, G,,G,, | 
+[V:1] D3B,G,2 ||  
+[V:2] G,,G,, G,,G,, G,,G,, ||  
+[V:1] [M:2/4]B,B,/C/ CB, | 
+[V:2] [M:2/4]G,,G,, G,,G,, | 
+[V:1] G,/G,/B, G,3/G,/ | 
+[V:2] G,,G,, G,,G,, | 
+[V:1] G,4 | 
+[V:2] G,,G,, G,,G,, | 
+[V:1] F,3/D,/D,2 ||  
+[V:2] G,,G,, G,,G,, ||  
+[V:1] [M:3/8]G,G,/B,/B,/G,/ ||  
+[V:2] [M:3/8]G,,G,,G,, ||  
+[V:1] [M:5/8]F,D,/D,/F,/F,/D,3/D,/ ||  
+[V:2] [M:5/8]G,,G,,G,,G,,G,, ||  
+[V:1] [M:2/4]D,4 | 
+[V:2] [M:2/4]G,,G,, G,,G,, | 
+[V:1] D,2z2 |]  
+[V:2] G,,G,,z2 |]  
+
+
+
+X: 36
+T: No_31_Turkey_Dance_Song_(b).krn
+N: Derived from No_31_Turkey_Dance_Song_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3347379370
+%%humdrum-veritas-data 4202727605
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: A
+[V:1] [K:clef=treble][M:2/4]A2AF ||  
+[V:2] [K:clef=bass][M:2/4]G,,G,, G,,G,, ||  
+[V:1] [M:3/4]A2AA FF | 
+[V:2] [M:3/4]G,,G,, G,,G,,z2 | 
+[V:1] F6 ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]FF FF | 
+[V:2] [M:2/4]z4 | 
+[V:1] AA EE | 
+[V:2] z4 | 
+[V:1] FF CC | 
+[V:2] z4 | 
+[V:1] B,4[K:clef=bass] | 
+[V:2] z4 | 
+[V:1] CB, A,A, | 
+[V:2] z4 | 
+[V:1] B,B, A,A, | 
+[V:2] z4 | 
+[V:1] F,4 | 
+[V:2] z4 | 
+[V:1] B,B, A,F, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]A,A, A,A, F,F, | 
+[V:2] [M:3/4]z6 | 
+[V:1] F,6 |]  
+[V:2] z6 |]  
+
+
+
+X: 37
+T: No_32_Turkey_Dance_Song_(c).krn
+N: Derived from No_32_Turkey_Dance_Song_(c).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3053563106
+%%humdrum-veritas-data 2771780913
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: B
+[V:1] DF [I:setbarnb 1]| 
+[V:2] z2 | 
+[V:1] F2(F3/D/) | 
+[V:2] G,,G,, G,,G,, | 
+[V:1] D2DF | 
+[V:2] G,,G,, G,,G,, | 
+[V:1] D2(D3/B,/) | 
+[V:2] z4 | 
+[V:1] B,2B,D | 
+[V:2] z4 | 
+[V:1] B,2(B,3/F,/) | 
+[V:2] z4 | 
+[V:1] F,2D,F, | 
+[V:2] z4 | 
+[V:1] F,2F,3/D,/ ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]D,2F,3/D,/ D,3/C,/ ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]D,4 | 
+[V:2] [M:2/4]z4 | 
+[V:1] D,4- | 
+[V:2] z4 | 
+[V:1] D,2z2 |]  
+[V:2] z4 |]  
+
+
+
+X: 38
+T: No_33_Turkey_Dance_Song_(d).krn
+N: Derived from No_33_Turkey_Dance_Song_(d).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 4266268466
+%%humdrum-veritas-data 3722633398
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Eb
+[V:1] [K:clef=bass][M:3/4]F4E/F3/ ||  
+[V:2] [K:clef=bass][M:3/4]G,,G,, G,,G,, G,,G,, ||  
+[V:1] [M:2/4]E3//F//E B,3/B,/ ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]B,4-B,3/E/ ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]!fermata!B,3E ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]D4C/F3/ ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]E3//F//EB,2- | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,2A,/B,3/ | 
+[V:2] z4 | 
+[V:1] A,3//B,//A, F,3/F,/ ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]F,4-F,3/A,/ ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]!fermata!F,3A, ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]F,4E,/F,3/ ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]E,3//F,//E,B,,2 | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,,4 |]  
+[V:2] z4 |]  
+
+
+
+X: 39
+T: No_34_Turkey_Dance_Song_(e).krn
+N: Derived from No_34_Turkey_Dance_Song_(e).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 4138077790
+%%humdrum-veritas-data 876018704
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: B
+[V:1] [K:clef=bass][M:3/4]F4-FGFE D3B, | 
+[V:2] [K:clef=bass][M:3/4]G,,2G,,2 G,,2G,,2 G,,2G,,2 | 
+[V:1] D4-DEDC B,3B, | 
+[V:2] z12 | 
+[V:1] B,8-B,3B, ]|:  
+[V:2] z12 ]|:  
+[V:1] D4-DEDC B,3G, | 
+[V:2] z12 | 
+[V:1] B,4-B,CB,G, F,3D, | 
+[V:2] z12 | 
+[V:1] F,4-F,G,F,E, D,3B,, | 
+[V:2] z12 | 
+[V:1] D,4-D,E,D,C, B,,3B,, | 
+[V:2] z12 | 
+[V:1] B,,12 :|]  
+[V:2] z12 :|]  
+
+
+
+X: 40
+T: No_35_Turkey_Dance_Song_(f).krn
+N: Derived from No_35_Turkey_Dance_Song_(f).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1885750063
+%%humdrum-veritas-data 3867758967
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: E clef=bass
+E2 [I:setbarnb 1]| 
+!fermata!E2C2 ||  
+[M:3/4]!fermata!B,2F,2C2 | 
+B,7/C/ (3G,G,F, ||  
+[M:2/4]E,(3:2:2E,/E,C,2 ||  
+[M:3/4]G,/G,/G,/F,/ (3E,E,F, (3E,E,D, | 
+E,4z2 |]  
+
+
+
+X: 41
+T: No_36_Woman's_Dance_Song_(a).krn
+N: Derived from No_36_Woman's_Dance_Song_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2868318332
+%%humdrum-veritas-data 66040721
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Bb
+[V:1] [K:clef=treble][M:2/4]B/B3/B2 ||  
+[V:2] [K:clef=bass][M:2/4](3!accent!G,, z G,, (3!accent!G,, z G,, ||  
+[V:1] [M:3/4]G/F/F/E/ EE EE ||  
+[V:2] [M:3/4](3!accent!G,, z G,, (3!accent!G,, z G,, (3!accent!G,, z G,, ||  
+[V:1] [M:2/4]F2F3/E/ ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]F/E/E/C/ B,B, B,B, ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]DD/C/ DC | 
+[V:2] [M:2/4]z4 | 
+[V:1] D/C/C/B,/ B,B,[K:clef=bass] | 
+[V:2] z4 | 
+[V:1] C/B,/B, B,B, | 
+[V:2] z4 | 
+[V:1] C/B,/B, B,B, | 
+[V:2] z4 | 
+[V:1] B,4 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]F2F2F3/E/ | 
+[V:2] [M:3/4]z6 | 
+[V:1] F/E/E/C/ B,B, B,B, ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]DD/C/ D/C/C/B,/ | 
+[V:2] [M:2/4]z4 | 
+[V:1] C/B,/B, B,B, | 
+[V:2] z4 | 
+[V:1] C/B,/B, B,B, | 
+[V:2] z4 | 
+[V:1] C/B,/B, B,B, | 
+[V:2] z4 | 
+[V:1] B,4 |]  
+[V:2] z4 |]  
+
+
+
+X: 42
+T: No_37_Woman's_Dance_Song_(b).krn
+N: Derived from No_37_Woman's_Dance_Song_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1020270390
+%%humdrum-veritas-data 1873453997
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Bb
+[V:1] [K:clef=bass][M:2/4]F,/F,3/ F,/F,3/ | 
+[V:2] [K:clef=bass][M:2/4](3!accent!G,, z G,, (3!accent!G,, z G,, | 
+[V:1] F2-F3/C/ | 
+[V:2] z4 | 
+[V:1] C/F3/ FC | 
+[V:2] z4 | 
+[V:1] B,2F,2- | 
+[V:2] z4 | 
+[V:1] F,2A,/G,3/ ]|:  
+[V:2] z4 ]|:  
+[V:1] B,2-B,3/G,/ | 
+[V:2] z4 | 
+[V:1] G,/B,3/ B,G, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]F,2C,4 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]F,/F,3/ E,/E,3/ | 
+[V:2] [M:2/4]z4 | 
+[V:1] E,/F,3/ F,/F,3/ | 
+[V:2] z4 | 
+[V:1] G,/F,3/ F,/F,3/ ||  
+[V:2] z4 ||  
+[V:1] [M:3/4](3F,F,F,F,4- ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]F,2G,/G,3/ :|]  
+[V:2] [M:2/4]z4 :|]  
+[V:1] [M:3/4](3F,F,F,F,4 |]  
+[V:2] [M:3/4]z6 |]  
+
+
+
+X: 43
+T: No_38_Woman's_Dance_Song_(c).krn
+N: Derived from No_38_Woman's_Dance_Song_(c).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 12592790
+%%humdrum-veritas-data 2995312831
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: B
+[V:1] D3/B,/ [I:setbarnb 1]| 
+[V:2] z2 | 
+[V:1] D4B,3/G,/ | 
+[V:2] (3!accent!G,, z G,, (3!accent!G,, z G,, (3!accent!G,, z G,, | 
+[V:1] B,4G,3/D,/ | 
+[V:2] z6 | 
+[V:1] G,4F,3/D,/ | 
+[V:2] z6 | 
+[V:1] D,4G,3/D,/ | 
+[V:2] z6 | 
+[V:1] G,4F,3/D,/ | 
+[V:2] z6 | 
+[V:1] D,4D,3/B,,/ ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]D,4 ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4](3D,D,B,, (3D,D,B,, (3D,D,B,, ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]D,4 :|]  
+[V:2] [M:2/4]z4 :|]  
+
+
+
+X: 44
+T: No_39_Lame_Dance_Song_(a).krn
+N: Derived from No_39_Lame_Dance_Song_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 591555245
+%%humdrum-veritas-data 1046753186
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: E
+[V:1] [K:clef=bass][M:2/4]E2F/E3/ | 
+[V:2] [K:clef=bass][M:2/4]G,,2G,,2 | 
+[V:1] !fermata!E2E2 | 
+[V:2] G,,2G,,2 | 
+[V:1] B,3/C/ C/B,/A,/G,/ | 
+[V:2] G,,2G,,2 | 
+[V:1] F,2F,/E,3/ ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]E,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]C/B,3/ C/B,3/ ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]B,4(3CB,B, | 
+[V:2] [M:3/4]z6 | 
+[V:1] F,3/G,/ (3G,F,E,-E,2 | 
+[V:2] z6 | 
+[V:1] G,/E,3/ (3G,E,E,-E,2 | 
+[V:2] z6 | 
+[V:1] G,/E,3/ C,3/E,/ (3E,C,C, ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]B,,2CC | 
+[V:2] [M:2/4]z4 | 
+[V:1] C/B,C/ C/B,/A,/G,/ | 
+[V:2] z4 | 
+[V:1] F,2F,/E,3/ | 
+[V:2] z4 | 
+[V:1] E,4 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]G,/E,3/ (3G,E,E,E,2 | 
+[V:2] [M:3/4]z6 | 
+[V:1] G,E, C,3/E,/ (3E,C,C, ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]B,,2B,,B,, | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,,2z2 |]  
+[V:2] z4 |]  
+
+
+
+X: 45
+T: No_3_Dance_Faster.krn
+N: Derived from No_3_Dance_Faster.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2456904021
+%%humdrum-veritas-data 2590721780
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: C clef=bass
+[K:clef=bass][M:2/4]C4 | 
+C2G,3/G,/ | 
+C3/G,/ C3/C/ ||  
+[M:3/4](3F,E,E,!fermata!F,2F,/E,/C,/C,/ ||  
+[M:2/4]E,/E,3/ C,C, | 
+C4 | 
+C2G, z | 
+C/C3/ C3/C/ ||  
+[M:3/4](3F,E,E,!fermata!F,2F,/E,/C,/C,/ | 
+E,/E,3/ C,3/C,/C,2 | 
+C,/C,3/ C,3/C,/C,2 ||  
+[M:2/4]C,2C,/C,3/ | 
+C,3/C,/C,2 | 
+E,/E,3/ C,3/C,/ | 
+E,/E,3/ C,3/C,/ | 
+E,2E,C,/C,/ | 
+C,2C,C, | 
+E,/E,3/ C,3/C,/ | 
+E,/E,3/ C,3/C,/ | 
+E,2E,C,/C,/ | 
+C,2C,C, | 
+F,2F,/E,/C,/C,/ | 
+E,2C,3/C,/ | 
+E,2E,C,/C,/ | 
+C,2C,C, | 
+G,,2C,C, | 
+C,2C,C, | 
+G,,2C,C, | 
+C,2C,2 |]  
+
+
+
+X: 46
+T: No_40_Lame_Dance_Song_(b).krn
+N: Derived from No_40_Lame_Dance_Song_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 76840286
+%%humdrum-veritas-data 80279676
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: E
+[V:1] [K:clef=bass][M:2/4]E4B,4 [I:setbarnb 2]| 
+[V:2] [K:clef=bass][M:2/4]G,,4G,,4 | 
+[V:1] E4B,G,G,G, | 
+[V:2] G,,4G,,4 | 
+[V:1] F,E,E,2 F,E,E,2 ||  
+[V:2] z8 ||  
+[V:1] [M:3/4]E,2E,2E,4z4 ||  
+[V:2] [M:3/4]z12 ||  
+[V:1] [M:2/4]E4B,4 | 
+[V:2] [M:2/4]z8 | 
+[V:1] E4B,G,G,G, | 
+[V:2] z8 | 
+[V:1] F,E,E,2 F,E,E,2 ||  
+[V:2] z8 ||  
+[V:1] [M:3/4]E,12 ||  
+[V:2] [M:3/4]z12 ||  
+[V:1] [M:2/4]G,G,3F,4 | 
+[V:2] [M:2/4]z8 | 
+[V:1] A,G,3 F,E,E,D, ||  
+[V:2] z8 ||  
+[V:1] [M:3/4]E,4B,,8 ||  
+[V:2] [M:3/4]z12 ||  
+[V:1] [M:2/4]F,E,3B,,4 | 
+[V:2] [M:2/4]z8 | 
+[V:1] F,E,3E,4 | 
+[V:2] z8 | 
+[V:1] B,,4B,,2B,,2 | 
+[V:2] z8 | 
+[V:1] B,,8 :|]  
+[V:2] z8 :|]  
+
+
+
+% FRACTION = 0.999634BUT SHOULD BE 0
+X: 47
+T: No_41_Lame_Dance_Song_(c).krn
+N: Derived from No_41_Lame_Dance_Song_(c).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 858886938
+%%humdrum-veritas-data 2835231878
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: E
+[V:1] [K:clef=bass][M:3/4]E3/F/ E3/B,/ B,/G,3/ | 
+[V:2] [K:clef=bass][M:3/4]G,,2G,,2G,,2 | 
+[V:1] EF/E/ F/EB,/ B,/!fermata!G,3/ | 
+[V:2] G,,2G,,2G,,2 | 
+[V:1] C3/B,/C2C/B,3/ ||  
+[V:2] z6 ||  
+[V:1] [M:2/4](3G,F,E,-E,2 ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]F,/E,3/- E,E,E,2 | 
+[V:2] [M:3/4]z6 | 
+[V:1] C3/B,/ C3/C/ B,3/(G,/ [I:setbarnb 7]||  
+[V:2] z6 ||  
+[V:1] [M:2/4](3G,)F,E, F,/E,/F, ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]C3/G,/ B,/G,/B,/G,/ (3:2:6(F,/8E,/)(F,/E,/)(F,/E,/) ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4](3G,F,E, (3F,E,E, ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]E,E, E, z/ E,/E,2 | 
+[V:2] [M:3/4]z6 | 
+[V:1] [M:2/4](3G,F,E, F,/E,/F,/E,/ | 
+[V:2] [M:2/4]z4 | 
+[V:1] (3G,F,E,E,2 :|]  
+[V:2] z4 :|]  
+
+
+
+X: 48
+T: No_42_Closing_Song_of_the_Lame_Dance.krn
+N: Derived from No_42_Closing_Song_of_the_Lame_Dance.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1772069026
+%%humdrum-veritas-data 3602576095
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: B
+[V:1] [K:clef=bass][M:2/4]G,B,B,2 [I:setbarnb 2]| 
+[V:2] [K:clef=bass][M:2/4]G,,G,, G,,G,, | 
+[V:1] (3B,G,G,G,2 | 
+[V:2] G,,G,, G,,G,, | 
+[V:1] G,B,B,2 | 
+[V:2] z4 | 
+[V:1] (3B,G,G,G,2 | 
+[V:2] z4 | 
+[V:1] G,B,G,2 | 
+[V:2] z4 | 
+[V:1] (3B,G,G,G,2 | 
+[V:2] z4 | 
+[V:1] G,G,G,2 | 
+[V:2] z4 | 
+[V:1] (3G,G,G,G,2 :|]  
+[V:2] z4 :|]  
+
+
+
+X: 49
+T: No_43_Dragging-Feet_Dance_(a).krn
+N: Derived from No_43_Dragging-Feet_Dance_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 402943233
+%%humdrum-veritas-data 3189269458
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: E
+[V:1] [K:clef=bass][M:3/4]EE CE C3/C/ [I:setbarnb 2]| 
+[V:2] [K:clef=bass][M:3/4]G,,2G,,2G,,2 | 
+[V:1] E4C2 | 
+[V:2] G,,2G,,2G,,2 | 
+[V:1] B,2B,2G,2 ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]B,B, G,B, | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,2!fermata!B,2 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]EE CEC2 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]G,G, G,3/E,/ ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]E,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]E,E, C,E, | 
+[V:2] [M:2/4]z4 | 
+[V:1] !fermata!E,4 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,B, G,B,G,2 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]E,E, E,3/B,,/ ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]B,,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]B,,B,, B,,B,, | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,,4 :|]  
+[V:2] z4 :|]  
+
+
+
+X: 50
+T: No_44_Dragging-Feet_Dance_(b).krn
+N: Derived from No_44_Dragging-Feet_Dance_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2589640020
+%%humdrum-veritas-data 3763047658
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Db
+[V:1] [K:clef=bass][M:2/4]D/D3/ [I:setbarnb 1]| 
+[V:2] [K:clef=bass][M:2/4]G,,2 | 
+[V:1] F2EF/E/ ||  
+[V:2] G,,2G,,2 ||  
+[V:1] [M:3/4]D2A,3/A,/ A,3/D/ ||  
+[V:2] [M:3/4]G,,2G,,2G,,2 ||  
+[V:1] [M:2/4]D2A,A, ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]A,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]A,2G,3/A,/ ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]A,4G,2 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]A,A, A,3/A,/ ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]A,7/A,/ A,3/D/ | 
+[V:2] [M:3/4]z6 | 
+[V:1] D2A,/A,3/ A,G, ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]A,4- | 
+[V:2] [M:2/4]z4 | 
+[V:1] [M:1/4]A,2 :|]  
+[V:2] [M:1/4]z2 :|]  
+
+
+
+X: 51
+T: No_45_Closing_Song_of_the_Dragging-Feet_Dance.krn
+N: Derived from No_45_Closing_Song_of_the_Dragging-Feet_Dance.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2742188894
+%%humdrum-veritas-data 4125948445
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: Bb
+[V:1] [K:clef=bass][M:3/4]D/DC/!fermata!D2C3/B,/ | 
+[V:2] [K:clef=bass][M:3/4]G,,2G,,2G,,2 | 
+[V:1] D4CC | 
+[V:2] G,,2G,,2G,,2 | 
+[V:1] B,B,B,2G,2 ||  
+[V:2] G,,2G,,2G,,2 ||  
+[V:1] [M:2/4]B,B, G,B, ||  
+[V:2] [M:2/4]G,,2G,,2 ||  
+[V:1] [M:3/4]B,6 ||  
+[V:2] [M:3/4]G,,2z4 ||  
+[V:1] [M:2/4]DD CD/C/ | 
+[V:2] [M:2/4]z G,,z2 | 
+[V:1] CB, G,B,/G,/ | 
+[V:2] z G,,z2 | 
+[V:1] (3F,D,D,D,2 | 
+[V:2] z G,,z2 | 
+[V:1] D,2B,,2 | 
+[V:2] G,,2z2 | 
+[V:1] D,D, B,,D, ||  
+[V:2] G,,2G,,2 ||  
+[V:1] [M:3/4]D,6 ||  
+[V:2] [M:3/4]G,,2G,,2G,,2 ||  
+[V:1] [M:2/4]B,B, G,B,/G,/ | 
+[V:2] [M:2/4]G,,2G,,2 | 
+[V:1] G,F, D,F,/D,/ | 
+[V:2] G,,2G,,2 | 
+[V:1] D,B,, B,,B,, | 
+[V:2] G,,2G,,2 | 
+[V:1] B,,4 |]  
+[V:2] G,,2G,,2 |]  
+
+
+
+X: 52
+T: No_46_Tea_Dance_Song_(a).krn
+N: Derived from No_46_Tea_Dance_Song_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2281317686
+%%humdrum-veritas-data 2828494914
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: E
+[V:1] FE [I:setbarnb 1]| 
+[V:2] z2 | 
+[V:1] F2FE | 
+[V:2] (3!accent!G,, z G,, (3!accent!G,, z G,, | 
+[V:1] B,2FE | 
+[V:2] z4 | 
+[V:1] F2FE | 
+[V:2] z4 | 
+[V:1] B,2B,G, ]|:  
+[V:2] z4 ]|:  
+[V:1] B,2B,G, | 
+[V:2] z4 | 
+[V:1] F,3/B,/ B,G, | 
+[V:2] z4 | 
+[V:1] B,2B,G, | 
+[V:2] z4 | 
+[V:1] F,3/G,/F,2- | 
+[V:2] z4 | 
+[V:1] F,4 | 
+[V:2] z4 | 
+[V:1] z2F,2 | 
+[V:2] z4 | 
+[V:1] F,4 | 
+[V:2] z4 | 
+[V:1] E,3/F,/E,2 | 
+[V:2] z4 | 
+[V:1] F,3/G,/E,2 | 
+[V:2] z4 | 
+[V:1] B,,2B,,B,, | 
+[V:2] z4 | 
+[V:1] B,,B,, B,,B,, | 
+[V:2] z4 | 
+[V:1] [M:3/4]B,,3B, B,G, :|]  
+[V:2] [M:3/4]z6 :|]  
+
+
+
+X: 53
+T: No_47_Tea_Dance_Song_(b).krn
+N: Derived from No_47_Tea_Dance_Song_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3263747759
+%%humdrum-veritas-data 101343006
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: G
+[V:1] [K:clef=bass][M:2/4]G3/D/D2 | 
+[V:2] [K:clef=bass][M:2/4](3!accent!G,, z G,, (3!accent!G,, z G,, | 
+[V:1] G3/D/ DB, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]GDD2 | 
+[V:2] [M:2/4]z4 | 
+[V:1] G3/D/ DB, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]DB,B,2 ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]DB, B,3/G,/G,2 | 
+[V:2] [M:3/4]z6 | 
+[V:1] [M:2/4]B,3/A,/A,2 [I:setbarnb 10]||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]B,3/A,/ B,G, G,D, ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]D,B,,B,,2- | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,,4 | 
+[V:2] z4 | 
+[V:1] E,3/D,/D,2 | 
+[V:2] z4 | 
+[V:1] E,3/D,/ D,B,, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]D,B,,B,,2 | 
+[V:2] [M:2/4]z4 | 
+[V:1] D,B,, B,,A,, | 
+[V:2] z4 | 
+[V:1] B,,4 | 
+[V:2] z4 | 
+[V:1] B,,4 :|]  
+[V:2] z4 :|]  
+
+
+
+X: 54
+T: No_48_Tea_Dance_Song_(c).krn
+N: Derived from No_48_Tea_Dance_Song_(c).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3093578141
+%%humdrum-veritas-data 3428038839
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: E
+[V:1] B, [I:setbarnb 1]| 
+[V:2] z | 
+[V:1] E4B, z ||  
+[V:2] G,,G,, G,,G,, G,,G,, ||  
+[V:1] [M:2/4]E2B,E | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,2B,2 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,2G,2G,E- ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]E4 | 
+[V:2] [M:2/4]z4 | 
+[V:1] E2B, z | 
+[V:2] z4 | 
+[V:1] E2B,E | 
+[V:2] z4 | 
+[V:1] B,2B,2 | 
+[V:2] z4 | 
+[V:1] B,2G,2 | 
+[V:2] z4 | 
+[V:1] B,B, G,B, [I:setbarnb 11]| 
+[V:2] z4 | 
+[V:1] G,2G,2 | 
+[V:2] z4 | 
+[V:1] G,F, E,E, | 
+[V:2] z4 | 
+[V:1] F,F, F, z | 
+[V:2] z4 | 
+[V:1] F,F,E,2 | 
+[V:2] z4 | 
+[V:1] F,F, E,F, | 
+[V:2] z4 | 
+[V:1] E,2E, z | 
+[V:2] z4 | 
+[V:1] E,2B,,2 | 
+[V:2] z4 | 
+[V:1] E,!fermata!E, B,,B,, | 
+[V:2] z4 | 
+[V:1] B,,3B,, | 
+[V:2] z4 | 
+[V:1] B,,4 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,,4-B,,G, | 
+[V:2] [M:3/4]z6 | 
+[V:1] B,4G,2 :|]  
+[V:2] z6 :|]  
+[V:1] [M:2/4]B,,B,,B,,2 | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,,B,, B,,B,, | 
+[V:2] z4 | 
+[V:1] B,,4 |]  
+[V:2] z4 |]  
+
+
+
+X: 55
+T: No_49_Double_Dance_Song_(a).krn
+N: Derived from No_49_Double_Dance_Song_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1008585510
+%%humdrum-veritas-data 4041922998
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: D
+[V:1] [K:clef=bass][M:2/4]B,/B,3/A,2 | 
+[V:2] [K:clef=bass][M:2/4]G,,2G,,2 | 
+[V:1] B,3A, ||  
+[V:2] G,,2G,,2 ||  
+[V:1] [M:3/4]B,/B,3/A,2(B,/A,/)F, ||  
+[V:2] [M:3/4]G,,2G,,2G,,2 ||  
+[V:1] [M:2/4]E,/E,3/D,2 | 
+[V:2] [M:2/4]z4 | 
+[V:1] D,4 | 
+[V:2] z4 | 
+[V:1] B,/B,3/A,2 | 
+[V:2] z4 | 
+[V:1] B,3A, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,/B,3/A,2(B,/A,/)F, ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]F,3A, | 
+[V:2] [M:2/4]z4 | 
+[V:1] B,3A, ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]B,/B,3/A,2(B,/A,/)F, ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]F,2F,2 | 
+[V:2] [M:2/4]z4 | 
+[V:1] F,4 |]  
+[V:2] z4 |]  
+
+
+
+X: 56
+T: No_4_Song_of_Nu'šina.krn
+N: Derived from No_4_Song_of_Nu'šina.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 744948491
+%%humdrum-veritas-data 1945529009
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+K: D clef=bass
+[K:clef=bass][M:3/4]DD A,A,D2 | 
+DD DD DD | 
+DD A,DF,2 ||  
+[M:2/4]D,D, D,D, | 
+D,D, D,!fermata!D, | 
+[M:3/4]F,F, D,D,F,2 [I:setbarnb 7]| 
+F,F, F,F, F,F, | 
+F,F, D,D,D,2 | 
+D,D, D,D,D,2 | 
+F,F, D,D,F,2 | 
+F,F, F,F, F,F, | 
+F,F, D,D,D,2 | 
+D,D, D,D,D,2 | 
+E,E, D,D,E,2 | 
+E,E, E,E, E,E, | 
+E,D, D,D,D,2 | 
+D,D, D,D,D,2 | 
+E,E, D,D,D,2 | 
+D,D, D,D, D,D, | 
+D,D, C,C,D,2 | 
+D,D, D,D,D,2 | 
+D,D, C,C,D,2 | 
+D,D, D,D,D,2 | 
+[M:2/4]D,4 :|]  
+
+
+
+X: 57
+T: No_50_Double_Dance_Song_(b).krn
+N: Derived from No_50_Double_Dance_Song_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 782041570
+%%humdrum-veritas-data 1866539080
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: A
+[V:1] [K:clef=bass][M:2/4]CA,/A,/C2 [I:setbarnb 2]||  
+[V:2] [K:clef=bass][M:2/4]G,,G,, G,,G,, ||  
+[V:1] [M:3/4]A,F,/E,/A,2F,E, ||  
+[V:2] [M:3/4]G,,G,, G,,G,, G,,G,, ||  
+[V:1] [M:2/4]C,3/F,/E,2 | 
+[V:2] [M:2/4]z4 | 
+[V:1] C,3/F,/ E,3/C,/ | 
+[V:2] z4 | 
+[V:1] C,4 | 
+[V:2] z4 | 
+[V:1] !fermata!C,4 | 
+[V:2] z4 | 
+[V:1] F,E, (3C,E,E, | 
+[V:2] z4 | 
+[V:1] C,4 ||  
+[V:2] z4 ||  
+[V:1] [M:3/4]F,E, (3C,E,E,C,2 :|]  
+[V:2] [M:3/4]z6 :|]  
+
+
+
+X: 58
+T: No_51_Iron_Line_Dance_Song.krn
+N: Derived from No_51_Iron_Line_Dance_Song.krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2232140798
+%%humdrum-veritas-data 504336314
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: D
+[V:1] [K:clef=bass][M:3/4]D/D3/ B,D B,3/B,/ | 
+[V:2] [K:clef=bass][M:3/4]G,,2G,,2G,,2 | 
+[V:1] D4B,/B,3/ | 
+[V:2] G,,2G,,2G,,2 | 
+[V:1] A,A,A,2F,3/A,/ ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]A,/A,3/ F,A, ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]A,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]D/D3/ B,D ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]A,G, F,3/A,/ F,/E,/D, | 
+[V:2] [M:3/4]z6 | 
+[V:1] D,4B,,2 ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]D,/D,3/ B,,D, ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]D,6 ||  
+[V:2] [M:3/4]z6 ||  
+[V:1] [M:2/4]A,/A,3/ F,A, ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]F,E, D,3/F,/ C,/B,,/A,, | 
+[V:2] [M:3/4]z6 | 
+[V:1] A,,4F,,2 ||  
+[V:2] z6 ||  
+[V:1] [M:2/4]A,,/A,,3/ F,,A,, ||  
+[V:2] [M:2/4]z4 ||  
+[V:1] [M:3/4]A,,6 | 
+[V:2] [M:3/4]z6 | 
+[V:1] A,,/A,,3/ A,,A,,A,,2 |]  
+[V:2] z6 |]  
+
+
+
+X: 59
+T: No_52_Song_Used_in_Treatment_of_Sick_(a).krn
+N: Derived from No_52_Song_Used_in_Treatment_of_Sick_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1870782352
+%%humdrum-veritas-data 1397470420
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+K: Eb clef=bass
+B,4 [I:setbarnb 1]| 
+C3B, C2B,B, ||  
+[M:3/4]B,8B,4 ||  
+[M:2/4]F,2E,E, F,2E,E, | 
+E,8 | 
+F,3E, G,2E,E, ||  
+[M:3/4]E,8E,2B,,2 ||  
+[M:2/4]!fermata!E,4F,2E,E, | 
+E,6E,2 | 
+B,,4B,,3B,, | 
+B,,8 |]  
+
+
+
+X: 60
+T: No_53_Song_Used_in_Treatment_of_Sick_(b).krn
+N: Derived from No_53_Song_Used_in_Treatment_of_Sick_(b).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 265961006
+%%humdrum-veritas-data 3360249527
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+K: Eb clef=bass
+[K:clef=bass][M:3/4]B,/F,3/ F,E, F,B, | 
+B,4B,2 | 
+F,E, F,B,/F,/ E,F, | 
+E,/E,E,/E,4 ||  
+[M:2/4]F,/E,3/ F,/E,E,/ | 
+F,E,/E,/ E,B,, | 
+E,2(3F,E,E, | 
+E,2(3F,E,E, | 
+B,,2B,,2 | 
+B,,4 |]  
+
+
+
+X: 61
+T: No_54_Song_Used_in_Treatment_of_Sick_(c).krn
+N: Derived from No_54_Song_Used_in_Treatment_of_Sick_(c).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2787479150
+%%humdrum-veritas-data 1067949710
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: Eb clef=bass
+B,/F,3/ [I:setbarnb 1]| 
+B,4- | 
+B,4 | 
+F,2E,2 | 
+F,2(3E,E,E, | 
+E,3E, | 
+E,4 | 
+(3G,F,F,F,2- | 
+F,2E,2 | 
+F,2E,E, | 
+F,2(3E,E,E, | 
+E,3E, | 
+E,4- | 
+E,4 |]  
+
+
+
+X: 62
+T: No_55_Song_Used_in_Treatment_of_Sick_(d).krn
+N: Derived from No_55_Song_Used_in_Treatment_of_Sick_(d).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 1836736193
+%%humdrum-veritas-data 2406867707
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: Bb clef=bass
+[K:clef=bass][M:2/4]B,3B, | 
+B,4 ||  
+[M:3/4]CB,C2B,B,/B,/ | 
+B,4B,2 | 
+F,2F,4 ||  
+[M:2/4]G,F,G,2 | 
+G,3F, ||  
+[M:3/4]G,F,G,2F,F,/F,/ ||  
+[M:2/4]F,4 | 
+F,3F, | 
+F,4 |]  
+
+
+
+X: 63
+T: No_56_Song_Used_in_Treatment_of_Sick_(e).krn
+N: Derived from No_56_Song_Used_in_Treatment_of_Sick_(e).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3055726127
+%%humdrum-veritas-data 3198540683
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: Bb clef=bass
+[K:clef=bass][M:2/4]B,/B,3/-B,2- | 
+B,4- | 
+B,4 | 
+C/B,3/C2 ||  
+[M:3/4]C4-CB, ||  
+[M:2/4]C2(3B,B,B, ||  
+[M:3/4]B,6 | 
+B,2F,2G,3/F,/ ||  
+[M:2/4]G,4 ||  
+[M:3/4]G,4-G,F, ||  
+[M:2/4]G,2(3F,F,F, ||  
+[M:3/4]F,6 ||  
+[M:2/4]F,4 | 
+F,3F, | 
+F,4 |]  
+
+
+
+X: 64
+T: No_57_Song_Used_in_Treatment_of_Sick_(f).krn
+N: Derived from No_57_Song_Used_in_Treatment_of_Sick_(f).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 4079911374
+%%humdrum-veritas-data 2832804793
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+K: Bb clef=bass
+[K:clef=bass][M:3/4]B,6 | 
+B,6 ||  
+[M:2/4]CB,C2- | 
+C2B,B,/B,/ | 
+B,4- | 
+B,2B,2 | 
+F,2F,2 | 
+F,4 | 
+G,F,G,2- | 
+G,2F,2 ||  
+[M:3/4]G,3/F,/G,3F, | 
+F,6 | 
+F,4-F,F, | 
+F,6 |]  
+
+
+
+X: 65
+T: No_58_Song_Used_in_Treatment_of_Sick_(g).krn
+N: Derived from No_58_Song_Used_in_Treatment_of_Sick_(g).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3534440787
+%%humdrum-veritas-data 926435569
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: G clef=bass
+[K:clef=bass][M:2/4]A,2A,2 | 
+B,A, G,A, | 
+A,4 | 
+G,A, B,A, | 
+G,4 | 
+A,/G,3/G,2 | 
+A,G,G,2- ||  
+[M:3/4]G,4G,3/D,/ | 
+G,2G,2G,3/D,/ ||  
+[M:2/4]D,4 | 
+D,3D, | 
+D,4 |]  
+
+
+
+X: 66
+T: No_59_Song_Used_in_Tratment_of_Sick_(h).krn
+N: Derived from No_59_Song_Used_in_Tratment_of_Sick_(h).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 31760817
+%%humdrum-veritas-data 1382453747
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: G clef=bass
+D, [I:setbarnb 1]| 
+B,3A, ||  
+[M:3/4]A,3E,/D,/D,2 | 
+A,4-A,E,/D,/ ||  
+[M:2/4]A,3/E,/ A,3/E,/ ||  
+[M:3/4]D,2D,3D, ||  
+[M:2/4]D,3D, | 
+B,3A, | 
+A,3E,/D,/ | 
+D,4 | 
+A,G, A,E,/D,/ | 
+D,4 | 
+D,4 |]  
+
+
+
+X: 67
+T: No_5_Bear_Dance_Song_(a).krn
+N: Derived from No_5_Bear_Dance_Song_(a).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 624495058
+%%humdrum-veritas-data 2218029416
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/4
+K: Bb clef=bass
+C/ [I:setbarnb 1]| 
+C3/C/ | 
+C3/C/ | 
+C3/C/ | 
+C3/D/ | 
+DC | 
+D3/F/ | 
+F3/D/ | 
+B,3/G,/ | 
+F,3/F,/ | 
+F,3/F,/ | 
+F,3/F,/ | 
+F,2 | 
+CG, | 
+B,F,3//B,// | 
+B,3/C/ | 
+C3/G,/ ||  
+[M:3/4]G,F,3/F,/ ||  
+[M:2/4]F,3/F,/ | 
+F,3/F,/ | 
+F,2 |]  
+
+
+
+X: 68
+T: No_60_Song_Used_in_Treatment_of_Sick_(i).krn
+N: Derived from No_60_Song_Used_in_Treatment_of_Sick_(i).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2265658001
+%%humdrum-veritas-data 2490062401
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: G clef=bass
+[K:clef=bass][M:2/4]E4 | 
+DA,D2 ||  
+[M:3/4]A,G, G,A,A,2 ||  
+[M:2/4]A,B, B,A, | 
+B,2G,2 | 
+G,4- | 
+G,2G,A, ||  
+[M:3/4]A,4G,A, | 
+A,4G,A, | 
+B,/G,3/G,4 ||  
+[M:2/4]G,4 ||  
+[M:3/4]G,4G,D ||  
+[M:2/4]D4 ||  
+[M:3/4]A,4G,A, | 
+B,4G,2 | 
+G,4G,A, | 
+A,4G,A, ||  
+[M:2/4]B,3G, ||  
+[M:3/4]G,4G,A, | 
+A,4G,A, | 
+A,4G,2 ||  
+[M:2/4]G,3G, ||  
+[M:3/4]G,4G,B, | 
+B,4G,A, | 
+A,4G,A, | 
+B,3G, (3A,G,A, ||  
+[M:2/4]G,2G,3/G,/ | 
+G,4 | 
+G,4 |]  
+
+
+
+X: 69
+T: No_61_Song_Used_in_Treatment_of_Sick_(j).krn
+N: Derived from No_61_Song_Used_in_Treatment_of_Sick_(j).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3338728085
+%%humdrum-veritas-data 2500943064
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: Db clef=treble
+[K:clef=treble][M:2/4]A4- ||  
+[M:3/4]A6 | 
+dA dc d3/A/ | 
+dF FF FE ||  
+[M:2/4]AF FA | 
+FE DD | 
+EE EE ||  
+[M:3/4]D2DDD2 | 
+A,2A,2A,2 | 
+FD DE EE ||  
+[M:2/4]D2EE ||  
+[M:3/4]D6 | 
+D6 |]  
+
+
+
+X: 70
+T: No_62_Song_Used_in_Treatment_of_Sick_(k).krn
+N: Derived from No_62_Song_Used_in_Treatment_of_Sick_(k).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 777258843
+%%humdrum-veritas-data 633661832
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: Db clef=treble
+[K:clef=treble][M:2/4]E4 | 
+F4- | 
+FEE2 | 
+F3E ||  
+[M:3/4]FD B,B, B,B, ||  
+[M:2/4]EE ED | 
+ED B,B, | 
+B,4 | 
+E/D3/ DB, | 
+DB, B,B, | 
+B,B,B,2 | 
+B,4 ]|:  
+FF FF | 
+F4 ||  
+[M:3/4]BF FFE2 ||  
+[M:2/4]B3F | 
+!fermata!B2EE/D/ ||  
+[M:3/4]ED B,B,B,2 ||  
+[M:2/4]B,4 | 
+[M:3/4]DB, B,B,B,2 [I:setbarnb 21]| 
+D4DB, | 
+B,B, B,B,B,2 ||  
+[M:2/4]DB, B,B, | 
+B,B,B,2 | 
+B,4 :|]  
+
+
+
+X: 71
+T: No_63_Song_Used_in_Treatment_of_Sick_(l).krn
+N: Derived from No_63_Song_Used_in_Treatment_of_Sick_(l).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3247190928
+%%humdrum-veritas-data 4042844644
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+K: C clef=treble
+[K:clef=treble][M:3/4]GG EE EE ||  
+[M:2/4]GG DC | 
+CC CC ||  
+[M:3/4]EE DD CC ||  
+[M:2/4]DD DD | 
+CCC2 | 
+C4 | 
+D2C2 ||  
+[M:3/4]CC CCC2 ||  
+[M:2/4]C2C2 | 
+GG GG ||  
+[M:3/4]GEE2z2 | 
+c (3c/G/F/ E/E/E G (3G/E/D/ ||  
+[M:2/4]ED CC ||  
+[M:3/4]CC CC DC/C/ | 
+G,2G,G,G,2 | 
+DD CC CC ||  
+[M:2/4]DD DC ||  
+[M:3/4]C2CCC2 ||  
+[M:2/4]D2CC | 
+CCC2 | 
+C4 |]  
+
+
+
+X: 72
+T: No_64_Song_Used_in_Treatment_of_Sick_(m).krn
+N: Derived from No_64_Song_Used_in_Treatment_of_Sick_(m).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3321896204
+%%humdrum-veritas-data 1497527976
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/4
+K: C clef=treble
+[K:clef=treble][M:2/4]G2- | 
+Gc | 
+d2 | 
+ed | 
+c2 | 
+d2 | 
+cd | 
+c2 ||  
+[M:3/4]GEE | 
+G2E | 
+G2E | 
+DC2- | 
+C2E ||  
+[M:2/4]D2- | 
+DD | 
+C2- | 
+C2 | 
+DC ||  
+[M:3/4]D3 ||  
+[M:2/4]C2- ||  
+[M:3/4]C2D ||  
+[M:2/4]CD ||  
+[M:3/4]C3- ||  
+[M:2/4]C2 | 
+C2 | 
+G2- | 
+G2- ||  
+[M:3/4]G3 ||  
+[M:2/4]c3/G/ | 
+c3/G//E// | 
+E2- | 
+E2 | 
+G3/E/ | 
+G3/E/ | 
+GE/D/ | 
+ED | 
+C2- | 
+C2 | 
+C2 | 
+G,2- | 
+G,2 | 
+DC | 
+C2 | 
+D2- | 
+DC | 
+C2 | 
+DC ||  
+[M:3/4]C3 ||  
+[M:2/4]C2- | 
+C2 |]  
+
+
+
+X: 73
+T: No_65_Song_Used_in_Treatment_of_Sick_(n).krn
+N: Derived from No_65_Song_Used_in_Treatment_of_Sick_(n).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 2458111498
+%%humdrum-veritas-data 2870204817
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/4
+K: Bb clef=treble
+[K:clef=treble][M:2/4]F2- | 
+F2- | 
+FB | 
+c2 | 
+dc ||  
+[M:3/4]B3 ||  
+[M:2/4]cB ||  
+[M:3/4]B2D/C/ | 
+DC2 | 
+DD//C3//-C | 
+B,3- ||  
+[M:2/4]B,2 | 
+D//C3//-C ||  
+[M:3/4]B,3 ||  
+[M:2/4]DC | 
+C2 | 
+CB, ||  
+[M:3/4]B,3 ||  
+[M:2/4]CB, | 
+B,2- | 
+B,2 | 
+B,2 |]  
+
+
+
+X: 74
+T: No_66_Song_Used_in_Treatment_of_Sick_(o).krn
+N: Derived from No_66_Song_Used_in_Treatment_of_Sick_(o).krn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/15 08:36:49
+%%humdrum-veritas 3226505536
+%%humdrum-veritas-data 17043020
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/4
+K: Bb clef=treble
+[K:clef=treble][M:2/4]BF FF ||  
+[M:3/4]FF FF F!fermata!F ||  
+[M:2/4]BF DD | 
+DD DD ||  
+[M:3/4](3:2:4BBB/F/ BF DD/C/ ||  
+[M:2/4]DC B,B, | 
+B,B, B,!fermata!B, ||  
+[M:3/4]CB, B,B,B,2 ||  
+[M:2/4]DCC2 | 
+CB, B,B, | 
+B,B,B,2 | 
+CB, B,B, | 
+B,B,B,2 | 
+B,4 |]  
+
+
+

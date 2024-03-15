@@ -1,0 +1,18 @@
+beginps
+/micronewps {1}
+/sbar {M -3.0 4.0 rmoveto 4.0 4.3 rlineto stroke}!
+/hbar {M -3.0 -1.0 rmoveto 6.0 1.5 rlineto stroke}!
+/num2 {M 2.0 6.0 rmoveto /Times-Roman 10 selectfont (2) show}!
+/num3 {M 4.0 6.0 rmoveto /Times-Roman 10 selectfont (3) show}!
+
+/ft1543  {2 copy ft0 sbar}! %_7/8
+/ft515 {ft1543}! %_3/4
+/ft3{gsave -1 1 scale exch neg exch ft0 grestore}!
+/ft259 {2 copy ft3}! %_2/4
+/sh3 {2 copy sh1}! %_1/4
+/sh259 {2 copy sh1}! %^2/4
+/sh515 { 2 copy sh0}! %^3/4
+/sh2055 {2 copy sh1 hbar}! % ^9/8
+endps
+
+

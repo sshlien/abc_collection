@@ -1,0 +1,2659 @@
+% Music from the Skidi and Chaui Bands near Pawnee, Oklahoma
+% from 1919 to 1920 
+% Reference: Frances Densmore, "Pawnee Music"
+% Smithsonian Institution, Bureau of American Ethnology
+% Bulletin 93
+% Government Printing Office 1926
+% Washington, DC, United States of America
+% The document can be download in pdf format from
+% https://library.si.edu/digital-library/book/bulletin-smithsonian-institution-bureau-american-ethnology
+% The music was transcribed to electronic format by
+% David Huron, August 31 2000.
+% Electronic Copyright 2000 David Huron
+% September 2000
+% United States of America
+
+% converted from kern notation using Craig Sapp's hum2abc
+% conversion-date 2018/12/31 09:17:2
+% kern scores can be found on http://kern.humdrum.org/help/tour/
+% http://kern.ccarh.org/ and http://kern.ccarh.org/help/data/
+% kern software developed by Craig Sapp can be found on
+% http://extras.humdrum.org/man/
+
+%%linebreak <none>
+X: 1
+T: Song of Morning Star
+N: Derived from pawnee01.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 3/4
+K: F clef=bass
+%%linebreak <none>
+C/ | 
+C2C | 
+CB,C | 
+(G,>F,)F, | 
+F,F,3/B,/ | 
+G,2G, | 
+CB,B, | 
+G,G,F, | 
+F,F,3/B,/ | 
+G,2F, | 
+F,F,3/F,/ | 
+F,2F, | 
+F,F,3/F,/ | 
+G,2G, | 
+CB,B,3// C// | 
+G,2F, | 
+F,F,3/(G,// F,//) | 
+C,2C, | 
+C,B,,C, | 
+G,,2G,, | 
+F,,F,,3/B,, | 
+G,,2G,, | 
+C,B,,C, | 
+G,,G,,F,, | 
+F,F,3/ |]  
+
+
+
+X: 2
+T: The Herd Passes Through the Village
+N: Derived from pawnee02.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: G clef=bass
+%%linebreak <none>
+E/ E/ E E E E D | 
+E E E E-E2[M:2/4] | 
+E E E E | 
+E G, (G, F,)[M:3/4] | 
+G, E, E, F, F, F,[M:2/4] | 
+E, E, (E, B,,)[M:3/4] | 
+E, E, E, F, F, F,[M:2/4] | 
+E, E, (E, B,,) | 
+E, E, E, F, | 
+F, E,E,2[M:3/4] | 
+F E E E E E[M:2/4] | 
+(E G,) (^G, F,)[M:3/4] | 
+G, E, E, F, F, F,[M:2/4] | 
+E, E, (E, B,,)[M:3/4] | 
+E, E, E, F, F, F,[M:2/4] | 
+E, E, (E, B,,) | 
+E, E, E, F, | 
+F, E,E,2 |]  
+
+
+
+X: 3
+T: The Buffalo and the Crow
+N: Derived from pawnee03.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: E clef=bass
+%%linebreak <none>
+E [I:setbarnb 1]| 
+E E E E E E[M:2/4] | 
+E4 | 
+E> E E E3// E// | 
+(E> C) B,3/ G,/[M:7/8] | 
+(B,/ G,/ F,/ E,/) F, E,/ E,< E, C/[M:2/4] | 
+(B,/ E,) G,/E,2[M:5/8] | 
+E, E, E, (E,/ B,,3/)[M:2/4] | 
+E, E, (E,/ B,,3/)[M:3/4] | 
+E, E, E, E, z3/ E/[M:2/4] | 
+E E/ E/E2[M:5/8] | 
+E E (E/ C/) (B, G,)[M:7/8] | 
+(B,/ G,/ F,/ E,/) F, F, E, E,3/ C/[M:2/4] | 
+(B,/ E,) G,/E,2[M:5/8] | 
+E, E, E, (E,/ B,,3/)[M:2/4] | 
+E, E, (E,/ B,,3/)[M:3/4] | 
+E, E, E, E, z |]  
+
+
+
+X: 4
+T: My Dear Father the Buffalo
+N: Derived from pawnee04.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: Db clef=bass
+%%linebreak <none>
+F F F F (E/ D) E/[M:2/4] | 
+E> D D3/ !tenuto!C/ | 
+D> DD2[M:3/4] | 
+D D D F (E/ D) E/[M:2/4] | 
+E> D D3/ !tenuto!C/ | 
+D> D !fermata!D3/ F/[M:3/4] | 
+E> E (D> B,) A,/< A,/ A,/ A,/ | 
+E,2E, D, D, D,[M:2/4] | 
+E, (E,/ D,/)E,2 | 
+(3G, G, G,E,2 | 
+D,/ D,/ D,/ D,/ D, E,/ D,/[M:3/4] | 
+D,4-D,3/ :|]  
+
+
+
+X: 5
+T: Yonder the Smoke Was Standing
+N: Derived from pawnee05.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: G clef=bass
+%%linebreak <none>
+D D D D | 
+!fermata!D> D D D[M:3/4] | 
+D2D4[M:2/4] | 
+D E D D[M:3/4] | 
+A,2(A,/ G,) A,< A, E,/[M:2/4] | 
+E,2D,2 | 
+(E,/ D,) E,< E, D,/ | 
+D,2D,2- | 
+D,4 | 
+E2(3D D D | 
+E> DD2[M:3/4] | 
+A,2(A,/ G,) A,< A, E,/[M:2/4] | 
+E,2D,2 | 
+(E,/ D,) E,< E, D,/ | 
+D,2D,2- | 
+D,4 |]  
+
+
+
+X: 6
+T: The Woman Imitates the Buffalo
+N: Derived from pawnee06.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: E clef=bass
+%%linebreak <none>
+(3E E E E3/ E/ | 
+(3(E D) EC2 | 
+C2(C A,) | 
+C A, G, G, ]|:  
+E EE2 [I:setbarnb 6]| 
+(3(E D) E (C3/ B,/) | 
+(C> A,) (C3/ G,/) | 
+C/ (C A,/) C/ C E,/[M:3/4] | 
+G,< E, (E, D,)C,2[M:2/4] | 
+(3E, E, E, C,3/ B,,/ | 
+C,> B,,C,2 | 
+(3C, C, C,G,,2 | 
+G,,2z E | 
+E> G, G,/> G,/ G,/ G,/ | 
+G,,2z2 |]  
+
+
+
+X: 7
+T: The Buffalo Are Coming
+N: Derived from pawnee07.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 3/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+(3F2 F2 F2 F2 F> F F2 F2[M:2/4] | 
+(F> C) C2 C2 !fermata!z2 | 
+F4C> C C2 | 
+F2 F2 F3 F[M:3/4] | 
+F4(F> C) C2 C3 F | 
+A,4(A,> F,) F,2 F,3 C | 
+A,4(A,> F,) F,2 F,3 C, | 
+C,4F,> F, F,2F,4[M:2/4] | 
+F2< F2 C2 F F | 
+F4F2 F F[M:3/4] | 
+F4(F> C) C2 C3 F | 
+A,4(A,> F,) F,2 C,3 C | 
+A,4(A,> F,) F,2 F,3 C, | 
+F,4F,> F, F,2F,4 |]  
+
+
+
+X: 8
+T: The Waves of Dust
+N: Derived from pawnee08.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: Eb clef=bass
+%%linebreak <none>
+F/ F/ [I:setbarnb 1]| 
+F< E E/ E/ E/ E/ | 
+E E!fermata!z2 | 
+E< E (F/ E3/) | 
+F E B,3/ B,/[M:3/4] | 
+(B, F,/>) E,/E,2(F, E,3//) E,//[M:2/4] | 
+(F, E,/>) E,/E,2 | 
+G,3F | 
+(3(F E) E (3(E E) E | 
+(3(F E) F- (3F- F F[M:3/4] | 
+(3(F E) EE2(F/ E) E/ | 
+(B, F,/>) F,/ (F,< E,) (F,/ E,) F,/ | 
+(F,/> E,/) E,E,2E,3/ F,/[M:2/4] | 
+(F, E,/>) E,/ (F,/ E,3/) | 
+F,< E, E,3/ G,/ | 
+E,4 | 
+E,3 :|]  
+
+
+
+X: 9
+T: Unreal the Buffalo is Standing
+N: Derived from pawnee09.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: B clef=bass
+%%linebreak <none>
+D/ D/ [I:setbarnb 1]| 
+D D D D | 
+D D B, G, | 
+(D,/ B,/) B, B, B,/ G,/ | 
+D, D, D, D, | 
+B, B, B, B,/ G,/ | 
+D, D, ^^C, C, | 
+D,/ D,/ D,E,2 | 
+(E,/ D,/) D,D,2 | 
+D D D D | 
+B, G,/> G,/G,2 | 
+B, B, B, B,/ G,/ | 
+D,> D,D,2 | 
+B, B, B, (3B,/ G,/ G,/ | 
+D, D, ^^C, C, | 
+D,/ D,/ D,E,2 | 
+E,/ D,/ D, !fermata!D, D/ D/ | 
+D D D D | 
+D D B, G,[M:3/4] | 
+D G, D D/> D/ D z[M:2/4] | 
+D D D D | 
+B, G,/> G,/G,2 | 
+B, B, B, B,/ G,/ | 
+D,> D,D,2 | 
+B, B, B, (3B,/ G,/ G,/ | 
+D, D, ^^C, C, | 
+D,/ D,/ D,E,2 | 
+E,/ D,/ D, D, |]  
+
+
+
+X: 10
+T: The Band of the Dead Is Coming
+N: Derived from pawnee10.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: E clef=treble
+%%linebreak <none>
+B> c (3B A A | 
+F> G (3F E F | 
+(3F C C (3C B, B, | 
+(3C B, B, (3B, B, B,[M:3/4] | 
+(3C B, C (3C B, B, B,3/ C/ | 
+(3C B, B, B,> B,B,2[M:2/4] | 
+(3c B c (3c B B | 
+B> c (3c B B[M:3/4] | 
+B> B (3c B BB2[M:2/4] | 
+c/ B c/ (3B A A | 
+F> G (3F E F | 
+(3F C C (3C B, B, | 
+(3C B, B, (3B, B, B,[M:3/4] | 
+(3C B, C (3C B, B, B,3/ C/ | 
+(3C B, B, B,> B,B,2 |]  
+
+
+
+X: 11
+T: Mother is Coming
+N: Derived from pawnee11.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: B clef=bass
+%%linebreak <none>
+D D [I:setbarnb 1]| 
+D2D2 | 
+D E C B, | 
+C2B,2 ]|:  
+B,3C [I:setbarnb 5]| 
+!fermata!B,4 | 
+B, B, D D | 
+D E C B, | 
+C2B,2 | 
+D B, F, D, | 
+F,2D,2 | 
+D,2D,2 | 
+D,2D,3/ B/[M:3/4] | 
+(3B, F, F,F,2D,2[M:2/4] | 
+F, D, C, B,, | 
+C,2B,,2 | 
+B,,2B,,2 | 
+B,,4 | 
+C2B,2 | 
+D2C2 :|]  
+
+
+
+X: 12
+T: The Bear is Pointing at the Sun
+N: Derived from pawnee12.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: C clef=bass
+%%linebreak <none>
+E E/ E/ E E[M:3/4] | 
+E D C C C z | 
+E E/ D/ E DC2 | 
+D C A, A, A, A,3// E//[M:2/4] | 
+(E/ C) C/ (C/ A,3/) | 
+A, A, A, (A,/ G,/)[M:3/4] | 
+A, A, B, A, A,3/ E/[M:2/4] | 
+E> E E3/ E/[M:3/4] | 
+E DC2-C3/ E/[M:2/4] | 
+(E/ C) C/ (C/ A,3/)[M:3/4] | 
+C C A, A, A,3/ E/[M:2/4] | 
+(E/ C) C/ (C/ A,3/) | 
+A, A, A, (A,/ G,/) | 
+A, A, B, A, | 
+A,4 |]  
+
+
+
+X: 13
+T: A Woman Stands Among the Trees
+N: Derived from pawnee13.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: D clef=bass
+%%linebreak <none>
+(3E E E E E (D !fermata!B,)[M:2/4] | 
+E< E D (D/ B,/)[M:3/4] | 
+B, B, B, B,z2[M:2/4] | 
+B, B,/ B,/ E E | 
+E E (D/ B,3/) | 
+E< E D (D/ B,/)[M:3/4] | 
+B, B, (D/> B,/) B, (B,/> A,/) !fermata!F,[M:3/8] | 
+(D/> B,/) B, D/ B,/[M:3/4] | 
+F, F,- F, (F,/> E,/) (F, E,) | 
+B,< B, F, (F,/ E,/) E, E,[M:2/4] | 
+E,2D,2 | 
+E, E, D, D, | 
+B,, B,, B,, B,, | 
+B,,4 | 
+B,4 | 
+(3D D DB,2[M:3/4] | 
+E D E E (D B,) |]  
+
+
+
+X: 14
+T: The Hores is Shouting
+N: Derived from pawnee14.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: C clef=bass
+%%linebreak <none>
+E EE2 | 
+E> E (E D)[M:3/4] | 
+C2C2z3/ E/[M:2/4] | 
+(E/ D) E/ (E D) | 
+C2C3/ D/[M:3/4] | 
+(D< C)C2C2 | 
+(C2A,2)A,3/ D/[M:2/4] | 
+(D C) (D C) | 
+A,2A,2 | 
+A,2A,3/ C/[M:3/4] | 
+(C< A,)A,2A,2[M:2/4] | 
+A,3E | 
+(E D- D) E[M:3/4] | 
+(E D- D) E (E D)[M:2/4] | 
+C2C3/ D/[M:3/4] | 
+(D< C)C2C2 | 
+C2A,2A,3/ D/[M:2/4] | 
+(D C) (D C) | 
+A,2A,2 | 
+C2A,3/ C/[M:3/4] | 
+(C< A,)A,2A,2[M:2/4] | 
+A,2A,2 | 
+A,2z2 |]  
+
+
+
+X: 15
+T: I Was Lost in the Timber
+N: Derived from pawnee15.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 2/4
+Q: 1/4=88
+K: C clef=bass
+%%linebreak <none>
+EE/ E/ | 
+(EC) | 
+EC/ C/ | 
+C3/E// E//[M:3/4] | 
+(E/< C/- C/>) E/ E// C3//[M:2/4] | 
+(C/ A,/)A, | 
+CA, | 
+A,2 | 
+B,A, | 
+A,2 | 
+B,A, | 
+A,3/A,/ | 
+E2[M:3/4] | 
+EC/> E/ (E// C3//)[M:2/4] | 
+(C/ A,/)A, | 
+CA, | 
+A,2 | 
+B,A, | 
+A,2 | 
+B,A, | 
+A,2 |]  
+
+
+
+X: 16
+T: I Am Like a Bear
+N: Derived from pawnee16.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 2/4
+Q: 1/4=88
+K: Ab clef=bass
+%%linebreak <none>
+C/> E/E[M:5/4] [I:setbarnb 1]| 
+E2>C2C[M:3/4] | 
+CCC[M:4/4] | 
+C3z | 
+Ez/ C/CCD[M:4/4] | 
+E3C/ C/[M:5/6] | 
+A,A,E,E,E,/ z/[M:3/4] | 
+E,E,E, | 
+E,E,z[M:5/4] | 
+A,/ F,/E,C/ A,/!fermata!E,!fermata!E, | 
+E,E,C,C,C,/ z/[M:4/4] | 
+E,E,E,E,/ E,/[M:5/4] | 
+E,E,E,3 | 
+E,E,E,E,E,3// E// | 
+ECCCD[M:4/4] | 
+E3C/ C/[M:5/6] | 
+A,A,E,E,E,/ z/[M:3/4] | 
+E,EE, | 
+E,E,z[M:5/6] | 
+A,/ F,/E,C/ A,/!fermata!E,!fermata!E, | 
+E,E,C,C,C,/ z/[M:4/4] | 
+E,E,E,E,/ E,/ | 
+E,E,E,3 |]  
+
+
+
+X: 17
+T: Bear Dance Song (a)
+N: Derived from pawnee17.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+F F/ F/ F F// E// E< E E/[M:2/4] | 
+E> E E F, | 
+F,2F,2 | 
+E> F, E/ F, F,/ | 
+F F F/ E E/ | 
+E E E3/ E/[M:3/4] | 
+E F,F,2F, F, | 
+F, F, F, F, F, F,3// G,// | 
+G, G, G,/ F, F,/ F, F,[M:2/4] | 
+F,2D, G,/ F,/ | 
+F, F, G, G,/ F,/ | 
+F,2G, F, | 
+F, G, F, G, | 
+F,2z3/ F/ | 
+F> D D3/ F/ | 
+F Fz2 | 
+D F, F, F,/ z/[M:3/4] | 
+F, G, F, G, F, F,3// F,// | 
+G, G, G,/ F, F,/ F, F,[M:2/4] | 
+F,2D, G,/ F,/ | 
+F,2F, F,/ F,/ | 
+F,2G, F, | 
+F, G, F, G, | 
+F,2z2 |]  
+
+
+
+X: 18
+T: Bear Dance Song (b)
+N: Derived from pawnee18.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: E clef=bass
+%%linebreak <none>
+D D/ D/ [I:setbarnb 1]| 
+!accent!D D E D/ z/[M:3/4] | 
+D C C C D D/ z/[M:2/4] | 
+!accent!D C C C | 
+!accent!D D E D/ z/ | 
+D C C C/ z/ | 
+D D D C/ z/ | 
+!accent!D G, G, G,/ z/ | 
+!accent!A, A, A, G,/ z/[M:3/4] | 
+G, D, D, D, E, D,/ z/ | 
+C, C, C, C,/ z/ D, D,[M:2/4] | 
+C, C, C, z[M:3/4] | 
+D D D D D D[M:2/4] | 
+!accent!D D E D/ z/ | 
+D C C C/ z/ | 
+!accent!D D D C/ z/ | 
+D G, G, G,/ z/ | 
+!accent!A, A, A, G,/ z/[M:3/4] | 
+G, D, D, D, E, D,/ z/ | 
+C, C, C, C,/ z/ D, D,[M:2/4] | 
+C, C, C, z :|]  
+
+
+
+X: 19
+T: Bear Dance Song (c)
+N: Derived from pawnee19.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: C clef=bass
+%%linebreak <none>
+E E/ E/ E E | 
+E E E E | 
+D D D z/ E/ | 
+E< D D D | 
+D E E E | 
+E E E E | 
+D D E D/ z/[M:3/4] | 
+D E E, E, E, E,/ z/ | 
+C E, E, E, E, E,/ z/ | 
+C E, E, E, C, z/ E/[M:2/4] | 
+E/ D z/ D D | 
+D E E E | 
+E E E E | 
+D D E D[M:3/4] | 
+D E E, E, E, E,/ z/ | 
+C E, E, E, E, E,/ z/ | 
+C E, E, E, C, z |]  
+
+
+
+X: 20
+T: Bear Dance Song (d)
+N: Derived from pawnee20.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 2/4
+Q: 1/4=88
+K: C clef=bass
+%%linebreak <none>
+E/ E/ [I:setbarnb 1]| 
+EC[M:3/4] | 
+EzE/ E/[M:2/4] | 
+EC | 
+A,z[M:3/4] | 
+EzA,[M:2/4] | 
+EE | 
+EC[M:3/4] | 
+EzE/ C/ | 
+ECA, | 
+E/< C/ C/ z/ A,/ A,/ | 
+A,G,E, | 
+G,z!tenuto!A,/ G,/ | 
+A,G,E, | 
+G,zE,/ E,/ | 
+E,E,C, | 
+E,zD,/ D,/ | 
+D,C,A,, | 
+A,,3 |]  
+
+
+
+X: 21
+T: How Near is the Mornging?
+N: Derived from pawnee21.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 3/4
+Q: 1/4=88
+K: E clef=bass
+%%linebreak <none>
+D>CD[M:2/4] [I:setbarnb 2]| 
+CC | 
+CC | 
+C2[M:3/4] | 
+D>CD[M:2/4] | 
+G,G,/ F,/ | 
+G,/> G,/F, | 
+E,C,[M:3/4] | 
+C,C,C,[M:2/4] | 
+F,/> F,/G, | 
+E,C,[M:3/4] | 
+C,C,C,[M:2/4] | 
+C,/> C,/C, | 
+C,C,[M:3/4] | 
+C,C,C,[M:2/4] | 
+G,/> G,/F, | 
+E,C,[M:3/4] | 
+C,C,C, :|]  
+
+
+
+X: 22
+T: Spring is Opening
+N: Derived from pawnee22.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 2/4
+Q: 1/4=88
+K: Bb clef=bass
+%%linebreak <none>
+FF | 
+FF | 
+FF[M:3/4] | 
+F/ D/ D/ C/B,[M:2/4] | 
+DC | 
+B,B, | 
+CB,[M:3/4] | 
+B,B,B,[M:2/4] | 
+FF | 
+FF | 
+FF[M:3/4] | 
+F/ D/ D/ C/B,[M:2/4] | 
+DC | 
+B,B, | 
+CB,[M:3/4] | 
+B,/ G,/ G,/ F,/D,[M:2/4] | 
+B,G, | 
+F,F, | 
+G,F,[M:3/4] | 
+F,/ D,/ D,/ C,/B,,[M:2/4] | 
+D,C, | 
+B,,B,,- | 
+B,,B,, | 
+B,,2 | 
+B,,2 | 
+B,B, | 
+B,B, | 
+CB,[M:3/4] | 
+D/ B,/ G,/ F,/D,[M:2/4] | 
+B,G, | 
+F,F, | 
+G,F,[M:3/4] | 
+F,/ D,/ D,/ C,/B,,[M:2/4] | 
+D,C, | 
+B,,B,,- | 
+B,,B,, | 
+B,,2 | 
+B,,2 |]  
+
+
+
+X: 23
+T: Old Age is Painful
+N: Derived from pawnee23.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: A clef=bass
+%%linebreak <none>
+A/ [I:setbarnb 1]| 
+A2G2 | 
+F2(F3/ E/)[M:3/4] | 
+F2F3G/[M:2/4] | 
+F4- | 
+F3G[M:3/4] | 
+F2F2F3/ D/ | 
+D2(D< C) C3/ C/ | 
+(C< A,) (A,< G,) F,3/ F,/ | 
+F,2F,2F,3/ F,/[M:2/4] | 
+F,2A,/ F,3/[M:3/4] | 
+F,2F,< F,- F,3/ B,/[M:2/4] | 
+A,2A,/ G,3/ | 
+G,< F, F,3/ F,/ | 
+F,< E, F,3/ F,/ | 
+F,7/ |]  
+
+
+
+X: 24
+T: Beloved Emblem
+N: Derived from pawnee24.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+(F E) (F E)[M:3/4] | 
+D DD4 | 
+E DD4-[M:2/4] | 
+D4 | 
+(F E) (F E)[M:3/4] | 
+D DD4[M:2/4] | 
+E DD2- | 
+D4[M:3/4] | 
+F ED2(D C[M:2/4] | 
+A, A, A, G, | 
+A,2(B, A,) | 
+D, D, D, B,, | 
+(F,> E,) (F,3/ E,/)[M:3/4] | 
+D, D,D,4 | 
+E, D,D,4 |]  
+
+
+
+X: 25
+T: Crow Lance Society Song
+N: Derived from pawnee25.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 2/4
+Q: 1/4=88
+K: Ab clef=treble
+%%linebreak <none>
+C2 [I:setbarnb 1]| 
+c8 | 
+C2< B2 (5:4:5B A G F F/ | 
+B4G4[M:3/4] | 
+G2< F2F6G2[M:2/4] | 
+F8- | 
+F6A2[M:3/4] | 
+G4G F2 F F E3[M:2/4] | 
+C2> C2 C C2 C | 
+C2 C2- C3 D | 
+C2> C2C4 | 
+C2< B,2 (5:4:5C G, F, F, F,/ | 
+B,4G,4[M:3/4] | 
+G,2< F,2F,6G,2[M:2/4] | 
+F,6 :|]  
+
+
+
+X: 26
+T: The Lance Dancers
+N: Derived from pawnee26.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 5/4
+Q: 1/4=88
+K: B clef=bass
+%%linebreak <none>
+F> FF2F> EE2E2 | 
+F> FF2F> F (E> F)C2 | 
+F> B,B,2B,> DB,2B,2[M:3/4] | 
+G F F EC2[M:2/4] | 
+G F F E | 
+F CB,2[M:5/4] | 
+G> FC2C> CB,2B,2 | 
+F> CC2C> CB,2B,2 | 
+D> F,F,2F,> E,E,2E,2 | 
+G,> F,F,2F,> F, (E,> F)C,2 | 
+B,,> B,,B,,2B,,> B,,B,,2B,,2[M:3/4] | 
+G, F, F, E,C,2[M:2/4] | 
+G, F, F, E, | 
+F, C,B,,2[M:5/4] | 
+G,> F,C,2C,> C,B,,2B,,2 | 
+C,> C,C,2C,> B,,B,,2B,,2 | 
+D,6-D,4 |]  
+
+
+
+X: 27
+T: Lance Dance Song (a)
+N: Derived from pawnee27.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 3/4
+Q: 1/4=88
+K: G clef=treble
+%%linebreak <none>
+!fermata!B4B2> B2 A3 F [I:setbarnb 2]| 
+E8E F E F[M:2/4] | 
+E2 E FE4 | 
+E6F2[M:3/4] | 
+E4E6E2 | 
+F2> F2E4E D3[M:2/4] | 
+B,6A, B, | 
+(3B,2 A,2 B,2G,4[M:3/4] | 
+E,8^G,4[M:2/4] | 
+B,2> B,2^G,4 | 
+E,2< ^G,2 E,3 E, | 
+E,6^G,2 | 
+E,8 :|]  
+
+
+
+X: 28
+T: Lance Dance Song (b)
+N: Derived from pawnee28.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: B clef=treble
+%%linebreak <none>
+c [I:setbarnb 1]| 
+(3c c c c> cB2 | 
+(3G G G G> GB2 | 
+(3G G G G> G G3/ G/ | 
+(3F F F F> G F z | 
+(3B G G G> G B3/ G/[M:2/4] ]|:  
+(3F F F F3/ F/ [I:setbarnb 7]| 
+E2C/ B,3/[M:3/4] | 
+C> C C> CB,2 | 
+(3G, G, G, G,> B,B,2 | 
+(3G, G, G, G,> B,G,2[M:2/4] | 
+(3F, F, F,F,2[M:3/4] | 
+(3G G G G> B B3/ G/ :|]  
+
+
+
+X: 29
+T: The White Fox
+N: Derived from pawnee29.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+F,4- | 
+F,4[M:3/4] | 
+F/ F/ FF2F (D/ C/) | 
+D C (C A,/ G,/)!fermata!z2 | 
+C/ C/ C (D C) C (_A,/ G,/) | 
+_A,/ G,/ G, (G,/ F,/) F,!fermata!F,2[M:2/4] | 
+G, G, G,3/ _A,/ | 
+G,> F,F,2 | 
+F,4 | 
+F,4- | 
+F,4 | 
+F,4[M:3/4] | 
+C C C> C (G,/ F,/) G, | 
+C C C> D C C | 
+(3(_A, G,) A, (3(A, G,) G, F,3/ =A,/[M:2/4] | 
+(3(_A, G,) G,!fermata!F,2 | 
+F,4[M:3/4] | 
+C,> C, C,> D, (3D, C, C,[M:2/4] | 
+(3_A,, F,, A,, (3A,, G,, G,, | 
+F,,3_A,, | 
+(3_A,, G,, G,, (3A,, G,, G,, | 
+F,,4 | 
+F,,4 |]  
+
+
+
+X: 30
+T: It Is Mine, This Country Wide
+N: Derived from pawnee30.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+F> D (C3/ A,/) [I:setbarnb 2]| 
+F4 | 
+(3(F D) C (A,3/ F,/) | 
+C4[M:3/4] | 
+(C/ A,/ A,/ F,/) (A,/ F,/) F, F, F,[M:2/4] | 
+(C/ A,/ C/ A,/) A, A, | 
+F, F,F,2 | 
+F, F, (3F, F, F, | 
+F,4 | 
+F,4- | 
+F,3F, | 
+C> B, (G,3/ F,/) | 
+C4[M:3/4] | 
+(3(A, F,) F, (F,> E,) F, F,[M:2/4] | 
+(C/ A,/ C/ A,/) A, A, | 
+F, F,F,2 | 
+F, F, (3F, F, F, | 
+F,4 | 
+F,> D, C,3/ A,,/ | 
+F,4 | 
+(3F, C, C, A,,3/ F,,/ | 
+C,4 | 
+(3(C, A,, A,,F,,2 | 
+F,,4 | 
+F,,4[M:3/4] | 
+F,6 :|]  
+
+
+
+X: 31
+T: Song Concerning Iron Shirt
+N: Derived from pawnee31.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 2/4
+Q: 1/4=88
+K: B clef=bass
+%%linebreak <none>
+DF [I:setbarnb 2]| 
+D(D/ C/) | 
+CC | 
+DD[M:3/4] | 
+C(C/ B,/)B, | 
+G,(G,/ F,/)G,[M:2/4] | 
+D,(D,/ B,,/) | 
+B,,B,, | 
+D,D,/ D,/ | 
+B,,D, | 
+B,,B,,/ B,,/- | 
+B,,B,, | 
+B,,2- | 
+B,,2- | 
+B,,D | 
+C/> C/ (C/ B,/) | 
+G,G,[M:3/4] | 
+F,(G,/ D,/) (D,/ B,,/)[M:2/4] | 
+B,,B,, | 
+D,D,/ D,/ | 
+B,(D,/ B,,/) | 
+B,,B,,/ B,,/- | 
+B,,B,, | 
+B,,2- | 
+B,,B,, :|]  
+
+
+
+X: 32
+T: Eagle Chief's War Song
+N: Derived from pawnee32.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: G clef=bass
+%%linebreak <none>
+G/ [I:setbarnb 1]| 
+G> G G3/ E/ | 
+D> C C3/ E/ | 
+D> E D3/ B,/ | 
+G,> G, G,3/ D/ | 
+B,> D G,3/ B,/ | 
+G,> G, G,3/ B,/ | 
+G,> G, G, G, | 
+G, G, G, G, | 
+G,2-G,3/ :|]  
+
+
+
+X: 33
+T: The Thunder Spoke Quietly
+N: Derived from pawnee33.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: Ab clef=bass
+%%linebreak <none>
+E, E, E,> E, C,3/ A,,/ [I:setbarnb 2]| 
+C, C, C,> C, A,, E,, | 
+(A,,> E,,) E,, E,,E,,2 | 
+E,,6 | 
+E,,4E,,2[M:2/4] | 
+E,, B,, C, C,3// C,// | 
+(C,> B,,)A,,2[M:3/4] | 
+E,, E,, E,, C,,!fermata!C,,2 | 
+(A,,> E,,) E,, E,,E,,2 | 
+E,,4E,,2 :|]  
+
+
+
+X: 34
+T: He Comes
+N: Derived from pawnee34.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: A clef=bass
+%%linebreak <none>
+F F [I:setbarnb 1]| 
+F2(F E) F F | 
+C C (C B,) (C B,) | 
+A, A,A,2A, A, | 
+C2(C B,) C B, | 
+A, A, (A, F,) (A, F,) | 
+F, F,F,2F, F, | 
+A,2(A, F,) (A, F,) | 
+F, F,2<F,2F, | 
+F,6 | 
+F,4F, F, | 
+(C2-C B,) (C B,) | 
+A, A,A,2B, B, | 
+A, A,A,2F, F, | 
+F, F,F,2F, F, | 
+(A,2>F,2) A, A, | 
+F, F,F,2F,3/ F,/ | 
+F,6 | 
+F,4 |]  
+
+
+
+X: 35
+T: A Woman Welcomes the Warriors
+N: Derived from pawnee35.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: D clef=bass
+%%linebreak <none>
+F/ F F/ F E | 
+D B,A,2 | 
+F,4 | 
+F/ F E/ F E | 
+D B,A,2 | 
+F,4[M:3/4] | 
+D/ D B,/ D B,A,2[M:2/4] | 
+F,< F, F, F, | 
+F,2F, F, | 
+(F> E) (F3/ E/) | 
+D> B,A,2 | 
+F,4[M:3/4] | 
+D/ D B,/ D B,A2[M:2/4] | 
+F,< F, F, F, | 
+F,2z2 |]  
+
+
+
+X: 36
+T: Song for Returned Pawnee Soldiers
+N: Derived from pawnee36.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+F [I:setbarnb 1]| 
+F2 C CF4 | 
+C4A,3 F[M:3/4] | 
+F2 C CC4A,3 F,[M:2/4] | 
+F,4F,3 B,[M:3/4] | 
+B,2 G, G,B,4G,3 F,[M:2/4] | 
+F,2< F,2 F,2 F,2 | 
+F,7 :|]  
+
+
+
+X: 37
+T: Brown Bear's Song
+N: Derived from pawnee37.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: D clef=treble
+%%linebreak <none>
+B [I:setbarnb 1]| 
+B3F[M:3/4] | 
+G< F-F2E2 | 
+B/ F/ F B B- B F[M:2/4] | 
+G< F- F3/ D/ | 
+D< C-C2 | 
+B,2B,2 | 
+F> F D/ C3/ | 
+D> C C/ C3/ | 
+B,< B,- B, B, | 
+B,2B3/ B/[M:3/4] | 
+d> d B< A B A | 
+F4F3/ D/[M:2/4] | 
+B< B B3/ F/ | 
+E< D D/ D3/[M:3/4] | 
+C4C/ B,3/[M:2/4] | 
+F> F D/ C3/ | 
+D> C C/ C3/ | 
+B,< B, B, |]  
+
+
+
+X: 38
+T: Women's War Song
+N: Derived from pawnee38.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: Eb clef=treble
+%%linebreak <none>
+(3G F E(G3F) [I:setbarnb 2]| 
+F C-C2C2 | 
+(3G F EG3F | 
+F C-C2C2 | 
+(3C C =B,C4 | 
+E CC4 | 
+F C G F C C[M:7/8] | 
+FC GF EC C[M:3/4] | 
+C2C C F[M:2/4] | 
+C2C z[M:7/8] | 
+EC CC CC =B,[M:2/4] | 
+C4 | 
+E CC2 :|]  
+
+
+
+X: 39
+T: Blue Hawk's Hand Game Song
+N: Derived from pawnee39.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+F,> A, (3A, F, F,[M:3/4] [I:setbarnb 2]| 
+A, z/ A,/ (3A, F, F, F, z[M:2/4] | 
+F,> A, (3A, F, F,[M:3/4] | 
+A, z/ A,/ (3A, F, F, F, z[M:2/4] | 
+(3A, F, F, F,3/ F,/ | 
+F, z/ F,/ F, z | 
+F,> F, F, z | 
+(3A, F, F, F,3/ F,/ | 
+F, z/ F,/ F, z | 
+F,> F, F, z :|]  
+
+
+
+X: 40
+T: Hand Game Guessing Song (a)
+N: Derived from pawnee40.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+C2C2 | 
+C> C C z | 
+C2C2 | 
+C> C C z[M:3/4] ]|:  
+C2C> C (3G, F, G, [I:setbarnb 6]| 
+G,2G,> F,F,8 | 
+C2C> C (3G, F, G, | 
+G,2G,> F, F, z[M:2/4] | 
+F,2F,2 | 
+F,> F, F, z | 
+F,2F,2 | 
+F,> F, F, z :|]  
+
+
+
+X: 41
+T: Hand Game Guessing Song (b)
+N: Derived from pawnee41.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 3/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+F, [I:setbarnb 1]| 
+(3C2 B,2 G,2 C C C C C2 z B, | 
+(3B,2 G,2 F,2 B, B, B, B, B,2 z G, | 
+(3B,2 G,2 F,2 F, F, F, F, F,2 z G, | 
+(3B,2 G,2 F,2 G, G, G, G, G,2 z F, | 
+(3B,2 G,2 F,2 F, F, F, F, F,2 z D, | 
+(3F,2 G,2 F,2 F, F, F, F, F,2 z D, | 
+(3F,2 G,2 F,2 F, F, F, F, F,2 z :|]  
+
+
+
+X: 42
+T: Hand Game Guessing Song (c)
+N: Derived from pawnee42.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+B, G, B, G, | 
+G,2G, F,/ z/ | 
+B, G, B, G, | 
+G,2G, F,/ z/ | 
+F, F, G, F, | 
+F, F, F, z | 
+F, F, G, F, | 
+F, F, F, z | 
+F, F,/ z/ F, F,[M:3/4] | 
+G, F, F, F, F, z[M:2/4] | 
+F, F,/ z/ F, F,[M:3/4] | 
+G, F, F, F, F, z |]  
+
+
+
+X: 43
+T: Hand Game Guessing Song (d)
+N: Derived from pawnee43.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+G, G, B, A,[M:3/4] [I:setbarnb 2]| 
+G, G, G, z G, G, | 
+C2B, B, B, G,[M:2/4] | 
+B, B, B, G,[M:3/4] | 
+F, F, F, D, F, F, | 
+G,2F, F, F, D,[M:2/4] | 
+F, F, F, D, | 
+C, C, C, z | 
+C, C,C,2 | 
+C, C, C, z | 
+F, F, F, D, | 
+D, D, D, C,/ z/ | 
+D, D, F, D, | 
+C, C, C, z | 
+C, C,C,2 | 
+C, C, C, z :|]  
+
+
+
+X: 44
+T: Hand Game Guessing Song (e)
+N: Derived from pawnee44.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+A,2(3B, A, G, [I:setbarnb 2]| 
+G,> G, G, z | 
+A,2(3B, A, G, | 
+G,> G, G, z | 
+D,> D,G,2[M:3/4] | 
+G,> F, F,> F, F, z[M:2/4] | 
+D,> D, F,3/ D,/ | 
+D,> D, D, z | 
+D,> D, F,3/ D,/[M:3/4] | 
+D,> D, D, z D,3/ D,/[M:3/4] | 
+D,> D, D, zz2 |]  
+
+
+
+X: 45
+T: Hand Game Guessing Song (f)
+N: Derived from pawnee45.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: C clef=bass
+%%linebreak <none>
+C> B, B, z[M:3/4] | 
+(3C B, A, A,> E, A,3/ F,/ | 
+E,> E, E,> E,E,8[M:2/4] | 
+C> A, A, z[M:3/4] | 
+(3C B, A, A,> E, A,3/ F,/ | 
+E,> E, E,> E, E, z[M:2/4] | 
+F,> E, E, z[M:3/4] | 
+(3F, E, E, E,> E, E, z[M:2/4] | 
+F,> E, E, z[M:3/4] | 
+(3F, E, E, E,> E, E, z |]  
+
+
+
+X: 46
+T: Hand Game Guessing Song (g)
+N: Derived from pawnee46.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+C C/ !fermata!z/ [I:setbarnb 1]| 
+C C C C | 
+C A, A, G, | 
+F, F, F, z | 
+C, A, A, G, | 
+G, G, G, G, | 
+B, F, F, z | 
+D, D, D, D, | 
+F, D, D, C, | 
+C, C, C, C, | 
+z2G, G,/ !fermata!z/ | 
+G, G, G, G, | 
+G, F, F, z | 
+F, F, F, F, | 
+F,2 |]  
+
+
+
+X: 47
+T: I Hear the Sound of a Child Crying
+N: Derived from pawnee47.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: Db clef=treble
+%%linebreak <none>
+D D [I:setbarnb 1]| 
+(A> G) A A G D | 
+D2A,< A, D D | 
+(A> G) A A G D | 
+D2A,< A, A, D[M:2/4] | 
+D2D E[M:3/4] | 
+D2A,2A, D[M:2/4] | 
+D2D E[M:3/4] | 
+D2A,2B, D | 
+D2D2B, D | 
+D2D2 :|]  
+
+
+
+X: 48
+T: Hand Game Song Concerning a Little Boy
+N: Derived from pawnee48.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 3/4
+Q: 1/4=88
+K: E clef=treble
+%%linebreak <none>
+G [I:setbarnb 1]| 
+G(E// D//) z/G[M:2/4] | 
+G(E// D//) z/[M:3/4] | 
+F/ E/ E/ D/D[M:2/4] | 
+CC | 
+CG,[M:3/4] | 
+E/ E/ E/ D/D[M:2/4] | 
+CC[M:3/4] | 
+CG,
+
+
+
+X: 49
+T: You Came Near Finding Them
+N: Derived from pawnee49.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: Bb clef=treble
+%%linebreak <none>
+F> GF2 | 
+(3G F C (3C C C | 
+D> FE2 | 
+(3F C C (3B, B, B, | 
+B,> CB,2 | 
+(3C B, F, (3F, F, F, | 
+B,> CB,2 | 
+(3C C B, (3B, B, B, |]  
+
+
+
+X: 50
+T: The Crow
+N: Derived from pawnee50.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=treble
+%%linebreak <none>
+G2G2 | 
+F F F F | 
+F2D2 | 
+G2G2 | 
+F F F F | 
+F2D2 | 
+D2E2 | 
+D D D D | 
+D2A,2 | 
+D2E2 | 
+D D D D | 
+D2A,2 |]  
+
+
+
+X: 51
+T: Song Concerning Mother Moon
+N: Derived from pawnee51.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 3/4
+Q: 1/4=88
+K: F clef=treble
+%%linebreak <none>
+D [I:setbarnb 1]| 
+A>FF[M:2/4] | 
+FF[M:3/4] | 
+A>FF[M:2/4] | 
+FD | 
+F(F// E3//) | 
+(F/< D/)D[M:3/4] | 
+F(F/< E/) (F// D3//)[M:2/4] | 
+F/ D/ D/ D/[M:3/4] | 
+DDD[M:2/4] | 
+F/ D/ D/ D/ | 
+DD | 
+D :|]  
+
+
+
+X: 52
+T: Song Concerning an Open Grave
+N: Derived from pawnee52.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=treble
+%%linebreak <none>
+F2F2 | 
+D z C3/ A,/[M:3/4] | 
+D> C D> C D z[M:2/4] | 
+F2F2 | 
+D z C A,[M:3/4] | 
+D> C D> C D z[M:2/4] | 
+D2D2 | 
+D A, A, G,[M:3/4] | 
+A,2A,2A, z[M:2/4] | 
+D2D2 | 
+D A, A, G, | 
+A,2A,2A, z |]  
+
+
+
+X: 53
+T: Ghost Dance Song (a)
+N: Derived from pawnee53.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: G clef=bass
+%%linebreak <none>
+B, B, B, A, | 
+B, B, B, A, | 
+A, A, A, F, | 
+A, A, A, F, | 
+E, E, E, z | 
+A, A, A, F, | 
+A, A, A, F, | 
+E, E, E, z | 
+E, E, E, E, | 
+E, E, E, z | 
+B, B, B, A, | 
+B, B, B, B,[M:3/4] | 
+A,2B, B, B, z[M:2/4] | 
+A, A, A, F,[M:3/4] | 
+A, A, A, F, E, z[M:2/4] | 
+A, A, A, F, | 
+A, A, A, F, | 
+E, E, E, z | 
+E, E, E, E, | 
+E, E, E, z |]  
+
+
+
+X: 54
+T: Ghost Dance Song (b)
+N: Derived from pawnee54.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: Ab clef=bass
+%%linebreak <none>
+C C C/ z/ B, | 
+B, A, A, z | 
+C C C/ z/ B, | 
+B, A, A, z | 
+B, B, B,/ z/ B, | 
+B, A, A, z | 
+B, B, B,/ z/ B, | 
+B, A, A, z | 
+F, F, F,/ z/ F, | 
+F, F, F, z | 
+F, F, F,/ z/ F, | 
+F, F, F, z |]  
+
+
+
+X: 55
+T: Ghost Dance Song (c)
+N: Derived from pawnee55.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: G clef=bass
+%%linebreak <none>
+B, B, [I:setbarnb 1]| 
+B,2B, A, | 
+G, z B, B,[M:3/4] | 
+B,2B, A, G, z[M:2/4] | 
+B, G,G,2[M:3/4] | 
+E, E, E, E, E, z[M:2/4] | 
+B, G,G,2 | 
+E, E, E, E, | 
+E, z E, E, | 
+E,2E, E, | 
+E, z E, E, | 
+E,2E, E, | 
+E, z |]  
+
+
+
+X: 56
+T: Ghost Dance Song (d)
+N: Derived from pawnee56.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: G clef=bass
+%%linebreak <none>
+B,> B, B,> B, B, z | 
+B, B, B, B, B, z[M:2/4] | 
+B, G, G,3/ F,/ | 
+G,> F, G,3/ F,/ | 
+E,2E,3/ ^D,/ | 
+E,> ^D, E, z | 
+B, G, G,3/ F,/ | 
+G,> F, G,3/ F,/ | 
+E,2E,3/ ^D,/ | 
+E,> ^D, E, z[M:3/4] | 
+E,> E, E,> ^D, E, z | 
+E,> E, E,> ^D, E, z |]  
+
+
+
+X: 57
+T: The Yellow Start
+N: Derived from pawnee57.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: C clef=bass
+%%linebreak <none>
+A,> E (3E D D [I:setbarnb 2]| 
+C2C2 | 
+C> E (3E D D | 
+C2C2 | 
+C> C C3/ A,/[M:3/4] | 
+A,> B,A,2A,2[M:2/4] | 
+C> C C3/ A,/[M:3/4] | 
+A,> B,A,2A,2[M:2/4] | 
+A,> C (3C A, A, | 
+A,2A,2 | 
+A,> C (3C A, A, | 
+A,2A,2 | 
+A,> E (3(E D) E | 
+C2C2 | 
+C> E (3(E D) E | 
+C2C2 | 
+(3E C C (3E C C | 
+A,> A, B,3/ A,/ | 
+A,2A,2 | 
+(3E C C (3E C C | 
+A,> A, B,3/ A,/ | 
+A,2A,2 | 
+A,> D C3/ A,/[M:3/4] | 
+A,> A,A,2A,2[M:2/4] | 
+A,> D C3/ A,/[M:3/4] | 
+A,> A,A,2A,2 :|]  
+
+
+
+X: 58
+T: Running Scout's Ghost Dance Song
+N: Derived from pawnee58.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: F clef=treble
+%%linebreak <none>
+G G [I:setbarnb 1]| 
+A2A G[M:3/4] | 
+G2G2G G[M:2/4] | 
+A2A G[M:3/4] | 
+G2G2G A[M:2/4] | 
+(F> D) F D[M:3/4] | 
+D2D2G G[M:2/4] | 
+(F> D) F D[M:3/4] | 
+D2D2D D[M:2/4] | 
+D2E D[M:3/4] | 
+D2D2D D[M:2/4] | 
+D2E D[M:3/4] | 
+D2D2 :|]  
+
+
+
+X: 59
+T: Song Concerning the Ghost Dance
+N: Derived from pawnee59.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 3/4
+Q: 1/4=88
+K: C clef=bass
+%%linebreak <none>
+E [I:setbarnb 1]| 
+E8D4[M:4/4] | 
+E E (C> A,)C4A,4A,3 A,[M:3/4] | 
+E8D4 | 
+E E (C> A,)(C4A,4) | 
+(C A,) (E,> D,)(E,4D,4) | 
+E, D, (C,> A,,)(C,4A,,4) | 
+D, D, (C,> A,,) (C,2> A,,2) A,,3 A,, | 
+A,,8A,3 A, | 
+E4E4D4 | 
+E2 C2(C4A,4)[M:2/4] | 
+A,2 E,2 E,3 E, | 
+E,4D,4[M:3/4] | 
+E, E, (C,> A,,)(C,4A,,4) | 
+D, C, (C,> A,,) (C,2> A,,2) A,,3 A,, | 
+A,,4-A,7 :|]  
+
+
+
+X: 60
+T: I am Exalted Among the People
+N: Derived from pawnee60.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 2/4
+Q: 1/4=88
+K: E clef=bass
+%%linebreak <none>
+G [I:setbarnb 1]| 
+G2> F2 F3 E | 
+E2> E2 E3 F | 
+F2> E2 E3 E | 
+(E D2) B,2< B,2 B, | 
+A,2> F,2 F,3 E, | 
+E,2> E,2 E,3 B, | 
+A,2> F,2 F,3 E, | 
+E,2> E,2E,4 | 
+E,8 | 
+E,7 |]  
+
+
+
+X: 61
+T: The Heavens Are Speaking
+N: Derived from pawnee61.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 2/4
+Q: 1/4=88
+K: E clef=bass
+%%linebreak <none>
+G G, [I:setbarnb 1]| 
+G2> G2 G3 G | 
+(G F) E2- E2 G G | 
+F2> E2 E3 E | 
+(E C) B,2- B,2 C C | 
+B,2> B,2 G,3 G, | 
+(G, F,) E,2- E,2 B, B, | 
+A,6A,2 | 
+F,4C,2 A, A,[M:3/4] | 
+F,2> F,2E,4E, E,3 | 
+E,12 | 
+E,8z2 |]  
+
+
+
+X: 62
+T: O Expanse of the Heavens
+N: Derived from pawnee62.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 2/4
+Q: 1/4=88
+K: F clef=bass
+%%linebreak <none>
+F/ [I:setbarnb 1]| 
+F3/F/ | 
+F3/D/ | 
+C3/C/ | 
+C3/C/ | 
+=B,3/D/ | 
+C3/D/ | 
+C3/A,/ | 
+F,3/F,/ | 
+F,3/F,/ | 
+F,3/C/ | 
+A,3/C/ | 
+F,3/A,/ | 
+F,3/F,/ | 
+F,3/A,/ | 
+F,3/F,/ | 
+F,2 | 
+F,2- | 
+F,2 | 
+F,2 | 
+F,3/ :|]  
+
+
+
+X: 63
+T: Power is in the Heaven
+N: Derived from pawnee63.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: C clef=bass
+%%linebreak <none>
+F2 [I:setbarnb 1]| 
+D2D C D D | 
+D2D2F2 | 
+D2D C D D | 
+A,2A,2A,2 | 
+G,2A,< F, F,/ D,3/ | 
+D,2D,2A,2 | 
+F,2F, D, D, D, | 
+D,2D,3D, | 
+D,6 | 
+D,4 |]  
+
+
+
+X: 64
+T: Our Hearts Are Set in the Heavens
+N: Derived from pawnee64.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: Eb clef=treble
+%%linebreak <none>
+e2 [I:setbarnb 1]| 
+B2(3(B G G) (G3/ ^F/) | 
+G2G2B2 | 
+G2(3(G ^F F) (G3/ E/) | 
+E2E2E2 | 
+D2(E< B,) (B,/ G,3/) | 
+G,2G,2E2 | 
+B,2(3(B, G, G,) | 
+(B,3/ G,/) | 
+G,2G,3G, | 
+G,6 | 
+G,4 :|]  
+
+
+
+X: 65
+T: Man Chief's Song
+N: Derived from pawnee65.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 2/4
+Q: 1/4=88
+K: Eb clef=bass
+%%linebreak <none>
+G2 [I:setbarnb 1]| 
+G2> (G2F4)[M:3/4] | 
+G D D2 D2> D2 D3 F[M:2/4] | 
+E2> F2E4[M:3/4] | 
+E G, G,2 G,2> G,2 G,3 D | 
+C2> G,2 G,2> G,2 G,3 C[M:2/4] | 
+G,2> G,2G,4 | 
+G,8 | 
+G,6 :|]  
+
+
+
+X: 66
+T: It Is Good Where We Are Now
+N: Derived from pawnee66.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: D clef=treble
+%%linebreak <none>
+d3/ c/ [I:setbarnb 1]| 
+d2c c (B3/ ^A/) | 
+(!fermata!B> F)F2d3/ c/ | 
+d2c c (B3/ ^A/) | 
+B4(B3/ ^A/) | 
+B2F F (D3/ C/) | 
+D2C CB,2[M:2/4] | 
+B,2B,2[M:3/4] | 
+F,< F,-F,2F, F,[M:2/4] | 
+F,3B[M:3/4] | 
+B2B2B3/ c/ | 
+B2(B3F/) F/ | 
+(d c2<)(d2c/) c/[M:2/4] | 
+B2B2- | 
+B2B3/ B/[M:3/4] | 
+B2F F D3/ C/ | 
+D2C CB,2[M:2/4] | 
+B,2B,2[M:3/4] | 
+F,< F,-F,2F, F, | 
+F,4 :|]  
+
+
+
+X: 67
+T: My Trust is in Mother Corn
+N: Derived from pawnee67.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: Eb clef=bass
+%%linebreak <none>
+G/ [I:setbarnb 1]| 
+c> c c/ G/ A/ G/ | 
+F F- F !fermata!E | 
+F2-F =A/ G/ | 
+F F- F !fermata!E | 
+F> F F/ E/ F/ E/ | 
+C C- C !fermata!G, | 
+C CC2 | 
+G,< G, G, G, | 
+G,7/ :|]  
+
+
+
+X: 68
+T: Song of Affection (a)
+N: Derived from pawnee68.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: E clef=bass
+%%linebreak <none>
+G G F z[M:3/4] [I:setbarnb 2]| 
+G FE2E3/ F/ | 
+E2E7/F/[M:2/4] | 
+E4- | 
+E4 | 
+G FE2 | 
+G CB,2[M:3/4] | 
+B,2B,> B, B, A, | 
+B, B, A, A, A, F,[M:2/4] | 
+E,2A, A, | 
+F,2F, F, | 
+E,2E,3/ F,/ | 
+E,3F, | 
+E,4-[M:3/4] | 
+E,2E,2E,3/ F,/[M:2/4] | 
+E,4 :|]  
+
+
+
+X: 69
+T: Song of Affection (b)
+N: Derived from pawnee69.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: Bb clef=bass
+%%linebreak <none>
+F F F D C3/ F/ | 
+(3F D CC2C2 | 
+F F F D C3/ F/ | 
+(3F D CC2C2 | 
+B, B, B, G, F,3/ B,/ | 
+(3B, G, F,F,2F,2 | 
+C C C CB,2 | 
+C C C C B,3/ B,/ | 
+(3B, G, F,F,2F,2 | 
+B, B, B, G, F,3/ B,/ | 
+(3B, G, F,F,2F,2 | 
+D, D, D, C, B,,3/ D,/ | 
+(3D, C, B,,B,,2B,,2 | 
+F, F, F, F,E,2 | 
+F, F, F, F, E,3/ E,/ | 
+(3E, C, B,,B,,2B,,2 | 
+F, F, F, D, C,3/ F,/ | 
+(3F, D, C,C,2C,2 | 
+B,, B,, B,, G,, F,,3/ B,,/ | 
+(3B,, G,, F,,F,,2F,,2 | 
+C, C, C, C,B,,2 | 
+C, C, C, C, B,,3/ B,,/ | 
+(3B,, G,, F,,F,,2F,,2 | 
+B,, B,, B,, G, F,,3/ B,,/ | 
+(3B,, G,, F,,F,,2F,,2 |]  
+
+
+
+X: 70
+T: Song of a Warrior's Wife
+N: Derived from pawnee70.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 7/8
+Q: 1/4=88
+K: D clef=treble
+%%linebreak <none>
+A [I:setbarnb 1]| 
+A2> A2 !tenuto!c B4<<A4A ]|:  
+E2> E2 F E4<<D4A,[M:2/4] [I:setbarnb 3]| 
+A,2> A,2 D3 D[M:7/8] | 
+E2> E2 F E E,2 B, A, B, A, B, A,[M:3/4] | 
+A,4>A,4A,4[M:2/4] | 
+A,7E | 
+A,4z2 |]  
+
+
+
+X: 71
+T: Other Girls Are as Pretty as She
+N: Derived from pawnee71.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: Bb clef=treble
+%%linebreak <none>
+B< B B/ B3/ | 
+B< F F/ F3/ | 
+B4 | 
+B< F F/ E3/ | 
+F< C B,/ B,3/ | 
+C3B, | 
+C2B, B, | 
+B,4 | 
+B,2!fermata!z2 | 
+B F F E | 
+F C C B,3// B,// | 
+C> C C3/ C/ | 
+B, B,-B,2- | 
+B,2B, !fermata!z[M:3/4] | 
+B,4B,2 :|]  
+
+
+
+X: 72
+T: Folk Tale Song (a)
+N: Derived from pawnee72.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 2/4
+Q: 1/4=88
+K: E clef=bass
+%%linebreak <none>
+EB,// B,3// | 
+E2 | 
+EB, | 
+B,2 | 
+EB,// B,3// | 
+E2 | 
+E2 | 
+E2 | 
+E/> B,/B, | 
+C/ B,/A, | 
+A,2 | 
+E,E, | 
+E,2 | 
+E/ B,/B,[M:3/4] | 
+B,EB,/ A,/[M:2/4] | 
+G,/ G,/G, | 
+G,2 | 
+E,E, | 
+E,2 | 
+EB,// B,3// | 
+E2 | 
+EB,2 | 
+B,2 | 
+EB,// B,3// | 
+E2 | 
+EB, | 
+B,2 | 
+B,/ B,/B, | 
+G,G, | 
+E,E, | 
+E,2 |]  
+
+
+
+X: 73
+T: Falk Tale Song (b)
+N: Derived from pawnee73.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/4
+M: 2/4
+Q: 1/4=88
+K: Bb clef=bass
+%%linebreak <none>
+B,B, | 
+FF[M:3/4] | 
+E/ D/ C/ B,/-B,[M:2/4] | 
+B,B, | 
+CC[M:3/4] | 
+B,/ A,/ G,/ F,/-F,[M:2/4] | 
+B,B, | 
+CC[M:3/4] | 
+B,/ A,/ G,/ F,/-F,[M:2/4] | 
+B,B,CC[M:3/4] | 
+B,/ A,/ G,/ F,/-F, |]  
+
+
+
+X: 74
+T: Song of Coyote
+N: Derived from pawnee74.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: G clef=bass
+%%linebreak <none>
+E2D2 | 
+E2D2 | 
+B, A,A,2 | 
+A,2A,2[M:3/4] | 
+A, A, G, G,A,2[M:2/4] | 
+A, A, G, G, | 
+G2G2 |]  
+
+
+
+X: 75
+T: Song of the Strange Little Boy
+N: Derived from pawnee75.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: C clef=bass
+%%linebreak <none>
+D [I:setbarnb 1]| 
+D> D D3/ D/ | 
+E D E D | 
+E DD2 | 
+D C C3/ C/ | 
+C G, G,3/ C/ | 
+C G, G, |]  
+
+
+
+X: 76
+T: Song as the Boys Flew Away
+N: Derived from pawnee76.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: C clef=treble
+%%linebreak <none>
+E/ [I:setbarnb 1]| 
+E> E E3/ E/ | 
+E D C C | 
+!fermata!A,> A, A,3/ A,/ | 
+!fermata!A,> A, A,3/ E/ | 
+E> E E3/ E/ | 
+E D C C | 
+!fermata!A,> A, A,3/ A,/ | 
+!fermata!A,> A, A,3/ |]  
+
+
+
+X: 77
+T: The Little Rattlesnake
+N: Derived from pawnee77.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 5/8
+Q: 1/4=88
+K: E clef=treble
+%%linebreak <none>
+C [I:setbarnb 1]| 
+G G G G G[M:3/8] | 
+G F E | 
+F2E[M:4/8] | 
+C2>C2[M:3/8] F F F | 
+F E E[M:4/8] | 
+F2E C[M:3/8] | 
+C3[M:4/8] | 
+F2E C[M:3/8] | 
+C3 | 
+C2C[M:4/8] | 
+CC2 :|]  
+
+
+
+X: 78
+T: You Need Not Fear the Horse
+N: Derived from pawnee78.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: A clef=treble
+%%linebreak <none>
+F F [I:setbarnb 1]| 
+A2(A F) A A | 
+A4(3A A A | 
+F2F3F | 
+F4F F | 
+A2(A F) A A | 
+(F4-F3/ C/) | 
+C CC2A,2 | 
+A, A,A,2!fermata!G,2 | 
+F,4F, F, | 
+A,2(A, G,) A, A, | 
+F,2>A,2A,2 | 
+F, A,/ F,/F,3F,/ F,3/ | 
+F,4 |]  
+
+
+
+X: 79
+T: A Poor Man's Prayer
+N: Derived from pawnee79.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: G clef=bass
+%%linebreak <none>
+G G G> F G D [I:setbarnb 2]| 
+D D E> D D B, | 
+D D E> D B, G, | 
+B, B, G, G, G, G,/ G,/[M:2/4] | 
+G,4[M:3/4] | 
+G,6- | 
+G,6[M:2/4] | 
+G, D D D | 
+F< D D3/ B,/ | 
+D2B,2[M:3/4] | 
+D D E> D B, G, | 
+B, B, G, G, G, G, | 
+G,6 | 
+G, G, !tenuto!A,> G, G, D, | 
+D, D, E,> D, D, B,, | 
+D, D, E,> D, D, B,, | 
+D, D, E,> D, B,, G,, | 
+B,, B,, G,, G,, G,, G,, | 
+G,,6[M:2/4] | 
+G,4- | 
+G,4 :|]  
+
+
+
+X: 80
+T: Everything Will Be Right
+N: Derived from pawnee80.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: C clef=treble
+%%linebreak <none>
+C4- | 
+C2C2 | 
+c cc2[M:3/4] | 
+G6 | 
+c2c GF2[M:2/4] | 
+(3D D D C C[M:3/4] | 
+D4D z | 
+F2F2(3D D C[M:2/4] | 
+D2(3C C C[M:3/4] | 
+C6- | 
+C6- | 
+C6- | 
+C2C4[M:2/4] | 
+C3C[M:3/4] | 
+C2C4 | 
+G6 | 
+A2A GF2 | 
+D4(3C C C | 
+D4D z | 
+F2F2(3D D C[M:2/4] | 
+(3D D C (3C C C[M:3/4] | 
+C6 | 
+C2C2(3C C C | 
+G,6 | 
+G,2G,2(3G, G, G, | 
+G,6 |]  
+
+
+
+X: 81
+T: The Message of a Star
+N: Derived from pawnee81.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 2/4
+Q: 1/4=88
+K: Eb clef=bass
+%%linebreak <none>
+E2> E2 E2 E3/ C/ | 
+E4B,4 | 
+E2> E2 E2 E3/ C/ | 
+E4B,4 | 
+E2 B, B, E2 B, B,[M:3/4] | 
+E2 B, B,2< G,2 G, G,2 G,2 | 
+(3E2 B,2> G,2 B,2> E,2E,4[M:2/4] | 
+G,2> G,2 (3B,2 G,2 E,2 | 
+E,6E,2[M:3/4] | 
+E,4E,8 | 
+E B, B, B,G,4G,4[M:2/4] | 
+E B, B, B,G,4[M:3/4] | 
+B, G, G, G,E,4E,2 E,2 | 
+G,2 G,2 B,2< G,2 E,3 E,[M:2/4] | 
+E,8 | 
+E,8 |]  
+
+
+
+X: 82
+T: Song to Comfort a Child's Grief
+N: Derived from pawnee82.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/16
+M: 2/4
+Q: 1/4=88
+K: D clef=bass
+%%linebreak <none>
+F [I:setbarnb 1]| 
+F2> E2 E3 D | 
+D2> D2D6E | 
+E2> D2 D3 D | 
+D2> A,2 A,3 A, | 
+!tenuto!A,2> A,2 F,2 D,2 | 
+D,2> D,2 D,3 A, | 
+A,2> A,2F,4[M:3/4] | 
+D,2< D,2 D,2 (3D, D, D,D,4[M:2/4] | 
+D,8 | 
+D,7 :|]  
+
+
+
+X: 83
+T: Mother's Song for a Dead Baby
+N: Derived from pawnee83.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: D clef=treble
+%%linebreak <none>
+A [I:setbarnb 1]| 
+A> BA3A ]|:  
+E> FD3A, [I:setbarnb 3]| 
+A,> DD3F[M:2/4] | 
+E> D E/ E/ D/ B,/[M:3/4] | 
+A,4A,2[M:2/4] | 
+A,3E[M:2/4] | 
+A,4 |]  
+
+
+
+X: 84
+T: Song Received from a Dead Relative
+N: Derived from pawnee84.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: Eb clef=bass
+%%linebreak <none>
+F2F3/ _E/ | 
+_E2E3/ G/ | 
+F2F3/ _E/ | 
+_E> F D3/ F/ | 
+_B,2B,3/ B,/ | 
+_B,2B,3/ _E/ | 
+C2C3/ C/ | 
+_B,2B,3/ _E/ | 
+G,2G,3/ _E,/ | 
+_E,2E,3/ _B,/ | 
+G,2G,3/ G,/ | 
+F, G, _E,3/ G,/ | 
+_B,,2B,,3/ B,,/ | 
+_B,,2B,,3/ _E,/ | 
+_E,2E,3/ _B,,/ | 
+_B,,2B,,3/ B,,/ | 
+_B,,7/ |]  
+
+
+
+X: 85
+T: Father Gave Me a Pipe
+N: Derived from pawnee85.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 3/4
+Q: 1/4=88
+K: F clef=treble
+%%linebreak <none>
+A2 [I:setbarnb 1]| 
+F2(F E) (F E) | 
+D2D2(F D) | 
+D2D2(D A,) | 
+A,2A,2(F E) | 
+D2D2(D A,) | 
+A,2A,2A2 | 
+F2(F E) F E | 
+D2D2F E | 
+D2D2(D A,) | 
+A,2A,2(F E) | 
+D2D2(D A,) | 
+A,2A,2(F E) | 
+D2D2(D A,) | 
+A,2A,2 :|]  
+
+
+
+X: 86
+T: Mad Chief Mourns for His Grandson
+N: Derived from pawnee86.krn
+O: Oklahoma, U.S.A.
+N: from Pawnee Music by Frances Densmore, 1926
+Z: transcribed to **kern format by David Huron, August 2000
+C: Skidi and Chaui Bands, 1919
+L: 1/8
+M: 2/4
+Q: 1/4=88
+K: D clef=treble
+%%linebreak <none>
+B,3C | 
+B,7/B,/ | 
+F> F F3/ F/ | 
+(D/ B,/) B,B,2 | 
+(C/ B,/) B, B, B,[M:3/4] | 
+(C/ B,/) B,2<-B,2C | 
+B,4-B,3/ F/[M:2/4] | 
+D> D D3/ D/ | 
+C2(D/ B,/) B, | 
+B,> B, F,3/ F,/[M:3/4] | 
+(D/ B,/) B, (B,/ F,/) B,!fermata!B,2[M:2/4] | 
+B,3C[M:3/4] | 
+B,4-B, C | 
+B,> CB,7/ :|]  
